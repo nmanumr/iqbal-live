@@ -7,16 +7,18 @@ import Home from "./pages/Home.tsx";
 import Book from "./pages/Book.tsx";
 import Poem from "./pages/Poem.tsx";
 
+const baseURL = import.meta.env.VITE_BASE_URL;
+
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Home/>,
-    loader: () => fetch("/index.json").then((r) => r.json()),
+    loader: () => fetch(`/${baseURL}/index.json`).then((r) => r.json()),
   },
   {
     path: "/:bookId",
     element: <Book/>,
-    loader: ({params}) => fetch("/index.json")
+    loader: ({params}) => fetch(`/${baseURL}/index.json`)
       .then((r) => r.json())
       .then((books) => books.find((b: any) => b.id == params.bookId)),
   },
@@ -24,7 +26,7 @@ const router = createBrowserRouter([
     path: "/:bookId/:sectionId/:poemId",
     element: <Poem/>,
     loader: ({params: {bookId, sectionId, poemId}}) =>
-      fetch(`/content/${bookId}/${sectionId}/${poemId}/${poemId}.xml`)
+      fetch(`/${baseURL}/content/${bookId}/${sectionId}/${poemId}/${poemId}.xml`)
         .then((response) => response.text())
         .then((text) => {
           const parser = new DOMParser();

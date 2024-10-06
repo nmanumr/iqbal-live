@@ -15,6 +15,9 @@ permissions:
   pages: write
   id-token: write
 
+env:
+  VITE_BASE_URL: ${{ github.event.repository.name }}
+
 # Allow one concurrent deployment
 concurrency:
   group: 'pages'
