@@ -56,7 +56,7 @@ function Stanza({para}: { para: Element }) {
         )?.textContent
 
         return (
-          <div className="py-10 space-y-4 px-4 w-[42rem] border-b border-black/10" key={couplet.getAttribute('ID')}>
+          <div className="py-10 space-y-4 px-4 max-w-2xl w-full border-b border-black/10" key={couplet.getAttribute('ID')}>
             <div className="">
               {originalText?.map((verse) => (
                 <div className="flex justify-center">
