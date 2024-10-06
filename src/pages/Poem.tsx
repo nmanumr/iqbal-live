@@ -35,27 +35,31 @@ function Verses({poem}: { poem: Element }) {
     <div className="flex flex-col items-center justify-center @container">
       {Array.from(poem?.children ?? []).map((para) => (
         // <SizeProvider>
-        <div className="leading-[2.2] text-xl font-nastaliq para @5xl:grid py-4 gap-x-10" dir="rtl">
-          {Array.from(para?.children ?? []).map((verse) => {
-            const originalTextNode = Array.from(verse.children ?? []).find(
-              (node) => node.getAttribute("Language") === "Original"
-            );
-            const originalText = originalTextNode?.textContent;
-            const verses = originalText?.split("\n");
+        <div className="leading-[2.2] text-xl font-nastaliq para @3xl:grid py-4 gap-x-10" dir="rtl">
+          {para.getAttribute('Name') && <div className="text-2xl mb-4 text-start">{para.getAttribute('Name')}</div>}
 
-            return (
-              <>
-                {verses
-                  ?.map((v) => v.trim())
-                  ?.filter(Boolean)
-                  ?.map((ver) => (
-                    <div className="even:mb-2 flex justify-center">
-                      <Verse content={ver}/>
-                    </div>
-                  ))}
-              </>
-            );
-          })}
+          <div>
+            {Array.from(para?.children ?? []).map((verse) => {
+              const originalTextNode = Array.from(verse.children ?? []).find(
+                (node) => node.getAttribute("Language") === "Original"
+              );
+              const originalText = originalTextNode?.textContent;
+              const verses = originalText?.split("\n");
+
+              return (
+                <>
+                  {verses
+                    ?.map((v) => v.trim())
+                    ?.filter(Boolean)
+                    ?.map((ver) => (
+                      <div className="even:mb-2 flex justify-center">
+                        <Verse content={ver}/>
+                      </div>
+                    ))}
+                </>
+              );
+            })}
+          </div>
         </div>
         // </SizeProvider>
       ))}
