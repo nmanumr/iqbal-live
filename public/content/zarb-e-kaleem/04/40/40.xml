@@ -1,0 +1,20 @@
+<Poem ID="40" Name="شعر" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        میں شعر کے اسرار سے محرم نہیں لیکن 
+یہ نکتہ ہے، تاریخ امم جس کی ہے تفصیل 
+وہ شعر کہ پیغام حیات ابدی ہے 
+یا نغمہ جبریل ہے یا بانگ سرافیل
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        VERSE
+The secrets that are hid in verse to judge their worth I always fail, though nnals of the nations past relate this point with much detail.
+The verse that conveys to man the views of lire that shall e'er last is either song by Gabriel sung, or blare of Sarafil'strumpet blast.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

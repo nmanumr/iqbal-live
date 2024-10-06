@@ -1,0 +1,67 @@
+<Poem ID="23" Name="انتداب" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        کہاں فرشتہ تہذیب کی ضرورت ہے 
+نہیں زمانہ حاضر کو اس میں دشواری
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        TUTELAGE
+It is not hard to find in present age the place which needs culture's angelic sage.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        جہاں قمار نہیں، زن تنک لباس نہیں 
+جہاں حرام بتاتے ہیں شغل مے خواری
+      </Text>
+      <Text Language="Urdu">
+        تنک لباس: کم لباس ، نیم عریاں۔
+      </Text>
+      <Text Language="English">
+        Where dice and drink are both by law forbid, and women keep their bodies fully hide.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        بدن میں گرچہ ہے اک روح ناشکیب و عمیق 
+طریقہ اب و جد سے نہیں ہے بیزاری
+      </Text>
+      <Text Language="Urdu">
+        ناشکيب و عميق: بے صبر اور گہری۔ 
+اب و جد: باپ دادا۔
+      </Text>
+      <Text Language="English">
+        Although my body has a deep restless heart, yet forbears' wont no disgust can impart.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        جسور و زیرک و پردم ہے بچہ بدوی 
+نہیں ہے فیض مکاتب کا چشمہ جاری
+      </Text>
+      <Text Language="Urdu">
+        جسور: بہادر۔ 
+بچہ بدوي: عرب کے بدو کا بیٹا۔
+      </Text>
+      <Text Language="English">
+        Although deprived of School's beneficial fount on Bedouin’s wit and courage we can count.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        نظروران فرنگی کا ہے یہی فتوی 
+وہ سرزمیں مدنیت سے ہے ابھی عاری
+      </Text>
+      <Text Language="Urdu">
+        نظروران: دانشمند۔
+      </Text>
+      <Text Language="English">
+        The wise 'mong Franks this verdict declare of culture Arab lands are fully bare. 
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

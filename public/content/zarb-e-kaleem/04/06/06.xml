@@ -1,0 +1,20 @@
+<Poem ID="06" Name="ادبیات" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        عشق اب پیروی عقل خدا داد کرے 
+آبرو کوچہ جاناں میں نہ برباد کرے 
+کہنہ پیکر میں نئی روح کو آباد کرے 
+یا کہن روح کو تقلید سے آزاد کرے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        LITERATURE
+Now Love from mind must take the lead, by God bestowed on human race to dear one's lane it must not go and bring with haste on head disgrace.
+Love must infuse new soul in old poetic moulds and change their course, or break the chains of antique soul, set it free from mimetic force.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

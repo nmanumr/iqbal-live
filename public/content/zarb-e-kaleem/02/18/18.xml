@@ -1,0 +1,55 @@
+<Poem ID="18" Name="مرگ خودی" BookID="03" BookName="ضربِ کلیم" SectionID="02" SectionName="تعلیم و تربیت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        خودی کی موت سے مغرب کا اندروں بے نور 
+خودی کی موت سے مشرق ہے مبتلائے جذام
+      </Text>
+      <Text Language="Urdu">
+        جذام: کوڑھ کی بیماری ۔
+      </Text>
+      <Text Language="English">
+        DEATH OF THE EGO
+Devoid the West of inner light, her soul is struck with deadly blight: the loss of Self has made the East a leper, for germs befitting feast.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        خودی کی موت سے روح عرب ہے بے تب و تاب
+بدن عراق و عجم کا ہے بے عروق و عظام
+      </Text>
+      <Text Language="Urdu">
+        عروق: عرق کی جمع ، یعنی رنگین۔ 
+عظام: عزم کی جمع، یعنی ہڈیاں۔
+      </Text>
+      <Text Language="English">
+        The Arabs have lost their former zeal, their souls are shrunk, they can not feel: Iraq and Persia are bereft of bones and veins and naught is left.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        خودی کی موت سے ہندی شکستہ بالوں پر 
+قفس ہوا ہے حلال اور آشیانہ حرام!
+      </Text>
+      <Text Language="Urdu">
+        شکستہ بالوں: ٹوٹے پروں والا۔
+      </Text>
+      <Text Language="English">
+        The Self of Indians is extinct, by pinions cleft is made distinct for they are pleased with prison life, to break the bars they wage no strife.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        خودی کی موت سے پیر حرم ہوا مجبور 
+کہ بیچ کھائے مسلماں کا جام ہ احرام!
+      </Text>
+      <Text Language="Urdu">
+        جامہ احرام : حاجیوں کے ان سلے کپڑے۔
+      </Text>
+      <Text Language="English">
+        Demise of Self has made divine, who keeps a watch on Holy Shrine, to sell the robes that pilgrims don, on sale proceeds he lives upon.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

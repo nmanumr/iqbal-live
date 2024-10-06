@@ -1,0 +1,21 @@
+<Poem ID="66" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        مپرس از عشق و از نیرنگی عشق
+بہر رنگی کہ خواہی سر بر آرد
+درون سینہ بیش از نقطہ ئی نیست
+چو آید بر زبان پایان ندارد
+      </Text>
+      <Text Language="Urdu">
+        عشق اور اس کے طلسم کی بات کر ؛ تو جو رنگ چاہے وہ اسی کو اختیار کر سکتا ہے۔ 
+سینے کے اندر ہو تو یہ ایک نقطے سے زیادہ نہیں؛ زبا ن پر آئے تو اس کی کوئی حد نہیں۔
+      </Text>
+      <Text Language="English">
+        Speak not of Love, and of Love’s wizardry: Whatever shape thou wilt, he doth descend:
+Within the breast he is a spark, no more, but on the tongue a tale without an end.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

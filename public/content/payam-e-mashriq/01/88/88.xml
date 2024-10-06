@@ -1,0 +1,21 @@
+<Poem ID="88" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        کسی کو درد پنھانی ندارد
+تنی دارد ولی جانی ندارد
+اگر جانی ہوس داری طلب کن
+تب و تابی کہ پایانے ندارد
+      </Text>
+      <Text Language="Urdu">
+        ہر شخص (عشق کا) درد پنہاں نہیں رکھتا، اس کا بدن تو ہے ، مگر اس میں جان نہیں۔
+اگر تو جان کی خواہش رکھتا ہے تو ایسی تب و تاب طلب کر جس کی انتہا نہیں۔
+      </Text>
+      <Text Language="English">
+        One who has been blessed with no secret grief may have a body, but has not a soul. 
+If you desire to have a soul, then seek a fever of the heart that will not cool. 
+[Translated by M Hadi Hussain]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

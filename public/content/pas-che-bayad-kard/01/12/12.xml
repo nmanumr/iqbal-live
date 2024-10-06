@@ -1,0 +1,487 @@
+<Poem ID="12" Name="حرفی چند با امت عربیہ" BookID="10" BookName="پس چہ بائد کرد" SectionID="01" SectionName="پس چہ بائد کرد">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        اے در و دشت تو باقی تا ابد
+نعرہ ’’لا قیصر و کسری‘‘ کہ زد
+      </Text>
+      <Text Language="Urdu">
+        عرب قوم سے چند باتیں
+اے وہ قوم جس کے در و دشت ہمیشہ کے لیے باقی ہیں، 'قیصر و کسری ختم ہونے ' کا نعرہ کس نے لگایا تھا ؟
+      </Text>
+      <Text Language="English">
+        May your land prosper till eternity! Who raised the cry: no Caesars and Chosroes?
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Persian">
+        در جہان نزد و دور و دیر و زود
+اولین خوانندۂ قرآن کہ بود
+      </Text>
+      <Text Language="Urdu">
+        زمان و مکان کی اس دنیا میں سب سے پہلے قرآن پاک کی تلاوت کرنے والے کون تھے۔
+      </Text>
+      <Text Language="English">
+        In this world of near and far, fast and slow, who was the first to read the Qur’an?
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Persian">
+        رمز الا اﷲ کہ را آموختند
+این چراغ اول کجا افروختند
+      </Text>
+      <Text Language="Urdu">
+        'لااللہ ' کی رمز کسے سکھائی گئی تھی؟ یہ چراغ پہلے پہل کہاں روشن کیا گیا تھا ؟
+      </Text>
+      <Text Language="English">
+        Who was taught the secret of la ilah? Where was this lamp (of knowledge) lighted?
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Persian">
+        علم و حکمت ریزہ ئی از خوان کیست؟
+آیہ ’’فاصبحتم‘‘ اندر شأن کیست؟
+      </Text>
+      <Text Language="Urdu">
+        علم و حکمت کس کے دسترخوان کا ریزہ ہے؟ یہ آیت کہ 'تم ان کی نعمت سے بھائی بھائی بن گئے ' کس کی شان میں نازل ہوئی؟
+      </Text>
+      <Text Language="English">
+        From whom did the world gain knowledge? For whom is the (Qur’anic) verse revealed: ‘You became? 
+(Iqbal says that modern knowledge of sciences and arts is the legacy which Europe received from the Muslim world. ‘You became’. Reference is to the Qur’anic verse, 3-102: And remember Allah’s favour to you when you were enemies; then He united your hearts, so by His favour you became brethren.)
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Persian">
+        از دم سیراب آن امی لقب
+لالہ رست از ریگ صحرای عرب
+      </Text>
+      <Text Language="Urdu">
+        اس امّی لقب (صلعم) کی زندگی بخش پھونک سے صحراۓ عرب کس اندر سے گل لالہ پیدا ہوا۔
+      </Text>
+      <Text Language="English">
+        It was due to the bounty of the one called Ummi; that tulips grew out of the sandy desert of Arabia.
+(Ummi: Usually it is translated as one who cannot read and write. According to some, it is the Arabic equivalent of the word ‘Gentile’ which the Israelites used to designate all non-Jews. ‘Talip’ lalah: Iqbal often employs this word, particularly lalah-i sehra, to denote Muslim Community.)
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Persian">
+        حریت پروردۂ آغوش اوست
+یعنی امروز امم از دوش اوست
+      </Text>
+      <Text Language="Urdu">
+        آپ (صلعم) کی آغوش میں آزادی نے پرورش پائی، امّتوں کا آج آنحضرت (صلعم) کے دور گذشتہ کا مرہون منت ہے۔
+      </Text>
+      <Text Language="English">
+        Freedom (as a concept) developed under his care, that is, the ‘today’ of the peoples is from his ‘yesterday’.
+(The concept of freedom (hurriyat) that is looked upon as a contribution of Western thought was in reality given a concrete shape at the hands of the Prophet (S.A.W.). In Asrar-o Rumuz, Allamah says: Freedom was born out of his holy heart; his vineyard flowed with that delightful wine. The world’s new age, its hundred lamps ablaze; opened its eyes upon his loving breast.)
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Persian">
+        او دلی در پیکر آدم نہاد
+او نقاب از طلعت آدم گشاد
+      </Text>
+      <Text Language="Urdu">
+        آپ (صلعم) نے آدم کے جسد خاکی میں دل رکھا۔ آپ (صلعم) نے آدم کے چراغ روشن سے نقاب اٹھائی
+      </Text>
+      <Text Language="English">
+        He put a ‘heart’ into the body of Adam and removed the veil from his face.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Persian">
+        ہر خداوند کہن را او شکست
+ہر کہن شاخ از نم او غنچہ بست
+      </Text>
+      <Text Language="Urdu">
+        آپ (صلعم) نے ہر پرانے خدا کا (بت) توڑ ڈالا۔ آپ (صلعم) کے نم سے ہر پرانی شاخ میں غنچے آ گئے۔
+      </Text>
+      <Text Language="English">
+        He broke all the ancient gods; every old twig, through his breath, grew a flower.
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Persian">
+        گرمی ہنگامۂ بدر و حنین
+حیدر و صدیق و فاروق و حسین
+      </Text>
+      <Text Language="Urdu">
+        حضور (صلعم) ہی کے دم قدم سے) بدر و حنین کا ہنگامہ ظہور میں آیا ۔ (آپ (صلعم) ہی کی تربیت سے) حیدر، صدیق ، فاروق اور حسین (رضی اللہ عنہم) جیسی شخصیتیں پیدا ہوئیں۔
+      </Text>
+      <Text Language="English">
+        The excitement of the battles of Badr and Hunain,	Haidar, Siddiq, Faruq and Husain.
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Persian">
+        سطوت بانگ صلوت اندر نبرد
+قرأت ’’الصافات‘‘ اندر نبرد
+      </Text>
+      <Text Language="Urdu">
+        جنگ میں آپ (صلعم) کا انداز تکبیر صلوت کی سطوت اور سورہ الصفّات (جس میں نمازیوں کی صف بندی اور یلغار کا ڈکر ہے) کی قراء ت کا مظہر تھا۔
+      </Text>
+      <Text Language="English">
+        The grandeur of the call to prayer, the recitation of the Qur’anic Surat al-Saffat, in the battlefield.
+(The Surat al-Saffat (27): ‘Those raging in ranks’, refers to the position of the believers while saying prayers during battle.)
+      </Text>
+    </Verse>
+    <Verse ID="21">
+      <Text Language="Persian">
+        تیغ ایوبے نگاہ بایزید
+گنجہای ھر دو عالم را کلید
+      </Text>
+      <Text Language="Urdu">
+        تیغ ایوبی ہو یا نگاہ بایزید جو دونوں جہانوں کی کنجیاں ہیں۔
+      </Text>
+      <Text Language="English">
+        The sword of Ayyubi and the look of Bayazid, the keys to the treasures of both the worlds.
+(Ayyubi, i.e. Salahuddin Ayyubi, the hero of the Crusades. Iqbal sometimes employs his name as a model Muslim ruler. Bayazid refers to the famous sufi, Bayazid Bistami It is the basic contention of Iqbal that the sword of Ayyubi and spiritual insight of Bayazid should be present in a single person. The idea of bifurcation of State and Church is foreign to the spirit of Islam. The term Faqr, in Iqbal, represents this integrative characteristic.)
+      </Text>
+    </Verse>
+    <Verse ID="23">
+      <Text Language="Persian">
+        عقل و دل را مستی از یک جام می
+اختلاط ذکر و فکر روم و ری
+      </Text>
+      <Text Language="Urdu">
+        ایک جام مے سے عقل و دل دونوں کو سرمست کر دینا، روم و رے کے ذکر و فکر کا اختلاط۔
+      </Text>
+      <Text Language="English">
+        Reason and heart intoxicated with one cup of wine, a mixture of dhikr and fikr of Rum and Rayy.
+(Rum stands for Maulana Jalaluddin Rumi who represents love and Rayy is the name of a city which is now situated in the suburbs of Tehran, the birthplace of Fakhruddin Razi, the great theologian, Qur’an-commentator and philosopher. He stands for reason here.)
+      </Text>
+    </Verse>
+    <Verse ID="25">
+      <Text Language="Persian">
+        علم و حکمت شرع و دین ، نظم امور
+اندرون سینہ دلہا ناصبور
+      </Text>
+      <Text Language="Urdu">
+        علم و حکمت، شرع و دین، معاملات کا انتظام، سینوں کے اندر دلوں کی ناصبوری۔
+      </Text>
+      <Text Language="English">
+        Knowledge and science, Shari’ah and religion, administration of State; ever-dissatisfied hearts within the breast.
+(These lines enunciate Iqbal’s basic position with regard to the relative value of reason and intuition. An individual must employ both; whenever one of these is ignored; most often it leads to a warped personality. In Javid Namah, he says: ‘When love is companioned by intelligence; it has the power to design another world. Then rise and draw design of a new world, mingle love with intelligence’.
+      </Text>
+    </Verse>
+    <Verse ID="27">
+      <Text Language="Persian">
+        حسن عالم سوز الحمرا و تاج
+آنکہ از قدوسیان گیرد خراج
+      </Text>
+      <Text Language="Urdu">
+        الحمرا و تاج کا حسن عالم سوز جو فرشتوں سے خراج (تحسین) وصول کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        Al-Hamra and the Taj, of world-consuming beauty, that win tributes from the celestial beings.
+      </Text>
+    </Verse>
+    <Verse ID="29">
+      <Text Language="Persian">
+        این ہمہ یک لحظہ از اوقات اوست
+یک تجلی از تجلیات اوست
+      </Text>
+      <Text Language="Urdu">
+        یہ سب کچھ حضور اکرم (صلعم) کے اوقات میں سے ایک لمحہ اور آپ (صلعم) کی تجلّیات میں سے ایک تجلّی ہے۔
+      </Text>
+      <Text Language="English">
+        All these are moments of his time, a single lustre of his manifold manifestations.
+      </Text>
+    </Verse>
+    <Verse ID="31">
+      <Text Language="Persian">
+        ظاہرش این جلوہ ہای دلفروز
+باطنش از عارفان پنھان ہنوز
+      </Text>
+      <Text Language="Urdu">
+        یہ دلفروز جلوے آپ (صلعم) کی عظمت کا ظاہری پہلو ہیں۔ آپ (صلعم) کی شخصیّت عظیمہ کا باطن ابھی تک عارفوں سے پنہاں ہے ۔
+      </Text>
+      <Text Language="English">
+        All these heart-pleasing phenomena are his outward aspects; his inward aspect is still hidden from the gnostics.
+      </Text>
+    </Verse>
+    <Verse ID="33">
+      <Text Language="Persian">
+        ’’حمد بیحد مر رسول پاک را
+آنکہ ایمان داد مشت خاک را‘‘
+      </Text>
+      <Text Language="Urdu">
+        جناب رسول پاک (صلعم) بے حد تعریف کے مستحق ہیں، کیونکہ آپ (صلعم) کی وجہ سے مشت خاک (انسان ) کو (دولت) ایمان نصیب ہوئی ۔
+      </Text>
+      <Text Language="English">
+        ‘Limitless praise be to the Holy Prophet (S.A.W.), who gave to this handful of dust true belief in God.’
+      </Text>
+    </Verse>
+    <Verse ID="35">
+      <Text Language="Persian">
+        حق ترا بران تر از شمشیر کرد
+ساربان را راکب تقدیر کرد
+      </Text>
+      <Text Language="Urdu">
+        اے قوم عرب اللہ تعالے نے تجھے شمشیر برّاں بنایا، تجھ جیسے ساربان کو تقدیر پر سوار کیا۔
+      </Text>
+      <Text Language="English">
+        God made you sharper than the sword: He made the camel-driver the rider of destiny.
+      </Text>
+    </Verse>
+    <Verse ID="37">
+      <Text Language="Persian">
+        بانگ تکبیر و صلوت و حرب و ضرب
+اندر آن غوغا گشاد شرق و غرب
+      </Text>
+      <Text Language="Urdu">
+        تیری بانگ تکبیر، تیری نماز اور تیری حرب و ضرب کے غوغا سے شرق و غرب کے معاملات سلجھے۔
+      </Text>
+      <Text Language="English">
+        Your takbir, your prayer and your war: on these depend the fate of East and West. 
+(This in a nutshell is Iqbal’s advice to the Muslim of today, that he should aspire to seek the welfare of man, both material and spiritual, that be should endeavour to Eve his mundane life fully oriented to the spiritual reality. He should not shirk plunging into the hazards of war, though he must be attuned all the time to the Great Infinite.)
+      </Text>
+    </Verse>
+    <Verse ID="39">
+      <Text Language="Persian">
+        ایخوش آن مجذوبی و دل بردگے
+آہ زین دلگیری و افسردگی
+      </Text>
+      <Text Language="Urdu">
+        کیا مبارک تھی تمہاری وہ مجذوبی اور دلبری اور کتنی افسوسناک ہے تمہاری موجودہ دلگیری اور افسردگی۔
+      </Text>
+      <Text Language="English">
+        How good this dedication and selfless devotion. Alas! For this grievous affliction and melancholy!
+      </Text>
+    </Verse>
+    <Verse ID="41">
+      <Text Language="Persian">
+        کار خود را امتان بردند پیش
+تو ندانی قیمت صحرای خویش
+      </Text>
+      <Text Language="Urdu">
+        قوموں نے اپنے کام کو آگے بڑھایا مگر تو اپنے صحرا کی قیمت سے بے خبر رہا۔
+      </Text>
+      <Text Language="English">
+        The nations of the world are promoting their interests; you are unaware of the value of your desert. 
+(Value of the desert: Iqbal is referring to the strategic importance and the rich mineral resources of the Arabian deserts.)
+      </Text>
+    </Verse>
+    <Verse ID="43">
+      <Text Language="Persian">
+        امتی بودی امم گردیدہ ئی
+بزم خود را خود ز ہم پاشیدہ ئی
+      </Text>
+      <Text Language="Urdu">
+        تم ایک امّت تھے مگر اب مختلف قوموں میں منقسم ہو گئے، تم نے اپنی بزم کو خود ہی منتشر کر دیا۔
+      </Text>
+      <Text Language="English">
+        You were a single nation, you have become now several nations, you have broken up your society yourself.	
+(Here Iqbal refers to the dirty game of the Colonial Powers, after he First Great War (1914.18), to divide the Arab land into small geographical territories and fostering narrow nationalism, which, as Iqbal states elsewhere, was the greatest danger to the unity and integrity of the Muslim world.)
+      </Text>
+    </Verse>
+    <Verse ID="45">
+      <Text Language="Persian">
+        ہر کہ از بند خودی وارست ، مرد
+ہر کہ با بیگانگان پیوست ، مرد
+      </Text>
+      <Text Language="Urdu">
+        جو اپنایت کا بند توڑ کر غیروں سے مل گیا وہ موت سے ہمکنار ہوا۔
+      </Text>
+      <Text Language="English">
+        He who loosened himself from the bonds of khudi, and merged himself in others, met certain death.
+      </Text>
+    </Verse>
+    <Verse ID="47">
+      <Text Language="Persian">
+        آنچہ تو با خویش کردی کس نکرد
+روح پاک مصطفی آمد بدرد
+      </Text>
+      <Text Language="Urdu">
+        جو کچھ تو نے اپنے آپ سے کیا ہے کسی نے نہیں کیا۔ تمہارے اس طرز عمل سے روح پاک مصطفے (صلعم) تکلیف میں ہے۔
+      </Text>
+      <Text Language="English">
+        Nobody else ever did what you have done to yourself. The soul of Mustafa (S.A.W.) was grieved by it.
+      </Text>
+    </Verse>
+    <Verse ID="49">
+      <Text Language="Persian">
+        اے ز افسون فرنگی بے خبر
+فتنہ ہا در آستین او نگر
+      </Text>
+      <Text Language="Urdu">
+        تو فرنگیوں کے سحر سے بے خبر ہے ۔ اس کی آستیں کے اندر جو فتنے پوشیدہ ہیں انہیں دیکھنے کی کوشش کر۔
+      </Text>
+      <Text Language="English">
+        O you who are unaware of the Frankish magic, see the mischief hidden in his sleeves.
+      </Text>
+    </Verse>
+    <Verse ID="51">
+      <Text Language="Persian">
+        از فریب او اگر خواہی امان
+اشترانش را ز حوض خود بران
+      </Text>
+      <Text Language="Urdu">
+        اگر تو اس کے فریب سے بچنا چاہتا ہے تو اس کے اونٹوں کو اپنے حوض سے بھگا دے۔
+      </Text>
+      <Text Language="English">
+        If you wish to escape his deceits, turn away his camels from your ponds.
+      </Text>
+    </Verse>
+    <Verse ID="53">
+      <Text Language="Persian">
+        حکمتش ہر قوم را بیچارہ کرد
+وحدت اعرابیان صد پارہ کرد
+      </Text>
+      <Text Language="Urdu">
+        اس کی ڈپلومیسی نے ہر قوم کو لاچار اور عربوں کو ٹکڑوں میں منقسم کر دیا ہے۔
+      </Text>
+      <Text Language="English">
+        His diplomacy has weakened every nation and broken the unity of the Arabs.
+      </Text>
+    </Verse>
+    <Verse ID="55">
+      <Text Language="Persian">
+        تا عرب در حلقۂ دامش فتاد
+آسمان یک دم امان او را نداد
+      </Text>
+      <Text Language="Urdu">
+        جب سے عرب اس کے حلقہ دام میں گرفتار ہؤے ہیں، آسمان نے ان کو ایک لمحہ کے لیے بھی چین سے بیٹھنے نہیں دیا۔
+      </Text>
+      <Text Language="English">
+        Ever since the Arabs fell into its snares, not for one moment have they enjoyed peace.
+      </Text>
+    </Verse>
+    <Verse ID="57">
+      <Text Language="Persian">
+        عصر خود را بنگر اے صاحب نظر
+در بدن باز آفرین روح عمر
+      </Text>
+      <Text Language="Urdu">
+        اے صاحب نظر اپنے دور کو سمجھ اور اپنے بدن کے اندر دوبارہ حضرت فاروق (رحمتہ ) کی روح پیدا کر۔
+      </Text>
+      <Text Language="English">
+        O man of insight, look at your times, recreate in your body the soul of Umar.
+      </Text>
+    </Verse>
+    <Verse ID="59">
+      <Text Language="Persian">
+        قوت از جمعیت دین مبین
+دین ہمہ عزم است و اخلاص و یقین
+      </Text>
+      <Text Language="Urdu">
+        دین مبین کو جمیّت ہی سے قوّت حاصل ہوتی ہے اور دین (سارے کا سارا ) عزم و اخلاص اور یقین پر مبنی ہے۔
+      </Text>
+      <Text Language="English">
+        Power lies in the unity of the true religion; religion is strong will, sincerity and faith.
+      </Text>
+    </Verse>
+    <Verse ID="61">
+      <Text Language="Persian">
+        تا ضمیرش رازدان فطرت است
+مرد صحرا پاسبان فطرت است
+      </Text>
+      <Text Language="Urdu">
+        چونکہ مرد صحرا کا ضمیر فطرت کا رازدان ہے اس لیے وہ فطرت کا پاسبان ہے۔
+      </Text>
+      <Text Language="English">
+        As his heart knows the secrets of Nature, the man of the desert is Nature’s protector.
+      </Text>
+    </Verse>
+    <Verse ID="63">
+      <Text Language="Persian">
+        سادہ و طبعش عیار زشت و خوب
+از طلوعش صد ہزار انجم غروب
+      </Text>
+      <Text Language="Urdu">
+        اگرچہ وہ سادہ مزاج ہے مگر اس کی طبع نیکی اور بدی کی کسوٹی ہے، (آفتاب کی مانند) اس کے طلوع ہونے سے ہزاروں انجم غروب ہو جاتے ہیں۔
+      </Text>
+      <Text Language="English">
+        He is simple, and his nature is the touchstone of right and wrong, his rise means setting of a hundred thousand stars. 
+(‘A hundred thousand stars’ refers to the diverse systems of beliefs and attitudes current in the world, all of which will be superseded when true religion makes its appearance.)
+      </Text>
+    </Verse>
+    <Verse ID="65">
+      <Text Language="Persian">
+        بگذر از دشت و در و کوہ و دمن
+خیمہ را اندر وجود خویش زن
+      </Text>
+      <Text Language="Urdu">
+        صحرا، آبادی، پہاڑ اور وادی کو چھوڑ وجود کے اندر خیمہ زن ہو۔
+      </Text>
+      <Text Language="English">
+        Leave aside these deserts, mountains and valleys; pitch your tent in your own being. 
+(In the development of khudi this is the first stage, where the individual is expected to detach himself completely from the outside world and concentrate on his own self. In Zabur-i ‘Ajam, Allamah says: ‘Reach within yourself and retire from this noisy world, throw yourself into the inner recesses of your heart’.)
+      </Text>
+    </Verse>
+    <Verse ID="67">
+      <Text Language="Persian">
+        طبع از باد بیابان کردہ تیز
+ناقہ را سر دہ بہ میدان ستیز
+      </Text>
+      <Text Language="Urdu">
+        اپنی طبع کو باد بیاباں سے تیز کر کے اپنی ناقہ کو میدان جنگ میں ڈال دے،
+      </Text>
+      <Text Language="English">
+        Whetting your nature on the desert wind set your dromedary onto the battlefield.
+      </Text>
+    </Verse>
+    <Verse ID="69">
+      <Text Language="Persian">
+        عصر حاضر زادۂ ایام تست
+مستی او از می گلفام تست
+      </Text>
+      <Text Language="Urdu">
+        دور جدید تیرے ایّام (گذشتہ) سے پیدا ہوا ہے، اس کے (علوم جدید) کی مست مے سے ہے۔
+      </Text>
+      <Text Language="English">
+        The modern age was born out of your achievements; its intoxication is the result of your rose-red wine.
+      </Text>
+    </Verse>
+    <Verse ID="71">
+      <Text Language="Persian">
+        شارح اسرار او تو بودہ ئی
+اولین معمار او تو بودہ ئی
+      </Text>
+      <Text Language="Urdu">
+        اس کے اسرار کی شرع کرنے والا تو تھا ۔ تو نے پہلے پہل ان علوم کی عمارت تعمیر کی۔
+      </Text>
+      <Text Language="English">
+        You have been the expositor of its secrets, and the first builder of its edifice.
+      </Text>
+    </Verse>
+    <Verse ID="73">
+      <Text Language="Persian">
+        تا بہ فرزندی گرفت او را فرنگ
+شاہدی گردید بی ناموس و ننگ
+      </Text>
+      <Text Language="Urdu">
+        لیکن جب ان علوم کی محبوبہ کو فرنگ نے اپنی فرزندی میں لیا تو وہ بے نموس و ننگ ہو گئی۔
+      </Text>
+      <Text Language="English">
+        Since the West adopted it as its own, it has grown into a coquette, with no sense of honour.
+      </Text>
+    </Verse>
+    <Verse ID="75">
+      <Text Language="Persian">
+        گرچہ شیرین است و نوشین است او
+کج خرام و شوخ و بی دین است او
+      </Text>
+      <Text Language="Urdu">
+        اگرچہ اب وہ شیریں و خوشنما ہو گئی ہے مگر اس میں کج خرامی ، شوخی اور بے دینی بھی آ گئی ہے۔
+      </Text>
+      <Text Language="English">
+        Although she is sweet and pleasant, yet she is crooked, saucy and irreligious.	 
+(Iqbal thinks that sciences and arts in the hands of secular West became destructive weapons for the annihilation of this earthly planet. There is nothing inherently evil in them, only they are cut off from their natural affinity to the spiritual values of life.)
+      </Text>
+    </Verse>
+    <Verse ID="77">
+      <Text Language="Persian">
+        مرد صحرا ! پختہ تر کن خام را
+بر عیار خود بزن ایام را
+      </Text>
+      <Text Language="Urdu">
+        اے مرد صحرا اس خام (مغربی علم) کو پختہ تر کر اور موجودہ دور کو اپنے معیار کے مطابق لا۔
+      </Text>
+      <Text Language="English">
+        O man of the desert, make what is unripe mature and refashion the world according to your touchstone.
+(Translated by Bashir Ahmad Dar)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

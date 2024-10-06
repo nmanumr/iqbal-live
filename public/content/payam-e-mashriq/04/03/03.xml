@@ -1,0 +1,102 @@
+<Poem ID="03" Name="شو پنہاور و نیچہ" BookID="07" BookName="پیامِ مشرق" SectionID="04" SectionName="نقش فرنگ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        مرغی ز آشیانہ بہ سیر چمن پرید
+خاری ز شاخ گل بتن نازکش خلید
+      </Text>
+      <Text Language="Urdu">
+        ایک پرندہ آشیانے سے سیر چمن کے لیے اڑا ، (شاخ گل پر جا بیٹھا وہاں) سے ایک کانٹا اس کے نازک بدن میں چبھ گیا۔
+      </Text>
+      <Text Language="English">
+        SCHOPENHAUER AND NIETZSCHE
+A bird flew from its nest and ranged about the garden; its soft breast was pierced by a rose-thorn.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        بد گفت فطرت چمن روزگار را
+از درد خویش و ہم ز غم دیگران تپید
+      </Text>
+      <Text Language="Urdu">
+        اس نے باغ ہستی کی سرشت کو برا کہا، اور انپے درد کی وجہ سے دوسروں کے غم میں تڑپنے لگا۔
+      </Text>
+      <Text Language="English">
+        It reviled the nature of Time’s garden; it throbbed with its own pain and pain of others.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        داغی ز خون بی گنہی لالہ را شمرد
+اندر طلسم غنچہ فریب بہار دید
+      </Text>
+      <Text Language="Urdu">
+        اس نے داغ لالہ کو بے گناہ کے خون کا داغ تصوّر کیا، اسے غنچہ کے طلسم میں فریب بہار نظر آیا۔
+      </Text>
+      <Text Language="English">
+        It thought the tulip was branded with the blood of innocents; in the closed bud it saw the guile of spring.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        گفت اندرین سرا کہ بنایش فتادہ کج
+صبحی کجا کہ چرخ درو شامہا نچید
+      </Text>
+      <Text Language="Urdu">
+        اس نے کہا اس سرائے دنیا میں جس کی بنیاد ہی ٹیڑھی رکھی گئی ہے، کوئی ایسی صبح نہیں جس کے اندر آسمان نے شامیں نہ بچھائی ہوں۔
+      </Text>
+      <Text Language="English">
+        It asked if in this world, with its foundation wrongly laid, there was a single morning into which Time had not built an evening;
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        نالید تا بہ حوصلۂ آن نوا طراز
+خون گشت نغمہ و ز دو چشمش فرو چکید
+      </Text>
+      <Text Language="Urdu">
+        اس نوا طراز نے تا حد بساط آہ و فریاد کی ، یہاں تک کہ اس کا نغمہ خون ہو گیا اور اس کی آنکھوں سے آنسو بن کر ٹپک پڑتا۔
+      </Text>
+      <Text Language="English">
+        And it wept so much that song turned to blood in its throat and dripped as tears from its eyes.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        سوز فغان او بدل ہدہدی گرفت
+با نوک خویش خار ز اندام او کشید
+      </Text>
+      <Text Language="Urdu">
+        اس پرندے کی فغاں کے سوز نے ایک ہدہد کے دل کو متاثر کیا، ہدہد نے اپنی چونچ سے اس کے بدن سے کانٹا کھینچ لیا۔
+      </Text>
+      <Text Language="English">
+        From the cries of burning woe a hoopoe’s heart caught fire. The hoopoe with his beak drew forth the thorn from its body.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        گفتش کہ سود خویش ز جیب زیان بر آر
+گل از شکاف سینہ زر ناب آفرید
+      </Text>
+      <Text Language="Urdu">
+        اس نے کہا کہ نقصان کے اندر سے فائدہ کی صورت پیدا کر، دیکھ کہ پھول اپنے سینے کے اندر سے خالص سونا پیدا کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        Saying, ‘Get the profit out of loss: The rose has created pure gold by rending her breast.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        درمان ز درد ساز اگر خستہ تن شوی
+خوگر بہ خار شو کہ سراپا چمن شوی
+      </Text>
+      <Text Language="Urdu">
+        اگر تیرا بدن زخمی ہو جائے تو درد ہی کو اپنا علاج بنا، خار کا عادی ہو تاکہ تو سراپا چمن بن جائے۔
+      </Text>
+      <Text Language="English">
+        If thou art wounded, make the pain thy remedy. Accustom thyself to thorns that thou mayst become entirely one with the garden. 
+(Translated by R.A. Nicholson)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,39 @@
+<Poem ID="60" Name="پنجابی مسلمان" BookID="03" BookName="ضربِ کلیم" SectionID="01" SectionName="اسلام اور مسلمان">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        مذہب میں بہت تازہ پسند اس کی طبیعت 
+کر لے کہیں منزل تو گزرتا ہے بہت جلد
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        PUNJABI MUSLIM
+A new born Faith invokes his taste, adopts with zeal but leaves with haste.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        تحقیق کی بازی ہو تو شرکت نہیں کرتا 
+ہو کھیل مریدی کا تو ہرتا ہے بہت جلد
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        In search for truth lie takes no part, as disciple stakes both head and heart.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        تاویل کا پھندا کوئی صیاد لگا دے 
+یہ شاخ نشیمن سے اترتا ہے بہت جلد
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        If comments' snare some hunter set, from nest on bough would drop in net.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

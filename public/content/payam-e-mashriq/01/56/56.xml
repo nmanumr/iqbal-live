@@ -1,0 +1,21 @@
+<Poem ID="56" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        ز من با شاعر رنگین بیان گوی
+چہ سود از سوز اگر چون لالہ سوزی
+نہ خود را می گدازی ز آتش خویش
+نہ شام دردمندی بر فروزی
+      </Text>
+      <Text Language="Urdu">
+        شاعر رنگین بیان کو میری طرف سے کہو؛ اگر تو گل لالہ کی طرح جلا ، تو کیا جلا۔ 
+نہ تو نے اپنی آگ سے اپنے آپ کو گداز کیا؛ اور نہ اسی دردمند کی شام روشن کی۔
+      </Text>
+      <Text Language="English">
+        Tell thou for me that poet of bright words: Thou tulip flame, what profit does it bring? 
+Thou meltest not thyself with such a fire, no lightest up the night of sorrowing. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

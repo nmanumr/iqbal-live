@@ -1,0 +1,53 @@
+<Poem ID="01" Name="دین و ہنر" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        سرود و شعر و سیاست، کتاب و دین و ہنر 
+گہر ہیں ان کی گرہ میں تمام یک دانہ
+      </Text>
+      <Text Language="Urdu">
+        يک دانہ: منفرد۔
+سرود: موسیقی۔
+      </Text>
+      <Text Language="English">
+        RELIGION AND CRAFTS
+Verse, music, rule, lore, creed and crafts enshrine, pearls sublime that with lustre glow and shine.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        ضمیر بندہ خاکی سے ہے نمود ان کی 
+بلند تر ہے ستاروں سے ان کا کاشانہ
+      </Text>
+      <Text Language="Urdu">
+        کاشانہ: رہنے کی جگہ۔
+      </Text>
+      <Text Language="English">
+        Out from the brain of clay-born man they race, far higher than the stars, their dwelling place.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        اگر خودی کی حفاظت کریں تو عین حیات 
+نہ کر سکیں تو سراپا فسون و افسانہ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        If they preserve the Self, life is ideal true, else life is tale or legend through and through.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        ہوئی ہے زیر فلک امتوں کی رسوائی 
+خودی سے جب ادب و دیں ہوئے ہیں بیگانہ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        When Faith and word with Self lose contact, then nation’s self-esteem can't keep intact.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

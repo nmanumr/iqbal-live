@@ -1,0 +1,30 @@
+<Poem ID="58" Name="شیر اور خچر" BookID="02" BookName="‫بالِ جبریل" SectionID="04" SectionName="منظومات">
+  <Para Name="شیر">
+    <Verse ID="01">
+      <Text Language="Original">
+        ساکنان دشت و صحرا میں ہے تو سب سے الگ 
+کون ہیں تیرے اب و جد، کس قبیلے سے ہے تو؟
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        THE LION AND THE MULE 
+LION: You are so different and unlike all the other dwellers of the wild and the desert! Who are your parents and ancestors? And what is your tribe?
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="خچر">
+    <Verse ID="03">
+      <Text Language="Original">
+        میرے ماموں کو نہیں پہچانتے شاید حضور 
+وہ صبا رفتار، شاہی اصطبل کی آبرو
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        MULE: Perhaps your highness does not know my uncle – my mother’s brother: He gallops like the wind, and is the pride of the royal stable! – Adapted from German. 
+(Translated by Mustansir Mir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

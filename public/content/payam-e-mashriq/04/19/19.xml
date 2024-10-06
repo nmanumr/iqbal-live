@@ -1,0 +1,60 @@
+<Poem ID="19" Name="شعرا" BookID="07" BookName="پیامِ مشرق" SectionID="04" SectionName="نقش فرنگ">
+  <Para Name="برونینگ">
+    <Verse ID="01">
+      <Text Language="Original">
+        بی پشت بود بادۂ سر جوش زندگی
+آب خضر بگیرم و در ساغر افکنم
+      </Text>
+      <Text Language="Urdu">
+        زندگی کا بادہء سر جوش کسمپرسی کی حالت میں تھا ، میں نے خضر سے آب (حیات) لیا اور ساغر میں ڈال کر پیش کر دیا۔
+      </Text>
+      <Text Language="English">
+        POETS
+Browning: There was nothing to fortify life’s effervescent wine: I took some aqua vitae from Khizr and added it.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="بایرن">
+    <Verse ID="03">
+      <Text Language="Original">
+        از منت خضر نتوان کرد سینہ داغ
+آب از جگر بگیرم و در ساغر افکنم
+      </Text>
+      <Text Language="Urdu">
+        خضر کے احسان سے اپنے سینے کو داغ داغ نہیں کیا جا سکتا، میں جگر سے پانی (خون) لیتا ہوں اور ساغر میں ڈالتا ہوں۔
+      </Text>
+      <Text Language="English">
+        Byron: Why should one be obliged to Khizr for his aqua’s loan? I poured a little of my heart’s blood into the wine-cup.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="غالب">
+    <Verse ID="05">
+      <Text Language="Original">
+        "تا بادہ تلخ تر شود و سینہ ریش تر
+بگدازم آبگینہ و در ساغر افکنم"
+      </Text>
+      <Text Language="Urdu">
+        تاکہ شراب اور تلخ ہو اور سینہ اور زیادہ زخمی ہو، میں سرخی کا شیشہ پگھلا کر ساغر میں ڈال دیتا ہوں۔
+      </Text>
+      <Text Language="English">
+        Ghalib: To make the wine still bitterer and my chest still more sore, I melted the glass itself and added it to my wine.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="رومی">
+    <Verse ID="07">
+      <Text Language="Original">
+        آمیزشی کجا گہر پاک او کجا
+از تاک بادہ گیرم و در ساغر افکنم
+      </Text>
+      <Text Language="Urdu">
+        آمیزش کہاں اور اس ( شراب) کی پاکیزگی ء فطرت کہاں، میں انگور سے شراب لیتا ہوں اور (بغیر کسی آمیزش کے) ساغر میں ڈال دیتا ہے۔
+      </Text>
+      <Text Language="English">
+        Rumi: How can dilutions be as good as the real stuff itself? I pressed wine out of grapes direct and filled my cup with it.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

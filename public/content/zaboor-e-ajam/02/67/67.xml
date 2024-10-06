@@ -1,0 +1,38 @@
+<Poem ID="67" Name="" BookID="08" BookName="زبورِعجم" SectionID="02" SectionName="حصہ دوم">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بہ نگاہ آشنائی چو درون لالہ دیدم
+ہمہ ذوق و شوق دیدم ہمہ آہ و نالہ دیدم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        When the tulip’s heart I viewed with the gaze of certitude, all I saw was ecstasy, sighs, and sobbing bitterly.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        بہ بلند و پست عالم تپش حیات پیدا
+چہ دمن چہ تل چہ صحرا رم این غزالہ دیدم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        In the highest and the least is life’s quiver manifest; over plain and hill and dell ever leaps this wild gazelle.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        نہ بہ ماست زندگانی نہ ز ما ست زندگانی
+ہمہ جاست زندگانی ز کجا ست زندگانی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Life is not of us alone, life is not for us to own; life is everywhere to see – Ah, and whence came life to be? 
+(Translated by A.J. Arberry)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

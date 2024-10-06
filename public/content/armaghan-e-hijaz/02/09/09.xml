@@ -1,0 +1,20 @@
+<Poem ID="09" Name="None" BookID="04" BookName="ارمغانِ حجاز" SectionID="02" SectionName="رباعیات">
+  <Para>
+    <Verse ID="01">
+      <Text Language="Original">
+        تمیز خار و گل سے آشکارا
+نسیم صبح کی روشن ضمیری
+حفاظت پھول کی ممکن نہیں ہے
+اگر کانٹے میں ہو خوئے حریری
+      </Text>
+      <Text Language="Urdu">
+        حريري: ریشمی۔
+      </Text>
+      <Text Language="English">
+        From knowledge of thorns and buds which shoot, the conscience of breeze at dawn is cute. 
+It is possible not to guard the blooms, if the thorns have got a silken broom.
+(Translated by Q A Kabir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

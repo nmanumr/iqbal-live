@@ -1,0 +1,42 @@
+<Poem ID="17" Name="نصیحت" BookID="02" BookName="‫بالِ جبریل" SectionID="04" SectionName="منظومات">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بچہء شاہیں سے کہتا تھا عقاب سالخورد 
+اے تیرے شہپر پہ آساں رفعت چرخ بریں
+      </Text>
+      <Text Language="Urdu">
+        سالخورد: بوڑھا۔
+      </Text>
+      <Text Language="English">
+        AN ADVICE
+An eagle, advanced in years, advised an eaglet thus: O thou, whose wings may one day aspire to the heavens above.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        ہے شباب اپنے لہو کی آگ میں جلنے کا نام 
+سخت کوشی سے ہے تلخ زندگانی انگبیں
+      </Text>
+      <Text Language="Urdu">
+        انگبیں: شہد، میٹھا۔
+تلخ: کڑوا۔
+      </Text>
+      <Text Language="English">
+        Be consumed in the fire of thy own youthful blood; endurance sweetens all the sourness of life.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        جو کبوتر پر جھپٹنے میں مزا ہے اے پسر! 
+وہ مزا شاید کبوتر کے لہو میں بھی نہیں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        More pleasure there is in pouncing upon thy prey, than in sucking the blood from its vanquished stillness.
+[Translated by Naim Siddiqui]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

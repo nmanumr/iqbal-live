@@ -1,0 +1,562 @@
+<Poem ID="01" Name="پیام" BookID="07" BookName="پیامِ مشرق" SectionID="04" SectionName="نقش فرنگ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        از من اے باد صبا گوی بہ دانای فرنگ
+عقل تا بال گشود است گرفتار تر است
+      </Text>
+      <Text Language="Urdu">
+        اے باد صبا! میری طرف سے فرنگ کے دانا سے کہو ، جب سے (تمہاری ) عقل نے بال و پر کھولے ہیں، وہ اور زیادہ گرفتار ہے۔
+      </Text>
+      <Text Language="English">
+        A MESSAGE (TO THE WEST)
+O morning breeze, convey this to the Western sage from me: With wings unfolded, Wisdom is a captive all the more.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        برق را این بہ جگر میزند آن رام کند
+عشق از عقل فسون پیشہ جگردار تر است
+      </Text>
+      <Text Language="Urdu">
+        یہ برق کو جگر پر لیتا ہے اور وہ اسے رام کرتی ہے؛ عشق ساحر کا پیشہ عقل سے زیادہ جگردار (حوصلہ مند) ہے۔
+      </Text>
+      <Text Language="English">
+        It tames the lightning, but Love lets it strike its very heart: In courage Love excels that clever sorcerer by far.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        چشم جز رنگ گل و لالہ نبیند ورنہ
+آنچہ در پردۂ رنگ است پدیدار تر است
+      </Text>
+      <Text Language="Urdu">
+        آنکھ ، سوائے گل و لالہ کے رنگ کے اور کچھ نہیں دیکھتی ، ورنہ جو کچھ رنگ کے پردہ میں ہے، وہ زیادہ ظاہر ہے۔
+      </Text>
+      <Text Language="English">
+        The eye sees just the colour of the tulip and the rose; but far more obvious, could we see it, is the flower’s core.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        عجب آن نیست کہ اعجاز مسیحا داری
+عجب این است کہ بیمار تو بیمار تر است
+      </Text>
+      <Text Language="Urdu">
+        تعجب اس پر نہیں کہ تو اعجاز مسیحا رکھتا ہے، تعجب کی بات یہ ہے کہ تیرے (علاج سے) مریض کا مرض بڑھ گیا ہے۔
+      </Text>
+      <Text Language="English">
+        It is not strange that you have the Messiah’s healing touch: What is strange is your patient is the more sick for your cure.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        دانش اندوختہ ئی دل ز کف انداختہ ئی
+آہ زان نقد گرانمایہ کہ در باختہ ئی
+      </Text>
+      <Text Language="Urdu">
+        تو نے دانش تو جمع کر لی ، مگر دل کو ہاتھ سے چھوڑ دیا، افسوس! اس قیمتی سرمایہ پر جو تو نے ہار دیا۔
+      </Text>
+      <Text Language="English">
+        Though you have gathered knowledge, you have thrown away the heart; with what a precious treasure you have thought it fit to part!
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="11">
+      <Text Language="Original">
+        حکمت و فلسفہ کاریست کہ پایانش نیست
+سیلی عشق و محبت بہ دبستانش نیست
+      </Text>
+      <Text Language="Urdu">
+        حکمت و فلسفہ ایسا کام ہے جو اتھاہ ہے، مگر اس مدرسہ میں عشق و محبت کے تھپیڑے نہیں۔
+      </Text>
+      <Text Language="English">
+        The courting of philosophy is a vain quest, indeed; for in its school Love’s lofty regimen is not decreed.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        بیشتر راہ دل مردم بیدار زند
+فتنہ ئی نیست کہ در چشم سخندانش نیست
+      </Text>
+      <Text Language="Urdu">
+        بالعموم یہ (فلسفہ) بیدار اشخاص کے دلوں کو غارت کرتا ہے، کون سا فتنہ ہے، جو اس کی چشم فتنہ زا میں نہیں۔
+      </Text>
+      <Text Language="English">
+        Such are its blandishments; it leads astray the pupil’s heart: There is no mischief its coquettish glances do not breed.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        دل ز ناز خنک او بہ تپیدن نرسد
+لذتی در خلش غمزۂ پنھانش نیست
+      </Text>
+      <Text Language="Urdu">
+        عقل کی ٹھنڈی آگ دل کو تڑپنا نہیں سیکھاتی ، نہ اس کے غمزہء پنہاں میں کوئی لطف ہے۔
+      </Text>
+      <Text Language="English">
+        But its cold fire can never set the seeker’s heart aflame: It cannot give the heart Love’s sweet pain, though it makes it bleed.
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        دشت و کہسار نوردید و غزالی نگرفت
+طوف گلشن ز دو یک گل بگریبانش نیست
+      </Text>
+      <Text Language="Urdu">
+        (فلسفہ) جنگلوں اور پہاڑوں میں پھرا (در در کی خاک چھانی) مگر غزل (حقیقت) کو نہ پا سکا۔ (سارے) باغ کے چکر لگائے مگر گریبان میں ایک پھول نہیں۔
+      </Text>
+      <Text Language="English">
+        Though it has roamed the deserts, it has captured no gazelle; though it has searched the garden, it has not a rose for meed.
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        چارہ این است کہ از عشق گشادی طلبیم
+پیش او سجدہ گذاریم و مرادی طلبیم
+      </Text>
+      <Text Language="Urdu">
+        علاج یہ ہے کہ عشق سے مدد لیں ، اس کے سامنے سجدہ کریں اور اس سے مراد مانگیں۔
+      </Text>
+      <Text Language="English">
+        The wisest thing that we can do is to appeal to Love; for our desires’ fulfillment we should always kneel to Love.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="21">
+      <Text Language="Original">
+        عقل چون پای درین راہ خم اندر خم زد
+شعلہ در آب دوانید و جہان برہم زد
+      </Text>
+      <Text Language="Urdu">
+        عقل نے جب اس پیچ در پیچ راہ میں قدم رکھا ، تو پانی میں شعلہ دوڑا دیا اور دنیا کو درہم برہم کر دیا۔
+      </Text>
+      <Text Language="English">
+        Wisdom, since it set foot on life’s labyrinthine way, has set the sea on fire and made the whole world go awry.
+      </Text>
+    </Verse>
+    <Verse ID="23">
+      <Text Language="Original">
+        کیمیا سازی او ریگ روان را زر کرد
+بر دل سوختہ اکسیر محبت کم زد
+      </Text>
+      <Text Language="Urdu">
+        اس کی کیمیا سازی نے اڑتی ہوئی ریت کو سونا بنا دیا، مگر کسی دل سوختہ پر اکسیر نہ ڈالی کہ وہ کندن بن جائے۔
+      </Text>
+      <Text Language="English">
+        Its alchemy converted worthless grains of sand to gold; but oh! It gave the wounded heart no love-balm to apply.
+      </Text>
+    </Verse>
+    <Verse ID="25">
+      <Text Language="Original">
+        واے بر سادگی ما کہ فسونش خوردیم
+رھزنی بود کمین کرد و رہ آدم زد
+      </Text>
+      <Text Language="Urdu">
+        افسوس ! ہماری سادگی پر کہ ہم عقل کے فریب میں آ گئے ، حالانکہ وہ رہزن تھی، جس نے گھات لگا کر آدم کو راستہ میں لوٹ لیا۔
+      </Text>
+      <Text Language="English">
+        Alas! We were so foolish as to let it steal our wits: It waylaid us, subjecting us to highway robbery.
+      </Text>
+    </Verse>
+    <Verse ID="27">
+      <Text Language="Original">
+        ہنرش خاک بر آورد ز تہذیب فرنگ
+باز آن خاک بہ چشم پسر مریم زد
+      </Text>
+      <Text Language="Urdu">
+        اس کے ہنر نے تہذیب فرنگ کی خاک اڑا دی، پھر وہ دھول ابن مریم کی آنکھ میں ڈال دی۔
+      </Text>
+      <Text Language="English">
+        It raised up much dust from the civilization of the West to cast into that civilization’s Holy Saviour’s eye.
+      </Text>
+    </Verse>
+    <Verse ID="29">
+      <Text Language="Original">
+        شرری کاشتن و شعلہ درون تا کی؟ 
+عقدہ بر دل زدن و باز گشودن تا کے؟
+      </Text>
+      <Text Language="Urdu">
+        شرر کاشت کر کے اس سے شعلہ حاصل کرنا کب تک؟ دل پر گرہ ڈالنا اور پھر اسے کھولنا کب تک؟
+      </Text>
+      <Text Language="English">
+        O how long can you go on sowing sparks and reaping flames, and tying up your heart in knots which bear new-fangled names?
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="31">
+      <Text Language="Original">
+        عقل خود بین دگر و عقل جہان بین دگر است
+بال بلبل دگر و بازوی شاہین دگر است
+      </Text>
+      <Text Language="Urdu">
+        اپنے آپ کو دیکھنے والی عقل اور ہے، جہان پر نگاہ رکھنے والی عقل اور ہے، بلبل کے پر اور ہیں، شاہیں کا بازو اور ہے۔
+      </Text>
+      <Text Language="English">
+        The self-absorbed and world-regarding wisdom are two things. The nightingale and falcon have two different kinds of wings.
+      </Text>
+    </Verse>
+    <Verse ID="33">
+      <Text Language="Original">
+        دگر است آنکہ برد دانۂ افتادہ ز خاک
+آنکہ گیرد خورش از دانۂ پروین دگر است
+      </Text>
+      <Text Language="Urdu">
+        زمین پر گرے ہوئے دانہ کو چننے والا اور (پرندہ) ہے، اور وہ (پرندہ) اور ہے جو دانہء پروین (ستارہ) سے خوراک حاصل کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        It is one thing to pick up stray grain lying on the ground; another to peck at gems in the Pleiades’ earrings.
+      </Text>
+    </Verse>
+    <Verse ID="35">
+      <Text Language="Original">
+        دگر است آنکہ زند سیر چمن مثل نسیم
+آنکہ در شد بہ ضمیر گل و نسرین دگر است
+      </Text>
+      <Text Language="Urdu">
+        وہ جو نسیم کی مانند ( اوپر ہی اوپر) باغ کی سیر کرتا ہے اور ہے، اور وہ جو گل و نسرین (پھولوں) کے اندر داخل ہو جائے، وہ اور ہے۔
+      </Text>
+      <Text Language="English">
+        It is one thing to roam the garden like the morning breeze; another to delve in the rose’s inmost ponderings.
+      </Text>
+    </Verse>
+    <Verse ID="37">
+      <Text Language="Original">
+        دگر است آنسوی نہ پردہ گشادن نظری
+این سوی پردہ گمان و ظن و تخمین دگر است
+      </Text>
+      <Text Language="Urdu">
+        نو پردوں (والے آسمان) کے دوسری طرف دیکھنا اور بات ہے، اور پردوں کے اس طرف ظن و تخمین (میں مبتلا رہنا) اور چیز ہے۔
+      </Text>
+      <Text Language="English">
+        It is one thing to let doubt and conjecture bog you down; another to look up and see celestial happenings.
+      </Text>
+    </Verse>
+    <Verse ID="39">
+      <Text Language="Original">
+        اے خوش آن عقل کہ پہنای دو عالم با اوست
+نور افرشتہ و سوز دل آدم با اوست
+      </Text>
+      <Text Language="Urdu">
+        اس عقل کی کیا بات ہے، جس کے ساتھ دونوں جہان کی وسعت ہے، جو فرشتے کا نور بھی رکھتی ہے اور آدم (علیہ) کا سوز دل بھی۔
+      </Text>
+      <Text Language="English">
+        Blest is the Wisdom which has both the worlds in its domain, which calls man’s heart’s fire as well as the angels’ light its own.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="41">
+      <Text Language="Original">
+        ما ز خلوت کدۂ عشق برون تاختہ ایم
+خاک پا را صفت آینہ پرداختہ ایم
+      </Text>
+      <Text Language="Urdu">
+        ہم نے عشق کے خلوت کدہ سے نکل کر یلغار کی ہے، ہم وہ ہیں جنہوں نے پاؤں تلے روندی جانے والی خاک کو آئینہ کی مانند شفاف بنا دیا ہے۔
+      </Text>
+      <Text Language="English">
+        We, since we issued forth out of the sacred shrine of Love, have burnished mirror-bright the very dust beneath our feet.
+      </Text>
+    </Verse>
+    <Verse ID="43">
+      <Text Language="Original">
+        در نگر ہمت ما را کہ بہ داوی فکنیم
+دو جہان را کہ نہان بردہ عیان باختہ ایم
+      </Text>
+      <Text Language="Urdu">
+        ہمارا حوصلہ دیکھیں کہ ہم نے ایک ہی داؤ و میں ، دونوں جہانوں کو جو ہم نے نہاں لیے تھے، کھلے بندوں ہار دیا ہے۔
+      </Text>
+      <Text Language="English">
+        O look at our adventurousness in the game of life; for we have robbed the wealth of both the worlds and boldly staked it.
+      </Text>
+    </Verse>
+    <Verse ID="45">
+      <Text Language="Original">
+        پیش ما میگذرد سلسلۂ شام و سحر
+بر لب جوی روان خیمہ بر افروختہ ایم
+      </Text>
+      <Text Language="Urdu">
+        سلسلہء شام و سحر ہمارے سامنے سے گزر رہا ہے، ہم نے (وقت کی) جوئے رواں کے کنارے خیمہ لگایا ہے۔
+      </Text>
+      <Text Language="English">
+        We watch the day-and-night procession move before our eyes, with our tents pitched right on the margin of a running streamlet.
+      </Text>
+    </Verse>
+    <Verse ID="47">
+      <Text Language="Original">
+        در دل ما کہ برین دیر کہن شبخون ریخت
+آتشے بود کہ در خشک و تر انداختہ ایم
+      </Text>
+      <Text Language="Urdu">
+        ہمارے دل نے اس دیر کہن (دنیا) پر شبخون مارا، ایک آگ تھی جو ہم نے خشک و تر میں لگا دی۔
+      </Text>
+      <Text Language="English">
+        Once in our heart, which launched a night-raid on this ancient fane, there was a fire which we breathed into all things, dry or wet.
+      </Text>
+    </Verse>
+    <Verse ID="49">
+      <Text Language="Original">
+        شعلہ بودیم، شکستیم و شرر گردیدیم
+صاحب ذوق و تمنا و نظر گردیدیم
+      </Text>
+      <Text Language="Urdu">
+        ہم شعلہ تھے، ٹوٹے اور شرر بن گئے ، صاحب ذوق صاحب تمنا اور صاحب نظر بن گئے۔
+      </Text>
+      <Text Language="English">
+        We were a flame; we flickered, broke down and became a spark: And since then we burn fitfully, with yearnings vague and dark.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="51">
+      <Text Language="Original">
+        عشق گردید ہوس پیشہ و ہر بند گسست
+آدم از فتنہ او صورت ماہی در شست
+      </Text>
+      <Text Language="Urdu">
+        (پھر) عشق، ہوس ہو گیا اور اس نے سارے بندھن توڑ دیے ، اور اس کے فتنے نے آدمی کو مچھلی کی مانند شکار کر لیا۔
+      </Text>
+      <Text Language="English">
+        Love learned the greedy ways of earthly lust and burst all bounds: It caught men in its toils as fish are caught by fishermen.
+      </Text>
+    </Verse>
+    <Verse ID="53">
+      <Text Language="Original">
+        رزم بر بزم پسندید و سپاہی آراست
+تیغ او جز بہ سر و سینۂ یاران ننشست
+      </Text>
+      <Text Language="Urdu">
+        اس نے بزم پر رزم (جنگ) کو پر تر جیح دی اور فوجیں تیار کیں ، مگر اس کی تلوار دوستوں ہی کے سر و سینہ پر برسی۔
+      </Text>
+      <Text Language="English">
+        Preferring war to peace, it reared up armies everywhere, which plunged their swords into the hearts of their own kith and kin.
+      </Text>
+    </Verse>
+    <Verse ID="55">
+      <Text Language="Original">
+        رھزنی را کہ بنا کرد جہانبانی گفت
+ستم خواجگی او کمر بندہ شکست
+      </Text>
+      <Text Language="Urdu">
+        اس نے جس رہزنی کی بنیاد ڈالی ، اسے جہانبانی کا نام دیا ۔ اس کی آقائی کے مظالم نے محکوموں کی کمر توڑ دی۔
+      </Text>
+      <Text Language="English">
+        It gave the name of empire to its acts of banditry; and heavy sat its yoke on those who lived in its domain.
+      </Text>
+    </Verse>
+    <Verse ID="57">
+      <Text Language="Original">
+        بی حجابانہ ببانگ دف و نے می رقصد
+جامی از خون عزیزان تنک مایہ بدست
+      </Text>
+      <Text Language="Urdu">
+        (یہ ہوس پرست) کمزور عزیزوں کے خون سے پر جام ہاتھ میں لیے ، دف و نے (ساز) کی آواز پر بیدلی سے رقص کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        Now, holding in its hand a goblet full of human blood, it dances madly to the tune of flute and tambourine.
+      </Text>
+    </Verse>
+    <Verse ID="59">
+      <Text Language="Original">
+        وقت آن است کہ آئین دگر تازہ کنیم
+لوح دل پاک بشوئیم و ز سر تازہ کنیم
+      </Text>
+      <Text Language="Urdu">
+        وقت آ گیا ہے کہ کہ ہم نیا آئین بروئے کار لائیں ، دل کی تختی دھو ڈالیں اور اس پر از سر نو رقم کریں۔
+      </Text>
+      <Text Language="English">
+        It is high time that we washed clean the tablet of our heart: It is high time that with a clean slate we made a fresh start.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="61">
+      <Text Language="Original">
+        افسر پادشہی رفت و بہ یغمائی رفت
+نے اسکندری و نغمۂ دارائی رفت
+      </Text>
+      <Text Language="Urdu">
+        پادشاہت کا تخت گیا اور لوٹ کھسوٹ کا شکار ہوا ، سکندری کا ساز اور دارائی کا گیت گایا ۔
+      </Text>
+      <Text Language="English">
+        The royal crown has passed into the hands of highwaymen. Hushed is the song of Darius; mute is Alexander’s flute.
+      </Text>
+    </Verse>
+    <Verse ID="63">
+      <Text Language="Original">
+        کوہکن تیشہ بدست آمد و پرویزی خواست
+عشرت خواجگی و محنت لالائی رفت
+      </Text>
+      <Text Language="Urdu">
+        فرہاد ہاتھ میں تیشہ لیے آیا اور حکومت پرویز کا مد‏عی ہوا، حکمرانی کی عشرت اور غلامی کی محنت کا دور گیا۔
+      </Text>
+      <Text Language="English">
+        Farhad has changed his pickaxe for the sceptre of Parvez. Gone are the joy of mastership, the toil of servitude.
+      </Text>
+    </Verse>
+    <Verse ID="65">
+      <Text Language="Original">
+        یوسفی را ز اسیری بہ عزیزی بردند
+ہمہ افسانہ و افسون زلیخائی رفت
+      </Text>
+      <Text Language="Urdu">
+        یوسف کو قید خانہ سے نکال کر عہدہ امارت عطا ہوا، زلیخا کی ساری کہانی اور جادوگری (بیچ میں سے) نکل گئی۔
+      </Text>
+      <Text Language="English">
+        Freed from his bondage, Joseph sits on Pharaoh’s high throne: The tales and wiles of Potiphar’s wife cannot win her suit.
+      </Text>
+    </Verse>
+    <Verse ID="67">
+      <Text Language="Original">
+        راز ہائی کہ نہان بود ببازار افتاد
+آن سخن سازی و آن انجمن آرائی رفت
+      </Text>
+      <Text Language="Urdu">
+        وہ راز جو پوشیدہ تھے ، بازار میں آ پڑے ، (ہر کسی کی زبان پر آ گئے) سخن سازی اور انجمن آرائی کا دور جاتا رہا۔
+      </Text>
+      <Text Language="English">
+        Old secrets that were veiled stand unveiled in the market-place: No longer are they subjects of debate for the elite.
+      </Text>
+    </Verse>
+    <Verse ID="69">
+      <Text Language="Original">
+        چشم بگشای اگر چشم تو صاحب نظر است
+زندگی در پی تعمیر جھان دگر است
+      </Text>
+      <Text Language="Urdu">
+        آنکھ کھول ، اگر تیری آنکھ صاحب نظر ہے (اور دیکھ کہ) زندگی کا ایک نیا جہان تعمیر کرنے کی فکر میں ہے۔
+      </Text>
+      <Text Language="English">
+        Unveil your eyes and you will see that in full view of you life is creating for itself a world completely new.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="71">
+      <Text Language="Original">
+        من درین خاک کہن گوہر جان می بینم
+چشم ہر ذرہ چو انجم نگران می بینم
+      </Text>
+      <Text Language="Urdu">
+        میں (دنیا کی) خاک کہن میں جان کا موتی دیکھ رہا ہوں (نئی زندگی کے اثار دیکھ رہا ہوں) مجھے ہر ذرّہ کی آنکھ ستارہ کی مانند دیکھتی ہوئی نظر آتی ہے۔
+      </Text>
+      <Text Language="English">
+        In this our ancient dust I find the pure gold of the soul: Each atom of it is a star’s eye with the power to see.
+      </Text>
+    </Verse>
+    <Verse ID="73">
+      <Text Language="Original">
+        دانہ ئی را کہ بہ آغوش زمین است ہنوز
+شاخ در شاخ و برومند و جوان می بینم
+      </Text>
+      <Text Language="Urdu">
+        وہ دانہ جو ابھی زمین کے اندر ہے، میں اسے جوان، شاخ در شاخ اور پھلدار دیکھ رہا ہوں۔
+      </Text>
+      <Text Language="English">
+        In every grain of sand lodged in the womb of mother earth I see the promise of a many-branched fruit-laden tree.
+      </Text>
+    </Verse>
+    <Verse ID="75">
+      <Text Language="Original">
+        کوہ را مثل پر کاہ سبک می یابم
+پر کاہی صفت کوہ گران می بینم
+      </Text>
+      <Text Language="Urdu">
+        (مغربی تہذیب کے) پہاڑ کو تنکے کی مانند ہلکا پاتا ہوں ، اور پر کاہ کو وزنی پہاڑ دیکھ رہا ہوں۔
+      </Text>
+      <Text Language="English">
+        I find the mountain as light as a tiny blade of grass, and heavy as a mountain seems a blade of grass to me.
+      </Text>
+    </Verse>
+    <Verse ID="77">
+      <Text Language="Original">
+        انقلابی کہ نگنجد بہ ضمیر افلاک
+بینم و ہیچ ندانم کہ چسان می بینم
+      </Text>
+      <Text Language="Urdu">
+        وہ انقلاب جو آسمانوں کے ضمیر کے میں نہیں سماتا، میں اسے دیکھ رہا ہوں اور کوئی نہیں جانتا کہ کیسے دیکھ رہا ہوں۔
+      </Text>
+      <Text Language="English">
+        A revolution too big for the universe’s mind I see, I know not how: I see it just about to be.
+      </Text>
+    </Verse>
+    <Verse ID="79">
+      <Text Language="Original">
+        خرم آنکس کہ درین گرد سواری بیند
+جوھر نغمہ ز لرزیدن تاری بیند
+      </Text>
+      <Text Language="Urdu">
+        خوش نصیب ہے وہ شخص جو گرد میں (پنہاں) سوار دیکھ لیتا ہے، تار (ساز ) کے لرزنے سے نغمہ کا جوہر بھانپ جاتا ہے۔
+      </Text>
+      <Text Language="English">
+        O happy he who sees the horseman, not the dust alone, who in the throbbing of the strings sees music’s essence drawn.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="81">
+      <Text Language="Original">
+        زندگی جوی روان است و روان خواہد بود
+این می کہنہ جوان است و جوان خواہد بود
+      </Text>
+      <Text Language="Urdu">
+        زندگی بہتی ہوئی ندی ہے اور یہ ہمیشہ بہتی رہے گی، یہ پرانی شراب جوان (تیز) ہے اور جوان ہی رہے گی۔
+      </Text>
+      <Text Language="English">
+        Life is, and as long as it lasts, will be a running stream: This old wine’s youthful effervescense will always be new.
+      </Text>
+    </Verse>
+    <Verse ID="83">
+      <Text Language="Original">
+        آنچہ بود است و نباید ز میان خواہد رفت
+آنچہ بایست و نبود است ھمان خواہد بود
+      </Text>
+      <Text Language="Urdu">
+        جو تھا ، اور نہیں ہونا چاہیے تھا، وہ درمیان سے نکل جائے گا، اور جو ہونا چاہیے تھا اور نہیں ہوا، وہ ضرور ہو کے رہے گا۔
+      </Text>
+      <Text Language="English">
+        What has been but should not have been will not be any more: What should have been but has not been will be – it must be so.
+      </Text>
+    </Verse>
+    <Verse ID="85">
+      <Text Language="Original">
+        عشق از لذت دیدار سراپا نظر است
+حسن مشتاق نمود است و عیان خواہد بود
+      </Text>
+      <Text Language="Urdu">
+        (ادھر) عشق (حسن ازل کے) دیدار کی لذت کے باعث سراپا نظر (انتظار میں ہے) ، (ادھر) حسن اظہار کا شوق رکھتا ہے اور وہ ضرور ظاہر ہو گا۔
+      </Text>
+      <Text Language="English">
+        Love is all eyes for Beauty’s revelations yet to be: And Beauty, fond of self-display, must always be on view:
+      </Text>
+    </Verse>
+    <Verse ID="87">
+      <Text Language="Original">
+        آن زمینی کہ برو گریۂ خونین زدہ ام
+اشک من در جگرش لعل گران خواہد بود
+      </Text>
+      <Text Language="Urdu">
+        وہ سرزمین جہاں میں نے اپنے خون آلودہ آنسو ٹپکائے ہیں، اس کے جگر میں میرے آنسو قیمتی لعل بن کے رہیں گے۔
+      </Text>
+      <Text Language="English">
+        Deep in the earth that I have watered with my blood-stained tears my teardrops will remain embedded, gems of a rich hue.
+      </Text>
+    </Verse>
+    <Verse ID="89">
+      <Text Language="Original">
+        مژدۂ صبح درین تیرہ شبانم دادند
+شمع کشتند و ز خورشید نشانم دادند
+      </Text>
+      <Text Language="Urdu">
+        'مجھے اس تاریک رات میں صبح کی خوشخبری دی گئی ہے، شمع بجھا دی گئی ہے اور (طلوع ہونے والے ) آفتاب کا نشان دکھا دیا گیا ہے'۔ (تہذیب فرنگ کی تباہی اور نئے دور اسلام کی آمد کی طرف اشارہ ہے)۔
+      </Text>
+      <Text Language="English">
+        ‘I see in the dark night a portent of the coming dawn. My candle has been put out, but to greet the rising sun.’
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

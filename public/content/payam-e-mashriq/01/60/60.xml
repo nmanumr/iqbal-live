@@ -1,0 +1,21 @@
+<Poem ID="60" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        من اے دانشوران در پیچ و تابم
+خرد را فہم این معنی محال است
+چسان در مشت خاکی تن زند دل
+کہ دل دشت غزالان خیال است
+      </Text>
+      <Text Language="Urdu">
+        اے دانشورو ! میں ایک الجھن میں ہوں، خرد کے لیے اس نکتہ کو سمجھنا محال ہے۔
+مشت خاک (بدن) کے اندر دل کس طرح رکھ دیا گیا؛ کیونکہ دل غزالان افکار کا مرغزار ہے (افکار لطیف ہیں ، بدن کثیف)۔
+      </Text>
+      <Text Language="English">
+        Ye men of learning, I am in a maze, the mind this meaning cannot understand:
+How in a hand of Dust there beats a heart wherein gazelles of Fancy rove the land.
+(Translated by A.J. Arberry)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

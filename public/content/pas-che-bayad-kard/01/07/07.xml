@@ -1,0 +1,930 @@
+<Poem ID="07" Name="فقر" BookID="10" BookName="پس چہ بائد کرد" SectionID="01" SectionName="پس چہ بائد کرد">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        چیست فقر اے بندگان آب و گل
+یک نگاہ راہ بین یک زندہ دل
+      </Text>
+      <Text Language="Urdu">
+        اے مادی سامان کے غلاموں جانتے ہو فقر کیا ہے؟ ایک نگاہ جو صحیح راستہ دیکھ لے؛ اور ایک دل جو اللہ تعالے کی محبت سے زندہ ہو۔
+      </Text>
+      <Text Language="English">
+        O slaves of material things, what is Faqr? A penetrating insight and a living heart.	 
+
+* Iqbal here recounts only two characteristics of an ideal man: his penetrating insight which refers to his psychological and intellectual accomplishments, and a living heart, which refers to his spiritual attainments.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        فقر کار خویش را سنجیدن است
+بر دو حرف لا الہ پیچیدن است
+      </Text>
+      <Text Language="Urdu">
+        فقر اپنے کام کا محاسبہ کرنا ہے اور لا الہ کو اپنے اعمال کا مرکز بنانا ہے۔
+      </Text>
+      <Text Language="English">
+        Faqr is to sit in judgment over one’s own work; and to envelop oneself round the words there is no deity.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        فقر خیبر گیر با نان شعیر
+بستۂ فتراک او سلطان و میر
+      </Text>
+      <Text Language="Urdu">
+        فقر جو کی روٹی کھا کر خیبر فتح کرنا ہے؛ پادشاہ اور امیر سب فقر کے فتراک میں بندھے ہوئے (شکار) ہیں۔
+      </Text>
+      <Text Language="English">
+        Faqr is conquering Khaibar and living on barley meal, kings and nobles are tied to its saddle-straps.	 
+
+* Reference is to Ali (R.A.) who succeeded, during the life of the Prophet (S.A.W.), in subduing the fortress of Khaibar, the Jewish stronghold, after several unsuccessful attempts by others. It is said that ‘Ali’s usual staple food consisted of barky Iqbal has used the word sha’ir as well as jau, signifying barley, with Ali (R.A.) to imply that his feats of valour were due not to nourishing and rich food but to spiritual factors, complete and absolute faith in God.’
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        فقر ذوق و شوق و تسلیم و رضاست
+ما امینیم این متاع مصطفی است
+      </Text>
+      <Text Language="Urdu">
+        فقر ذوق و شوق و تسلیم و رضا کا نام ہے؛ یہ حضور اکرم (صلعم) کی متاع ہے اور ہم اس کے امین ہیں۔
+      </Text>
+      <Text Language="English">
+        Faqr is ardour, ecstasy and submission to the will of God.	 It belongs really to Mustafa (S.A.W.); we are only its trustees.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        فقر بر کروبیان شبخون زند
+بر نوامیس جہان شبخون زند
+      </Text>
+      <Text Language="Urdu">
+        فقر ایک طرف فرشتوں پر شبخون مارتا ہے اور دوسری طرف کائنات کی پوشیدہ قوتوں پر۔
+      </Text>
+      <Text Language="English">
+        Faqr makes a nightly assault on the angelic hosts, and on the hidden forces of Nature;
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        بر مقام دیگر اندازد ترا
+از زجاج، الماس می سازد ترا
+      </Text>
+      <Text Language="Urdu">
+        فقر تجھے ایک اور مقام تک پہنچا دیتا ہے؛ یہ شیشے سے الماس بنا دیتا ہے۔
+      </Text>
+      <Text Language="English">
+        It transforms you into a different man, and turns you from a piece of glass to a diamond.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        برگ و ساز او ز قرآن عظیم
+مرد درویشی نگنجد در گلیم
+      </Text>
+      <Text Language="Urdu">
+        فقر کا سامان قرآن عظیم ہے؛ مرد درویش گدڑی میں نہیں سماتا۔
+      </Text>
+      <Text Language="English">
+        Its whole equipment is derived from the Great Qur’an. A dervish cannot be contained in a blanket.*
+
+* Shaikh Sa’di says in Gulistatan that two kings cannot co-exist in a kingdom while two dervishes can be easily accommodated in a single blanket. Iqbal has employed Sa’di’s phraseology to express his idea. For Sa’di, a dervish is simply a poor man who is forced by circumstances to be content with the least. A dervish, for Iqbal, is poor by choice and is ambitious for the highest in the world, highest of course not in the material sense.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        گرچہ اندر بزم کم گوید سخن
+یک دم او گرمی صد انجمن
+      </Text>
+      <Text Language="Urdu">
+        اگرچہ فقیر بزم میں کم بات کرتا ہے مگر اس کی بات سینکڑوں انجمنوں کو گرما دیتی ہے۔
+      </Text>
+      <Text Language="English">
+        Although he speaks very little in the assembly of people, yet this little enlivens a hundred assemblies.
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        بی پران را ذوق پروازے دہد
+پشہ را تمکین شہبازی دہد
+      </Text>
+      <Text Language="Urdu">
+        فقر بے پروں کو ذوق پرواز اور مچھر کو تسکین شہباز عطا کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        It gives to the wingless the ambition to fly, and the majesty of a falcon to a gnat.
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        با سلاطین در فتد مرد فقیر
+از شکوہ بوریا لرزد سریر
+      </Text>
+      <Text Language="Urdu">
+        مرد فقیر پادشاہوں کے مقابلے میں کھڑا ہو جاتا ہے؛ شکوہ بوریا سے تخت لرز جاتا ہے۔
+      </Text>
+      <Text Language="English">
+        When a faqir falls out with kings, the throne trembles before the mat’s majesty.
+      </Text>
+    </Verse>
+    <Verse ID="21">
+      <Text Language="Original">
+        از جنون می افکند ہوئی بہ شہر
+وا رہاند خلق را از جبر و قہر
+      </Text>
+      <Text Language="Urdu">
+        وہ اپنے جنون سے شہر میں ہنگامہ کھڑا کر دیتا ہے؛ اور خلق خدا کو جبر و قہر سے نجات دلاتا ہے۔
+      </Text>
+      <Text Language="English">
+        He sets the whole town in tumult through his madness, and frees the people from tyranny and oppression.
+      </Text>
+    </Verse>
+    <Verse ID="23">
+      <Text Language="Original">
+        می نگیرد جز بہ آن صحرا مقام
+کاندرو شاہین گریزد از حمام
+      </Text>
+      <Text Language="Urdu">
+        مرد فقیر صرف اس صحرا میں مقام کرتا ہے جہاں شاہیں کبوتر کا مقابلہ کرنے سے گریز کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        He does not settle but in places where a falcon runs away from before a dove.*
+
+* Iqbal seems to imply that as a result of such people, social justice is fully established and the weak (symbolized here by dove) are no longer afraid of the strong (symbolized here by falcon).
+      </Text>
+    </Verse>
+    <Verse ID="25">
+      <Text Language="Original">
+        قلب او را قوت از جذب و سلوک
+پیش سلطان نعرہ او "لاملوک"
+      </Text>
+      <Text Language="Urdu">
+        فقر کا دل جذب و سلوک سے قوت پاتا ہے؛ وہ پادشاہ کے سامنے کوئی پادشاہ کا نعرہ لگاتا ہے۔
+      </Text>
+      <Text Language="English">
+        His heart’s power flows from ecstasy and sobriety.* His slogan before the king is no kings.	 
+
+* Jadhb-o suluk: Jadhb, ecstasy, and suluk is traveling on the way and salik is traveler. Jadhb-o suluk are two different vocations of a Sufi, corresponding to the states of sukr (intoxication) and sahw (sobriety) (Reference: Hujwiri’s Kashf al-Mahjub and Shahabuddin Suhrawardi’s Awarif aI-Ma’arif).
+      </Text>
+    </Verse>
+    <Verse ID="27">
+      <Text Language="Original">
+        آتش ما سوزناک از خاک او
+شعلہ ترسد از خس و خاشاک او
+      </Text>
+      <Text Language="Urdu">
+        اس کی خاک سے ہماری آگ میں تپش ہے؛ اسی کے خس و خاشاک سے شعلہ ڈرتا ہے۔
+      </Text>
+      <Text Language="English">
+        It is through his dust that our fire glows and burns, the flame trembles before the meanest particles of his dust.
+      </Text>
+    </Verse>
+    <Verse ID="29">
+      <Text Language="Original">
+        بر نیفتد ملتی اندر نبرد
+تا درو باقیست یک درویش مرد
+      </Text>
+      <Text Language="Urdu">
+        جب تک کسی قوم کے اندر ایک درویش باقی ہے؛ وہ جنگ میں کسی سے شکست نہیں کھاتی۔
+      </Text>
+      <Text Language="English">
+        No nation suffers defeat in the battle of life as long as it has a single dervish.*
+
+* Iqbal seems to think that nations rise and fall in relation to the treatment meted out by people to the men of God.
+      </Text>
+    </Verse>
+    <Verse ID="31">
+      <Text Language="Original">
+        آبروی ما ز استغنای اوست
+سوز ما از شوق بی پروای اوست
+      </Text>
+      <Text Language="Urdu">
+        مرد فقیر کے استغنا سے ہماری آبرو ہے؛ اور ہمارا سوز جان اس کے شوق بے پروا کا مرہون منت ہے۔
+      </Text>
+      <Text Language="English">
+        Our honour is due to his lordly contentment; our yearning is due to his carefree zeal.
+      </Text>
+    </Verse>
+    <Verse ID="33">
+      <Text Language="Original">
+        خویشتن را اندر این آئینہ بین
+تا ترا بخشند سلطان مبین
+      </Text>
+      <Text Language="Urdu">
+        اپنے آپ کو مرد فقیر کے آئینہ میں دیکھ تاکہ تجھے ناقابل تسخیر قوت حاصل ہو۔
+      </Text>
+      <Text Language="English">
+        Look at yourself in this mirror, that God may bestow on you clear authority.*
+
+* Clear authority: Sultan-i mubin: This phrase is used in the Qur’an mostly in reference to Moses, as, for instance, in xi. 96, xxiii. 45, Ii. 38 ‘And in Moses, when We sent him to Pharaoh with clear authority.’ In lii. 38 these words are used in a general sense. Sultan here means spiritual equipment necessary to meet different challenges of life adequately. In Reconstruction Iqbal translates the word sultan as power. If we try to acquire characteristics described in verses 291-316 of the man of God, we can attain what the Qur’an calls sultan-i mubin, clear authority, which leads one to act decisively in a time of crisis.
+      </Text>
+    </Verse>
+    <Verse ID="35">
+      <Text Language="Original">
+        حکمت دین دل نوازیہای فقر
+قوت دین بی نیازیہای فقر
+      </Text>
+      <Text Language="Urdu">
+        فقر کی دلنوازی حکمت دین سے پیدا ہوتی ہے؛ اور اس کی بے نیازی دین کے لیے قوت بنتی ہے۔
+      </Text>
+      <Text Language="English">
+        The essence of faith lies in the graciousness of Faqr; the might of faith flows from its high-mindedness.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="37">
+      <Text Language="Original">
+        مومنان را گفت آن سلطان دین
+"مسجد من این ھمہ روی زمین"
+      </Text>
+      <Text Language="Urdu">
+        جناب رسول پاک (صلعم) نے مومن سے فرمایا کہ میرے لیے تمام روئے زمین کو مسجد کر دیا گیا ہے۔
+      </Text>
+      <Text Language="English">
+        The King of the Faith said to the Muslims: ‘The whole earth is my mosque.’
+      </Text>
+    </Verse>
+    <Verse ID="39">
+      <Text Language="Original">
+        الامان از گردش نہ آسمان
+مسجد مومن بدست دیگران
+      </Text>
+      <Text Language="Urdu">
+        نو آسمانوں کی گردش سے اللہ تعالے بچائیں ؛ مومن کی مسجد (زمین) دوسروں کے ہاتھ میں آئی۔
+      </Text>
+      <Text Language="English">
+        Seek protection from the revolution of the nine heavens,* that the Muslim’s mosque remains in the hands of others.	 
+
+* ‘Revolution of nine heavens’ is an idiomatic way of saying ‘vicissitudes of fate’. It is based on ancient belief that man’s fate is determined by the revolutions of the sky and other planets.
+      </Text>
+    </Verse>
+    <Verse ID="41">
+      <Text Language="Original">
+        سخت کوشد بندۂ پاکیزہ کیش
+تا بگیرد مسجد مولای خویش
+      </Text>
+      <Text Language="Urdu">
+        اے پاک طینت انسان تجھے سخت کوشش کرنی چاہیے تاکہ تو اپنے آقا کی مسجد لے سکے۔
+      </Text>
+      <Text Language="English">
+        The person of pure faith tries hard to take back the mosque of his beloved Lord.
+      </Text>
+    </Verse>
+    <Verse ID="43">
+      <Text Language="Original">
+        ایکہ از ترک جہان گوئے، مگو
+ترک این دیر کہن تسخیر او
+      </Text>
+      <Text Language="Urdu">
+        اور اے وہ شخص جو ترک جہان کی بات کرتا ہے ایسا نہ کہہ ؛ اس پرانے بت خانے کے ترک کرنے کا مطلب اس کی تسخیر ہے۔
+      </Text>
+      <Text Language="English">
+        O you who talk of renunciation of this world, don’t talk of it, renunciation of this world lies in conquering* it.
+
+* Conquer, taskhir, control: Cf the Qur’an, xiv. 13: ‘He has made subservient to you whatsoever is in heavens and whatsoever is in the earth, all.
+      </Text>
+    </Verse>
+    <Verse ID="45">
+      <Text Language="Original">
+        راکبش بودن ازو وارستن است
+از مقام آب و گل برجستن است
+      </Text>
+      <Text Language="Urdu">
+        اس پر سوار ہو جانا ہی اسے ترک کرنا ہے اور آب و گل کے مقام سے باہر نکل آنا ہے۔
+      </Text>
+      <Text Language="English">
+        To be its rider is to free oneself from its bondage: it is to rise above the status of water und clay.
+      </Text>
+    </Verse>
+    <Verse ID="47">
+      <Text Language="Original">
+        صید مومن این جہان آب و گل
+باز را گوئی کہ صید خود بہل
+      </Text>
+      <Text Language="Urdu">
+        یہ جہان آب و گل مومن کا شکار ہے ؛ کیا تو باز سے کہتا ہے کہ وہ اپنا شکار چھوڑ دے۔
+      </Text>
+      <Text Language="English">
+        This world of water and clay is the Muslim’s quarry, would you advise a falcon to give up its prey?
+      </Text>
+    </Verse>
+    <Verse ID="49">
+      <Text Language="Original">
+        حل نشد این معنی مشکل مرا
+شاہین از افلاک بگریزد چرا
+      </Text>
+      <Text Language="Urdu">
+        میں یہ مشکل نکتہ حل نہیں کر سکا کہ شاہین کیوں افلاک سے گریز کرے۔
+      </Text>
+      <Text Language="English">
+        I am unable to understand why a falcon* should flee from the skies.	 
+
+* Falcon, shahin. As Iqbal states in one of his letters, he employs this word for a person who embodies all the characteristics of Faqr. Shahin is (i) self-respecting and jealous of its honour and does not eat of another’s prey; (ii) lives a free life, for it does not build a nest (iii) flies at high altitudes, (iv) loves solitude, and (v) has penetrating eyesight (Sh Ataullah, Ed., Iqbal Namah, II, 204-05).
+      </Text>
+    </Verse>
+    <Verse ID="51">
+      <Text Language="Original">
+        واے آن شاہین کہ شاہینی نکرد
+مرغکی از چنگ او نامد بدرد
+      </Text>
+      <Text Language="Urdu">
+        افسوس ہے اس شاہین پر جس نے شاہینی نہ کی ؛ کوئی پرندہ اس کے پنجے سے زخمی نہ ہوا۔
+      </Text>
+      <Text Language="English">
+        Alas! For a falcon that does not follow its nature, that recoils from inflicting pain on little birds;
+      </Text>
+    </Verse>
+    <Verse ID="53">
+      <Text Language="Original">
+        درکنامی ماند زار و سرنگون
+پر نزد اندر فضای نیلگون
+      </Text>
+      <Text Language="Urdu">
+        وہ اپنے کنام (شاہین کا گھر) میں عاجز سر جھکائے بیٹھا رہتا ہے؛ فضائے نیلگوں میں پرواز نہیں کرتا۔
+      </Text>
+      <Text Language="English">
+        That remains confined to its nest, afflicted and depressed,	 and does not wing the azure expanse of the skies.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="55">
+      <Text Language="Original">
+        فقر قرآن احتساب ہست و بود
+نے رباب و مستی و رقص و سرود
+      </Text>
+      <Text Language="Urdu">
+        قرآن پاک کا فقر تو یہ ہے کہ اس دنیا کا احتساب کیا جائے؛ یہ فقر چنگ و رباب ، مستی و رقص و سرور نہیں ہے۔
+      </Text>
+      <Text Language="English">
+        The Qur’anic Faqr is a critical examination of Existence: it is not mere rebeck-playing, intoxication, dancing and singing.
+      </Text>
+    </Verse>
+    <Verse ID="57">
+      <Text Language="Original">
+        فقر مومن چیست؟ تسخیر جہات
+بندہ از تأثیر او مولا صفات
+      </Text>
+      <Text Language="Urdu">
+        مومن کا فقر کیا ہے؟ کائنات کی تسخیر کرنا اور فقر کی تاثیر سے بندے کے اندر اپنے مولا کی صفات منعکس ہو جاتی ہیں ۔
+      </Text>
+      <Text Language="English">
+        What is a believer’s Faqr? It is conquering of dimensions, the slave acquires attributes of the Lord* through it.
+
+* Reference is to the tradition: takhallaqu bi akhlaqillah ‘Create in yourself attributes of God’.
+      </Text>
+    </Verse>
+    <Verse ID="59">
+      <Text Language="Original">
+        فقر کافر خلوت دشت و در است
+فقر مومن لرزۂ بحر و بر است
+      </Text>
+      <Text Language="Urdu">
+        کافر کا فقر صحرائے بیابان میں خلوت گزیں ہو جانا ہے؛ مومن کا فقر بحر و بر پر لرزہ طاری کر دینا ہے۔
+      </Text>
+      <Text Language="English">
+        The Faqr of an unbeliever is flight to the wilderness,* the Faqr of a believer makes land and sea tremble.	
+
+* Cf. the following verses Javid Namah: Whenever a watchful soul is born in a body, this ancient world trembles to its foundation.
+      </Text>
+    </Verse>
+    <Verse ID="61">
+      <Text Language="Original">
+        زندگے آنرا سکون غار و کوہ
+زندگی این را ز مرگ باشکوہ
+      </Text>
+      <Text Language="Urdu">
+        اس کی زندگی غار و کوہ کا سکون ہے؛ اس کی زندگی مرگ باشکوہ (شہادت کی موت) ہے۔
+      </Text>
+      <Text Language="English">
+        Life for the former is solitude in caves and mountains,* life for the latter flows from a glorious death;	
+
+* Iqbal quotes (Bal-i Jibril) from Rumi: The policy of our faith is holy war and glory, the policy in Christianity: caves and mountains.
+      </Text>
+    </Verse>
+    <Verse ID="63">
+      <Text Language="Original">
+        آن خدارا جستن از ترک بدن
+این خودے را بر فسان حق زدن
+      </Text>
+      <Text Language="Urdu">
+        وہ ترک بدن سے خدا کو ڈھوندتا ہے؛ یہ اپنی خودی کو اللہ تعالے کی سان پر چڑھتا ہے۔
+      </Text>
+      <Text Language="English">
+        The former is seeking God through renunciation of flesh; the latter is whetting one’s khudi on the stone of God;
+      </Text>
+    </Verse>
+    <Verse ID="65">
+      <Text Language="Original">
+        آن خودی را کشتن و وا سوختن
+این خودی را چون چراغ افروختن
+      </Text>
+      <Text Language="Urdu">
+        وہ خودی کو مارنا اور جلا دینا ہے؛ یہ خودی کو چراغ کی مانند روشن کرنا ہے۔
+      </Text>
+      <Text Language="English">
+        The former is killing and burning out of khudi, the latter is to illumine the khudi like a lamp.
+      </Text>
+    </Verse>
+    <Verse ID="67">
+      <Text Language="Original">
+        فقر چون عریان شود زیر سپہر
+از نہیب او بلرزد ماہ و مہر
+      </Text>
+      <Text Language="Urdu">
+        جب آسمان کے تلے فقر عریاں ہو جاتا ہے تو اس کی ہیبت سے سورج اور چاند لرزتے ہیں۔
+      </Text>
+      <Text Language="English">
+        When Faqr becomes naked under the Sun, the Sun and the Moon tremble through its fear.
+      </Text>
+    </Verse>
+    <Verse ID="69">
+      <Text Language="Original">
+        فقر عریان گرمی بدر و حنین
+فقر عریان بانگ تکبیر حسین
+      </Text>
+      <Text Language="Urdu">
+        فقر عریاں غزوات بدر و حنین کی گرمی ہے؛ فقر عریاں حضرت حسین (رضی اللہ) کی تکبیر کی آواز ہے۔
+      </Text>
+      <Text Language="English">
+        Naked Faqr is the warmth of Badr and Hunain,* it is the sound of Husain’s takbir.**
+
+* Badr and Hunain are places where two famous battles were fought by Muslims against the unbelievers.
+**Husain, the son of Ali the fourth Caliph R.A.
+      </Text>
+    </Verse>
+    <Verse ID="71">
+      <Text Language="Original">
+        فقر را تا ذوق عریانی نماند
+آن جلال اندر مسلمانی نماند
+      </Text>
+      <Text Language="Urdu">
+        جب فقر کے اندر عریانی کا ذوق نہ رہا تو مسلمان کے اندر وہ جلال بھی باقی نہ رہا۔
+      </Text>
+      <Text Language="English">
+        When Faqr lost its zest for nakedness, the Muslims lost their might (jalal).
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="73">
+      <Text Language="Original">
+        واے ما اے واے این دیر کہن
+تیغ لا در کف نہ تو داری نہ من
+      </Text>
+      <Text Language="Urdu">
+        افسوس صد افسوس اس کہن بتخانے (دنیا) کے اندر لا کی تلوار نہ تیرے ہاتھ میں ہے، نہ میرے ہاتھ میں۔
+      </Text>
+      <Text Language="English">
+        Alas! For us and for this ancient world! Neither you nor I possess the sword of negation.
+      </Text>
+    </Verse>
+    <Verse ID="75">
+      <Text Language="Original">
+        دل ز غیر اﷲ بپرداز ایجوان
+این جھان کہنہ در باز ایجوان
+      </Text>
+      <Text Language="Urdu">
+        اے جوان غیر اللہ سے دل ہٹا اور کہنہ جہان کا دروازہ کھول۔
+      </Text>
+      <Text Language="English">
+        O young man, free your heart of the other-than-God, and barter away this ancient world.
+      </Text>
+    </Verse>
+    <Verse ID="77">
+      <Text Language="Original">
+        تا کجا بی غیرت دین زیستن
+اے مسلمان مردن است این زیستن
+      </Text>
+      <Text Language="Urdu">
+        اے مسلمان تو کب تک غیرت دین کے بغیر زندگی بسر کرے گا؛ یہ زندگی نہیں موت ہے۔
+      </Text>
+      <Text Language="English">
+        How long can you live careless of the plight of your faith? O Muslim, this kind of life is as good as death.
+      </Text>
+    </Verse>
+    <Verse ID="79">
+      <Text Language="Original">
+        مرد حق باز آفریند خویش را
+جز بہ نور حق نبیند خویش را
+      </Text>
+      <Text Language="Urdu">
+        مرد حق اپنے آپ کو از سر نو تخلیق کرتا ہے؛ وہ اپنے آپ کو صرف حق تعالے کے نور سے دیکھتا ہے۔
+      </Text>
+      <Text Language="English">
+        The man of faith renews himself; he does not look at himself except in the light of God;*
+
+* Cf. the following verse (Javid Namah): The third witness: consciousness of God’s essence, to behold oneself in the light of God’s essence.
+      </Text>
+    </Verse>
+    <Verse ID="81">
+      <Text Language="Original">
+        بر عیار مصطفی خود را زند
+تا جہانی دیگری پیدا کند
+      </Text>
+      <Text Language="Urdu">
+        اور جناب رسول پاک (صلعم) کے معیار پر اپنے آپ کو پرکھتا اور اس طرح ایک نیا جہان وجود میں لاتا ہے۔
+      </Text>
+      <Text Language="English">
+        He measures himself by the standard set by Mustafa, and thus succeeds in creating a new world.*
+
+* According to Iqbal, it was Prophet Muhammad (S.A.W.) whose religious experience resulted in the creation of Muslim Community. He says: Muhammad chose solitude upon Mount Hira and for a space saw no other beside himself; our image was then poured into his heart and out of his solitude a nation arose.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="83">
+      <Text Language="Original">
+        آہ زان قومی کہ از پا برفتاد
+میر و سلطان زاد و درویشی نزاد
+      </Text>
+      <Text Language="Urdu">
+        افسوس اس قوم پر جس پر زوال طاری ہو گیا؛ اس نے میر و سلطان پیدا کیے مگر کوئی درویش پیدا نہ کیا۔
+      </Text>
+      <Text Language="English">
+        Woe to a nation that has fallen so low	that it gives birth to kings and lords but not to a single dervish.
+      </Text>
+    </Verse>
+    <Verse ID="85">
+      <Text Language="Original">
+        داستان او مپرس از من کہ من
+چون بگویم آنچہ ناید در سخن
+      </Text>
+      <Text Language="Urdu">
+        مجھ سے اس کی داستاں نہ پوچھ جو بات بیان میں نہیں آ سکتی میں اسے کیسے بیان کروں ۔
+      </Text>
+      <Text Language="English">
+        Do not ask me to tell you its story, for how can I describe what is indescribable?
+      </Text>
+    </Verse>
+    <Verse ID="87">
+      <Text Language="Original">
+        در گلویم گریہ ھا گردد گرہ
+این قیامت اندرون سینہ بہ
+      </Text>
+      <Text Language="Urdu">
+        میرے گلے میں گریہ گرہ بن گیا ہے؛ یہ قیامت سینے کے اندر ہی بہتر ہے۔
+      </Text>
+      <Text Language="English">
+        Tears choke my throat; it is better if this commotion remains within the heart.
+      </Text>
+    </Verse>
+    <Verse ID="89">
+      <Text Language="Original">
+        مسلم این کشور از خود ناامید
+عمر ہا شد با خدا مردی ندید
+      </Text>
+      <Text Language="Urdu">
+        اس ملک کا مسلمان اپنے آپ سے نا امید ہے؛ عمر گذر گئی اس نے کوئی با خدا مرد نہیں دیکھا۔
+      </Text>
+      <Text Language="English">
+        The Muslim of this land has lost all hope in himself, for a long time he has not seen a true man of God;
+      </Text>
+    </Verse>
+    <Verse ID="99">
+      <Text Language="Original">
+        لاجرم از قوت دین بدظن است
+کاروان خویش را خود رہزن است
+      </Text>
+      <Text Language="Urdu">
+        لا محالہ وہ دین کی قوت سے بدظن ہے؛ وہ خود ہی اپنے کاروان کے لیے رہزن بنا ہوا ہے۔
+      </Text>
+      <Text Language="English">
+        Hence he has grown sceptical about the strength of his faith, and has started waylaying his own caravan.
+      </Text>
+    </Verse>
+    <Verse ID="101">
+      <Text Language="Original">
+        از سہ قرن این امت خوار و زبون
+زندہ بی سوز و سرور اندرون
+      </Text>
+      <Text Language="Urdu">
+        تین سو سال سے یہ امت زبوں حال ہے؛ اور بغیر اندرونی سوز و سرور کے دن بسر کر رہی ہے۔
+      </Text>
+      <Text Language="English">
+        For three centuries the Ummah has been wretched and helpless,	it lives on without an inner (spiritual) fire and ecstasy.*
+
+* Iqbal here refers to the plight of the Muslims of the Subcontinent who, according to him, are spiritually impoverished due to the non-appearance of a true man of God during the last two or three hundred years. It is through the efforts of such people that nations get spiritual renewal as a result of which they are able to act creatively in the world.
+      </Text>
+    </Verse>
+    <Verse ID="103">
+      <Text Language="Original">
+        پست فکر و دون نہاد و کور ذوق
+مکتب و ملای او محروم شوق
+      </Text>
+      <Text Language="Urdu">
+        مسلمان پست فکر ، کم ہمت اور کور ذوق ہو چکا ہے؛ اس کے مکتب اور علما سب محروم شوق ہیں۔
+      </Text>
+      <Text Language="English">
+        Lowly in thought, mean of nature, vulgar in taste, its teachers and religious preceptors are devoid of fervour;
+      </Text>
+    </Verse>
+    <Verse ID="105">
+      <Text Language="Original">
+        زشتی اندیشہ او را خوار کرد
+افتراق او را ز خود بیزار کرد
+      </Text>
+      <Text Language="Urdu">
+        اس کی فکر کی خرابی نے اسے ذلیل کر دیا ہے؛ باہمی اختلافات نے اسے بیزار کر دیا ہے۔
+      </Text>
+      <Text Language="English">
+        Its low thoughts have made it wretched, and lack of unity has made it sick of itself.
+      </Text>
+    </Verse>
+    <Verse ID="107">
+      <Text Language="Original">
+        تا نداند از مقام و منزلش
+مرد ذوق انقلاب اندر دلش
+      </Text>
+      <Text Language="Urdu">
+        چونکہ وہ اپنے مقام و منزل کو نہیں پہچانتا اس لیے اس کے اندر ذوق انقلاب بھی ختم ہو چکا ہے۔
+      </Text>
+      <Text Language="English">
+        As he (the Muslim) is not aware of his true station,20 the zeal for revolution has died in his heart.	 
+
+* ‘His true station’ may refer to the task assigned to the Muslim nation by God, as described by the Qur’an, iii. 100: You are the best nation raised up for men: you enjoin good and forbid evil and you believe in Allah.
+      </Text>
+    </Verse>
+    <Verse ID="109">
+      <Text Language="Original">
+        طبع او بی صحبت مرد خبیر
+خستہ و افسردہ و حق ناپذیر
+      </Text>
+      <Text Language="Urdu">
+        کوئی مرد خیبر نہ ہونے کی وجہ سے اس کی طبع بیمار، افسردہ اور حق قبول کرنے کی صلاحیت ہی کھو چکی ہے۔
+      </Text>
+      <Text Language="English">
+        For lack of contact with a man of knowledge, he has become feeble and dejected, and incapable of accepting truth.
+      </Text>
+    </Verse>
+    <Verse ID="111">
+      <Text Language="Original">
+        بندۂ رد کردۂ مولاست او
+مفلس و قلاش و بی پرواست او
+      </Text>
+      <Text Language="Urdu">
+        وہ ایسا غلام ہے جس کا آقا اسے رد کر چکا ہے؛ وہ مفلس بھی ہے، قلاش بھی اور لا پروا بھی۔
+      </Text>
+      <Text Language="English">
+        He is a slave who has been rejected by his Lord, who has grown poor, indigent and absolutely careless.
+      </Text>
+    </Verse>
+    <Verse ID="113">
+      <Text Language="Original">
+        نے بکف مالی کہ سلطانی برد
+نے بدل نوری کہ شیطانی برد
+      </Text>
+      <Text Language="Urdu">
+        نہ اس کے ہاتھ میں مال ہے کہ سلطان چھینے؛ نہ اس کے دل میں نور ہے کہ شیطان لے جائے۔
+      </Text>
+      <Text Language="English">
+        He has no wealth which may be snatched away by a king,	 nor has he any (spiritual) light that may be taken away by a Satan.*
+
+* He is impoverished, both materially and spiritually.
+      </Text>
+    </Verse>
+    <Verse ID="115">
+      <Text Language="Original">
+        شیخ او لرد فرنگے را مرید
+گرچہ گوید از مقام با یزید
+      </Text>
+      <Text Language="Urdu">
+        اس کے صوفیا فرنگی لارڈ کے مرید ہیں؛ اگرچہ باتیں حضرت بایزید (رحمتہ اللہ ) کے مقام کی کرتے ہیں۔
+      </Text>
+      <Text Language="English">
+        His religious leader is a disciple of the Frankish lord, though he boasts of the station of Bayazid.*
+
+* Bayazid of Bistam, a famous Sufi.
+      </Text>
+    </Verse>
+    <Verse ID="117">
+      <Text Language="Original">
+        گفت دین را رونق از محکومی است
+زندگانے از خودی محرومی است
+      </Text>
+      <Text Language="Urdu">
+        کہتے ہیں کہ دین کی رونق محکومی سے ہے؛ خودی سے محرومی کا نام زندگی ہے۔
+      </Text>
+      <Text Language="English">
+        He says: Bondage gives splendour to religion, and life consists in being devoid of khudi.
+      </Text>
+    </Verse>
+    <Verse ID="119">
+      <Text Language="Original">
+        دولت اغیار را رحمت شمرد
+رقص ھا گرد کلیسا کرد و مرد
+      </Text>
+      <Text Language="Urdu">
+        اس نے غیروں کی دولت کو رحمت شمار کیا؛ وہ کلیسا کے گرد رقص کرتا ہوا مر گیا۔
+      </Text>
+      <Text Language="English">
+        danced in adoration round the Church and died.*
+
+* These lines refer to certain religious leaders of the Subcontinent who justified theologically the alien political rule of the British and enumerated the so-called blessings of their administration.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="121">
+      <Text Language="Original">
+        اے تہی از ذوق و شوق و سوز و درد
+می شناسی عصر ما با ما چہ کرد
+      </Text>
+      <Text Language="Urdu">
+        تو جو قوم ذوق و شوق و سوز و درد سے خالی ہے؛ کیا تو پہچانتا ہے کہ ہمارے دور نے ہمارے ساتھ کیا کیا۔
+      </Text>
+      <Text Language="English">
+        O you who are devoid of spiritual zest and anguish, do you know what this age of ours has done to us?
+      </Text>
+    </Verse>
+    <Verse ID="123">
+      <Text Language="Original">
+        عصر ما ما را ز ما بیگانہ کرد
+از جمال مصطفے بیگانہ کرد
+      </Text>
+      <Text Language="Urdu">
+        اس دور نے ہمیں اپنے آپ سے بے گانہ کر دیا ہے ؛ اس نے ہمیں جمال مصطفے (صلعم) سے نا آشنا کر دیا ہے۔
+      </Text>
+      <Text Language="English">
+        This age has estranged us from ourselves and cut us asunder from the beauty of Mustafa* (S.A.W.)
+
+* Beauty of Mustafa: It signifies cultural heritage of the Muslims which is based on the Qur’an and the Sunnah. Western education, as planned by the British rulers, deprived new generation of the inspiration that it would have derived from this heritage.)
+      </Text>
+    </Verse>
+    <Verse ID="125">
+      <Text Language="Original">
+        سوز او تا از میان سینہ رفت
+جوھر آئینہ از آئینہ رفت
+      </Text>
+      <Text Language="Urdu">
+        جب حضور (صلعم) کے عشق کا سوز سینے میں سے نکل گیا تو گویا آئینے کے اندر سے اس کا جوہر جا تا رہا۔
+      </Text>
+      <Text Language="English">
+        Since love for Mustafa departed from the breast, the mirror lost its natural lustre.
+      </Text>
+    </Verse>
+    <Verse ID="127">
+      <Text Language="Original">
+        باطن این عصر را نشاختی
+داو اول خویش را در باختی
+      </Text>
+      <Text Language="Urdu">
+        تو نے اس دور کے اندرون کو نہ پہچانا ؛ پہلے ہی داؤ میں اپنے آپ کو ہار دیا۔
+      </Text>
+      <Text Language="English">
+        You did not understand the real character of this age, and have lost the wager in the very first move.
+      </Text>
+    </Verse>
+    <Verse ID="129">
+      <Text Language="Original">
+        تا دماغ تو بہ پیچاکش فتاد
+آرزوی زندہ ئے در دل نزاد
+      </Text>
+      <Text Language="Urdu">
+        جب تیرا دماغ اس کی الجھنوں میں پڑ گیا؛ تو تیرا دل کوئی زندہ آرزو پیدا کرنے کے قابل نہ رہا۔
+      </Text>
+      <Text Language="English">
+        Since your mind got involved in its vortex, no live desire appeared in your heart.
+      </Text>
+    </Verse>
+    <Verse ID="131">
+      <Text Language="Original">
+        احتساب خویش کن از خود مرو
+یکدو دم از غیر خود بیگانہ شو
+      </Text>
+      <Text Language="Urdu">
+        اپنے آپ سے نہ بھاگ بلکہ اپنا احتساب کر تھوڑی دیر کے لیے غیروں سے بیگانہ ہو جا۔
+      </Text>
+      <Text Language="English">
+        Subject yourself to examination and do not forget yourself; be forgetful of the other-than-yourself for a while.*
+
+* In one of his addresses, Iqbal says, elucidating as if the verses here: The Indian Muslim has long ceased to explore the depth of his inner life. The result is that lie has ceased to live in the full glow and colour of life.
+      </Text>
+    </Verse>
+    <Verse ID="133">
+      <Text Language="Original">
+        تا کجا این خوف و وسواس و ہراس
+اندر این کشور مقام خود شناس
+      </Text>
+      <Text Language="Urdu">
+        یہ خوف و وسو اس اور ہراس کب تک ؟ اس ولایت میں اپنا مقام پہچان۔
+      </Text>
+      <Text Language="English">
+        Why do you give in to fear, doubt and melancholy? Realize your position in this country.
+      </Text>
+    </Verse>
+    <Verse ID="135">
+      <Text Language="Original">
+        این چمن دارد بسی شاخ بلند
+بر نگون شاخ آشیان خود مبند
+      </Text>
+      <Text Language="Urdu">
+        اس چمن میں کئی بلند شاخیں ہیں؛ تو انہیں چھوڑ کر نیچی شاخ پر آشیانہ نہ بنا۔
+      </Text>
+      <Text Language="English">
+        This garden (country) has many tall trees; therefore do not make your nest on a low branch.
+      </Text>
+    </Verse>
+    <Verse ID="137">
+      <Text Language="Original">
+        نغمہ داری در گلو اے بیخبر 
+جنس خود بشناس و با زاغان مپر
+      </Text>
+      <Text Language="Urdu">
+        اے بے خبر تو اپنے اندر نغمہ (ءتوحید) رکھتا ہے؛ اپنی جنس کو پہچان؛ اور زاغوں کے ساتھ پرواز نہ کر۔
+      </Text>
+      <Text Language="English">
+        O man unaware of yourself you have a song in your throat, recognize your true stock and do not fly with crows.*
+
+* These lines refer to the political situation obtaining in the Indian Subcontinent after the Third Round Table Conference came to end in the beginning of 1933. A White Paper was published by the British Government in March 1933. It contained proposals for the solution of the communal problem. Efforts began to be made to arrive at some solution which envisaged Muslims giving up separate electorates. Those working on these lines were called the Nationalist Muslims who did not enjoy the confidence of the majority of the Muslims of the country. Iqbal here advises the Muslims not to become camp-followers of others, to trust in themselves and try to achieve art independent and honourable position for themselves in accordance with their mission in life.
+      </Text>
+    </Verse>
+    <Verse ID="139">
+      <Text Language="Original">
+        خویشتن را تیزی شمشیر دہ
+باز خود را در کف تقدیر دہ
+      </Text>
+      <Text Language="Urdu">
+        (پہلے) اپنی خودی کو تلوار کی طرح تیز بنا پھر اپنے آپ کو تقدیر کے ہاتھ میں دے۔
+      </Text>
+      <Text Language="English">
+        Give yourself the keenness of a sword, and then hand yourself over to Destiny.
+      </Text>
+    </Verse>
+    <Verse ID="141">
+      <Text Language="Original">
+        اندرون تست سیل بی پناہ
+پیش او کوہ گران مانند کاہ
+      </Text>
+      <Text Language="Urdu">
+        تیرے اندر ایک بے پناہ سیلاب ہے؛ جس کے سامنے کوہ گراں کاہ کی مانند ہے۔
+      </Text>
+      <Text Language="English">
+        You have within you an irresistible storm, before which a lofty mountain is but straw.
+      </Text>
+    </Verse>
+    <Verse ID="143">
+      <Text Language="Original">
+        سیل را تمکین ز نا آسودن است
+یک نفس آسودنش نابودن است
+      </Text>
+      <Text Language="Urdu">
+        سیلاب کی شان نہ رکنے میں ہے؛ اگر وہ ایک لمحے کے لیے بھی رک جائے تو وہ ختم ہو جاتا ہے۔
+      </Text>
+      <Text Language="English">
+        The grandeur of the storm lies in restlessness; for it to rest for a moment is to die.
+      </Text>
+    </Verse>
+    <Verse ID="145">
+      <Text Language="Original">
+        من نہ ملا، نے فقیہ نکتہ ور
+نے مرا از فقر و درویشی خبر
+      </Text>
+      <Text Language="Urdu">
+        میں نہ ملّا ہوں ، نہ نکتہ ور فقیہ ، نہ مجھے فقر و درویشی کی کچھ خبر ہے۔
+      </Text>
+      <Text Language="English">
+        I am neither a theologian nor a jurist with an analytical mind, nor am I acquainted with the intricacies of Faqr.
+      </Text>
+    </Verse>
+    <Verse ID="147">
+      <Text Language="Original">
+        در رہ دین تیز بین و سست گام
+پختۂ من خام و کارم ناتمام
+      </Text>
+      <Text Language="Urdu">
+        دین کے معاملے میں میری نگاہ دور رس ہے؛ میرے قدم سست، میری پختگی خام ہے اور میرا کام نا مکمل ۔
+      </Text>
+      <Text Language="English">
+        For all my keen insight into the ways of faith, I am slow-footed;* all my work is incomplete and what to me appears mature is unripe,	
+
+* Iqbal’s statement: ‘I have given the best part of my life to a careful study of Islam, its laws and polity, its culture, its history and its literature. This constant contact with the spirit of Islam, as it unfolds itself in time, has, I think, given me a kind of insight into its significance as a world-fact.’
+      </Text>
+    </Verse>
+    <Verse ID="149">
+      <Text Language="Original">
+        تا دل پر اضطرابم دادہ اند
+یک گرہ از صد گرہ بگشادہ اند
+      </Text>
+      <Text Language="Urdu">
+        مجھے دل پر اضطراب دے کر سینکڑوں گرہوں میں سے ایک گرہ کھول دی گئی ہے۔
+      </Text>
+      <Text Language="English">
+        But God has given me a heart full of living passion	and thus enabled me to unravel one knot out of a hundred.
+      </Text>
+    </Verse>
+    <Verse ID="151">
+      <Text Language="Original">
+        "از تب و تابم نصیب خود بگیر
+بعد ازین ناید چو من مرد فقیر"
+      </Text>
+      <Text Language="Urdu">
+        تو بھی میری تب و تاب سے اپنا حصّہ لے لے؛ میرے بعد پھر کوئی مجھ جیسا فقیر نہیں آئے گا۔
+      </Text>
+      <Text Language="English">
+        ‘Take your share of my fire and ardour, there may not come after me as a faqir like me.’	 
+(Translated by B A Dar)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

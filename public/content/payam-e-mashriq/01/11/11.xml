@@ -1,0 +1,21 @@
+<Poem ID="11" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        جہان ما کہ نابود است بودش
+زیان توام ہمی زاید بسودش
+کہن را نو کن و طرح دگر ریز
+دل ما بر نتابد دیر و زودش
+      </Text>
+      <Text Language="Urdu">
+        ہمارا جہان جس کا ہونا نہ ہونے کے برابر ہے؛ یہاں فائدے کے ساتھ نقصان بھی بڑھتا ہے۔
+یہ پرانا ہو چکا ہے، اس کی بنیاد از سر نو اٹھا کر اسے نیا کر، ہمارا دل اس کے دیر و زود کی تاب نہیں رکھتا (دل چاہتا ہے کہ اس کی خواہش فورا پوری ہو)۔
+      </Text>
+      <Text Language="English">
+        This world of ours, where Loss is born with gain and dissolution is with Being twain.
+Our heart will not endure it, soon or late: Make new the old, and build it up again! 
+(Translated by A.J. Arberry)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

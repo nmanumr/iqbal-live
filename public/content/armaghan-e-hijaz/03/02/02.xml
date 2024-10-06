@@ -1,0 +1,43 @@
+<Poem ID="02" Name="None" BookID="04" BookName="ارمغانِ حجاز" SectionID="03" SectionName="ملا زادہ ضیغم لولا بے کشمیری کا بیاض">
+  <Para>
+    <Verse ID="01">
+      <Text Language="Original">
+        موت ہے اک سخت تر جس کا غلمی ہے نام
+مکر و فن خواجگی کاش سمجھتا غلم!
+      </Text>
+      <Text Language="Urdu">
+        مکر و فن خواجگی: آقاؤں کے فریب۔
+      </Text>
+      <Text Language="English">
+        The death is a stone whose name is bondage, the kingship tricks alas, could know this page.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        شرع ملوکانہ میں جدت احکام دیکھ
+صور کا غوغا حلل، حشر کی لذت حرام!
+      </Text>
+      <Text Language="Urdu">
+        ملوکانہ : بادشاہوں کے قوامین۔ شرع
+جدت: نیا پن۔ 
+صور کا غوغا حلال: مراد ہے حکم ملنے پر اکٹھے ہونا حلال ہے۔
+      </Text>
+      <Text Language="English">
+        In the kingship laws see a novice bill, which bids the ‘Horn’s noise, but bans doomsday thrill.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        اے کہ غلمی سے ہے روح تری مضمحل
+سینۂ بے سوز میں ڈھونڈ خودی کا مقام!
+      </Text>
+      <Text Language="Urdu">
+        مضمحل: کمزور، ناتواں۔
+      </Text>
+      <Text Language="English">
+        The bondage has made thy soul so weak, in a flameless heart, the place of self seek.
+[Translated by Q A Kabir]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,21 @@
+<Poem ID="05" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        عقابان را بھای کم نہد عشق
+تذروان را ببازان سر دہد عشق
+نگہ دارد دل ما خویشتن را
+ولیکن از کمینش بر جہد عشق
+      </Text>
+      <Text Language="Urdu">
+        عشق کی نظر میں عقاب کوئی شے نہیں؛ وہ تدرو (چھوٹے سے پرندے ) کو بازوں سے لڑا دیتا ہے۔ 
+ہمارے دل نے اپنی بہت حفاظت کی؛ مگر عشق نے اپنی گھات سے (نکل کر) اس پر حملہ کر دیا۔
+      </Text>
+      <Text Language="English">
+        Love reckoneth the price of eagles cheap, and giveth pheasants to the falcons’ grip.
+Our hearts look carefully to their defence, but suddenly, out of ambush, Love doth leap. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

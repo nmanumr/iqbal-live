@@ -1,0 +1,21 @@
+<Poem ID="03" Name="None" BookID="04" BookName="ارمغانِ حجاز" SectionID="02" SectionName="رباعیات">
+  <Para>
+    <Verse ID="01">
+      <Text Language="Original">
+        دگرگوں عالم شام و سحر کر
+جہان خشک و تر زیر و زبر کر
+رہے تیری خدائی داغ سے پاک
+مرے بے ذوق سجدوں سے حذر کر
+      </Text>
+      <Text Language="Urdu">
+        دگرگوں: بدلنا۔ 
+زیر و زبر: تہس نہس ۔ 
+حذر: بچ، پرہیز کر۔
+      </Text>
+      <Text Language="English">
+        Change the whole world’s evenings and dawns, change the whole world’s dry and wet lawns. Make thy Godship free from every plaint, look not my kowtow’s tasteless taint.
+(Translated by Q A Kabir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

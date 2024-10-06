@@ -1,0 +1,377 @@
+<Poem ID="01" Name="تمہید" BookID="08" BookName="زبورِعجم" SectionID="03" SectionName="گلشن راز جدید">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        ز جان خاور آن سوز کہن رفت
+دمش واماند و جان او ز تن رفت
+      </Text>
+      <Text Language="Urdu">
+        مشرق کے اندر وہ سوز کہن نہیں رہا ، سانس موجود ہے ، مگر تن سے اس کی جان نکل چکی ہے۔
+      </Text>
+      <Text Language="English">
+        The old ardour has disappeared from the life of the East; its breath wavered and soul left its body;
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        چو تصویری کہ بی تار نفس زیست
+نمی داند کہ ذوق زندگی چیست
+      </Text>
+      <Text Language="Urdu">
+        اس تصویر کی مانند ، جو سانس کے بغیر زندہ ہوتی ہے، وہ نہیں جانتا کہ ذوق حیات کیا ہے۔
+      </Text>
+      <Text Language="English">
+        Like a picture without the chain of breath and does not know what the taste of life is.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        دلش از مدعا بیگانہ گردید
+نے او از نوا بیگانہ گردید
+      </Text>
+      <Text Language="Urdu">
+        اس کا دل مقصود نا آشنا (سامنے کوئی مقصد نہیں ) اور اس کی بانسری بے نوا ہے۔
+      </Text>
+      <Text Language="English">
+        Its heart lost desire and craving, its flute ceased to produce notes.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        بہ طرز دیگر از مقصود گفتم
+جواب نامۂ محمود گفتم
+      </Text>
+      <Text Language="Urdu">
+        میں نے اپنا مقصود مختلف انداز سے بیان کیا ہے، میں نے محمود (شبستری) کے سوالات کا جواب لکھا ہے۔
+      </Text>
+      <Text Language="English">
+        I am expressing my ideas in a different form, and writing in reply to the book of Mahmud.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        ز عہد شیخ تا این روزگاری
+نزد مردی بجان ما شراری
+      </Text>
+      <Text Language="Urdu">
+        شیخ (محمود ) کے دور سے اب تک ، کسی مرد نے ہماری جان کو شرر (عشق) سے آشنا نہیں کیا۔
+      </Text>
+      <Text Language="English">
+        Since the time of the Shaikh, no man has given the sparks of fire to our life.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        کفن در بر بخاکی آرمیدیم
+ولی یک فتنۂ محشر ندیدیم
+      </Text>
+      <Text Language="Urdu">
+        ہم کفن پہنے ، خاک میں پڑے ہیں، ہم نے ایک فتنہ ء محشر بھی نہیں دیکھا۔
+      </Text>
+      <Text Language="English">
+        We lay on the earth with shrouds around our bodies, and did not experience a single resurrection.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        گذشت از پیش آن دانای تبریز
+قیامتہا کہ رست از کشت چنگیز
+      </Text>
+      <Text Language="Urdu">
+        اس دانائے تبریز (محمود) کے سامنے سے چنگیز کی برپا کردہ کئی قیامتیں گذر گئیں۔
+      </Text>
+      <Text Language="English">
+        That wise man of Tabriz witnessed before his eyes calamities that resulted from the invasion of Genghis.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        نگاہم انقلابی دیگری دید
+طلوع آفتابی دیگری دید
+      </Text>
+      <Text Language="Urdu">
+        میری نگاہ نے ایک اور انقلاب دیکھا ، میں نے ایک اور سورج طلوع ہوتے پایا۔
+      </Text>
+      <Text Language="English">
+        I saw a revolution of another type: Appearance of a new sun.
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        گشودم از رخ معنی نقابی
+بدست ذرہ دادم آفتابی
+      </Text>
+      <Text Language="Urdu">
+        میں نے رخ معنی سے پردہ ہٹا کر ذرہ کے ہاتھ میں آفتاب دے دیا۔
+      </Text>
+      <Text Language="English">
+        I removed veil from the face of meaning, and gave sun in the hands of a mote.
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        نپنداری کہ من بی بادہ مستم
+مثال شاعران افسانہ بستم
+      </Text>
+      <Text Language="Urdu">
+        یہ نہ سمجھ کہ میں بغیر شراب کے مست ہوں اور شاعروں کی مانند محض افسانہ گوئی کر رہا ہوں۔
+      </Text>
+      <Text Language="English">
+        Don’t you think I am intoxicated without wine, and spin tales likes poets.
+      </Text>
+    </Verse>
+    <Verse ID="21">
+      <Text Language="Original">
+        نبینی خیر از آن مرد فرو دست
+کہ بر من تہمت شعر و سخن بست
+      </Text>
+      <Text Language="Urdu">
+        اس پست ہمت شخص سے بھلائی کی کوئی امید نہیں ، جس نے مجھ پر شعر و سخن کی تہمت رکھی۔
+      </Text>
+      <Text Language="English">
+        You will see no good from a low person, who accuses me of being a poet.
+      </Text>
+    </Verse>
+    <Verse ID="23">
+      <Text Language="Original">
+        بکوی دلبران کاری ندارم
+دل زاری غم یاری ندارم
+      </Text>
+      <Text Language="Urdu">
+        دلبروں کے کوچے سے مجھے کوئی کام نہیں، نہ میرے پاس دل زار ہے ، نہ غم یار۔
+      </Text>
+      <Text Language="English">
+        I have nothing to do with the street of the beloved, and do not have a grief-stricken heart nor a longing for the beloved;
+      </Text>
+    </Verse>
+    <Verse ID="25">
+      <Text Language="Original">
+        نہ خاک من غبار رہگذاری
+نہ در خاکم دل بی اختیاری
+      </Text>
+      <Text Language="Urdu">
+        نہ میری خاک غبار راہ ہے، نہ میرے بدن میں دل بے اختیار ہے۔
+      </Text>
+      <Text Language="English">
+        Neither is my earth the dust of a street, nor is within my clay a heart without self-control.
+      </Text>
+    </Verse>
+    <Verse ID="27">
+      <Text Language="Original">
+        بہ جبریل امین ھمداستانم
+رقیب و قاصد و دربان ندانم
+      </Text>
+      <Text Language="Urdu">
+        میں تو جبریل امین (علیہ) کا ہم داستان ہوں، میرا کوئی رقیب، قاصد یا دربان نہیں ، (اللہ تعالے سے براہ راست فیضیاب ہوں۔
+      </Text>
+      <Text Language="English">
+        My mission in life is in line with Gabriel the Truthful; I have neither a rival, nor a messenger, nor a porter.
+      </Text>
+    </Verse>
+    <Verse ID="29">
+      <Text Language="Original">
+        مرا با فقر سامان کلیم است
+فر شاہنشہی زیر گلیم است
+      </Text>
+      <Text Language="Urdu">
+        میرا فقر سامان کلیم (علیہ) رکھتا ہے، میری گدڑی کے نیچے شوکت شہنشاہی (پوشیدہ) ہے۔
+      </Text>
+      <Text Language="English">
+        Though a mendicant, I have the wherewithal of Moses: Kingly pomp under a beggar’s garment.
+      </Text>
+    </Verse>
+    <Verse ID="31">
+      <Text Language="Original">
+        اگر خاکم بہ صحرائی نگنجم
+اگر آبم بہ دریائے نگنجم
+      </Text>
+      <Text Language="Urdu">
+        اگر میں خاک ہوں تو صحرا میں نہیں سماتا، اگر پانی ہوں تو دریا میں نہیں سماتا۔
+      </Text>
+      <Text Language="English">
+        If I am earth, desert cannot contain me; if water, river cannot encompass me.
+      </Text>
+    </Verse>
+    <Verse ID="33">
+      <Text Language="Original">
+        دل سنگ از زجاج من بلرزد
+یم افکار من ساحل نورزد
+      </Text>
+      <Text Language="Urdu">
+        میرے شیشے سے پتھر کا دل لرزتا ہے، میرے افکار کا سمندر بے کنار ہے۔
+      </Text>
+      <Text Language="English">
+        The heart of a stone trembles at my glass, the ocean of my thought is without a shore.
+      </Text>
+    </Verse>
+    <Verse ID="35">
+      <Text Language="Original">
+        نھان تقدیر ہا در پردۂ من
+قیامت ہا بغل پروردۂ من
+      </Text>
+      <Text Language="Urdu">
+        میرے اندر (قوموں کی) تقدیریں پنہاں ہیں، میری آستین میں قیامتیں پرورش پا رہی ہیں۔
+      </Text>
+      <Text Language="English">
+        Behind my curtain lie concealed several destinies, and several resurrections take birth at my hand.
+      </Text>
+    </Verse>
+    <Verse ID="37">
+      <Text Language="Original">
+        دمی در خویشتن خلوت گزیدم
+جہانی لازوالی آفریدم
+      </Text>
+      <Text Language="Urdu">
+        میں نے ایک اور لمحہ اپنے اندر خلوت گزین ہو کر جہان لازوال پیدا کیا ہے۔
+      </Text>
+      <Text Language="English">
+        For a moment I retired unto myself, I created an immortal world.
+      </Text>
+    </Verse>
+    <Verse ID="39">
+      <Text Language="Original">
+        مرا زین شاعری خود عار ناید
+کہ در صد قرن یک عطار ناید
+      </Text>
+      <Text Language="Urdu">
+        مجھے اس شاعری سے کوئی عار نہیں، کیونکہ صدیوں میں ایک عطار پیدا نہیں ہوتا۔
+      </Text>
+      <Text Language="English">
+        ‘I am not ashamed of such poetry, for in a hundred years an Attar might not appear.’
+      </Text>
+    </Verse>
+    <Verse ID="41">
+      <Text Language="Original">
+        بجانم رزم مرگ و زندگانی است
+نگاہم بر حیات جاودانی است
+      </Text>
+      <Text Language="Urdu">
+        میرے اندر موت و حیات کی جنگ (جاری) ہے ، (اور) میری نگاہ ہمیشہ کی زندگی پر ہے۔
+      </Text>
+      <Text Language="English">
+        A battle of life and death is being waged in my soul; my eye is riveted on immortal life.
+      </Text>
+    </Verse>
+    <Verse ID="43">
+      <Text Language="Original">
+        ز جان خاک ترا بیگانہ دیدم
+بہ اندام تو جان خود دمیدم
+      </Text>
+      <Text Language="Urdu">
+        میں تجھے جان سے خالی دیکھتا ہوں، اس لیے تیرے بدن میں اپنی جان پھونک رہا ہوں۔
+      </Text>
+      <Text Language="English">
+        I saw your clay stranger to life, hence I breathed into your body of my own soul.
+      </Text>
+    </Verse>
+    <Verse ID="45">
+      <Text Language="Original">
+        از آن ناری کہ دارم داغ داغم
+شب خود را بیفروز از چراغم
+      </Text>
+      <Text Language="Urdu">
+        میرے اندر جو آگ ہے اس سے میں داغ داغ ہوں، تو اپنی رات کو میرے داغ کے چراغ سے روشن کر۔
+      </Text>
+      <Text Language="English">
+        I am wholly affected by the fire that I possess: Illumine the darkness of your night by my lamp.
+      </Text>
+    </Verse>
+    <Verse ID="47">
+      <Text Language="Original">
+        بخاک من دلی چون دانہ کشتند
+بہ لوح من خط دیگر نوشتند
+      </Text>
+      <Text Language="Urdu">
+        میری خاک میں دل کو دانے کی مانند کاشت کیا گیا ہے، میرے ذہن کی تختی پر نئی بات رقم کی گئی ہے۔
+      </Text>
+      <Text Language="English">
+        Heart was sown into the soil of my body like a seed, a different destiny was written on my tablet:
+      </Text>
+    </Verse>
+    <Verse ID="49">
+      <Text Language="Original">
+        مرا ذوق خودی چون انگبین است
+چہ گویم واردات من ہمین است
+      </Text>
+      <Text Language="Urdu">
+        خودی کا ذوق میرے لیے شہد ہے، کیا کروں یہی میری کیفیت ہے۔
+      </Text>
+      <Text Language="English">
+        To me the ideal of khudi is sweet as honey. What else can I do? My whole stock consists of this experience.
+      </Text>
+    </Verse>
+    <Verse ID="51">
+      <Text Language="Original">
+        نخستین کیف او را آزمودم
+دگر بر خاوران قسمت نمودم
+      </Text>
+      <Text Language="Urdu">
+        پہلے میں اس کے کیف کو خود آزماتا ہوں ، پھر اسے اہل مشرق کی نظر کرتا ہوں،
+      </Text>
+      <Text Language="English">
+        First I tasted the fruit of this experience myself, then I decided to share it with the people of the East.
+      </Text>
+    </Verse>
+    <Verse ID="53">
+      <Text Language="Original">
+        اگر این نامہ را جبریل خواند
+چو گرد آن نور ناب از خود فشاند
+      </Text>
+      <Text Language="Urdu">
+        اگر اس تحریر کو جبریل (علیہ) پڑھ لیتے، تو نور کو گرد کی طرح اپنے پروں سے جھاڑ دیتے۔
+      </Text>
+      <Text Language="English">
+        If Gabriel were to go through this book, he would cast aside the pure [Divine] Light as if it were dust;
+      </Text>
+    </Verse>
+    <Verse ID="55">
+      <Text Language="Original">
+        بنالد از مقام و منزل خویش
+بہ یزدان گوید از حال دل خویش
+      </Text>
+      <Text Language="Urdu">
+        وہ اپنے مقام و منزل (پر نازاں ہونے کی بجائے) فریاد کرتے اور اپنے دل کا حال اللہ تعالے سے یوں بیان کرتے۔
+      </Text>
+      <Text Language="English">
+        He would bewail about his [low] station, and relate to God the condition of his heart:
+      </Text>
+    </Verse>
+    <Verse ID="57">
+      <Text Language="Original">
+        تجلی را چنان عریان نخواہم
+نخواھم جز غم پنہان نخواہم
+      </Text>
+      <Text Language="Urdu">
+        میں تجلّی کو اتنا بے حجاب نہیں دیکھنا چاہتا ، میں (ہجر کے) غم پنہاں کے سوائے اور کچھ نہیں چاہتا۔
+      </Text>
+      <Text Language="English">
+        ‘I no longer desire unveiled Epiphany; I desire nothing but hidden heart-sore.
+      </Text>
+    </Verse>
+    <Verse ID="59">
+      <Text Language="Original">
+        گذشم از وصال جاودانی
+کہ بینم لذت آہ و فغانی
+      </Text>
+      <Text Language="Urdu">
+        میں وصل مدام سے دستبردار ہوتا ہوں تاکہ لذت آہ و فغاں پاؤں۔
+      </Text>
+      <Text Language="English">
+        I am ready to forego eternal union, for now I realize what sweetness is in lamentation!
+      </Text>
+    </Verse>
+    <Verse ID="61">
+      <Text Language="Original">
+        مرا ناز و نیاز آدمی دہ
+بہ جان من گداز آدمی دہ
+      </Text>
+      <Text Language="Urdu">
+        مجھے آدم کا ناز و نیاز عطا ہو، میری جان کو آدم کا سوز و گداز ملے۔
+      </Text>
+      <Text Language="English">
+        Give me the pride and submissiveness of man, give unto my heart burning and consuming of man.’
+(Translated by Bashir Ahmad Dar)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

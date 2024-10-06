@@ -1,0 +1,53 @@
+<Poem ID="41" Name="مومن" BookID="03" BookName="ضربِ کلیم" SectionID="01" SectionName="اسلام اور مسلمان">
+  <Para Name="(دنیا میں)">
+    <Verse ID="01">
+      <Text Language="Original">
+        ہو حلقہ یاراں تو بریشم کی طرح نرم 
+رزم حق و باطل ہو تو فولاد ہے مومن
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        BELIEVER
+In the world: A man whose faith is firm and strong is soft as silk in friendly throng in skirmish between wrong and right like sword of steel, he stands to fight.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        افلاک سے ہے اس کی حریفانہ کشاکش 
+خاکی ہے مگر خاک سے آزاد ہے مومن
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The skies are his inveterate foes, his war with them e'er onward goes though Muslim true of clay is born from earthly bonds still be is torn.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        جچتے نہیں کنجشک و حمام اس کی نظر میں 
+جبریل و سرافیل کا صیاد ہے مومن
+      </Text>
+      <Text Language="Urdu">
+        کنجشک و حمام: چڑیا اور کبوتر۔
+      </Text>
+      <Text Language="English">
+        To hunt the sparrow and the dove he does not like and does not love, he much aspires his noose to cast on angels great and hold it fast.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="جنت میں">
+    <Verse ID="07">
+      <Text Language="Original">
+        کہتے ہیں فرشتے کہ دل آویز ہے مومن 
+حوروں کو شکایت ہے کم آمیز ہے مومن
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        In Paradise: The, angels of this thing are sure that a Muslim can allure, but Maids of Eden do complain, from society he does oft refrain.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

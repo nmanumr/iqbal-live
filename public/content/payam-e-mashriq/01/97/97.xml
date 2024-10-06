@@ -1,0 +1,21 @@
+<Poem ID="97" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        دل بیباک را ضرغام رنگ است
+دل ترسندہ را آہو پلنگ است
+اگر بیمی نداری بحر صحراست
+اگر ترسی بہر موجش نہنگ است
+      </Text>
+      <Text Language="Urdu">
+        دل بیباک کے لیے شیر بھی پہاڑی بکری ہے؛ خوفزدہ دل کے لیے ہرن بھی چیتا ہے۔
+اگر تیرے اندر خون نہیں تو تیرے لیے سمندر بھی صحرا ہے؛ اگر تو خوفزدہ ہے تو اس کی ہر موج میں تجھے مگرمچھ نظر آئے گا۔
+      </Text>
+      <Text Language="English">
+        To a fearless heart a lion is a sheep; to a timid heart a deer is a tiger.
+If you have no fear, the ocean is a desert; if you are fearful, there is a crocodile in every wave.
+(Translated by Mustansir Mir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,41 @@
+<Poem ID="28" Name="جمعیت اقوام" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بیچاری کئی روز سے دم توڑ رہی ہے 
+ڈر ہے خبر بد نہ مرے منہ سے نکل جائے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        LEAGUE OF NATIONS
+The League appears to be in death's tight grips; I fear this grim news may escape my lips.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        تقدیر تو مبرم نظر آتی ہے ولیکن 
+پیران کلیسا کی دعا یہ ہے کہ ٹل جائے
+      </Text>
+      <Text Language="Urdu">
+        مبرم: اٹل۔
+      </Text>
+      <Text Language="English">
+        The Fate of League to all is plain and clear, but Church. Guides pray that safely it may steer.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        ممکن ہے کہ یہ داشتہ پیرک افرنگ 
+ابلیس کے تعویذ سے کچھ روز سنبھل جائے
+      </Text>
+      <Text Language="Urdu">
+        داشتہ پيرک افرنگ: بوڑھے فرنگی کی داشتہ۔
+      </Text>
+      <Text Language="English">
+        On Frank's dear mistress, may remain alive, by Satan's charm a few days more survive. 
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

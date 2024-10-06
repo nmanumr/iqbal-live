@@ -1,0 +1,28 @@
+<Poem ID="01" Name="" BookID="01" BookName="بانگِ درا" SectionID="04" SectionName="ظریفانہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        مشرق میں اصول دین بن جاتے ہیں 
+مغرب میں مگر مشین بن جاتے ہیں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        In the East principles are changed to religion, but in the West they are changed into machines.
+We do not retain even one of them; there one is changed into three. 
+(Reference to the doctrine of Trinity) 
+(Translated by M.A.K. Khalil)
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        رہتا نہیں ایک بھی ہمارے پلے 
+واں ایک کے تین تین بن جاتے ہیں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

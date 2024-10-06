@@ -1,0 +1,39 @@
+<Poem ID="21" Name="" BookID="01" BookName="بانگِ درا" SectionID="04" SectionName="ظریفانہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        یہ آیہ نو، جیل سے نازل ہوئی مجھ پر 
+گیتا میں ہے قرآن تو قرآن میں گیتا
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        This new `verse’ was revealed to me from the jail that the Qur’an is in the Gita and the Gita is in the Qur’an.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        کیا خوب ہوئی آشتی شیخ و برہمن 
+اس جنگ میں آخر نہ یہ ہارا نہ وہ جیتا
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        How well friendship developed between Shaikh and Brahman in this battle after all neither this nor that was winning.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        مندر سے تو بیزار تھا پہلے ہی سے 'بدری' 
+مسجد سے نکلتا نہیں، ضدی ہے مسیتا'
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        ‘Badri’ was already disgusted with the temple; ‘Masita’ does not step out of the mosque, he is stubborn..
+(Badri and Masita: Respectively are names of an uneducated village-Hindu and Muslim in the Indian Sub-continent.)
+[Translated by Dr M A K Khalil]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

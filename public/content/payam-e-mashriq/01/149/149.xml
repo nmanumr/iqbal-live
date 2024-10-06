@@ -1,0 +1,19 @@
+<Poem ID="149" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        عجم بحریست ناپیدا کناری
+کہ در وی گوہر الماس رنگ است
+ولیکن من نرانم کشتی خویش
+بہ دریائی کہ موجش بی نہنگ است
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Persia’s a sea that never comes to shore, wherein are pearls of diamantine hue; 
+Yet I’ll not sail my barque upon a sea within whose waves is never a shark to view. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

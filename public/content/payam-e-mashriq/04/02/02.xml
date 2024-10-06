@@ -1,0 +1,22 @@
+<Poem ID="02" Name="جمعیت الاقوام" BookID="07" BookName="پیامِ مشرق" SectionID="04" SectionName="نقش فرنگ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بر فتد تا روش رزم درین بزم کہن
+دردمندان جھان طرح نو انداختہ اند
+من ازین بیش ندانم کہ کفن دزدی چند
+بہر تقسیم قبور انجمنی ساختہ اند
+      </Text>
+      <Text Language="Urdu">
+        (کہا جاتا ہے کہ) دنیا کے بہی خواہوں نے نئی روش کی بنیاد رکھی ہے ، تاکہ اس بزم کہن (دنیا) سے جنگ کا چلن ختم ہو۔
+مگر میں اس سے زیادہ نہیں جانتا کہ چند کفن چوروں نے، آپس میں قبریں بانٹنے کے لیے ایک انجمن بنائی ہے۔
+      </Text>
+      <Text Language="English">
+        THE LEAGUE OF NATIONS
+To the end that wars may cease on this old planet, the suffering peoples of the world have founded a new institution.
+So far as I see it amounts to this: A number of undertakers have formed a company to allot the graves.
+(Translated by R.A. Nicholson)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

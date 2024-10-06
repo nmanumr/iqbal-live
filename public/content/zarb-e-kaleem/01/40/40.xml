@@ -1,0 +1,58 @@
+<Poem ID="40" Name="مہدی برحق" BookID="03" BookName="ضربِ کلیم" SectionID="01" SectionName="اسلام اور مسلمان">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        سب اپنے بنائے ہوئے زنداں میں ہیں محبوس 
+خاور کے ثوابت ہوں کہ افرنگ کے سیار
+      </Text>
+      <Text Language="Urdu">
+        خاور: مشرق۔
+محبوس: قیدی۔
+ثوابت: جو حرکت نہ کرے۔
+      </Text>
+      <Text Language="English">
+        THE TRUE GUIDE
+The sedent nations of the East, or active dwellers of the West; are inmates of such dungeons that were built by them with zeal and zest.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        پیران کلیسا ہوں کہ شیخان حرم ہوں 
+نے جدت گفتار ہے، نے جدت کردار
+      </Text>
+      <Text Language="Urdu">
+        شيخان حرم: ملّا
+پيران کليسا : پادری۔ 
+جدت: نیا پن۔
+      </Text>
+      <Text Language="English">
+        The priests who guide the Christian church and Elders who maintain the Shrine, lack newness of discourse and speech, bereft are they of actions fine.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        ہیں اہل سیاست کے وہی کہنہ خم و پیچ 
+شاعر اسی افلاس تخیل میں گرفتار
+      </Text>
+      <Text Language="Urdu">
+        خم و پيچ: داؤ ، ہیر پھیر۔ 
+افلاس تخيل: خیالات کی کم مائیگی۔
+      </Text>
+      <Text Language="English">
+        Experts in statecraft practise still the same antique guile and wily tricks; no flights of fancy the bard can claim to ideals low and mean he sticks.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        دنیا کو ہے اس مہدی برحق کی ضرورت 
+ہو جس کی نگہ زلزلہ عالم افکار
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        It is time that expected Guide may soon appear oil worldly stage: His piercing glance in realm of thought would cause a violent storm to rage.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,584 @@
+<Poem ID="03" Name="گردش در شہر مرغدین" BookID="09" BookName="جاوید نامہ" SectionID="05" SectionName="فلک مریخ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        مرغدین و آن عمارات بلند
+من چہ گویم زان مقام ارجمند
+      </Text>
+      <Text Language="Urdu">
+        شہر مرغدین کی سیر
+
+شہر مرغدین اور اس کی بلند عمارتیں ؛ میں اس ذیشان مقام کی کیا بات کروں۔
+      </Text>
+      <Text Language="English">
+        TOUR OF THE CITY OF MARGHADIN
+
+Marghadin and those lofty edifices – what can I say of that noble city?
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        ساکنانش در سخن شیرین جو نوش
+خوب روی و نرم خوی و سادہ پوش
+      </Text>
+      <Text Language="Urdu">
+        وہاں کے رہنے والوں کی زبان شہد کی طرح میٹھی تھی؛ وہ خوب رو، نرم گفتگو اور سادہ پوش تھے۔
+      </Text>
+      <Text Language="English">
+        Its inhabitants sweet of speech as honey, comely their faces, gentle their manners, simple their apparel;
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        فکرشان بے درد و سوز اکتساب
+رازدان کیمیای آفتاب
+      </Text>
+      <Text Language="Urdu">
+        ان کی سوچ حصول (زر) کے درد و سوز سے بے نیاز تھی؛ وہ کیمیائے آفتاب کے رازدان تھے۔
+      </Text>
+      <Text Language="English">
+        Their thoughts innocent of the burning fever of gain, they were intimate with the secrets of the sun’s alchemy;
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        ہر کہ خواہد سیم و زر گیرد ز نور
+چون نمک گیریم ما از آب شور
+      </Text>
+      <Text Language="Urdu">
+        جس کسی کو سیم و زر کی خواہش ہوتی ہے وہ آفتاب کے نور سے حاصل کر لیتا ہے جیسے ہم سمندر کے پانی سے نمک بنا لیتے ہیں۔
+      </Text>
+      <Text Language="English">
+        Who so of them desires silver or gold gathers it from light, even as we gather salt from the briny sea.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        خدمت آمد مقصد علم و ہنر
+کارہا را کس نمی سنجد بزر
+      </Text>
+      <Text Language="Urdu">
+        وہاں علم و ہنر کا مقصود خدمت تھا ؛ لوگ کام کو زر میں نہیں تولتے تھے۔
+      </Text>
+      <Text Language="English">
+        The aim of science and art there is service; no one weighs work done against gold;
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        کس ز دینار و درم آگاہ نیست
+این بتان را در حرمہا راہ نیست
+      </Text>
+      <Text Language="Urdu">
+        کوئی شخص دینار و درہم سے واقف نہیں تھا؛ وہاں کے حرم میں ان بتوں کو کوئی دخل نہ تھا۔
+      </Text>
+      <Text Language="English">
+        No one is even acquainted with dinars and dirhams, these idols may not enter the sanctuary.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        بر طبیعت دیو ماشین چیرہ نیست
+آسمانہا از دخانھا تیرہ نیست
+      </Text>
+      <Text Language="Urdu">
+        ان کے طبع پر مشینوں کے دیو قابض نہیں تھے؛ نہ وہاں کا آسمان دھوئیں سے تاریک تھا۔
+      </Text>
+      <Text Language="English">
+        The demon of the machine has no power over nature; the skies are not blackened by smoke;
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        سخت کش دہقان چراغش روشن است
+از نہاب دھخدایان ایمن است
+      </Text>
+      <Text Language="Urdu">
+        وہاں کا دہقان سخت محنتی تھا؛ مگر اس کا چراغ روشن تھا؛ وہ زمینداروں کی لوٹ کھسوٹ سے محفوظ تھا۔
+      </Text>
+      <Text Language="English">
+        The lamp of the hard-toiling farmer is always bright; he is secure from the plundering of the landlords;
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        کشت و کارش بے نزاع آب جوست
+حاصلش بے شرکت غیری ازوست
+      </Text>
+      <Text Language="Urdu">
+        ان کی کاشتکاری میں پانی کے جھگڑے نہیں تھے؛ اور وہاں دہقان کی پیداوار میں کوئی اور حصّے دار نہیں تھا۔
+      </Text>
+      <Text Language="English">
+        His tillage is not a struggle for water, his harvest is his own, no other shares in it.
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        اندر آن عالم نہ لشکر نے قشون
+نے کسی روزی خورد از کشت و خون
+      </Text>
+      <Text Language="Urdu">
+        اس جہان میں نہ لشکر تھا نہ فوج، وہاں کوئی کشت و خون سے روزی نہیں کماتا تھا (پیشہ ور سپاہی نہیں تھے)۔
+      </Text>
+      <Text Language="English">
+        In that world there are no armies, no squadrons, none gains his livelihood by killing and murder;
+      </Text>
+    </Verse>
+    <Verse ID="21">
+      <Text Language="Original">
+        نے قلم در مرغدین گیرد فروغ
+از فن تحریر و تشہیر دروغ
+      </Text>
+      <Text Language="Urdu">
+        مرغدین میں قلم فن تحریر اور جھوٹ کی تشہیر سے فروغ نہیں پاتا تھا۔
+      </Text>
+      <Text Language="English">
+        In Marghadin no pen wins lustre from inscribing and disseminating lies;
+      </Text>
+    </Verse>
+    <Verse ID="23">
+      <Text Language="Original">
+        نے بہ بازاران ز بیکاران خروش
+نے صدا ہای گدایان درد گوش
+      </Text>
+      <Text Language="Urdu">
+        نہ وہاں کے بازاروں میں بے کاروں کی نعرہ بازی تھی ؛ اور نہ گداؤں کی آوازیں سنانے والوں کے لیے دکھ کا باعث تھیں۔
+      </Text>
+      <Text Language="English">
+        In the market-places there is no clamour of the workless, no whining of beggars afflicts the car.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="حکیم مریخی">
+    <Verse ID="25">
+      <Text Language="Original">
+        کس در اینجا سائل و محروم نیست
+عبد و مولا حاکم و محکوم نیست
+      </Text>
+      <Text Language="Urdu">
+        اس جگہ نہ کوئی سائل ہے ، نہ کوئی محروم، نہ کوئی غلام ہے نہ آقا، نہ حکیم، نہ محکوم۔
+      </Text>
+      <Text Language="English">
+        No one here is a mendicant or destitute, slave and master, ruler and ruled, here are none.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="زندہ رود ">
+    <Verse ID="27">
+      <Text Language="Original">
+        سائل و محروم تقدیر حق است
+حاکم و محکوم تقدیر حق است
+جز خدا کس خالق تقدیر نیست
+چارۂ تقدیر از تدبیر نیست
+      </Text>
+      <Text Language="Urdu">
+        سائل اور محروم یا حاکم و محکوم ہونا اللہ تعالے کی تقدیر ہے۔
+اللہ تعالے ہی تقدیر کے خالق ہیں، تقدیر کا علاج تقدیر سے ممکن نہیں۔
+      </Text>
+      <Text Language="English">
+        Zinda-Rud
+Mendicant and destitute are so by God’s decree, by God’s decree ruler and ruled;
+None but God is the creator of destiny and against destiny human design is powerless.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="حکیم مریخی">
+    <Verse ID="31">
+      <Text Language="Original">
+        گر ز یک تقدیر خون گردد جگر
+خواہ از حق حکم تقدیر دگر
+      </Text>
+      <Text Language="Urdu">
+        اگر ایک تقدیر سے تیرا جگر خون ہو، تو اللہ تعالے سے اور تقدیر مانگ لے۔
+      </Text>
+      <Text Language="English">
+        The Martian Sage
+If your heart bleeds on account of one destiny, petition God to decree another destiny;
+      </Text>
+    </Verse>
+    <Verse ID="33">
+      <Text Language="Original">
+        تو اگر تقدیر نو خواہی رواست
+زانکہ تقدیرات حق لا انتہاست
+      </Text>
+      <Text Language="Urdu">
+        اگر تو نئی تقدیر چاہے تو یہ جائز بات ہے؛ کیونکہ اللہ تعالے کی تقدیرات کی کوئی انتہا نہیں۔
+      </Text>
+      <Text Language="English">
+        If you pray for a new destiny, that is lawful, seeing that God’s destinies are infinite.
+      </Text>
+    </Verse>
+    <Verse ID="35">
+      <Text Language="Original">
+        ارضیان نقد خودی در باختند
+نکتۂ تقدیر را نشناختند
+      </Text>
+      <Text Language="Urdu">
+        اہل زمین نے نکتہ ء تقدیر نہ سمجھ کے اپنی خودی کی نقدی ہار دی۔
+      </Text>
+      <Text Language="English">
+        Earthlings have gambled away the coin of selfhood, not comprehending the subtle meaning of destiny;
+      </Text>
+    </Verse>
+    <Verse ID="37">
+      <Text Language="Original">
+        رمز باریکش بحرفی مضمر است
+تو اگر دیگر شوی او دیگر است
+      </Text>
+      <Text Language="Urdu">
+        تقدیر کی باریک رمز ایک حرف ميں مضمر ہے؛ یعنی یہ کہ اگر تو بدل جائے تو تقدیر بدل جاتی ہے۔
+      </Text>
+      <Text Language="English">
+        Its subtlety is contained in a single phrase: ‘If you transform yourself, it too will be transformed.’
+      </Text>
+    </Verse>
+    <Verse ID="39">
+      <Text Language="Original">
+        خاک شو نذر ہوا سازد ترا
+سنگ شو بر شیشہ اندازد ترا
+      </Text>
+      <Text Language="Urdu">
+        اگر تو خاک بن جائے تو تجھے ہوا کی نذر کر دیا جائے گا ؛ اگر تو سنگ ہے تو تجھ سے شیشہ توڑنے کا کام لیا جائے گا۔
+      </Text>
+      <Text Language="English">
+        Be dust and fate will give you the winds; be a stone and it will hurl you against glass.
+      </Text>
+    </Verse>
+    <Verse ID="41">
+      <Text Language="Original">
+        شبنمی؟ افتندگی تقدیر تست
+قلزمی؟ پایندگی تقدیر تست
+      </Text>
+      <Text Language="Urdu">
+        اگر تو شبنم ہے ، تو تیری تقدیر میں نیچے گرنا ہے۔اگر تو سمندر ہے، تو تیری تقدیر ہمیشہ رہنا ہے۔
+      </Text>
+      <Text Language="English">
+        Are you a dew-drop? Your destiny is to perish; are you an ocean? Your destiny is to endure.
+      </Text>
+    </Verse>
+    <Verse ID="43">
+      <Text Language="Original">
+        ہر زمان سازی ہمان لات و منات
+از بتان جوئی ثبات اے بے ثبات"
+      </Text>
+      <Text Language="Urdu">
+        تو ہر لمحہ وہی لات و منات بناتا رہتا ہے ؛ اے بے ثبات تو ان بتوں سے ثبات چاہتا ہے۔
+      </Text>
+      <Text Language="English">
+        Every moment you are fashioning new Lats and Manats; inconstant one, do you look for constancy from idols?
+      </Text>
+    </Verse>
+    <Verse ID="45">
+      <Text Language="Original">
+        تا بخود ناساختن ایمان تست
+عالم افکار تو زندان تست
+      </Text>
+      <Text Language="Urdu">
+        چونکہ تیرا ایمان اپنے آپ سے موافقت کرنا ہے اس لیے تیرے افکار تیرے لیے زندان بن گئے ہیں۔
+      </Text>
+      <Text Language="English">
+        So long as your faith is to accord not with your self the world of your thoughts is your prison;
+      </Text>
+    </Verse>
+    <Verse ID="47">
+      <Text Language="Original">
+        رنج بے گنج است تقدیر اینچنین
+گنج بے رنج است تقدیر اینچنین
+      </Text>
+      <Text Language="Urdu">
+        اے بے خبر! اگر اصل دین یہ ہے کہ مفلس کا افلاس کی وجہ سے تکلیف میں رہنا اور دولتمند کا بغیر محنت کے دولت پانا ان کی تقدیر ہے۔
+      </Text>
+      <Text Language="English">
+        Toil without treasure-such is destiny; treasure without toil-such is destiny!
+      </Text>
+    </Verse>
+    <Verse ID="49">
+      <Text Language="Original">
+        اصل دین این است اگر اے بیخبر،
+می شود محتاج ازو محتاج تر
+      </Text>
+      <Text Language="Urdu">
+        تو اس نظریئے سے محتاج دن بدن محتاج تر ہوتے جائیں گے۔
+      </Text>
+      <Text Language="English">
+        If this is the foundation of faith, ignorant fellow, then the needy will become still more in need.
+      </Text>
+    </Verse>
+    <Verse ID="51">
+      <Text Language="Original">
+        واے آن دینی کہ خواب آرد ترا
+باز در خواب گران دارد ترا
+      </Text>
+      <Text Language="Urdu">
+        اگر یہی دین ہے تو حیف ایسے دین پر جو تجھ پر خواب بلکہ خواب گراں طاری کر دیتا ہے۔
+      </Text>
+      <Text Language="English">
+        Woe to that religion which lulls you to sleep and still holds you in sleep profound!
+      </Text>
+    </Verse>
+    <Verse ID="53">
+      <Text Language="Original">
+        سحر و افسون است یا دین است این
+حب افیون است یا دین است این
+      </Text>
+      <Text Language="Urdu">
+        یہ دین ہے یا سحر و افسوں؟ یہ دین ہے کہ حب افیون؟
+      </Text>
+      <Text Language="English">
+        Is this religion, or magic and enchantment? Is this religion, or a grain of opium?
+      </Text>
+    </Verse>
+    <Verse ID="55">
+      <Text Language="Original">
+        می شناسی طبع دراک از کجاست
+حوری اندر بنگہ خاک از کجاست
+      </Text>
+      <Text Language="Urdu">
+        کیا تو پہچانتا ہے کہ طبع نکتہ رس کہاں سے ہے؟ بنگہء خاک (بدن) کے اندر یہ حور کہاں سے آ گئی۔
+      </Text>
+      <Text Language="English">
+        Do you know whence comes the penetrating nature, whence came this houri into your tenement of clay?
+      </Text>
+    </Verse>
+    <Verse ID="57">
+      <Text Language="Original">
+        قوت فکر حکیمان از کجاست
+طاقت ذکر کلیمان از کجاست
+      </Text>
+      <Text Language="Urdu">
+        حکیموں میں فکر کی قوّت کہاں سے ہے؟ کلیموں کے ذکر کی طاقت کہاں سے ہے؟
+      </Text>
+      <Text Language="English">
+        Do you know whence comes the sages’ power of thought, whence the potency of prayer in God’s interlocutors?
+      </Text>
+    </Verse>
+    <Verse ID="59">
+      <Text Language="Original">
+        این دل و این واردات او ز کیست
+این فنون و معجزات او ز کیست
+      </Text>
+      <Text Language="Urdu">
+        یہ دل اور اس کی واردات کس کی طرف سے ہیں ؛ ان فنون و معجزات کا منبہ کہاں سے ہے؟
+      </Text>
+      <Text Language="English">
+        Do you know whence came this heart, and its visitations, whence these arts, these miracles?
+      </Text>
+    </Verse>
+    <Verse ID="61">
+      <Text Language="Original">
+        گرمی گفتار داری از تو نیست
+شعلہ کردار داری از تو نیست
+      </Text>
+      <Text Language="Urdu">
+        تیرے اندر گرمیء گفتار ہے تو یہ تجھ سے نہیں ؛ شعلہء کردار ہے تو یہ بھی تجھ سے نہیں۔
+      </Text>
+      <Text Language="English">
+        Do you have fire of speech? That comes not from you; Do you have flame of action? That comes not from you.
+      </Text>
+    </Verse>
+    <Verse ID="63">
+      <Text Language="Original">
+        اینہمہ فیض از بہار فطرت است
+فطرت از پرودگار فطرت است
+      </Text>
+      <Text Language="Urdu">
+        یہ سب بہار فطرت کا فیض ہے؛ اور فطرت کی اصل پروردگار فطرت سے ہے۔
+      </Text>
+      <Text Language="English">
+        All this is an overflow of the springtime of nature, Nature which derives from nature’s Creator.
+      </Text>
+    </Verse>
+    <Verse ID="65">
+      <Text Language="Original">
+        زندگانی چیست کان گوہر است
+تو امینی صاحب او دیگر است
+      </Text>
+      <Text Language="Urdu">
+        زندگی کیا ہے؟ یہ موتیوں کی کان ہے ، تو صرف امانتدار ہے مالک کوئی اور ہے۔
+      </Text>
+      <Text Language="English">
+        What is life? A mine of gems; you are the trustee, its owner is Another.
+      </Text>
+    </Verse>
+    <Verse ID="67">
+      <Text Language="Original">
+        طبع روشن مرد حق را آبروست
+خدمت خلق خدا مقصود اوست
+      </Text>
+      <Text Language="Urdu">
+        طبع روشن سے بندہ ءحق کی آبرو ہے اور خلق خدا کی خدمت اس بندے کا مقصود ہے۔
+      </Text>
+      <Text Language="English">
+        A radiant nature glorifies the man of God, to serve all God’s creatures, that is his aim;
+      </Text>
+    </Verse>
+    <Verse ID="69">
+      <Text Language="Original">
+        خدمت از رسم و رہ پیغمبری است
+مزد خدمت خواستن سوداگری است
+      </Text>
+      <Text Language="Urdu">
+        خدمت پیغمبری کی رہ و رسم ہے (خدمت خلق) کی مزدوری طلب کرنا سوداگری ہے۔
+      </Text>
+      <Text Language="English">
+        Service belongs to the wont and way of prophethood; to seek a reward for service is mere commerce.
+      </Text>
+    </Verse>
+    <Verse ID="71">
+      <Text Language="Original">
+        ہمچنان این باد و خاک و ابر و کشت
+باغ و راغ و کاخ و کوی و سنگ و خشت
+      </Text>
+      <Text Language="Urdu">
+        اسی طرح یہ ہوا ، خاک، ابر، کھیتی، باغ و راغ ، محل و مکان اور سنگ و خشت۔
+      </Text>
+      <Text Language="English">
+        Even so this wind, earth, cloud, field, orchard, meadow, palace, street, stones, bricks;
+      </Text>
+    </Verse>
+    <Verse ID="73">
+      <Text Language="Original">
+        اے کہ میگوئی متاع ما ز ماست
+مرد نادان این ہمہ ملک خداست
+      </Text>
+      <Text Language="Urdu">
+        جنہیں تو کہتا ہے کہ یہ میری ملکیت ہیں ؛ مرد ناداں ان سب کا مالک اللہ تعالے ہے۔
+      </Text>
+      <Text Language="English">
+        You who say, ‘Our property is of ourselves’, ignorant one, all this belongs to God.
+      </Text>
+    </Verse>
+    <Verse ID="75">
+      <Text Language="Original">
+        ارض حق را ارض خود دانی بگو
+چیست شرح آیۂ لاتفسدوا
+      </Text>
+      <Text Language="Urdu">
+        تو اللہ تعالے کی زمین کو اپنی زمین سمجھتا ہے؛ مجھے بتا تو سہی آیہء لاتفسدوا کی شرع کیا ہے۔
+      </Text>
+      <Text Language="English">
+        If you regard God’s earth as your own, then what means the verse, Work not corruption?
+      </Text>
+    </Verse>
+    <Verse ID="77">
+      <Text Language="Original">
+        ابن آدم دل بہ ابلیسی نھاد
+من ز ابلیسی ندیدم جز فساد
+      </Text>
+      <Text Language="Urdu">
+        آدم کی اولاد نے ابلیسی پر کمر باندھ لی ہے؛ میں ابلیسی میں سوائے فساد کے اور کچھ نہیں دیکھتا۔
+      </Text>
+      <Text Language="English">
+        Adam’s sons have given their hearts to Iblis, and from Iblis I have seen only corruption.
+      </Text>
+    </Verse>
+    <Verse ID="79">
+      <Text Language="Original">
+        کس امانت را بکار خود نبرد
+ایخوش آنکو ملک حق با حق سپرد
+      </Text>
+      <Text Language="Urdu">
+        کوئی شخص امانت کو اپنی (ذاتی) کام میں نہیں لاتا؛ مبارک ہے وہ شخص جو اللہ تعالے کی ملکیت کو اللہ تعالے کے سپرد رکھتا ہے۔
+      </Text>
+      <Text Language="English">
+        None should convert a trust to his own use; blessed is he who renders God’s property up to God.
+      </Text>
+    </Verse>
+    <Verse ID="81">
+      <Text Language="Original">
+        بردہ ئی چیزی کہ از آن تو نیست
+داغم از کاری کہ شایان تو نیست
+      </Text>
+      <Text Language="Urdu">
+        تو نے وہ چیز لے لی جو تیری نہیں ؛ مجھے دکھ ہے کہ تو نے وہ کام کیا جو تیری شان کے شایان نہیں۔
+      </Text>
+      <Text Language="English">
+        You have carried off what does not belong to you; my soul sorrows for so unworthy a deed.
+      </Text>
+    </Verse>
+    <Verse ID="83">
+      <Text Language="Original">
+        گر تو باشی صاحب شی می سزد
+ور نباشے خود بگو کی می سزد
+      </Text>
+      <Text Language="Urdu">
+        اگر تو کسی چیز کا مالک ہو تا تو پھر تجھے ایسا کرنا زیب تھا؛ اگر تو مالک ہی نہیں تو خود بتا یہ کیسے مناسب ہے۔
+      </Text>
+      <Text Language="English">
+        If you own a thing, that is meet and right, but if you do not, say yourself, how is that proper?
+      </Text>
+    </Verse>
+    <Verse ID="85">
+      <Text Language="Original">
+        ملک یزدان را بہ یزدان باز دہ
+تا ز کار خویش بگشائی گرہ
+      </Text>
+      <Text Language="Urdu">
+        اللہ تعالے کی ملکیت کو دوبارہ اللہ تعالے کے سپرد کر تاکہ تیرے معاملات کی الجھنیں دور ہوں۔
+      </Text>
+      <Text Language="English">
+        Return to God the property of God so that you may loose the knot of your involvement;
+      </Text>
+    </Verse>
+    <Verse ID="87">
+      <Text Language="Original">
+        زیر گردن فقر و مسکینی چراست
+آنچہ از مولاست میگوئی ز ماست
+      </Text>
+      <Text Language="Urdu">
+        دنیا میں مفلسی اور مسکینی کیوں ہے؟ اس لیے کہ تو اللہ تعالے کی ملکیت کو اپنی ملکیت قرار دیتا ہے۔
+      </Text>
+      <Text Language="English">
+        For why is there poverty and want under heaven’s arch? Because you say what is the Lord’s belongs to you.
+      </Text>
+    </Verse>
+    <Verse ID="89">
+      <Text Language="Original">
+        بندہ ئی کز آب و گل بیرون نجست
+شیشۂ خود را بہ سنگ خود شکست
+      </Text>
+      <Text Language="Urdu">
+        وہ شخص جو آب و گل (مادیت) سے باہر نہیں نکلتا وہ اپنے شیشہ کو اپنے پتھر سے توڑ دیتا ہے۔
+      </Text>
+      <Text Language="English">
+        The man who has not leaped forth from water and clay has shattered his own glass with his own stone.
+      </Text>
+    </Verse>
+    <Verse ID="91">
+      <Text Language="Original">
+        ایکہ منزل را نمی دانی ز رہ
+قیمت ہر شی ز انداز نگہ
+      </Text>
+      <Text Language="Urdu">
+        تو جو منزل اور راستے (مقصد اور سبب ) میں فرق نہیں کرتا (سمجھ لے) کہ ہر شے کی قیمت انداز نگاہ سے ہے (مال ذریعہ ہے اللہ تعالے کی رضا کے حصول کا)۔
+      </Text>
+      <Text Language="English">
+        You who cannot tell goal from path, the value of every thing is measured by the regard.
+      </Text>
+    </Verse>
+    <Verse ID="93">
+      <Text Language="Original">
+        تا متاع تست گوہر، گوہر است
+ورنہ سنگ است از پشیزی کمتر است
+      </Text>
+      <Text Language="Urdu">
+        جب تک تو گوہر کو اپنی قیمتی متاع سمجھتا ہے وہ گوہر ہے؛ ورنہ وہ ایسا پتھر ہے جس کی قیمت دمڑی سے بھی کم ہے۔
+      </Text>
+      <Text Language="English">
+        So long as the pearl is your property, it is a pearl; otherwise it is a pebble, worth less than a farthing.
+      </Text>
+    </Verse>
+    <Verse ID="95">
+      <Text Language="Original">
+        نوع دیگر بین جھان دیگر شود
+این زمین و آسمان دیگر شود
+      </Text>
+      <Text Language="Urdu">
+        تو اسے مختلف انداز سے دیکھ تو یہ جہان بھی مختلف ہو جائے گا اور یہ زمین و آسمان بدل جائیں گے۔
+      </Text>
+      <Text Language="English">
+        View the world otherwise, and it will become other, this earth and heaven will be transformed.
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

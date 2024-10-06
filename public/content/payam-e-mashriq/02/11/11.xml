@@ -1,0 +1,83 @@
+<Poem ID="11" Name="محاورۂ علم و عشق" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="علم">
+    <Verse ID="01">
+      <Text Language="Original">
+        نگاہم راز دار ہفت و چار است
+گرفتار کمندم روزگار است
+جہان بینم بہ این سو باز کردند
+مرا با آنسوی گردون چہ کار است
+چکد صد نغمہ از سازی کہ دارم
+بہ بازار افکنم رازی کہ دارم
+      </Text>
+      <Text Language="Urdu">
+        میری نگاہ ہفت آسمان اور چار سو کی محیط ہے، زمانہ میری کمند میں اسیر ہے۔ 
+میرے سپرد اس دنیا کو دیکھنا کیا گیا ہے؛ آسمان سے اس طرف مجھے کیا واسطہ۔
+میرے ساز میں سینکڑوں نغمے پھوٹے ہیں؛ جو راز مجھے معلوم ہوتا ہے وہ میں عام کر دیتا ہوں۔
+      </Text>
+      <Text Language="English">
+        Knowledge: My eyes have witnessed the secrets of the seven and the four, and with my lasso I have captured the world.
+I am an eye, and when I was opened I turned this way: Why should I bother about the other side of the heavens?
+A hundred songs flow from my instrument; I bring to market every secret I know.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="عشق">
+    <Verse ID="07">
+      <Text Language="Original">
+        ز افسون تو دریا شعلہ زار است
+ہوا آتش گذار و زھر دار است
+چو با من یار بودے نور بودی
+بریدے از من و نور تو نار است
+      </Text>
+      <Text Language="Urdu">
+        تیرے افسوں سے دریا کے پانی میں شعلہ پیدا ہو جاتا ہے؛ ہوا آتشیں اور مسموم ہو جاتی ہے۔
+تو میرے ساتھ دوستی رکھتا تھا تو نور تھا ، مجھ سے الگ ہوا تو تیرا نور نار بن گیا۔
+      </Text>
+      <Text Language="English">
+        Love: Because of the spell you have cast the sea is in flames, the air spews fire and is filled with poison.
+When you and I were friends, you were a light; but you broke with me, and your light became a fire.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        بخلوت خانۂ لاہوت زادی
+ولیکن در نخ شیطان فتادی
+      </Text>
+      <Text Language="Urdu">
+        تیری پیدائش عالم لاہوت میں ہوئی ؛ لیکن تو شیطان کے پھندے میں گرفتار ہو گیا۔
+      </Text>
+      <Text Language="English">
+        You were born in the innermost sanctum of the Divinity, but then fell into Satan’s trap.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        بیا این خاکدان را گلستان ساز
+جہان پیر را دیگر جوان ساز
+بیا یک ذرہ از درد دلم گیر
+تہ گردون بہشت جاودان ساز
+      </Text>
+      <Text Language="Urdu">
+        آ اس دنیا کو گلستان بنا؛ اس بوڑھے جہان کو پھر سے جوان بنا دے۔
+آ میرے درد دل سے ایک ذرّہ لے؛ اور آسمان کے نیچے خلد بریں بنا دے۔
+      </Text>
+      <Text Language="English">
+        Come; turn this earthly world into a garden, and make the old world young again.
+Come! Take just a little of my heart’s solicitude, and build, under the heavens, an everlasting paradise.
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        ز روز آفرینش ھمدم استیم
+ھمان یک نغمہ را زیر و بم استیم
+      </Text>
+      <Text Language="Urdu">
+        ہم روز اوّل سے ساتھی ہیں؛ اور ایک ہی نغمے کے زیر و بم ہیں۔
+      </Text>
+      <Text Language="English">
+        We have been on intimate terms since the day of creation, and are the high and low notes of the same song. 
+(Translated by Mustansir Mir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

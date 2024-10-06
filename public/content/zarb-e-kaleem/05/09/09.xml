@@ -1,0 +1,20 @@
+<Poem ID="09" Name="آج اور کل" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        وہ کل کے غم و عیش پہ کچھ حق نہیں رکھتا
+جو آج خود افروز و جگر سوز نہیں ہے
+وہ قوم نہیں لائق ہنگامہ فردا
+جس قوم کی تقدیر میں امروز نہیں ہے
+      </Text>
+      <Text Language="Urdu">
+        لائق ہنگامہ فردا: مستقبل کے ہنگاموں کے لائق۔
+      </Text>
+      <Text Language="English">
+        One who does not light and consume his heart, in future's joy or sorrow has no part.
+That nation can not morrow's tumult face, which is destined to lose the present race.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

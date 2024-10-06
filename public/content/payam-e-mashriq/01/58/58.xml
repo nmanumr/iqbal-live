@@ -1,0 +1,21 @@
+<Poem ID="58" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        تو اے شیخ حرم شاید ندانی
+جہان عشق را ھم محشری ہست
+گناہ و نامہ و میزان ندارد
+نہ او را مسلمی نے کافری ہست
+      </Text>
+      <Text Language="Urdu">
+        اے شیخ حرم! تو شاید نہیں جانتا: جہان عشق کا بھی ایک محشر ہے۔ 
+ مگر یہاں نہ گناہ ہے، نہ اعمال نامہ اور نہ میزان عمل؛ نہ یہاں کوئی مسلم ہے نہ کافر۔
+      </Text>
+      <Text Language="English">
+        Perchance, grave minister, thou knowest not Love too shall have its Judgment after death:
+But in that Hall nor Book nor Balance is, nor sin, nor infidelity, nor faith.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

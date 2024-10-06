@@ -1,0 +1,433 @@
+<Poem ID="02" Name="تمہید" BookID="10" BookName="پس چہ بائد کرد" SectionID="01" SectionName="پس چہ بائد کرد">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        پیر رومی مرشد روشن ضمیر
+کاروان عشق و مستی را امیر
+      </Text>
+      <Text Language="Urdu">
+        پیر رومی مرشد روشن ضمیر اور کاروان عشق و مستی کا امیر ہے۔
+      </Text>
+      <Text Language="English">
+        PREAMBLE
+The Pir of Rum, the clairvoyant murshid, the leader of the caravan of love and ecstasy;
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        منزلش برتر ز ماہ و آفتاب
+خیمہ را از کہکشان سازد طناب
+      </Text>
+      <Text Language="Urdu">
+        اس کی منزل چاند اور سورج سے بھی بلند تر ہے؛ کہکشاں اس کے خیمے کی طناب ہے ۔
+      </Text>
+      <Text Language="English">
+        Whose station is far above the Moon and the Sun, for whose tent the Milky Way serves as pegs;
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        نور قرآن در میان سینہ اش
+جام جم شرمندہ از آئینہ اش
+      </Text>
+      <Text Language="Urdu">
+        اس کے سینہ کے اندر قرآن پاک کا نور ہے؛ (یہی وجہ ہے کہ) اس کے آئینہ (قلب) سے جام جم شرمندہ ہے۔
+      </Text>
+      <Text Language="English">
+        Whose heart is effulgent with the light of the Quran, whose mirror is more revealing than Jamshid’s cup.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        از نے آن نے نواز پاکزاد
+باز شوری در نھاد من فتاد
+      </Text>
+      <Text Language="Urdu">
+        اس پاک سرشت نے نواز کے نغمہ نے میری طبیعت کے اندر دوبارہ ہنگامہ پیدا کر دیا۔
+      </Text>
+      <Text Language="English">
+        That musician* of Pure breed has thrown my being into tumult once again with his music.
+* Reference is to Rumi whose very first verse in the Mathnavi is: Listen to the reed when it relates its story, and complains of separation.)
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        گفت "جانہا محرم اسرار شد
+خاور از خواب گران بیدار شد
+      </Text>
+      <Text Language="Urdu">
+        اس نے مجھ سے کہا: انسانوں کے ضمیر راز ہائے حیات سے با خبر ہو رہے ہیں۔ مشرق گہری نیند سے بیدار ہو رہا ہے۔
+      </Text>
+      <Text Language="English">
+        Said he: The people have become aware of the secrets, the East has awoken from its deep slumber;
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        جذبہ ہای تازہ او را دادہ اند
+بندہای کہنہ را بگشادہ اند
+      </Text>
+      <Text Language="Urdu">
+        اہل مشرق کو نیا جذبہ عطا ہو رہا ہے، اس کے پرانے بند کھولے جا رہے ہیں۔
+      </Text>
+      <Text Language="English">
+        Destiny has given it new aspirations, and loosened its age-old chains.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        جز تو اے دانای اسرار فرنگ
+کس نکو ننشست در نار فرنگ
+      </Text>
+      <Text Language="Urdu">
+        اے دانائے اسرار فرنگ ! تیرے بغیر اور کوئی (غلام) یورپ کی آگ میں بیٹھ کر سلامت باہر نہیں آیا ۔
+      </Text>
+      <Text Language="English">
+        No one, O knower of the secrets of the West, has experienced the fire of the West better than thee.
+(Fire of the West: Reference is to the fire into which Abraham was cast by his enemies. It is said that Abraham came out of this fire unscathed and better equipped to face the challenge of his enemies.)
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        باش مانند خلیل اﷲ مست
+ہر کہن بتخانہ را باید شکست
+      </Text>
+      <Text Language="Urdu">
+        ابراہیم خلیل اللہ (علیہ) کی مانند (اپنے حال میں) مست رہ، ہر پرانا بتخانہ ٹوٹ جائے گا۔
+      </Text>
+      <Text Language="English">
+        Be God-intoxicated like the Friend of God*, and help bring down every idol-temple**.
+* Friend of God is the title of Abraham. **Breaking of idols is associated with the name of Abraham.)
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        امتان را زندگی جذب درون
+کم نظر این جذب را گوید جنون
+      </Text>
+      <Text Language="Urdu">
+        جذب دروں (ہی) سے قوموں کی زندگی ہے (مگر) کم نظر اس جذب کو جنوں کہتے ہیں۔
+      </Text>
+      <Text Language="English">
+        It is ecstasy that imparts life to peoples, though the undiscerning call it madness.
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        ہیچ قومی زیر چرخ لاجورد
+بی جنون ذوفنون کاری نکرد
+      </Text>
+      <Text Language="Urdu">
+        کوئی قوم اس نیلے آسمان کے نیچے جنون ذوفنون کے بغیر (عظیم) کارنامہ سرانجام نہیں دے سکتی۔
+      </Text>
+      <Text Language="English">
+        No people under the azure dome of the sky has ever achieved anything without this ingenious madness.
+      </Text>
+    </Verse>
+    <Verse ID="21">
+      <Text Language="Original">
+        مومن از عزم و توکل قاہر است
+گر ندارد این دو جوہر کافر است
+      </Text>
+      <Text Language="Urdu">
+        مومن عزم و توکّل ہی سے صاحب جبروت ہے، اگر اس میں دو صفات نہ ہوں تو وہ کافر ہے۔
+      </Text>
+      <Text Language="English">
+        The believer is strong through his will and his tawakkul; if he lacks these two, he is an unbeliever.
+(Tawakkul: Complete reliance on God. Here Iqbal follows Rumi and interprets tawakkul in the positive sense of relying upon God while starting any programme of work. It is related that a Bedouin left his camel grazing unprotected. He lost it and came to the Prophet (S.A.W.) complaining that he had left the camel grazing quite unprotected, relying completely on God. The Prophet said, ‘Tie the camel's knot and trust in God’. This is Islamic tawakkul.)
+      </Text>
+    </Verse>
+    <Verse ID="23">
+      <Text Language="Original">
+        خیر را او باز میداند ز شر
+از نگاہش عالمی زیر و زبر
+      </Text>
+      <Text Language="Urdu">
+        مومن خیر کو شر سے الگ پہچان لیتا ہے، اس کی ایک نگاہ سے دنیا زیر و زبر ہو جاتی ہے۔
+      </Text>
+      <Text Language="English">
+        He can distinguish between good and evil; a mere look from him can shake the whole world.
+      </Text>
+    </Verse>
+    <Verse ID="25">
+      <Text Language="Original">
+        کوہسار از ضربت او ریز ریز
+در گریبانش ھزاران رستخیز
+      </Text>
+      <Text Language="Urdu">
+        پہاڑ اس کی ضرب سے ریزہ ریزہ ہو جاتے ہیں، اس کے گریبان میں ہزاروں ہنگامے ہوتے ہیں۔
+      </Text>
+      <Text Language="English">
+        His blow can crush a mountain to pieces; and he has thousands of resurrections at his command.
+      </Text>
+    </Verse>
+    <Verse ID="27">
+      <Text Language="Original">
+        تا می از میخانۂ من خوردہ ئے
+کہنگی را از تماشا بردہ ئے
+      </Text>
+      <Text Language="Urdu">
+        جب تو نے میرے میخانہ سے شراب پی ہے اور پرانی اقدار کو سامنے سے ہٹا دیا ہے۔
+      </Text>
+      <Text Language="English">
+        Having drunk wine from my tavern, you have removed all out-modedness from your vision.
+      </Text>
+    </Verse>
+    <Verse ID="29">
+      <Text Language="Original">
+        در چمن زی مثل بو مستور و فاش
+در میان رنگ پاک از رنگ باش
+      </Text>
+      <Text Language="Urdu">
+        تو اب چمن میں خوشبو کی طرح مستور اور ظاہر ہے؛ دنیا میں رہتے ہوئے بھی اس کے رنگ سے پاک رہ۔
+      </Text>
+      <Text Language="English">
+        Live in the garden like smell, both hidden and manifest, live among colours, but be free from colour.
+      </Text>
+    </Verse>
+    <Verse ID="31">
+      <Text Language="Original">
+        عصر تو از رمز جان آگاہ نیست
+دین او جز حب غیر اﷲ نیست
+      </Text>
+      <Text Language="Urdu">
+        تیرا زمانہ روحانی رموز سے آگاہ نہیں ، اس کا مذہب صرف غیر اللہ سے محبت ہے۔
+      </Text>
+      <Text Language="English">
+        Your age is not aware of the secrets of the spirit: Its creed is nothing but love for the other-than-God.
+      </Text>
+    </Verse>
+    <Verse ID="33">
+      <Text Language="Original">
+        فلسفی این رمز کم فہمیدہ است
+فکر او بر آب و گل پیچیدہ است
+      </Text>
+      <Text Language="Urdu">
+        فلسفی نے بھی اس رمز کو نہیں پہچانا اس کی ساری سوچ مادی اشیا ء کے گرد گھومتی ہے۔
+      </Text>
+      <Text Language="English">
+        Little has the philosopher understood this point: His thought revolves only round matter.
+      </Text>
+    </Verse>
+    <Verse ID="35">
+      <Text Language="Original">
+        دیدہ از قندیل دل روشن نکرد
+پس ندید الا کبود و سرخ و زرد
+      </Text>
+      <Text Language="Urdu">
+        اس نے اپنی آنکھ کو دل کے چراغ سے روشن نہیں کیا اس لیے اس نے صرف نیلے، سرخ اور زرد (ظاہری) رنگ دیکھے (وہ اللہ تعالے کا رنگ نہ دیکھ سکا)۔
+      </Text>
+      <Text Language="English">
+        He has not illumined his eyes with the lantern of the heart; hence he sees nothing but blue, red and yellow.
+      </Text>
+    </Verse>
+    <Verse ID="37">
+      <Text Language="Original">
+        اے خوش آن مردی کہ دل با کس نداد
+بند غیر اﷲ را از پا گشاد
+      </Text>
+      <Text Language="Urdu">
+        مبارک ہے وہ شخص جس نے کسی کو دل نہ دیا؛ جس کے پاؤں غیر اللہ کے بند سے آزاد رہے۔
+      </Text>
+      <Text Language="English">
+        Fortunate is he who never bowed before any man, and who freed his feet from the chains of servitude to the other-than-God.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="39">
+      <Text Language="Original">
+        سر شیری را نفہمد گاو و میش
+جز بہ شیران کم بگو اسرار خویش
+      </Text>
+      <Text Language="Urdu">
+        گائیں بھینسیں شیر کے راز نہیں سمجھ سکتیں، اس لیے اپنے راز صرف شیروں کو بتا۔
+      </Text>
+      <Text Language="English">
+        What it means to be a lion is beyond the ken of cows and buffaloes; never reveal your secret except to lions.
+      </Text>
+    </Verse>
+    <Verse ID="41">
+      <Text Language="Original">
+        با حریف سفلہ نتوان خورد می
+گرچہ باشد پادشاہ روم و ری
+      </Text>
+      <Text Language="Urdu">
+        کم ظرف ساتھی کے ساتھ شراب نہیں پی جا سکتی خواہ وہ روم و رے کا بادشاہ ہی کیوں نہ ہو۔
+      </Text>
+      <Text Language="English">
+        One should not drink wine in the company of a churl, though he may be king of Rum or Rayy.
+(Rum means West Asian mainland.)
+      </Text>
+    </Verse>
+    <Verse ID="43">
+      <Text Language="Original">
+        یوسف ما را اگر گرگے برد
+بہ کہ مردی ناکسی او را خرد
+      </Text>
+      <Text Language="Urdu">
+        ہمارے یوسف کو اگر بھیڑیا لے جائے تو یہ اس سے کہیں بہتر ہے کہ کوئی ایسا شخص اسے خریدے جو انسانیت سے عاری ہو۔
+      </Text>
+      <Text Language="English">
+        It is better that our Joseph be taken away by a wolf than be bought by an unworthy person.
+(The brothers of Yusuf (A.S.) falsely claimed that he had been devoured by a wolf. The folklore has it that when Yusuf was being offered for sale in the Egyptian market by the Midianites, a woman came forward to buy him in exchange for a piece of yarn.)
+      </Text>
+    </Verse>
+    <Verse ID="45">
+      <Text Language="Original">
+        اہل دنیا بی تخیل بی قیاس
+بوریا بافان اطلس ناشناس
+      </Text>
+      <Text Language="Urdu">
+        اہل دنیا نہ تخیّل رکھتے ہیں، نہ سوچ، وہ بوریئے بننے میں لگے رہتے ہیں ، انہیں اطلس کی خبر ہی نہیں۔
+      </Text>
+      <Text Language="English">
+        People of the world lack reason and imagination: they are weavers of mat and know nothing about satin.
+      </Text>
+    </Verse>
+    <Verse ID="47">
+      <Text Language="Original">
+        اعجمی مردی چہ خوش شعری سرود
+سوزد از تأثیر او جان در وجود
+      </Text>
+      <Text Language="Urdu">
+        عجمی مرد نے کیا خوب شعر کہا جس کی تاثیر سے جان میں سوز پیدا ہو گیا۔
+      </Text>
+      <Text Language="English">
+        What a beautiful verse a Persian poet has sung, which sets the soul afire:
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="49">
+      <Text Language="Original">
+        "نالۂ عاشق بگوش مردم دنیا
+بانگ مسلمانی و دیار فرنگ است"
+      </Text>
+      <Text Language="Urdu">
+        'دنیا دار کے کانوں میں عاشق کا نالہ (و فریاد یوں ہے جیسے) فرنگیوں کے ملک میں بانگ آذاں'۔
+      </Text>
+      <Text Language="English">
+        ‘To the ears of the people of the world, the wailing of the lover is like the cry of the azan in the land of the Franks’.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="51">
+      <Text Language="Original">
+        معنی دین و سیاست باز گوی
+اہل حق را زین دو حکمت باز گوی
+      </Text>
+      <Text Language="Urdu">
+        دین و سیاست کے معنی پھر بیان کر، اہل حق کو از سر نو ان کی حکمت بتا۔
+      </Text>
+      <Text Language="English">
+        Reveal once again the significance of religion and politics; tell the devotees of the Truth what you understand by them.
+      </Text>
+    </Verse>
+    <Verse ID="53">
+      <Text Language="Original">
+        "غم خور و نان غم افزایان مخور
+زانکہ عاقل غم خورد کودک شکر"
+ رومی
+      </Text>
+      <Text Language="Urdu">
+        غم کھا لے، مگر غم بڑھانے والوں کی روٹی نہ کھا، کیونکہ عقلمند غم کھاتا ہے اور بچہ شکر کھاتا ہے۔
+      </Text>
+      <Text Language="English">
+        ‘Suffer grief (patiently) and do not eat the bread of those who augment grief; a wise man suffers grief while a child eats sweets.’ Rumi.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="55">
+      <Text Language="Original">
+        خرقہ خود بار است بر دوش فقیر
+چون صبا جز بوی گل سامان مگیر
+      </Text>
+      <Text Language="Urdu">
+        فقیر کے کندھے پر تو گدڑی بھی بوجھ ہے ؛ باد صبح کی مانند سوائے پھول کی خوشبو کے اور سامان نہ اٹھا۔
+      </Text>
+      <Text Language="English">
+        To the mendicant*, even his patched-up garment is a burden. Like breeze you should carry nothing except the smell of roses.
+* Faqir: In Iqbal's terminology, Faqr is not begging for lack of means, but a positive attitude of detachment towards the material world. One who serves God's purposes and obeys His laws and subjects himself to His will is what Iqbal would call a Faqir.)
+      </Text>
+    </Verse>
+    <Verse ID="57">
+      <Text Language="Original">
+        قلزمی با دشت و در پیہم ستیز
+شبنمی خود را بہ گلبرگی بریز
+      </Text>
+      <Text Language="Urdu">
+        اگر تو سمندر ہے تو آبادی و ویرانہ سے مسلسل نبرد آزما ہو۔ اگر شبنم ہے تو پھول کی پتی پر ٹپک۔
+      </Text>
+      <Text Language="English">
+        Are you an ocean? Then be constantly at war with your environment. Are you a dew-drop? Then drop yourself gently on a rose-petal.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="59">
+      <Text Language="Original">
+        سر حق بر مرد حق پوشیدہ نیست
+روح مومن ہیچ میدانی کہ چیست؟
+      </Text>
+      <Text Language="Urdu">
+        مرد حق سے راز حق پوشیدہ نہیں؛ کیا تو جانتا ہے کہ روح مومن کیا ہے؟
+      </Text>
+      <Text Language="English">
+        The Divine mystery is not hidden from the man of God; do you know what is the true nature of a believer’s soul?
+      </Text>
+    </Verse>
+    <Verse ID="61">
+      <Text Language="Original">
+        قطرۂ شبنم کہ از ذوق نمود
+عقدۂ خود را بدست خود گشود
+      </Text>
+      <Text Language="Urdu">
+        وہ ایسا قطرہء شبنم ہے جو اظہار ذات کے شوق میں اپنی مشکل اپنے ہاتھ سے حل کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        It is a drop of dew which, out of desire for self-manifestation, unravelled its own knot with its own hands.
+      </Text>
+    </Verse>
+    <Verse ID="63">
+      <Text Language="Original">
+        از خودی اندر ضمیر خود نشست
+رخت خویش از خلوت افلاک بست
+      </Text>
+      <Text Language="Urdu">
+        وہ تحفّظ ذات کی خاطر اپنے ضمیر کے اندر رہتا ہے، جو افلاک کی خلوت سے سفر اختیار کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        Which sat in the depth of its being by dint of selfhood, which started on its journey from the stillness of the heavens.
+      </Text>
+    </Verse>
+    <Verse ID="65">
+      <Text Language="Original">
+        رخ سوی دریای بے پایان نکرد
+خویشتن را در صدف پنہان نکرد
+      </Text>
+      <Text Language="Urdu">
+        جو بحر بے پایاں کی طرف رخ نہیں کرتا ؛ نہ اپنے آپ کو سیپ میں پنہاں کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        Which did not turn towards the limitless expanse of the ocean; nor hid itself in an oyster.
+(Oyster: It is generally said that if a drop of water enters the oyster, it becomes a pearl. Self-development in the eyes of Iqbal, does not consist in acquiring material wealth or in showing off one's talents it rather lies in gaining in depth and radiating one's dynamism and vitality towards all without any-distinction.)
+      </Text>
+    </Verse>
+    <Verse ID="67">
+      <Text Language="Original">
+        اندر آغوش سحر یکدم تپید
+تا بکام غنچۂ نورس چکید"
+      </Text>
+      <Text Language="Urdu">
+        بلکہ وہ صبح کے آغوش میں ایک لمحہ کے لیے چمک کر اپنے آپ کو نو دمیدہ غنچہ کے منہ میں ٹپکا دیتی ہے (اور اسے پھول بنا دیتی ہے)۔
+      </Text>
+      <Text Language="English">
+        It palpitated in the lap of the morning for a moment and then dropped into the mouth of the new-born bud.
+(Translated by Jamil Naqvi)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

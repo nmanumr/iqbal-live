@@ -1,0 +1,42 @@
+<Poem ID="26" Name="کرمک شبتاب" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        شنیدم کرمک شبتاب می گفت
+نہ آن مورم کہ کس نالد ز نیشم
+      </Text>
+      <Text Language="Urdu">
+        میں نے سنا جگنو کہہ رہا تھا؛ میں چیونٹی نہیں ہوں کہ کوئی میرے کانٹے سے فریاد کرے۔
+      </Text>
+      <Text Language="English">
+        THE GLOW-WORM
+I hear the glow-worm said to itself, ‘I am not an insect that hurts with its sting.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        توان بی منت بیگانگان سوخت
+نپنداری کہ من پروانہ کیشم
+      </Text>
+      <Text Language="Urdu">
+        دوسروں کے احسان کے بغیر بھی جلا جا سکتا ہے؛ مت سمجھ کہ میں پروانے کی مانند ہوں۔
+      </Text>
+      <Text Language="English">
+        One can burn in one’s own fire. So do not regard me as a moth that has to fling itself into a flame.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        اگر شب تیرہ تر از چشم آہوست
+خود افروزم چراغ راہ خویشم
+      </Text>
+      <Text Language="Urdu">
+        اگر رات چشم آہو سے بھی زیادہ کانی ہے؛ تو میں اپنا راستہ روشن کرنے کے لیے خود اپنا چراغ جلاتا ہوں۔
+      </Text>
+      <Text Language="English">
+        If the night be dark as deer’s eyes, I light my path myself.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

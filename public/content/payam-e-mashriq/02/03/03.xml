@@ -1,0 +1,20 @@
+<Poem ID="03" Name="ہلال عید" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        نتوان ز چشم شوق رمید اے ہلال عید
+از صد نگہ براہ تو دامے نہادہ اند
+بر خود نظر گشا ز تہی دامنی مرنج
+در سینۂ تو ماہ تمامی نہادہ اند
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        THE NEW MOON OF EID
+You cannot manage to evade the eager view of people waiting for a sight of you. A thousand glances have conspired to weave a net to catch you in.
+Open your eyes to yourself. Do not grieve that you are a bare outline. Within you lies a real full moon.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

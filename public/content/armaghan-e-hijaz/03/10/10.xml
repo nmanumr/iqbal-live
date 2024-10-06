@@ -1,0 +1,67 @@
+<Poem ID="10" Name="None" BookID="04" BookName="ارمغانِ حجاز" SectionID="03" SectionName="ملا زادہ ضیغم لولا بے کشمیری کا بیاض">
+  <Para>
+    <Verse ID="01">
+      <Text Language="Original">
+        آزاد کی رگ سخت ہے مانند رگ سنگ
+محکوم کی رگ نرم ہے مانند رگ تاک
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        A free man’s veins are hard like the stone’s veins, the veins of ruled are soft like veins of soft canes.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        محکوم کا دل مردہ و افسردہ و نومید
+آزاد کا دل زندہ و پرسوز و طرب ناک
+      </Text>
+      <Text Language="Urdu">
+        طرب ناک: خوشی سے بھرا ہوا۔
+      </Text>
+      <Text Language="English">
+        A slave’s heart is dead, sad and hopeless hence, the free’s heart alive with flames of joys sense.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        آزاد کی دولت دل روشن، نفس گرم
+محکوم کا سرمایہ فقط دیدۂ نم ناک
+      </Text>
+      <Text Language="Urdu">
+        دیدئہ نم ناک: آنسو بھری آنکھیں۔
+      </Text>
+      <Text Language="English">
+        A lucent heart, free man’s wealth and verves worm, the wealth of ruled just a weeping eyes form.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        محکوم ہے بیگانۂ اخلص و مروت
+ہر چند کہ منطق کی دلیلوں میں ہے چالک
+      </Text>
+      <Text Language="Urdu">
+        مروت: اچھا سلوک۔
+اخلاص: خالص۔
+      </Text>
+      <Text Language="English">
+        The slave lacks sincerity and generosity though he be adept in argumentation.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        ممکن نہیں محکوم ہو آزاد کا ہمدوش
+وہ بندۂ افلک ہے، یہ خواجہ افلک
+      </Text>
+      <Text Language="Urdu">
+        بندئہ افلاک: آسمانوں کا غلام
+ہمدوش: برابر۔ 
+خواجہ افلاک: آسمانوں کا آقا۔
+      </Text>
+      <Text Language="English">
+        A ruled can not make with free man a tie, this is slave of sky, he’s master of sky.
+[Translated by Q A Kabir]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

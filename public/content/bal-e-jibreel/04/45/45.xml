@@ -1,0 +1,50 @@
+<Poem ID="45" Name="جدائی" BookID="02" BookName="‫بالِ جبریل" SectionID="04" SectionName="منظومات">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        سورج بنتا ہے تار زر سے 
+دنیا کے لیے ردائے نوری
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        SEPARATION
+The sun is weaving with golden thread a mantle of light about earth's head;
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        عالم ہے خموش و مست گویا 
+ہر شے کو نصیب ہے حضوری
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Creation hushed in ecstasy, as in the presence of the Most High.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        دریا، کہسار، چاند تارے 
+کیا جانیں فراق و ناصبوری
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        What can these know-stream, hill, moon, star – of separation's torturing scar?
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        شایاں ہے مجھے غم جدائی 
+یہ خاک ہے محرم جدائی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Mine is this golden grief alone, to this dust only is this grief known.
+(Translated by V G Kiernan)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

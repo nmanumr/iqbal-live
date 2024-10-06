@@ -1,0 +1,90 @@
+<Poem ID="47" Name="غنی کشمیری" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        غنی آن سخنگوی بلبل صفیر
+نوا سنج کشمیر مینو نظیر
+      </Text>
+      <Text Language="Urdu">
+        غنی جو گیت گانے میں بلبل کی مثل تھا ؛ جو جنت نظیر کشمیر کا شاعر تھا ۔
+      </Text>
+      <Text Language="English">
+        GHANI KASHMIRI
+That nightingale of poetry, Ghani, who sang in Kashmir’s paradisal land;
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        چو اندر سرا بود در بستہ داشت
+چو رفت از سرا تختہ را وا گذاشت
+      </Text>
+      <Text Language="Urdu">
+        جب وہ گھر کے اندر ہوتا تو دروازہ بند رکھتا ؛ جب گھر سے باہر جاتا تو دروازہ کھلا چھوڑ جاتا۔
+      </Text>
+      <Text Language="English">
+        Used, while at home, to shut up all the doors, but leave them open while away from home.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        یکی گفتش اے شاعر دل رسی
+عجب دارد از کار تو ھر کسی
+      </Text>
+      <Text Language="Urdu">
+        کسی نے اس سے کہا کہ اے شاعر دل ربا؛ تیرے اس کام سے ہر کوئی حیران ہے۔
+      </Text>
+      <Text Language="English">
+        Somebody questioned him concerning this. ‘O charming bard’, he said, ‘Why do you do this strange thing, which nobody understands the meaning of?’
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        بہ پاسخ چہ خوش گفت مرد فقیر
+فقیر و بہ اقلیم معنی امیر
+      </Text>
+      <Text Language="Urdu">
+        اس مرد فقیر نے کیا خوب جواب دیا ؛ وہ جو ظاہر میں فقیر مگر سلطنت معنی کا امیر تھا۔
+      </Text>
+      <Text Language="English">
+        ‘Ghani, who had no wealth except his gift of poetry, replied:
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        ز من آنچہ دیدند یاران رواست
+درین خانہ جز من متاعی کجاست
+      </Text>
+      <Text Language="Urdu">
+        جو کچھ لوگوں نے مجھے کرتے ہوئے دیکھا ہے وہ صحیح ہے؛ کیونکہ اس گھر میں میرے سوائے اور کوئی سامان نہیں ۔
+      </Text>
+      <Text Language="English">
+        ‘What people see me doing is quite right. There is nothing of any value in my house except myself.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        غنی تا نشیند بہ کاشانہ اش
+متاعی گرانی است در خانہ اش
+      </Text>
+      <Text Language="Urdu">
+        جب تک غنی اپنے گھر میں بیٹھا ہوتا ہے؛ وہاں قیمتی سامان موجود ہوتا ہے۔
+      </Text>
+      <Text Language="English">
+        When I am in, the house is to be guarded like a treasure-house.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        چو آن محفل افروز در خانہ نیست
+تہی تر ازین ہیچ کاشانہ نیست
+      </Text>
+      <Text Language="Urdu">
+        جب وہ مجلس آرا گھر میں نہیں ہوتا ؛ تو مکان بالکل خالی رہ جاتا ہے۔
+      </Text>
+      <Text Language="English">
+        When I am out, it is an empty place, which nobody would care to walk into.’
+[Translated by M. Hadi Husain]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

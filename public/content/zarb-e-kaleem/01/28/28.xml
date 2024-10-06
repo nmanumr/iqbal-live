@@ -1,0 +1,63 @@
+<Poem ID="28" Name="غزل" BookID="03" BookName="ضربِ کلیم" SectionID="01" SectionName="اسلام اور مسلمان">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        دل مردہ دل نہیں ہے،اسے زندہ کر دوبارہ 
+کہ یہی ہے امتوں کے مرض کہن کا چارہ
+      </Text>
+      <Text Language="Urdu">
+        مرض کہن کا چارہ: پرانی کا بیماری کا علاج۔
+      </Text>
+      <Text Language="English">
+        A heart devoid of love is dead; infuse fresh life in it again. It is the only cure for folk who suffer from some chronic pain.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        ترا بحر پر سکوں ہے، یہ سکوں ہے یا فسوں ہے؟ 
+نہ نہنگ ہے، نہ طوفاں، نہ خرابی کنارہ!
+      </Text>
+      <Text Language="Urdu">
+        نہنگ: مگر مچھ، مراد ہے خطرات۔
+      </Text>
+      <Text Language="English">
+        Your sea is full of calm and rest, is it repose or magic art? No sharks and storms disturb your sea, intact its coast in every part.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        تو ضمیر آسماں سے ابھی آشنا نہیں ہے 
+نہیں بے قرار کرتا تجھے غمزہ ستارہ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        You are not intimate with laws that rule the spheres that spin around; the twinkling stars do not disturb the calm which in your heart is found.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        ترے نیستاں میں ڈالا مرے نغمہ سحر نے 
+مری خاک پے سپر میں جو نہاں تھا اک شرارہ
+      </Text>
+      <Text Language="Urdu">
+        پے سپر: افسردہ، بجھی ہوئی۔
+      </Text>
+      <Text Language="English">
+        The dormant spark that buried lay in my extinguished clay since long has set afire your bed of reeds, assuming form of morning song.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        نظر آئے گا اسی کو یہ جہان دوش و فردا 
+جسے آگئی میسر مری شوخی نظارہ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        That man can only see in full the world of future and the past, who has the luck to be endowed with my glance so pert and fast.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

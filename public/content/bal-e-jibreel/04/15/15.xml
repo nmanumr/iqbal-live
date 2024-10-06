@@ -1,0 +1,54 @@
+<Poem ID="15" Name="الارض للہ" BookID="02" BookName="‫بالِ جبریل" SectionID="04" SectionName="منظومات">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        پالتا ہے بیج کو مٹی کو تاریکی میں کون 
+کون دریاوں کی موجوں سے اٹھاتا ہے سحاب؟
+      </Text>
+      <Text Language="Urdu">
+        سحاب: بھاپ، بادل۔
+      </Text>
+      <Text Language="English">
+        THE EARTH IS GOD'S
+Who rears the seed in the darkness of the ground? Who lifts the cloud up from the ocean wave?
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        کون لایا کھینچ کر پچھم سے باد سازگار 
+خاک یہ کس کی ہے، کس کا ہے یہ نور آفتاب؟
+      </Text>
+      <Text Language="Urdu">
+        باد سازگار: موافق ہوا۔
+      </Text>
+      <Text Language="English">
+        Who drew here from the west the fruitful wind? Who made this soil or who that light of the sun?
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        کس نے بھردی موتیوں سے خوشہء گندم کی جیب 
+موسموں کو کس نے سکھلائی ہے خوئے انقلاب؟
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Who filled with pearls of grain the tasselled wheat? Who taught the months by instinct to revolve?
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        دہ خدایا! یہ زمیں تیری نہیں، تیری نہیں 
+تیرے آبا کی نہیں، تیری نہیں، میری نہیں
+      </Text>
+      <Text Language="Urdu">
+        دہ خدایا: گاؤں کا مالک، زمیندار۔
+آبا: باپ دادا۔
+      </Text>
+      <Text Language="English">
+        Landlord! This earth is not thine, is not thine, nor yet thy fathers'; no, not thine, nor mine. 
+(Translated by Naim Siddiqui)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

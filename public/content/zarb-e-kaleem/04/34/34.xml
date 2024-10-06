@@ -1,0 +1,51 @@
+<Poem ID="34" Name="ہنروران ہند" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        عشق و مستی کا جنازہ ہے تخیل ان کا 
+ان کے اندیشہ تاریک میں قوموں کے مزار
+      </Text>
+      <Text Language="Urdu">
+        انديشہ تاريک: بھیانک سوچ۔
+      </Text>
+      <Text Language="English">
+        Their fancy tolls the knell of love and rapture sweet; their dark and dismal thoughts with nations' tombs replete.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        موت کی نقش گری ان کے صنم خانوں میں 
+زندگی سے ہنر ان برہمنوں کا بیزار
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Their idol halls arc full with prints of gloomy death. The art of these Brahmans seems tired of life and breath.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        چشم آدم سے چھپاتے ہیں مقامات بلند 
+کرتے ہیں روح کو خوابیدہ، بدن کو بیدار
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        They hide from eyes of man his state and noble name: They fill the soul with sleep, incite the lust in frame.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        ہند کے شاعر و صورت گر و افسانہ نویس 
+آہ! بیچاروں کے اعصاب پہ عورت ہے سوار
+      </Text>
+      <Text Language="Urdu">
+        صورت گر: مصوّر۔
+      </Text>
+      <Text Language="English">
+        Alas! In Hind sex rules the bards and painters too: Those, who write romantic tales, talk of sex through and through.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

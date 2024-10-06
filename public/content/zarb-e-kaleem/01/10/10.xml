@@ -1,0 +1,51 @@
+<Poem ID="10" Name="شکر و شکایت" BookID="03" BookName="ضربِ کلیم" SectionID="01" SectionName="اسلام اور مسلمان">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        میں بندہ ناداں ہوں، مگر شکر ہے تیرا 
+رکھتا ہوں نہاں خانہ لاہوت سے پیوند
+      </Text>
+      <Text Language="Urdu">
+        لاہوت: عالم بالا، تصوّف میں وہ مقام جہاں سالک کو فنا فی اللہ کا درجہ حاصل ہوتا ہے۔
+      </Text>
+      <Text Language="English">
+        Though unwise, thanks to God I must express for bonds with celestial world that I possess.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        اک ولولہ تازہ دیا میں نے دلوں کو 
+لاہور سے تا خاک بخارا و سمرقند
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        My songs fresh zeal to hearts of men imparts, their charm extends to lands that lie apart.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        تاثیر ہے یہ میرے نفس کی کہ خزاں میں 
+مرغان سحر خواں مری صحبت میں ہیں خورسند
+      </Text>
+      <Text Language="Urdu">
+        خورسند: خوش باش۔
+      </Text>
+      <Text Language="English">
+        In Autumn my breath makes birds that chirp in morn, imbibe much joy and feel no more forlorn.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        لیکن مجھے پیدا کیا اس دیس میں تو نے 
+جس دیس کے بندے ہیں غلامی پہ رضا مند
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        O God, to such a land I have been sent, where men in abject bondage feel content. 
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

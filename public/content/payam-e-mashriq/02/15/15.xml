@@ -1,0 +1,66 @@
+<Poem ID="15" Name="کرم کتابی" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        شنیدم شبی در کتب خانۂ من
+بہ پروانہ می گفت کرم کتابی
+      </Text>
+      <Text Language="Urdu">
+        میں نے سنا ایک رات میرے کتب خانہ میں ؛ کتابی کیڑا پروانے سے کہہ رہا تھا۔
+      </Text>
+      <Text Language="English">
+        THE BOOKWORM
+I hear that in my library one night a bookworm spoke thus to a moth:
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        بہ اوراق سینا نشیمن گرفتم
+بسی دیدم از نسخۂ فاریابی
+      </Text>
+      <Text Language="Urdu">
+        میں بو علی سینا کے (لکھے ہوئے) اوراق میں بھی رہا ہوں؛ فارابی کے کئی نسخے بھی دیکھے۔
+      </Text>
+      <Text Language="English">
+        I have long lodged in Sina’s tomes and have consumed much of Farabi’s manuscript.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        نفہمیدہ ام حکمت زندگی را
+ہمان تیرہ روزم ز بی آفتابی
+      </Text>
+      <Text Language="Urdu">
+        (مگر) میں زندگی کی حکمت نہیں سمجھ سکا؛ اور ابھی تک میرے دن آفتاب کے بغیر تاریک ہیں۔
+      </Text>
+      <Text Language="English">
+        But I have not learned anything about life’s mystery, and am just as much in the dark about it as before.’
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        نکو گفت پروانۂ نیم سوزی
+کہ این نکتہ را در کتابی نیابی
+      </Text>
+      <Text Language="Urdu">
+        پروانہء نیم سوز نے اسے کیا خوب جواب دیا ، یہ نکتہ تجھے کتابوں میں نہیں ملے گا۔
+      </Text>
+      <Text Language="English">
+        The half-burnt moth gave it a fine reply: ‘You will not find life’s mystery explained in books.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        تپش می کند زندہ تر زندگی را
+تپش می دہد بال و پر زندگی را
+      </Text>
+      <Text Language="Urdu">
+        تپش ، زندگی کو اور زندہ تر کرتی ہے، (اور) تپش ہی زندگی کو بال و پر عطا کرتی ہے۔
+      </Text>
+      <Text Language="English">
+        However, here it is: What gives to life intensity is ardency. It lends life wings with which to fly.’
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

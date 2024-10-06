@@ -1,0 +1,21 @@
+<Poem ID="10" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        سحر می گفت بلبل باغبان را
+درین گل جز نہال غم نگیرد
+بہ پیری میرسد خار بیابان
+ولی گل چون جوان گردد بمیرد
+      </Text>
+      <Text Language="Urdu">
+        بلبل نے صبح کے وقت باغبان سے کہا؛ اس مٹی میں سوائے غم کے پودے کے اور کچھ نہیں اگتا۔ 
+بیابان کا کانٹا بڑھاپے کو پہنچ جاتا ہے؛ مگر (گلستان کا) پھول جب جوان ہوتا ہے، تو مر جاتا ہے۔
+      </Text>
+      <Text Language="English">
+        The nightingale said to the gardener at dawn: ‘Only the tree of sorrow can take root in this soil. 
+The wild thorn reaches a ripe age, but the rose dies when it is still young’. 
+(Translated by Mustansir Mir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

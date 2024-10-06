@@ -1,0 +1,18 @@
+<Poem ID="10" Name="None" BookID="04" BookName="ارمغانِ حجاز" SectionID="02" SectionName="رباعیات">
+  <Para>
+    <Verse ID="01">
+      <Text Language="Original">
+        نہ کر ذکر فراق و آشنائی
+کہ اصل زندگی ہے خود نمائی
+نہ دریا کا زیاں ہے، نے گہر کا
+دل دریا سے گوہر کی جدائی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Talk not of friendship and partings, so the real life lies in the Ego’s show. 
+No loss, their lies, of river and pearls, if the pearl parts with the river’s whirl.
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

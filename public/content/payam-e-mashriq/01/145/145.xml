@@ -1,0 +1,19 @@
+<Poem ID="145" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        مرا مثل نسیم آوارہ کردند
+دلم مانند گل صد پارہ کردند
+نگاہم را کہ پیدا ہم نبیند
+شہید لذت نظارہ کردند
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        I am a wanderer like the breeze of morn, rose-like my heart is into fragments torn.
+My glance, which cannot see the evident, a martyr to the joy of sight is borne.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

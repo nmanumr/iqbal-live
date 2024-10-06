@@ -1,0 +1,38 @@
+<Poem ID="02" Name="" BookID="01" BookName="بانگِ درا" SectionID="04" SectionName="ظریفانہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        لڑکیاں پڑھ رہی ہیں انگریزی 
+ڈھونڈلی قوم نے فلاح کی راہ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The girls are learning English; the nation prosperity’s way has found.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        روش مغربی ہے مدنظر 
+وضع مشرق کو جانتے ہیں گناہ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The ways of the West are in view; Eastern ways sinful are found.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        یہ ڈراما دکھائے گا کیا سین 
+پردہ اٹھنے کی منتظر ہے نگاہ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        What scenes will this drama produce? On curtain’s rising this will be found.
+(Translated by M.A.K. Khalil)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

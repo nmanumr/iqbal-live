@@ -1,0 +1,61 @@
+<Poem ID="20" Name="تنہائی" BookID="01" BookName="بانگِ درا" SectionID="2a" SectionName="حصہ دوم">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        تنہائی شب میں ہے حزیں کیا 
+انجم نہیں تیرے ہم نشیں کیا!
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        LONELINESS
+Why are you sad in the night's loneliness? Are not the stars your close associates?
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        یہ رفعت آسمان خاموش 
+خوابیدہ زمیں، جہان خاموش
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        This elegant dignity of the silent sky; this sleeping earth, this silent world;
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        یہ چاند، یہ دشت و در، یہ کہسار 
+فطرت ہے تمام نسترن زار
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        This moon, wilderness, environment, mountains, Nature is a prolific garden of white roses.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        موتی خوش رنگ، پیارے پیارے 
+یعنی ترے آنسوئوں کے تارے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The colourful pearls are variegate and beautiful, seem to be the stars of your tears.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        کس شے کی تجھے ہوس ہے اے دل! 
+قدرت تری ہم نفس ہے اے دل!
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        What do you desire so inordinately, O Heart! Nature is in concord with you, O Heart!
+(Translated by Dr M A K Khalil)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

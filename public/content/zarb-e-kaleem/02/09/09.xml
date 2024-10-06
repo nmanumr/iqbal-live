@@ -1,0 +1,66 @@
+<Poem ID="09" Name="غزل" BookID="03" BookName="ضربِ کلیم" SectionID="02" SectionName="تعلیم و تربیت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        نہ میں اعجمی نہ ہندی، نہ عراقی و حجازی 
+کہ خودی سے میں نے سیکھی دوجہاں سے بے نیازی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        I don't belong to Fars or Hind, to Iraq or Hejaz don't trace my breed. The Self to me this much has taught spurn both the worlds and pay no heed.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        تو مری نظر میں کافر، میں تری نظر میں کافر 
+ترا دیں نفس شماری، مرا دیں نفس گدازی
+      </Text>
+      <Text Language="Urdu">
+        نفس شماري: سانس گننا۔ 
+نفس گدازي: سانس کو گرم کرنا۔
+      </Text>
+      <Text Language="English">
+        You are a heathen in my view, the same to you may seem my creed: To count the breath, your Faith and goal, while melting breath my job and deed.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        تو بدل گیا تو بہتر کہ بدل گئی شریعت 
+کہ موافق تدرواں نہیں دین شاہبازی
+      </Text>
+      <Text Language="Urdu">
+        تدرواں: چکوروں۔
+      </Text>
+      <Text Language="English">
+        Your change, no doubt, is good and well, and so your change of Moslem Creed. This Faith is meant for men, like hawks, it suits not pheasants' quivering breed.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        ترے دشت و در میں مجھ کو وہ جنوں نظر نہ آیا 
+کہ سکھا سکے خرد کو رہ و رسم کارسازی
+      </Text>
+      <Text Language="Urdu">
+        رہ و رسم کارسازي: کام سنوارنے والے طریقے۔
+      </Text>
+      <Text Language="English">
+        Such passionate Love of God and craze, in wilds and wastes has not caught my sight; whose magic force and rapture great, the faults of reason may set right.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        نہ جدا رہے نوا گر تب و تاب زندگی سے 
+کہ ہلاکی امم ہے یہ طریق نے نوازی
+      </Text>
+      <Text Language="Urdu">
+        نوا گر: گانے والا۔ 
+ہلاکي امم: قوموں کی حلاکت۔
+      </Text>
+      <Text Language="English">
+        A poet must ne'er keep aloof from noisy fretful stream of life; the bard, who shuns the facts and truths, can't make the nation face its strife.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

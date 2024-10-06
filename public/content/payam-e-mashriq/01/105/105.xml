@@ -1,0 +1,19 @@
+<Poem ID="105" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بمنزل رھرو دل در نسازد
+بہ آب و آتش و گل در نسازد
+نپنداری کہ در تن آرمید است
+کہ این دریا بہ ساحل در نسازد
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The roving heart likes not at borne to stay, to be contained in water, fire, and clay;
+Think not that in the body is repose, this rolling sea comes to no shore to play. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

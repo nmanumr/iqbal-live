@@ -1,0 +1,39 @@
+<Poem ID="05" Name="پیرس کی مسجد" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        مری نگاہ کمال ہنر کو کیا دیکھے 
+کہ حق سے یہ حرم مغربی ہے بیگانہ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        PARIS MOSQUE
+No height of art and craft I see, of truth this western mosque is free.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        حرم نہیں ہے، فرنگی کرشمہ بازوں نے 
+تن حرم میں چھپا دی ہے روح بت خانہ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        It is no worship house divine, the Franks have idols hid in shrine.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        یہ بت کدہ انھی غارت گروں کی ہے تعمیر 
+دمشق ہاتھ سے جن کے ہوا ہے ویرانہ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The brigands same have built this fane by whom Syrians were ruined and slain. 
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

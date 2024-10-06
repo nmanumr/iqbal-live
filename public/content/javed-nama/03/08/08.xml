@@ -1,0 +1,618 @@
+<Poem ID="08" Name="حکمت خیرکثیر است" BookID="09" BookName="جاوید نامہ" SectionID="03" SectionName="فلک عطارد">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        گفت حکمت را خدا خیر کثیر
+ہر کجا این خیر را بینی بگیر
+      </Text>
+      <Text Language="Urdu">
+        حکمت خیر کثیر ہے۔
+
+اللہ تعالے نے حکمت کو خیر کثیر فرمایا ہے؛ جہاں کہیں تو اس خیر کو دیکھے اپنا لے۔
+      </Text>
+      <Text Language="English">
+        WISDOM IS A GREAT GOOD
+
+God has declared, Wisdom is a great good; wherever you may see this good, seize it.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        علم حرف و صوت را شہپر دہد
+پاکی گوہر بہ نا گوہر دھد
+      </Text>
+      <Text Language="Urdu">
+        علم مصنف اور خطیب کو شہپر عطا کرتا ہے، اس سے معمولی شخصیت کو بھی اندرونی پاکیزگی حاصل ہو جاتی ہے۔
+      </Text>
+      <Text Language="English">
+        Science gives pinions to words and sounds, bestows purest substance on things without substance;
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        علم را بر اوج افلاک است رہ
+تا ز چشم مہر بر کندد نگہ
+      </Text>
+      <Text Language="Urdu">
+        علم کا راستہ افلاک کی بلندیوں تک پہنچتا ہے ؛ یہاں تک کہ وہ سورج کی آنکھ سے بھی نگاہ چھین لیتا ہے۔
+      </Text>
+      <Text Language="English">
+        Science finds a way even to heaven’s zenith to pluck the sight out of the sun’s own eye.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        نسخۂ او نسخۂ تفسیر کل
+بستۂ تدبیر او تقدیر کل
+      </Text>
+      <Text Language="Urdu">
+        علم ساری موجودات کی تاثیر حاصل کرنے کا نسخہ ہے سب کی تقدیر اسی کی تدبیر کے ساتھ وابستہ ہے۔
+      </Text>
+      <Text Language="English">
+        Its transcript is the commentary of the cosmos, the fate of the cosmos hangs upon its determining;
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        دشت را گوید حبابی دہ، دہد
+بحر را گوید سرابی دہ، دہد
+      </Text>
+      <Text Language="Urdu">
+        اگر علم صحرا سے کہے کہ حباب دے تو وہ دے دیتا ہے؛ اگر وہ بحر سے کہے کہ سراب دکھا تو وہ دکھا دیتا ہے۔
+      </Text>
+      <Text Language="English">
+        It says to the desert, ‘Bubble up!’ and it bubbles, to the sea, ‘Produce a mirage!’ and it produces it.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        چشم او بر واردات کائنات
+تا ببیند محکمات کائنات
+      </Text>
+      <Text Language="Urdu">
+        علم کی نظر کائنات کے بارے میں تجربات پر ہے؛ تاکہ وہ کائنات کے بنیادی اصول دیکھے۔
+      </Text>
+      <Text Language="English">
+        Its eye beholds all the events in creation that it may see the sure foundations of creation;
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        دل اگر بندد بہ حق پیغمبری است
+ور ز حق بیگانہ گردد کافری است
+      </Text>
+      <Text Language="Urdu">
+        دل کو اگر اللہ تعالے سے لگایا جائے تو یہ پیغمبری ہے؛ اور یہ اگر اللہ تعالےسے بیگانہ رہے تو یہی کافری ہے۔
+      </Text>
+      <Text Language="English">
+        If it attaches its heart to God, it is prophecy, but if it is a stranger to God, it is unbelief.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        علم را بے سوز دل خوانی شر است
+نور او تاریکی بحر و بر است
+      </Text>
+      <Text Language="Urdu">
+        اگر تو علم کو سوز عشق کے بغیر پڑھے تو یہ شر ہے؛ ایسے علم کا نور بحر و بر کی تاریکی ہے۔
+      </Text>
+      <Text Language="English">
+        Science without the heart’s glow is pure evil, for then its light is darkness over sea and land,
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        عالمے از غاز او کور و کبود
+فرودینش برگ ریز ہست و بود
+      </Text>
+      <Text Language="Urdu">
+        اس علم کے غازے سے دنیا اندھیر نگری بن جاتی ہے ؛ اس کی بہار شجر زندگی کے پتّے گرا دیتی ہے۔
+      </Text>
+      <Text Language="English">
+        Its rouge renders the whole world black and blind, its springtide scatters the leaves of all being,
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        بحر و دشت و کوہسار و باغ و راغ
+از بم طیارۂ او داغ داغ
+      </Text>
+      <Text Language="Urdu">
+        بحر، صحرا، کوہسار، باغ و راغ سب اس کے طیاروں کے بموں سے داغ داغ ہو جاتے ہیں۔
+      </Text>
+      <Text Language="English">
+        Sea, plain and mountain, quiet garden and villa are ravaged by the bombs of its aeroplanes.
+      </Text>
+    </Verse>
+    <Verse ID="21">
+      <Text Language="Original">
+        سینہ افرنگ را ناری ازوست
+لذت شبخون و یلغاری ازوست
+      </Text>
+      <Text Language="Urdu">
+        اسی علم نے فرنگیوں کے سینے میں آگ بڑھکائی ہے اور اسی سے انہیں شبخون اور یلغار کی عزت حاصل ہوتی ہے۔
+      </Text>
+      <Text Language="English">
+        It is its fire that burns the heart of Europe, from it springs the joy of raiding and robbing;
+      </Text>
+    </Verse>
+    <Verse ID="23">
+      <Text Language="Original">
+        سیر واژونی دھد ایام را
+می برد سرمایۂ اقوام را
+      </Text>
+      <Text Language="Urdu">
+        یہ علم زمانے کو پیچھے لے جاتا ہے؛ اور اقوام سے ان کا سرمایہ چھین لیتا ہے۔
+      </Text>
+      <Text Language="English">
+        It turns topsy-turvy the course of the days, despoils the peoples of their capital.
+      </Text>
+    </Verse>
+    <Verse ID="25">
+      <Text Language="Original">
+        قوتش ابلیس را یاری شود
+نور، نار از صحبت ناری شود
+      </Text>
+      <Text Language="Urdu">
+        اس علم سے حاصل شدہ قوّت ابلیس کی مددگار بنتی ہے اور پھر نار یعنی ابلیس کی صحبت سے علم کا نور بھی نار بن جاتا ہے۔
+      </Text>
+      <Text Language="English">
+        Its power becomes the faithful ally of Satan; light becomes fire by association with fire.
+      </Text>
+    </Verse>
+    <Verse ID="27">
+      <Text Language="Original">
+        کشتن ابلیس کاری مشکل است
+زانکہ او گم اندر اعماق دل است
+      </Text>
+      <Text Language="Urdu">
+        ابلیس کو مارنا مشکل کام ہے کیونکہ وہ نفس کی گہرائیوں میں گم ہے۔
+      </Text>
+      <Text Language="English">
+        To slay Satan is indeed a difficult task, since he is hidden within the depths of the heart;
+      </Text>
+    </Verse>
+    <Verse ID="29">
+      <Text Language="Original">
+        خوشتر آن باشد مسلمانش کنی
+کشتۂ شمشیر قرآنش کنی
+      </Text>
+      <Text Language="Urdu">
+        بہتر یہی ہے کہ تو اسے مسلمان کر لے؛ اور اسے قرآن کی تلوار سے قتل کرے۔
+      </Text>
+      <Text Language="English">
+        Better is it to make him a true Mussulman, better to smite him dead with the sword of the Koran.
+      </Text>
+    </Verse>
+    <Verse ID="31">
+      <Text Language="Original">
+        از جلال بے جمالی الامان
+از فراق بے وصالی الامان
+      </Text>
+      <Text Language="Urdu">
+        ایسے علم کے جلال بے جمال سے خدا کی پناہ؛ اس کے بے وصال فراق سے خدا کی پناہ۔
+      </Text>
+      <Text Language="English">
+        God save us from majesty that is without beauty, God save us from separation without union!
+      </Text>
+    </Verse>
+    <Verse ID="33">
+      <Text Language="Original">
+        علم بے عشق است از طاغوتیان
+علم با عشق است از لاہوتیان
+      </Text>
+      <Text Language="Urdu">
+        بغیر عشق کے علم کا تعلق شیاطین سے ہے اور با عشق علم کا تعلق عارفین الہی سے ہے۔
+      </Text>
+      <Text Language="English">
+        Science without love is a demonic thing, science together with love is a thing divine;
+      </Text>
+    </Verse>
+    <Verse ID="35">
+      <Text Language="Original">
+        بے محبت علم و حکمت مردہ ئی
+عقل تیری بر ہدف ناخوردہ ئی
+      </Text>
+      <Text Language="Urdu">
+        عشق الہی کے بغیر علم و حکمت مردہ ہے اور عقل ایسا تیر ہے جو نشانے سے دور ہے۔
+      </Text>
+      <Text Language="English">
+        Science and wisdom without love are a corpse, reason is an arrow that never pierced the target.
+      </Text>
+    </Verse>
+    <Verse ID="37">
+      <Text Language="Original">
+        کور را بینندہ از دیدار کن
+بولہب را حیدر کرار کن
+      </Text>
+      <Text Language="Urdu">
+        اندھے (علم) کا دیدار الہی سے بصیر بنا دے اور اس طرح بو لہب کو حیدر کرار (رضی اللہ) میں بدل دے۔
+      </Text>
+      <Text Language="English">
+        With the vision of God make the blind to see, convert Abu Lahab into an impetuous Haidar!
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="زندہ رود">
+    <Verse ID="39">
+      <Text Language="Original">
+        محکماتش وانمودی از کتاب
+ہست آن عالم ہنوز اندر حجاب
+      </Text>
+      <Text Language="Urdu">
+        آپ (صلعم) نے قران پاک کے محکمات ظاہر کر دیے؛ (لیکن) وہ جہان (جس کی آپ بات کرتے ہیں) ابھی حجاب میں ہے۔
+      </Text>
+      <Text Language="English">
+        You have displayed the foundations of the Book of God, yet is yonder world still veiled in a shroud.
+      </Text>
+    </Verse>
+    <Verse ID="41">
+      <Text Language="Original">
+        پردہ را از چہرہ نگشاید چرا
+از ضمیر ما برون ناید چرا
+      </Text>
+      <Text Language="Urdu">
+        وہ اپنے چہرے سے پردہ کیوں نہیں ہٹاتا اور ہمارے ضمیر سے باہر کیوں نہیں آتا۔
+      </Text>
+      <Text Language="English">
+        Why does it not strip off the veil from its face, why does it not issue yet out of our hearts?
+      </Text>
+    </Verse>
+    <Verse ID="43">
+      <Text Language="Original">
+        پیش ما یک عالم فرسودہ ایست
+ملت اندر خاک او آسودہ ایست
+      </Text>
+      <Text Language="Urdu">
+        ہمارے سامنے ایک فرسودہ جہان ہے؛ اور ملت اسی کی خاک میں آسودہ ہے۔
+      </Text>
+      <Text Language="English">
+        Before us lies a whole world wasting away, a nation quietly reposing in its own dust;
+      </Text>
+    </Verse>
+    <Verse ID="45">
+      <Text Language="Original">
+        رفت سوز سینۂ تاتار و کرد
+یا مسلمان مرد یا قرآن بمرد
+      </Text>
+      <Text Language="Urdu">
+        تاتاریوں اور کردوں کے سینے کا سوز ختم ہوا؛ کیا مسلمان مر چکا ہے یا قرآن پاک سے اثر جاتا رہا۔
+      </Text>
+      <Text Language="English">
+        The heart’s ardour of Tartar and Kurd is vanished – either the Mussulmans are dead, or the Koran is dead.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="سعید حلیم پاشا">
+    <Verse ID="47">
+      <Text Language="Original">
+        دین حق از کافری رسوا تر است
+زانکہ ملا مومن کافر گر است
+      </Text>
+      <Text Language="Urdu">
+        دین حق کافری کی وجہ رسوا تر ہے؛ کیونکہ ہمارا ملّا کافر گر مومن ہے۔
+      </Text>
+      <Text Language="English">
+        The religion of God is more shameful than unbelief, because the mullah is a believer trading in unfaith;
+      </Text>
+    </Verse>
+    <Verse ID="49">
+      <Text Language="Original">
+        شبنم ما در نگاہ ما یم است
+از نگاہ او یم ما شبنم است
+      </Text>
+      <Text Language="Urdu">
+        ہماری نگاہ میں ہماری شبنم سمندر ہے؛ اس کی نگاہ میں ہمارا سمندر شبنم۔
+      </Text>
+      <Text Language="English">
+        In our eyes this dew-drop of ours is an ocean, to his eyes our ocean is a dew-drop.
+      </Text>
+    </Verse>
+    <Verse ID="51">
+      <Text Language="Original">
+        از شگرفیہای آن قرآن فروش
+دیدہ ام روح الامین را در خروش
+      </Text>
+      <Text Language="Urdu">
+        اس قرآن فروش کی طرفہ باتوں کے سبب میں نے جبریل امین (علیہ) کو خشمگین پایا ہے۔
+      </Text>
+      <Text Language="English">
+        At the elegant graces of that Koran-vendor I have seen the Trusty Spirit himself cry out!
+      </Text>
+    </Verse>
+    <Verse ID="53">
+      <Text Language="Original">
+        زانسوی گردون دلش بیگانہ ئے
+نزد او ام الکتاب افسانہ ئی
+      </Text>
+      <Text Language="Urdu">
+        ملّا کا دل آسمان کے اس طرف سے (اللہ تعالے) سے نا آشنا ہے؛ اس کے نزدیک قرآن پاک محض افسانہ ہے۔
+      </Text>
+      <Text Language="English">
+        His heart is a stranger to what lies beyond the sky, for him the Archetype of the Book is but a fable;
+      </Text>
+    </Verse>
+    <Verse ID="55">
+      <Text Language="Original">
+        بے نصیب از حکمت دین نبی
+آسمانش تیرہ از بے کوکبی
+      </Text>
+      <Text Language="Urdu">
+        وہ جناب رسول پاک (صلعم) کے دین کی حکمت سے محروم ہے؛ اس کا آسمان ستاروں کے نہ ہونے کی وجہ سے تاریک ہے۔
+      </Text>
+      <Text Language="English">
+        Having no share of the wisdom of the Prophet’s religion, his heaven is dark, being without any star.
+      </Text>
+    </Verse>
+    <Verse ID="57">
+      <Text Language="Original">
+        کم نگاہ و کور ذوق و ھرزہ گرد
+ملت از قال و اقولش فرد فرد
+      </Text>
+      <Text Language="Urdu">
+        وہ کم نگاہ، کور ذوق اور فضول گو ہے؛ اس کی باتوں سے ملت ٹکڑے ٹکڑے ہو گئی ہے۔
+      </Text>
+      <Text Language="English">
+        Short of vision, blind of taste, an idle gossip, his hairsplitting arguments have fragmented the Community.
+      </Text>
+    </Verse>
+    <Verse ID="59">
+      <Text Language="Original">
+        مکتب و ملا و اسرار کتاب
+کور مادر زاد و نور آفتاب
+      </Text>
+      <Text Language="Urdu">
+        مکتب و ملّا اور قرآن پاک کے اسرار (کی مثال یوں ہے) جیسے مادر زاد اندھا اور آفتاب کی روشنی۔
+      </Text>
+      <Text Language="English">
+        Seminary and mullah, before the secrets of the Book, are as one blind from birth before the light of the sun.
+      </Text>
+    </Verse>
+    <Verse ID="61">
+      <Text Language="Original">
+        دین کافر فکر و تدبیر جھاد
+دین ملا فی سبیل اﷲ فساد
+      </Text>
+      <Text Language="Urdu">
+        کافر کا دین جہاد کی فکر و تدبیر اور ملّا کا دین فی سبیل اﷲ فساد۔
+      </Text>
+      <Text Language="English">
+        The infidel’s religion is the plotting and planning of Holy War; the mullah’s religion is corruption in the Way of God.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="63">
+      <Text Language="Original">
+        مرد حق جان جھان چار سوی
+آن بخلوت رفتہ را از من بگوی
+      </Text>
+      <Text Language="Urdu">
+        مرد حق جو اس جہان چار سو (دنیا ) کی جان ہے اور آج کل خلوت نشین ہے اسے میری طرف سے کہو۔
+      </Text>
+      <Text Language="English">
+        The man of God is the soul of this dimensionate world; say from me to him, who has gone into solitude;
+      </Text>
+    </Verse>
+    <Verse ID="65">
+      <Text Language="Original">
+        اے ز افکار تو مومن را حیات
+از نفسہای تو ملت را ثبات
+      </Text>
+      <Text Language="Urdu">
+        تیرے افکار سے مومن کی زندگی وابستہ ہے اور تیری گفتار سے ملت ثبات پاتی ہے۔
+      </Text>
+      <Text Language="English">
+        ‘You whose thoughts are life itself to the believer, whose breaths are confirmation to the Community;
+      </Text>
+    </Verse>
+    <Verse ID="67">
+      <Text Language="Original">
+        حفظ قرآن عظیم آئین تست
+حرف حق را فاش گفتن دین تست
+      </Text>
+      <Text Language="Urdu">
+        قرآن حکیم کی حفاظت تیرا آئین ہے، اللہ تعالے کے کلام کو واضح طور پر بیان کرنا تیرا دین ہے۔
+      </Text>
+      <Text Language="English">
+        Having the sublime Koran by heart is your rite, your religion the publishing of the Word of God.
+      </Text>
+    </Verse>
+    <Verse ID="69">
+      <Text Language="Original">
+        تو کلیمی چند باشی سرنگون
+دست خویش از آستین آور برون
+      </Text>
+      <Text Language="Urdu">
+        تو کلیم ہے کب تک سر نگوں رہے گا؛ اپنا ہاتھ (ید بیضا ) آستین سے باہر نکال۔
+      </Text>
+      <Text Language="English">
+        You with whom God speaks, how long will you hang your head? Come, bring forth your hand out of your sleeve!
+      </Text>
+    </Verse>
+    <Verse ID="71">
+      <Text Language="Original">
+        سر گذشت ملت بیضا بگوی
+با غزال از وسعت صحرا بگوی
+      </Text>
+      <Text Language="Urdu">
+        ملت اسلامیہ کی سرگذشت بیان کر ؛ آہو کو وسعت صحرا سے آگاہ کر۔
+      </Text>
+      <Text Language="English">
+        Speak of the history of the ‘white’ people, speak to the gazelle of the vastness of the desert.
+      </Text>
+    </Verse>
+    <Verse ID="73">
+      <Text Language="Original">
+        فطرت تو مستنیر از مصطفی است
+باز گو آخر مقام ما کجاست
+      </Text>
+      <Text Language="Urdu">
+        تیری فطرت نور مصطفے (صلعم) سے منوّر ہے ؛ پھر سے بیان کر کہ آخر ہم مسلمانوں کا مقام کہاں ہے؟
+      </Text>
+      <Text Language="English">
+        Your nature is illumined by the Chosen One, so declare now, where is our station?
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="75">
+      <Text Language="Original">
+        مرد حق از کس نگیرد رنگ و بو
+مرد حق از حق پذیرد رنگ و بو
+      </Text>
+      <Text Language="Urdu">
+        اللہ تعالے کا بندہ کسی اور سے رنگ و بو نہیں لیتا وہ صرف اللہ تعالے ہی کا رنگ اختیار کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        The man of God takes not Colour and scent from anyone, the man of God receives colour and scent from God;
+      </Text>
+    </Verse>
+    <Verse ID="77">
+      <Text Language="Original">
+        ہر زمان اندر تنش جانی دگر
+ہر زمان او را چو حق شانی دگر
+      </Text>
+      <Text Language="Urdu">
+        تپش کی وجہ سے ہر لمحہ اس کی جان کا انداز نیا ہوتا ہے؛ وہ اللہ تعالے ہی کی طرح ہر زمانے میں نئی شان سے جلوہ گر ہوتا ہے۔
+      </Text>
+      <Text Language="English">
+        Every moment there is in his body a fresh soul, every moment he has, like God, a new labour.
+      </Text>
+    </Verse>
+    <Verse ID="79">
+      <Text Language="Original">
+        رازہا با مرد مومن باز گوے
+شرح رمز "کل یوم" باز گوی
+      </Text>
+      <Text Language="Urdu">
+        مرد مومن کو ان رازوں سے پھر آگاہ کر، اسی کے سامنے آیہ شریفہ کہ 'اللہ تعالے ہر ایک نئی شان سے جلوہ گر ہوتے ہیں ' کے معنی پھر بیان کر۔
+      </Text>
+      <Text Language="English">
+        Declare the secrets to the believer, declare the exposition of the mystery of Every day.
+      </Text>
+    </Verse>
+    <Verse ID="81">
+      <Text Language="Original">
+        جز حرم منزل ندارد کاروان
+غیر حق در دل ندارد کاروان
+      </Text>
+      <Text Language="Urdu">
+        یہ کاروان حرم شریف کے علا وہ اور کوئی منزل نہیں رکھتا؛ نہ اہل کاروان کے دل میں اللہ تعالے کے سوائے کوئی اور بستا ہے۔
+      </Text>
+      <Text Language="English">
+        The carvaan has no halting-place but the Sanctuary, the caravan has naught but God in its heart;
+      </Text>
+    </Verse>
+    <Verse ID="83">
+      <Text Language="Original">
+        من نمی گویم کہ راہش دیگر است
+کاروان دیگر نگاہش دیگر است
+      </Text>
+      <Text Language="Urdu">
+        میں یہ نہیں کہتا کہ اس کاروان کی راہ کوئی اور ہے؛ میں کہتا ہوں کہ کاروان اور ہے اور اس کی نگاہ بدل چکی ہے۔
+      </Text>
+      <Text Language="English">
+        I do not say that its road is different – it is the caravan that is different, different its regard.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="افغانی">
+    <Verse ID="85">
+      <Text Language="Original">
+        از حدیث مصطفی داری نصیب
+دین حق اندر جھان آمد غریب
+      </Text>
+      <Text Language="Urdu">
+        کیا تجھے حضور اکرم (صلعم) کی حدیث معلوم ہے کہ اسلام دنیا میں غریب (احنبی) آیا تھا۔
+      </Text>
+      <Text Language="English">
+        Have yon any acquaintance with the Traditions of the Chosen One? ‘God’s religion came a stranger into the world.’
+      </Text>
+    </Verse>
+    <Verse ID="87">
+      <Text Language="Original">
+        با تو گویم معنی این حرف بکر
+غربت دین نیست فقر اہل ذکر
+      </Text>
+      <Text Language="Urdu">
+        میں تیرے سامنے اس اچھوتے لفظ کے معنی بیان کرتا ہوں ؛ دین کی غربت سے اہل ذکر کی مفلسی مراد نہیں۔
+      </Text>
+      <Text Language="English">
+        I will tell you the meaning of this virgin saying. The ‘strangerhood’ of religion is not the poverty of God’s remembrancers;
+      </Text>
+    </Verse>
+    <Verse ID="89">
+      <Text Language="Original">
+        بہر آن مردی کہ صاحب جستجوست
+غربت دین ندرت آیات اوست
+      </Text>
+      <Text Language="Urdu">
+        وہ شخص جو صاحب جستجو ہے اس کے لیے دین کی غربت قرآن پاک کی آیات کی ندرت ہے۔
+      </Text>
+      <Text Language="English">
+        For the man who is truly a researcher‘strangerhood’ of religion refers to the scarceness of its verses.
+      </Text>
+    </Verse>
+    <Verse ID="91">
+      <Text Language="Original">
+        غربت دین ہر زمان نوع دگر
+نکتہ را دریاب اگر داری نظر
+      </Text>
+      <Text Language="Urdu">
+        ہر زمانے میں دین کی غربت کا نیا انداز ہے؛ اگر تو عقل رکھتا ہے تو اس نکتہ کو سمجھ۔
+      </Text>
+      <Text Language="English">
+        The ‘strangerhood’ of religion every time is Of a different kind; ponder well this subtelty, if you have eyes to see.
+      </Text>
+    </Verse>
+    <Verse ID="93">
+      <Text Language="Original">
+        دل بہ آیات مبین دیگر ببند
+تا بگیری عصر نو را در کمند
+      </Text>
+      <Text Language="Urdu">
+        کی آیات مبین پر دوبارہ غور کر ؛ تاکہ تو عصر نو کو اپنی کمند میں گرفتار کر سکے۔قرآن پاک
+      </Text>
+      <Text Language="English">
+        Fasten your heart again to the perspicuous Verses that you may seize a new age in your lasso.
+      </Text>
+    </Verse>
+    <Verse ID="95">
+      <Text Language="Original">
+        کس نمی داند ز اسرار کتاب
+شرقیان ہم غربیان در پیچ و تاب
+      </Text>
+      <Text Language="Urdu">
+        قرآن پاک کے اسرار کو کوئی نہیں سمجھتا ؛ اہل مشرق ہوں یا اہل مغرب سب پیچ و تاب میں ہیں۔
+      </Text>
+      <Text Language="English">
+        No man knows the inner secrets of the Book; Easterners and Westerners alike twist and turn this way and that.
+      </Text>
+    </Verse>
+    <Verse ID="97">
+      <Text Language="Original">
+        روسیان نقش نوی انداختند
+آب و نان بردند و دین در باختند
+      </Text>
+      <Text Language="Urdu">
+        اہل روس نیا انقلاب لائے ہیں ؛ انہوں نے آب و نان پا لیا اور دین ہار دیا۔
+      </Text>
+      <Text Language="English">
+        The Russians have laid down a new design; they have taken bread and water, and jettisoned religion.
+      </Text>
+    </Verse>
+    <Verse ID="99">
+      <Text Language="Original">
+        حق ببین حق گوی و غیر از حق مجوی
+یک دو حرف از من بہ آن ملت بگوی
+      </Text>
+      <Text Language="Urdu">
+        تو حق دیکھ، حق کہہ اور سوائے حق کے اور کسی چیز کی جستجو نہ کر؛ میری طرف سے ملت روسیہ کو ایک دو باتیں پہنچا دے۔
+      </Text>
+      <Text Language="English">
+        Behold truth, speak truth, seek only truth; speak one or two words from me to the people.
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

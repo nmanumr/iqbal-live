@@ -1,0 +1,54 @@
+<Poem ID="08" Name="حیات جاوید" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        گمان مبر کہ بپایان رسید کار مغان
+ہزار بادۂ ناخوردہ در رگ تاک است
+      </Text>
+      <Text Language="Urdu">
+        یہاں گمان نہ کر کہ پیر مغاں کا کام ختم ہو گیا، ابھی تک انگور کے اندر بہت سی ایسی شراب ہے جسے کسی نے نہیں چکھا۔
+      </Text>
+      <Text Language="English">
+        ETERNAL LIFE
+Do not imagine that the work of the Wine-maker is complete. With unknown quantities of undrunk wine the vine is still replete.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        چمن خوشست ولیکن چو غنچہ نتوان زیست
+قبای زندگیش از دم صبا چاک است
+      </Text>
+      <Text Language="Urdu">
+        چمن خوب ہے لیکن یہاں کلی کی مانند زندگی بسر نہیں کی جا سکتی، اس کی زندگی کی قبا کو باد صبا کا ایک جھونکا چاک کر دیتا ہے۔
+      </Text>
+      <Text Language="English">
+        The garden is a happy place, but you cannot survive as buds in it for long; the breeze will come and tear your being’s robe to shreds.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        اگر ز رمز حیات آگہی مجوی و مگیر
+دلی کہ از خلش خار آرزو پاک است
+      </Text>
+      <Text Language="Urdu">
+        اگر تجھے راز زندگی سے آگہی حاصل ہے، تو نہ ایسا دل ڈھونڈ، نہ لے جو خلش آرزو سے خالی ہو۔
+      </Text>
+      <Text Language="English">
+        If you possess the faintest knowledge of life’s awesome mystery, then do not seek a heart entirely free from longing’s agony.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        بخود خزیدہ و محکم چو کوہساران زے
+چو خش مزی کہ ہوا تیز و شعلہ بیباک است
+      </Text>
+      <Text Language="Urdu">
+        اپنے آپ سے وابستہ رہ اور پہاڑوں کی طرح مستحکم ہو کر زندگی بسر کر، تنکے کی طرح زندگی بسر نہ کر کیونکہ ہوا تیز ہے اور شعلے بھڑک رہے ہیں۔
+      </Text>
+      <Text Language="English">
+        Be like a mountain, grave and lofty, with your native dignity, and not like straw. Beware, there is a wildfire raging savagely.
+[Translated by M Hadi Hussain]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

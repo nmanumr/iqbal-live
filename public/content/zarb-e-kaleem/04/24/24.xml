@@ -1,0 +1,40 @@
+<Poem ID="24" Name="رومی" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        غلط نگر ہے تری چشم نیم باز اب تک 
+ترا وجود ترے واسطے ہے راز اب تک
+      </Text>
+      <Text Language="Urdu">
+        چشم نيم باز: آدھی کھلی آنکھ۔
+      </Text>
+      <Text Language="English">
+        Your half-shut eyes still fail to see what subtle fact this life may be.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        ترا نیاز نہیں آشنائے ناز اب تک 
+کہ ہے قیام سے خالی تری نماز اب تک
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Too meek to have a fondling will, devoid of Qiam your worship still.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        گسستہ تار ہے تیری خودی کا ساز اب تک 
+کہ تو ہے نغمہ رومی سے بے نیاز اب تک!
+      </Text>
+      <Text Language="Urdu">
+        گسستہ تار: ٹوٹا ہوا تار۔
+      </Text>
+      <Text Language="English">
+        For songs of Rumi you haven't ears sharp, shaped the strings of your Self's harp.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

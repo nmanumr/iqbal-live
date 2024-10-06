@@ -1,0 +1,17 @@
+<Poem ID="04" Name="" BookID="08" BookName="زبورِعجم" SectionID="01" SectionName="حصہ اول">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        عشق شور انگیز را ہر جادہ در کوی تو برد
+بر تلاش خود چہ مینا زد کہ رہ سوی تو برد
+      </Text>
+      <Text Language="Urdu">
+        عشق شور انگیز نے جو بھی راستہ اختیار کیا، اس نے اسے آپ کی گلی تک پہنچا دیا؛ عشق کو اپنی تلاش پر بہت ناز ہے کہ وہ بالآخر آپ تک پہنچ ہی گیا۔
+      </Text>
+      <Text Language="English">
+        Tumultuous Love where’er it rove unto Thy street is brought; what boasteth he who findeth Thee that for himself he sought?
+(Translated by A.J. Arberry)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

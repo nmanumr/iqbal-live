@@ -1,0 +1,77 @@
+<Poem ID="03" Name="نوای غالب" BookID="09" BookName="جاوید نامہ" SectionID="06" SectionName="فلک مشتری">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        "بیا کہ قاعدۂ آسمان بگردانیم
+قضا بگردش رطل گران بگردانیم
+      </Text>
+      <Text Language="Urdu">
+        اٹھ کہ آسمان کا دستور بدل دیں ؛ پیمانہء شراب کی گردش سے قضا تبدیل کر دیں۔
+      </Text>
+      <Text Language="English">
+        THE SONG OF GHALIB
+Come, let us change the rule of heaven, let us change fate by revolving a heavy measure of wine;
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        اگر ز شحنہ بود گیر و دار نندیشیم
+وگر ز شاہ رسد ارمغان بگردانیم
+      </Text>
+      <Text Language="Urdu">
+        اگر کوتوال کی طرف سے پکڑ دھکڑ ہو تو اس کی فکر نہ کریں ؛ اگر شاہ کی طرف سے تحفہ آئے ، تو اسے لوٹا دے۔
+      </Text>
+      <Text Language="English">
+        Though the police-captain makes trouble, we will not worry, and if the king himself sends a present, we will reject it.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        اگر کلیم شود ہمزبان سخن نکنیم
+وگر خلیل شود میہمان بگردانیم
+      </Text>
+      <Text Language="Urdu">
+        اگر کلیم (علیہ) بات کرے تو اس سے ہم سخن نہ ہوں ؛ اگر خلیل (علیہ) مہمان بن کےآئے تو اسے لوٹا دے۔
+      </Text>
+      <Text Language="English">
+        Though Moses converse with us, we will not say a word; though Abraham be our host, we will decline him.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        بجنگ باج ستانان شاخساری را
+تہی سبد ز در گلستان بگردانیم
+      </Text>
+      <Text Language="Urdu">
+        شاخساروں سے پھول چننے والوں کو باغ کے دروازے سے خالی ٹوکری کے ساتھ زبردستی واپس کر دیں۔
+      </Text>
+      <Text Language="English">
+        Battling, the tribute-snatchers of the grove we will turn away from our garden’s gate with empty basket;
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        بہ صلح بال فشانان صبحگاہی را
+ز شاخسار سوی آشیان بگردانیم
+      </Text>
+      <Text Language="Urdu">
+        صبحدم مائل بہ پرواز پرندوں کو آرام سے شاخوں سے آشیانوں کی طرف واپس بھیج دیں۔
+      </Text>
+      <Text Language="English">
+        Peacefully, the birds that flutter their wings at dawn we will send back from the grove to their nests.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        ز حیدریم من و تو ز ما عجب نبود
+گر آفتاب سوی خاوران بگردانیم"
+      </Text>
+      <Text Language="Urdu">
+        میری اور تیری نسبت حیدری (رحمتہ) ہے؛ اگر ہم آفتاب کو مشرق کی جانب لوٹا دیں ، تو یہ کوئی تعجب کی بات نہیں۔
+      </Text>
+      <Text Language="English">
+        You and I are of Haidar, so no wonder would it be if we turn back the sun towards the East.
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

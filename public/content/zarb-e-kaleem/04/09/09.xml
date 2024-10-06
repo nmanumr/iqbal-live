@@ -1,0 +1,53 @@
+<Poem ID="09" Name="تیاتر" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        تری خودی سے ہے روشن ترا حریم وجود 
+حیات کیا ہے، اسی کا سرور و سوز و ثبات
+      </Text>
+      <Text Language="Urdu">
+        تياتر: تماشا گاہ، تھیٹر۔
+      </Text>
+      <Text Language="English">
+        THEATRE 
+Your being's sanctum gets from Self its inner light; save zeal and firm resolve, naught can make life e'er bright.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        بلند تر مہ و پرویں سے ہے اسی کا مقام 
+اسی کے نور سے پیدا ہیں تیرے ذات و صفات
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Its rank is higher than the Pleiades and the moon, your essence and its gifts are Ego's greatest boon.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        حریم تیرا، خودی غیر کی ! معاذاللہ 
+دوبارہ زندہ نہ کر کاروبار لات و منات
+      </Text>
+      <Text Language="Urdu">
+        معاذاللہ: خدا کی پناہ۔
+      </Text>
+      <Text Language="English">
+        God save that alien Self seek shelter in your shrine; the creed of idols shun, don't desecrate house divine.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        یہی کمال ہے تمثیل کا کہ تو نہ رہے 
+رہا نہ تو تو نہ سوز خودی، نہ ساز حیات
+      </Text>
+      <Text Language="Urdu">
+        تمثيل: ادا کاری۔
+      </Text>
+      <Text Language="English">
+        Forgetfulness of Self imports the height of art, but with the loss of Self both joy and warmth depart.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

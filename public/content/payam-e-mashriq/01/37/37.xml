@@ -1,0 +1,21 @@
+<Poem ID="37" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        دمادم نقش ہای تازہ ریزد
+بیک صورت قرار زندگی نیست
+اگر امروز تو تصویر دوش است
+بخاک تو شرار زندگی نیست
+      </Text>
+      <Text Language="Urdu">
+        زندگی کو ایک صورت پر قرار نہیں، یہ ہر دم ایک نیا نقش پیدا کرتی ہے۔
+اگر تیرا آج گزرے کل کی مانند ہے تو اس کا یہ مطلب نہیں ہے کہ تیری خاک میں زندگی کا شرر موجود نہیں۔
+      </Text>
+      <Text Language="English">
+        Life keeps expressing itself in new ways: Content with one fixed form it never stays.
+You have no spark in you if your today is just a copy of your yesterdays.
+[Translated by M Hadi Hussain]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

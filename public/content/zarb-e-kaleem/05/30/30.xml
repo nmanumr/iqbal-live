@@ -1,0 +1,47 @@
+<Poem ID="30" Name="سیاسی پیشوا" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        امید کیا ہے سیاست کے پیشواوں سے 
+یہ خاک باز ہیں، رکھتے ہیں خاک سے پیوند
+      </Text>
+      <Text Language="Urdu">
+        خاک باز: مٹی سے کھیلنے والے ، پست خیالات والے۔
+      </Text>
+      <Text Language="English">
+        POLITICAL LEADERS
+You can not much expect from those who politics guide; their wont to play with dust to lowly dust is tied.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        ہمیشہ مور و مگس پر نگاہ ہے ان کی 
+جہاں میں صفت عنکبوت ان کی کمند
+      </Text>
+      <Text Language="Urdu">
+        عنکبوت: مکڑی۔
+مگس: مکھی ۔
+مور: چیونٹی ۔
+کمند: رسی کا پھندا جو شکار پکڑنے کے لیے استعمال کیا جاتا ہے۔
+      </Text>
+      <Text Language="English">
+        Their gaze is ever fixed on humble ants and flies; their noose as frail as web can't cast it on the skies.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        خوشا وہ قافلہ، جس کے امیر کی ہے متاع 
+تخیل ملکوتی و جذبہ ہائے بلند
+      </Text>
+      <Text Language="Urdu">
+        متاع: دولت۔
+خوشا: خوش نصیب۔ 
+تخيل ملکوتي : فرشتوں کی سی سوچ۔
+      </Text>
+      <Text Language="English">
+        How lucky the Caravan, whose Chief possesses the stock of lofty angelic thoughts, and passions firm as rock.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

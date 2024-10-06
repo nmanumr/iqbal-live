@@ -1,0 +1,54 @@
+<Poem ID="01" Name="بخوانندۂ کتاب" BookID="10" BookName="پس چہ بائد کرد" SectionID="01" SectionName="پس چہ بائد کرد">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        سپاہ تازہ برانگیزم از ولایت عشق
+کہ در حرم خطری از بغاوت خرد است
+      </Text>
+      <Text Language="Urdu">
+        میں ملک عشق سے نیا لشکر بھرتی کر رہا ہوں ، کیونکہ حرم کے اندر عقل کی بغاوت کا خطرہ پیدا ہو گیا ہے۔
+      </Text>
+      <Text Language="English">
+        I raise a new army from the Kingdom of Love; for there is danger of revolt by the intellect against the Sanctuary.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        زمانہ ہیچ نداند حقیقت او را
+جنون قباست کہ موزون بقامت خرد است
+      </Text>
+      <Text Language="Urdu">
+        زمانہ جنوں کی حقیقت سے بالکل بے خبر ہے؛ حالانکہ یہی وہ قبا ہے جو خرد کے قدر و قیمت کے لیے موزوں ہے۔
+      </Text>
+      <Text Language="English">
+        The world does not know the real nature of madness: It is a garment that fits the intellect perfectly. 
+(Madness (Junun): It stands for Intuition and Love in contrast to Intellect and Reason.)
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        بہ آن مقام رسیدم چو در برش کردم
+طواف بام و در من سعادت خرد است
+      </Text>
+      <Text Language="Urdu">
+        میں نے یہ قبا پہنی تو ایسے مقام تک پہنچ گیا کہ خرد میرے بام و در کے طواف کو اپنی سعادت سمجھتی ہے۔
+      </Text>
+      <Text Language="English">
+        Donning this garment, I attained to a station where it would be honour for the intellect to walk around my house (like a pilgrim).
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        گمان مبر کہ خرد را حساب و میزان نیست
+نگاہ بندۂ مومن قیامت خرد است
+      </Text>
+      <Text Language="Urdu">
+        یہ گمان نہ کر کہ خرد کے لیے حساب و میزان نہیں ؛ مرد مومن کی نگاہ خرد کی قیامت ہے۔
+      </Text>
+      <Text Language="English">
+        Don’t think that the intellect is exempt from the final reckoning: One look from the believer judges it as if on Judgment Day. 
+[Translated by B A Dar]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

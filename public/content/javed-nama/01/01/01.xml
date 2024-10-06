@@ -1,0 +1,20 @@
+<Poem ID="01" Name="دیباچہ" BookID="09" BookName="جاوید نامہ" SectionID="01" SectionName="جاوید نامہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        خیال من بہ تماشای آسمان بود است
+بدوش ماہ و بہ آغوش کہکشان بود است
+گمان مبر کہ ہمین خاکدان نشیمن ماست
+کہ ہر ستارہ جہان است یا جہان بود است
+      </Text>
+      <Text Language="Urdu">
+        میرا تخیّل آسمانوں کے نظارے کرتا ہے، (کبھی) چاند کے کندھے پر (سوار) اور (کبھی) کہکشاں کی گود میں ہوتا ہے۔
+آیسا مت سوچ کہ یہی زمین ہمارا نشیمن ہے، ہر ستارہ ہمارا جہان ہے یا رہ چکا ہے۔
+      </Text>
+      <Text Language="English">
+        My vision encompasses the heavens; at times it sits on shoulders of moon and at times in the lap of milkay way.
+Think not that only this earth is our abode; each star is or has benn our abode.
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

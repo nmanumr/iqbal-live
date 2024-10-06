@@ -1,0 +1,78 @@
+<Poem ID="31" Name="موج دریا" BookID="01" BookName="بانگِ درا" SectionID="1a" SectionName="حصہ اول">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        مضطرب رکھتا ہے میرا دل بے تاب مجھے
+عین ہستی ہے تڑپ صورت سیماب مجھے
+      </Text>
+      <Text Language="Urdu">
+        سيماب: پارہ۔
+      </Text>
+      <Text Language="English">
+        My impatient heart keeps me relentlessly restless; like mercury agitation is the essence of life to me.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        موج ہے نام مرا، بحر ہے پایاب مجھے
+ہو نہ زنجیر کبھی حلقہء گرداب مجھے
+      </Text>
+      <Text Language="Urdu">
+        پاياب: تھوڑا پانی جس سے آومی پیدل گزر جائے۔
+      </Text>
+      <Text Language="English">
+        Wave is my name, the sea is fordable to me; the whirlpool's circle would never be a chain to me.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        آب میں مثل ہوا جاتا ہے توسن میرا
+خار ماہی سے نہ اٹکا کبھی دامن میرا
+      </Text>
+      <Text Language="Urdu">
+        توسن: گھوڑا۔
+خار ماہي: مچھلی پکڑنے والا کانٹا۔
+      </Text>
+      <Text Language="English">
+        My steed speeds in the water like wind. The fishing tackle has never caught my skirt.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="07">
+      <Text Language="Original">
+        میں اچھلتی ہوں کبھی جذب مہ کامل سے
+جوش میں سر کو پٹکتی ہوں کبھی ساحل سے
+      </Text>
+      <Text Language="Urdu">
+        جذب مہ کامل: پورے چاند کی کشش۔
+      </Text>
+      <Text Language="English">
+        Sometimes I jump up due to attraction of the full moon; sometimes in excitement I strike my head on the shore.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        ہوں وہ رہرو کہ محبت ہے مجھے منزل سے
+کیوں تڑپتی ہوں، یہ پوچھے کوئی میرے دل سے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        I am the traveler who loves destination; someone should ask me why I always jump.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        زحمت تنگی دریا سے گریزاں ہوں میں
+وسعت بحر کی فرقت میں پریشاں ہوں میں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Fleeing from the discomfort of the narrow river I am upset by separation from the ocean's vastness I am.
+(Translated by Dr. M.A.K. Khalil)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

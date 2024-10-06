@@ -1,0 +1,21 @@
+<Poem ID="31" Name="فوارہ" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        یہ آبجو کی روانی، یہ ہمکناری خاک 
+مری نگاہ میں ناخوب ہے یہ نظارہ 
+ادھر نہ دیکھ، ادھر دیکھ اے جوان عزیز 
+بلند زور دروں سے ہوا ہے فوارہ
+      </Text>
+      <Text Language="Urdu">
+        زور دروں : اندر کی طاقت۔
+      </Text>
+      <Text Language="English">
+        FOUNTAIN
+To own the flow of brook and meander on the earth in gaze of mine hasn't charm and can't endow with mirth.
+O dear young man, divert a bit aside your eye: The water of the fount by innate force surges high.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

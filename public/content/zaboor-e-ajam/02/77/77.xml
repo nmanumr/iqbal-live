@@ -1,0 +1,77 @@
+<Poem ID="77" Name="" BookID="08" BookName="زبورِعجم" SectionID="02" SectionName="حصہ دوم">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        خود را کنم سجودی، دیر و حرم نماندہ
+این در عرب نماندہ آن در عجم نماندہ
+      </Text>
+      <Text Language="Urdu">
+        اپنے آپ کو سجدہ کرتا ہوں کیونکہ دیر و حرم نہیں رہے؛ یہ عرب میں نہیں، وہ عجم میں نہیں۔
+      </Text>
+      <Text Language="English">
+        I bow down before myself – there is no temple or Ka’bah left! This one is missing in Arabia, that one in other lands.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        در برگ لالہ و گل آن رنگ و نم نماندہ
+در نالہ ہای مرغان آن زیر و بم نماندہ
+      </Text>
+      <Text Language="Urdu">
+        لالہ و گل میں وہ رنگ و نم نہیں رہا؛ نہ پرندوں کی فریاد میں وہ لے ہے۔
+      </Text>
+      <Text Language="English">
+        The petals of rose and tulip have lost their colour and moisture; the laments of birds have lost their melody.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        در کارگاہ گیتی نقش نوی نبینم
+شاید کہ نقش دیگر اندر عدم نماندہ
+      </Text>
+      <Text Language="Urdu">
+        زمانے کے کارخانے میں تجھے کوئی نیا نقش نظر نہیں آتا ؛ شاید عدم میں اب کوئی نقش باقی نہ ہو۔
+      </Text>
+      <Text Language="English">
+        In the workshop that is the world I see no new designs: Pre-existence has, perhaps, run out of blueprints.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        سیارہ ہای گردون بی ذوق انقلابے
+شاید کہ روز و شب را توفیق رم نماندہ
+      </Text>
+      <Text Language="Urdu">
+        آسمان کے سیارے ذوق سے خالی (نظر آتے) ہیں؛ شاید روز و شب میں (گردش کہنہ سے ) ہٹنے کی توفیق نہیں رہی۔
+      </Text>
+      <Text Language="English">
+        The heavenly bodies no longer want to revolve: Day and night are, perhaps, unable to move.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        بی منزل آرمیدند پا از طلب کشیدند
+شاید کہ خاکیان را در سینہ دم نماندہ
+      </Text>
+      <Text Language="Urdu">
+        منزل پر پہنچے بغیر ہی پاؤں پسار دیے اور حصول منزل کا خیال چھوڑ دیا؛ شاید آدم خاکی کے سینے میں دم باقی نہیں رہا۔
+      </Text>
+      <Text Language="English">
+        They have put up their feet before reaching their destination: the earthlings have, perhaps, no breath left in their chests.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        یا در بیاض امکان یکبرگ سادہ ئی نیست
+یا خامۂ قضا را تاب رقم نماندہ
+      </Text>
+      <Text Language="Urdu">
+        یا امکانات کی بیاض میں کوئی سادہ ورق نہیں؛ اور یا قضا و قدر کس قلم کو لکھنے کی ہمت نہیں رہی۔
+      </Text>
+      <Text Language="English">
+        Either the Register of Possibles has no blank pages left or the Pen of Fate has grown too tired to write.
+(Translated by Mustansir Mir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

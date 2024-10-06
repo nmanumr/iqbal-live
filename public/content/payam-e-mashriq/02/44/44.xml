@@ -1,0 +1,39 @@
+<Poem ID="44" Name="چیستان شمشیر" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        آن سخت کوش چیست کہ گیرد ز سنگ آب
+محتاج خضر مثل سکندر نمی شود
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        THE RIDDLE OF THE SWORD
+Name that very keen contender which draws luster just like water from a stone, but which, unlike Alexander, does not owe it to a Khizr as a boon.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        مثل نگاہ دیدۂ نمناک پاک رو
+در جوی آب و دامن او تر نمی شود
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        And which, like a tear-washed vision, purified by that ablution, is agleam, neat and clean and clear and limpid, with its raiment quite unwetted in midstream.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        مضمون او بہ مصرع برجستہ ئی تمام
+منت پذیر مصرع دیگر نمی شود
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Its theme needs no longer statement than a single line, if trenchant.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

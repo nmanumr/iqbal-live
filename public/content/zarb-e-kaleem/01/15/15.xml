@@ -1,0 +1,56 @@
+<Poem ID="15" Name="علم اور دین" BookID="03" BookName="ضربِ کلیم" SectionID="01" SectionName="اسلام اور مسلمان">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        وہ علم اپنے بتوں کا ہے آپ ابراہیم 
+کیا ہے جس کو خدا نے دل و نظر کا ندیم
+      </Text>
+      <Text Language="Urdu">
+        علم: وہ علم جو آدمی کو اپنی اور اپنے خدا کی معرفت عطا کرتا ہے۔ 
+نديم: ساتھی، دوست۔
+      </Text>
+      <Text Language="English">
+        Learning whom God has made the mate of heart and sight, like Friend of God can break with ease all idols bright.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        زمانہ ایک، حیات ایک، کائنات بھی ایک 
+دلیل کم نظری، قصہء جدید و قدیم
+      </Text>
+      <Text Language="Urdu">
+        کم نظري: نظر کا کم ہونا۔
+      </Text>
+      <Text Language="English">
+        Cosmos and life are ore, the world is one and same; the tale of old and new is merely false and lame.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        چمن میں تربیت غنچہ ہو نہیں سکتی 
+نہیں ہے قطرہ شبنم اگر شریک نسیم
+      </Text>
+      <Text Language="Urdu">
+        نسيم: صبح کی نرم ہوا۔
+      </Text>
+      <Text Language="English">
+        A blossom can not thrive in meadow full of trees, unless some drops of dew ally with pleasant breeze.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        وہ علم، کم بصری جس میں ہمکنار نہیں 
+تجلیات کلیم و مشاہدات حکیم
+      </Text>
+      <Text Language="Urdu">
+        کم بصري: نگاہ کا کم ہونا۔ 
+حکيم: فلسفی۔
+ہمکنار: بغلگیر۔
+      </Text>
+      <Text Language="English">
+        That ken is vision dim in which the wise man's lore and sight that Moses viewed keep apart and merge no more.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

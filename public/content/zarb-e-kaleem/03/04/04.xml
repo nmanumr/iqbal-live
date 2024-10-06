@@ -1,0 +1,53 @@
+<Poem ID="04" Name="خلوت" BookID="03" BookName="ضربِ کلیم" SectionID="03" SectionName="عورت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        رسوا کیا اس دور کو جلوت کی ہوس نے 
+روشن ہے نگہ، آئنہ دل ہے مکدر
+      </Text>
+      <Text Language="Urdu">
+        مکدر: میلا۔
+      </Text>
+      <Text Language="English">
+        SOLITUDE
+Much greed for show and fame has put this age to shame: The glance is bright and clear, heart's mirror, but is blear.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        بڑھ جاتا ہے جب ذوق نظر اپنی حدوں سے 
+ہو جاتے ہیں افکار پراگندہ و ابتر
+      </Text>
+      <Text Language="Urdu">
+        پراگندہ و ابتر: پریشان اور منتشر۔
+      </Text>
+      <Text Language="English">
+        When zeal and zest for sight exceed their greatest height, thoughts soar to highest point and soon are out of joint.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        آغوش صدف جس کے نصیبوں میں نہیں ہے 
+وہ قطرہ نیساں کبھی بنتا نہیں گوہر
+      </Text>
+      <Text Language="Urdu">
+        قطرہ نيساں: موسم بہار کی بارش کا قطرہ۔
+      </Text>
+      <Text Language="English">
+        That vernal drop of rain the state of pearl can't gain, if destined not to dwell, in lap of mother shell.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        خلوت میں خودی ہوتی ہے خودگیر، و لیکن 
+خلوت نہیں اب دیر و حرم میں بھی میسر
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Retreat is blessed state 'bout Self gives knowledge-great Alas! This state divine, isn't found in fane or shrine.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

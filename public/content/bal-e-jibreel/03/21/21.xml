@@ -1,0 +1,21 @@
+<Poem ID="21" Name="" BookID="02" BookName="‫بالِ جبریل" SectionID="03" SectionName="رباعیات">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        چمن میں رخت گل شبنم سے تر ہے 
+سمن ہے، سبزہ ہے، باد سحر ہے 
+مگر ہنگامہ ہو سکتا نہیں گرم 
+یہاں کا لالہ بے سوز جگر ہے
+      </Text>
+      <Text Language="Urdu">
+        سمن: چنبیلی
+رخت گل: پھول کا لباس۔
+      </Text>
+      <Text Language="English">
+        Dew-drops glisten on flowers that bloom in the spring; the breeze, the jasmine, and the rose have failed:
+To raise the tumult of joy and liveliness, for flowers here lack the spark and fire of life.
+[Translated by Mustansir Mir]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,21 @@
+<Poem ID="123" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بہ پہنای ازل پر می گشودم
+ز بند آب و گل بیگانہ بودم
+بچشم تو بہای من بلند است
+کہ آوردی ببازار وجودم
+      </Text>
+      <Text Language="Urdu">
+        میں نے ازل کی وسعتوں میں اپنے پر کھولے، میں آب و گل کے بندھن سے آزاد تھا۔
+آپ کی نظر میں میری قیمت گراں تھی، اسی لیے آپ مجھے بازار وجود میں لے آئے۔
+      </Text>
+      <Text Language="English">
+        Winging Eternity’s uncharted space, still an unbodied spirit, I was caught.
+And, as You thought me valuable, was brought to this, your ever-busy market-place. 
+[Translated by M Hadi Hussain]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

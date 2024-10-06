@@ -1,0 +1,78 @@
+<Poem ID="10" Name="غزل زندہ رود" BookID="09" BookName="جاوید نامہ" SectionID="03" SectionName="فلک عطارد">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        این گل و لالہ تو گوئی کہ مقیم اند ہمہ
+راہ پیما صفت موج نسیم اند ہمہ
+      </Text>
+      <Text Language="Urdu">
+        یہ گل و لالہ جن کے متعلق تو کہتا ہے کہ وہ سب مقیم ہیں؛ وہ سارے کے سارے موج نسیم کی مانند سرگرم سفر ہیں۔
+      </Text>
+      <Text Language="English">
+        THE SONG OF ZINDA-RUD
+
+You say that these roses and tulips are permanent here; no, they are travellers all, like the waves of the breeze.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        معنی تازہ کہ جوئیم و نیابیم کجاست
+مسجد و مکتب و میخانہ عقیم اند ہمہ
+      </Text>
+      <Text Language="Urdu">
+        نئے معنی جو ہم ڈھونڈتے اور نہیں پاتے؛ کہاں ہیں؟ مسجد ہو یا مکتب یا میخانہ سب بانجھ پڑے ہیں۔
+      </Text>
+      <Text Language="English">
+        Where is the new truth which we seek, and do not find? Mosque, school and tavern, all alike are barren.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        حرفی از خویشتن آموز و در آن حرف بسوز
+کہ درین خانقہ بے سوز کلیم اند ہمہ
+      </Text>
+      <Text Language="Urdu">
+        اپنے آپ سے ایک حرف (اللہ ) سیکھ اور پھر اس میں جل جا؛ کیونکہ اس خانقاہ میں کلیمی کے سارے دعویدار سوز درون کے بغیر ہیں۔
+      </Text>
+      <Text Language="English">
+        Learn a word from your own self, and in that word burn, for in this convent all lack Moses’ fire.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        از صفا کوشی این تکیہ نشینان کم گوی
+موی ژولیدہ و ناشستہ گلیم اند ہمہ
+      </Text>
+      <Text Language="Urdu">
+        ان تکیہ نشینوں کی صفا کوشی کی بات نہ کر ؛ ان کے بال الجھے ہوئے اور گدڑی نا صاف ہے۔
+      </Text>
+      <Text Language="English">
+        Speak not of the striving for purity of these monastery — dwellers, they are all dishevelled of hair, blankets unwashed.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        چہ حرمہا کہ درون حرمی ساختہ اند
+اہل توحید یک اندیش و دو نیم اند ہمہ
+      </Text>
+      <Text Language="Urdu">
+        انہوں نے حرم کے اندر کتنے اور حرم بنا رکھے ہیں ؛ اہل توحید کی سوچ ایک ہے، مگر وہ خود ٹکڑوں میں بٹے ہوئے ہیں۔
+      </Text>
+      <Text Language="English">
+        What temples they have fashioned within the Sanctuary, these unitarians of one thought, but all split in two!
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        مشکل این نیست کہ بزم از سر ہنگامہ گذشت
+مشکل این است کہ بے نقل و ندیم اند ہمہ
+      </Text>
+      <Text Language="Urdu">
+        مشکل یہ نہیں کہ بزم ہنگامہ آرائی کا خیال چھوڑ چکی ہے؛ مشکل یہ ہے کہ اصل بزم نقل (کھانے کی عمدہ چیز ) اور ہم نشین کے بغیر ہیں۔
+      </Text>
+      <Text Language="English">
+        The problem is not that the hour of feasting has passed, the problem is that they are all without sweetmeats and boon-companion!
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

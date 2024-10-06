@@ -1,0 +1,40 @@
+<Poem ID="29" Name="شاعر" BookID="01" BookName="بانگِ درا" SectionID="1a" SectionName="حصہ اول">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        قوم گویا جسم ہے، افراد ہیں اعضائے قوم
+منزل صنعت کے رہ پیما ہیں دست و پائے قوم
+      </Text>
+      <Text Language="Urdu">
+        رہ پيما: راستہ چلنے والے۔
+      </Text>
+      <Text Language="English">
+        A nation is the body, people are its organs; artisans are the nation's hands and feet.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        محفل نظم حکومت، چہرہء زیبائے قوم
+شاعر رنگیں نوا ہے دیدہ بینائے قوم
+      </Text>
+      <Text Language="Urdu">
+        ديدہ بينا: دیکھنے والی آنکھ۔
+      </Text>
+      <Text Language="English">
+        The State administration is the nation's beautiful face. The elegant-styled poet is the nation's clear-sighted eye.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        مبتلائے درد کوئی عضو ہو روتی ہے آنکھ
+کس قدر ہمدرد سارے جسم کی ہوتی ہے آنکھ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        When any organ is afflicted with pain, the eye weeps; how sympathetic to the world body is the eye. 
+(Translated by Dr. M.A.K. Khalil)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

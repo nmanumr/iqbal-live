@@ -1,0 +1,30 @@
+<Poem ID="59" Name="چیونٹی اور عقاب" BookID="02" BookName="‫بالِ جبریل" SectionID="04" SectionName="منظومات">
+  <Para Name="چیونٹی">
+    <Verse ID="01">
+      <Text Language="Original">
+        میں پائمال و خوار و پریشان و دردمند 
+تیرا مقام کیوں ہے ستاروں سے بھی بلند؟
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        THE ANT AND THE EAGLE 
+ANT: I am so miserable and forlorn: Why is your station loftier than the skies?
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="عقاب">
+    <Verse ID="03">
+      <Text Language="Original">
+        تو رزق اپنا ڈھونڈتی ہے خاک راہ میں 
+میں نہ سپہر کو نہیں لاتا نگاہ میں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        EAGLE: You forage about in dusty paths; the nine heavens are as nothing to me!
+(Translated by Mustansir Mir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

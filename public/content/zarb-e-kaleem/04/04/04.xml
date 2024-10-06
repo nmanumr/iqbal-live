@@ -1,0 +1,20 @@
+<Poem ID="04" Name="اپنے شعر سے" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        ہے گلہ مجھ کو تری لذت پیدائی کا 
+تو ہوا فاش تو ہیں اب مرے اسرار بھی فاش 
+شعلے سے ٹوٹ کے مثل شرر آوارہ نہ رہ 
+کر کسی سینہ پر سوز میں خلوت کی تلاش
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        TO HIS OWN VERSE
+I have a plaint gainst you, my verse, in self-display you take much delight; your coming forth from inmost heart, my secret all has brought to light.
+Don't roam about without some end having broken from the parent flame; in some breast which is full of warmth some niche for rest and shelter claim.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

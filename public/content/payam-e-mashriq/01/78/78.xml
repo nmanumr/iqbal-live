@@ -1,0 +1,21 @@
+<Poem ID="78" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        دل من در طلسم خود اسیر است
+جہان از پرتو او تاب گیر است
+مپرس از صبح و شامم ز آفتابی
+کہ پیش روزگار من پریر است
+      </Text>
+      <Text Language="Urdu">
+        میرا دل اپنے طلسم میں اسیر ہے؛ میرا جہان اس کے پرتو سے روشنی حاصل کرتا ہے۔
+مجھ سے اس صبح و شام کی بات نہ کر؛ جو آفتاب سے پیدا ہوتی ہے۔
+      </Text>
+      <Text Language="English">
+        My heart to its own spell is prisoner; the world is lightened by its radiance fair. 
+Seek not my dawn and even in a sun that ere my rising shone a many year. 
+(Translated by A.J. Arberry)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

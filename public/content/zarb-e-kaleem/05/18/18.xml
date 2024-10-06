@@ -1,0 +1,42 @@
+<Poem ID="18" Name="سلطانی جاوید" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        غواص تو فطرت نے بنایا ہے مجھے بھی 
+لیکن مجھے اعماق سیاست سے ہے پرہیز
+      </Text>
+      <Text Language="Urdu">
+        اعماق: گہرائیاں ۔
+غواص: غور و خوض۔
+      </Text>
+      <Text Language="English">
+        ETERNAL KINGSHIP
+Though Nature has made me such that I too can dive, yet from statesmanship's core to keep aloof I strive.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        فطرت کو گوارا نہیں سلطانی جاوید 
+ہر چند کہ یہ شعبدہ بازی ہے دل آویز
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Such kingship which e'er lasts, Nature can not desire, though this Talisman may please the heart of man entire.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        فرہاد کی خارا شکنی زندہ ہے اب تک 
+باقی نہیں دنیا میں ملوکیت پرویز
+      </Text>
+      <Text Language="Urdu">
+        خارا شکني: پتھر توڑنا۔
+      </Text>
+      <Text Language="English">
+        Cleaving rocks by Farhad in hearts is still distinct, but Empire of Pervez from mind is quite extinct. 
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

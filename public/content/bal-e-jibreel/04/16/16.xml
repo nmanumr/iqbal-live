@@ -1,0 +1,73 @@
+<Poem ID="16" Name="ایک نوجوان کے نام" BookID="02" BookName="‫بالِ جبریل" SectionID="04" SectionName="منظومات">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        ترے صوفے ہیں افرنگی، ترے قالیں ہیں ایرانی 
+لہو مجھ کو رلاتی ہے جوانوں کی تن آسانی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        TO A YOUNG MAN
+Thy sofas are from Europe, thy carpets from Iran; this slothful opulence evokes my sigh of pity.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        امارت کیا، شکوہ خسروی بھی ہو تو کیا حاصل
+نہ زور حیدری تجھ میں، نہ استغنائے سلمانی
+      </Text>
+      <Text Language="Urdu">
+        استغنائے سلمانی: حضرت سلمان (رضی اللہ) جیسی بے نیازی اور ہر قسم کی محتاجی سے بالا ۔
+      </Text>
+      <Text Language="English">
+        In vain if thou possessest Khusroe’s imperial pomp, if thou dost not possess prowess or contentment.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        نہ ڈھونڈ اس چیز کو تہذیب حاضر کی تجلی میں 
+کہ پایا میں نے استغنا میں معراج مسلمانی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Seek not thy joy or greatness in the glitter of Western life, for in contentment lies a Muslim’s joy and greatness.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        عقابی روح جب بیدار ہوتی ہے جوانوں میں 
+نظر آتی ہے اس کو اپنی منزل آسمانوں میں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        When an eagle’s spirit awakens in youthful hearts, it sees its luminous goal beyond the starry heavens.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        نہ ہو نومید، نومیدی زوال علم و عرفاں ہے 
+امید مرد مومن ہے خدا کے راز دانوں میں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Despair not, for despair is the decline of knowledge and gnosis: the Hope of a Believer is among the confidants of God.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        نہیں تیرا نشیمن قصر سلطانی کے گنبد پر 
+تو شاہیں ہے، بسیرا کر پہاڑوں کی چٹانوں میں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Thy abode is not on the dome of a royal palace; thou art an eagle and shouldst live on the rocks of mountains.
+[Translated by Naim Siddiqui]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

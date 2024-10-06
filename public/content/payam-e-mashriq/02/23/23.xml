@@ -1,0 +1,74 @@
+<Poem ID="23" Name="محاورۂ ما بین خدا و انسان" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="خدا">
+    <Verse ID="01">
+      <Text Language="Original">
+        جہان را ز یک آب و گل آفریدم
+تو ایران و تاتار و زنگ آفریدی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        A DIALOGUE BETWEEN GOD AND MAN
+God: I made the whole world with the same water and clay, but you created Iran, Tartary, and Ethiopia.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        من از خال پولاد ناب آفریدم
+تو شمشیر و تیر و تفنگ آفریدی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        From the earth I brought forth pure iron, but you made from that iron sword, arrow, and gun.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        تبر آفریدی نھال چمن را
+قفس ساختی طایر نغمہ زن را
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        You made an axe for the tree in the garden, and a cage for the songbird.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="انسان">
+    <Verse ID="07">
+      <Text Language="Original">
+        تو شب آفریدی چراغ آفریدم
+سفال آفریدی ایاغ آفریدم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Man: You made the night, I made the lamp; you made the earthen bowl, I made the goblet.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        بیابان و کہسار و راغ آفریدی
+خیابان و گلزار و باغ آفریدم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        You made deserts, mountains and valleys; I made gardens, meadows and parks.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        من آنم کہ از سنگ آئینہ سازم
+من آنم کہ از زہر نوشینہ سازم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        I am one who makes a mirror out of stone, and turns poison into sweet, delicious drink. 
+(Translated by Mustansir Mir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

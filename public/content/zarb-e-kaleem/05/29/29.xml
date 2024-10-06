@@ -1,0 +1,42 @@
+<Poem ID="29" Name="شام و فلسطین" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        رندان فرانسیس کا میخانہ سلامت 
+پر ہے م ے گلرنگ سے ہر شیشہ حلب کا
+      </Text>
+      <Text Language="Urdu">
+        حلب: شام کا شہر (الپو، جہاں ان دنوں مغربی طاقتوں کی ایما پر خون ریزی ہو رہی ہے) اس زمانے میں شیشہ بنانے کے لیے مشہور تھا۔
+      </Text>
+      <Text Language="English">
+        SYRIA AND PALESTINE
+Heaven’s blessing on those brazen Frenchmen shine! Aleppo’s rare glass brims with their red wine.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        ہے خاک فلسطیں پہ یہودی کا اگر حق 
+ہسپانیہ پر حق نہیں کیوں اہل عرب کا
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        If the Jew claims the soil of Palestine; why not the Arab Spain?
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        مقصد ہے ملوکیت انگلیس کا کچھ اور 
+قصہ نہیں نارنج کا یا شہد و رطب کا
+      </Text>
+      <Text Language="Urdu">
+        نارنج: نارنگی، سنگترہ۔ 
+رطب: چھوہارا ، کھجور۔
+      </Text>
+      <Text Language="English">
+        Some new design must have inflamed our English potentates; this is no story of oranges, honey or dates. 
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

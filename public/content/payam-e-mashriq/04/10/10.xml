@@ -1,0 +1,137 @@
+<Poem ID="10" Name="جلال و ھگل" BookID="07" BookName="پیامِ مشرق" SectionID="04" SectionName="نقش فرنگ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        می گشودم شبی بہ ناخن فکر
+عقدہ ہای حکیم المانی
+      </Text>
+      <Text Language="Urdu">
+        ایک رات میں اپنے فکر کے ناخن سے اس جرمن فلسفی (ہیگل) کے عقدے کھول رہا تھا۔
+      </Text>
+      <Text Language="English">
+        JALAL AND HEGEL
+One night I was engaged in teasing out the knots of Hegel’s philosophic thought;
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        آنکہ اندیشہ اش برہنہ نمود
+ابدی راز کسوت آنی
+      </Text>
+      <Text Language="Urdu">
+        وہ جس کے فکر نے آنی (وقت) کے لباس سے ابدی کو نمودار کیا۔
+      </Text>
+      <Text Language="English">
+        Which tore the veil of transient, finite things, laying bare the infinite, the absolute;
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        پیش عرض خیال او گیتی
+خجل آمد ز تنگ دامانی
+      </Text>
+      <Text Language="Urdu">
+        اس کے خیال کے میدان (کی وسعت) کے زمانے بھی اپنی تنگ دامانی کے سبب شرمندہ ہے۔
+      </Text>
+      <Text Language="English">
+        And whose conception’s grand, imposing range made the world shrink into a tiny mote.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        چون بدریای او فرو رفتم 
+کشتی عقل گشت طوفانی
+      </Text>
+      <Text Language="Urdu">
+        جب میں اس کے دریا (فکر) کے اندر داخل ہوا ، تو میری عقل کی کشتی طوفانی لہروں کی نظر ہو گئی۔
+      </Text>
+      <Text Language="English">
+        When I plunged into that tempestuous sea, my mind became just like a storm-tossed boat.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        خواب بر من دمید افسونی
+چشم بستم ز باقے و فانی
+      </Text>
+      <Text Language="Urdu">
+        مجھ پر نیند نے اپنا افسوں پھینکا اور میں نے باقی اور فانی سے آنکھ بند کر لی۔
+      </Text>
+      <Text Language="English">
+        But soon a spell lulled me to slumber and shut out the finite and the infinite.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        نگہ شوق تیز تر گردید
+چہرہ بنمود پیر یزدانی
+      </Text>
+      <Text Language="Urdu">
+        (خواب میں) میری شوق کی نگاہ اور زیادہ تیز ہو گئی اور پیر ربانی (رومی) ظاہر ہوئے۔
+      </Text>
+      <Text Language="English">
+        My inner vision sharpened, I observed an old man whose face was a godly sight:
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        آفتابی کہ از تجلی او
+افق روم و شام نورانی
+      </Text>
+      <Text Language="Urdu">
+        ایک آفتاب تھا ، جس کی تجلی سے روم اور شام کا افق نورانی ہو گیا ۔
+      </Text>
+      <Text Language="English">
+        The man whose spirit’s glory, like the sun, has made the sky of Rum and Syria bright.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        شعلہ اش در جہان تیرہ نہاد
+بہ بیابان چراغ رہبانی
+      </Text>
+      <Text Language="Urdu">
+        رومی کا شعلہ اس تاریک فطرت دنیا کے اندر یوں (روشن) ہے، جیسے بیابان کے اندر درویش کا چراغ۔
+      </Text>
+      <Text Language="English">
+        Whose flame in this benighted wilderness shines like a path-illuminating light;
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        معنی از حرف او ہمی روید
+صفت لالہ ہای نعمانی
+      </Text>
+      <Text Language="Urdu">
+        اس کے الفاظ سے معنی اس طرح پھوٹتے ہیں ، جیسے باغ کے اندر خونیں لالہ کے پھول۔
+      </Text>
+      <Text Language="English">
+        From whose words meanings grow spontaneously like tulips riotously breaking out.
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        گفت با من چہ خفتہ ئی بر خیز
+بہ سرابی سفینہ می رانی
+      </Text>
+      <Text Language="Urdu">
+        انہوں نے مجھ سے کہا: کیا سویا پڑا ہے ، اٹھ! (اور دیکھ کہ) تو سراب کے اندر اپنی کشتی چلا رہا ہے۔
+      </Text>
+      <Text Language="English">
+        ‘You sleep’, said he. ‘Awake, awake: To ply a boat in a mirage is folly’s height.
+      </Text>
+    </Verse>
+    <Verse ID="21">
+      <Text Language="Original">
+        بہ خرد راہ عشق می پوئی؟
+بہ چراغ آفتاب می جوئی؟
+      </Text>
+      <Text Language="Urdu">
+        'خرد کے ذریعے عشق کی راہ طے کرتا ہے؟ چراغ لے کر آفتاب ڈھوندتا ہے؟'
+      </Text>
+      <Text Language="English">
+        You’re bidding wisdom guide you on love’s path! You’re looking for the sun by candle-light!’ (Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

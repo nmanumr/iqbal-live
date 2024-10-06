@@ -1,0 +1,71 @@
+<Poem ID="14" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="03" SectionName="می باقے">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بیار بادہ کہ گردون بکام ما گردید
+مثال غنچہ نواہا ز شاخسار دمید
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Fetch wine, for the heavens have turned in our favour. Songs are germinating like buds from the branches.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        خورم بیاد تنک نوشی امام حرم
+کہ جز بہ صحبت یاران رازدان نچشید
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        I drink in remembrance of that holy person who would not drink wine but with his boon companions.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        فزون قبیلۂ آن پختہ کار باد کہ گفت
+چراغ راہ حیات است جلوۂ امید
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        May the tribe increase of that sagacious man who said that the light of hope is a torch on life’s path.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        نوا ز حوصلۂ دوستان بلند تر است
+غزل سرا شدم آنجا کہ ہیچکس نشنید
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        What I sing is too high for my likely listeners. So I sing where no one listens to my singing.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        عیار معرفت مشتری است جنس سخن
+خوشم از آنکہ متاع مرا کسی نخرید
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Verse is such a thing as tests the buyer’s judgment. I am glad that no one buys my poetry.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        ز شعر دلکش اقبال میتوان در یافت
+کہ درس فلسفہ میداد و عاشقی ورزید
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        From his pleasing verses it is clear that Iqbal, teacher of philosophy, turned to Love’s vocation.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,21 @@
+<Poem ID="39" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        چہ میپرسی میان سینہ دل چیست
+خرد چون سوز پیدا کرد دل شد
+دل از ذوق تپش دل بود لیکن
+چو یک دم از تپش افتاد گل شد
+      </Text>
+      <Text Language="Urdu">
+        کیا پوچھتا ہے کہ سینے کے اندر دل کیا ہے، جب خرد نے سوز پیدا کیا تو وہ دل بن گئی ۔
+دل سوز عشق کی بدولت دل تھا، لیکن جب ذرا اس سے خالی ہوا تو مٹی ہو گیا۔
+      </Text>
+      <Text Language="English">
+        You ask me what is this heart in your breast; it is your intellect that has been blest with feeling. 
+While it feels, it is alive: But when it ceases to feel, it is dust.
+[Translated by M Hadi Hussain]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

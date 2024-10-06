@@ -1,0 +1,215 @@
+<Poem ID="04" Name="عالم برزخ" BookID="04" BookName="ارمغانِ حجاز" SectionID="01" SectionName="ابتدا">
+  <Para Name="مردہ اپني قبر سے">
+    <Verse ID="01">
+      <Text Language="Original">
+        کیا شے ہے، کس امروز کا فردا ہے قیامت
+اے میرے شبستاں کہن! کیا ہے قیامت؟
+      </Text>
+      <Text Language="Urdu">
+        فردا: آنے والا کل۔
+امروز: آج۔ 
+شبستاں: رات گزارنے کی جگہ۔
+      </Text>
+      <Text Language="English">
+        THE PURGATORY
+A Dead to his grave: 
+Of which today’s next would be doomsday? O my old chamber! What is doomsday?
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="قبر">
+    <Verse ID="03">
+      <Text Language="Original">
+        اے مردئہ صد سالہ! تجھے کیا نہیں معلوم؟
+ہر موت کا پوشیدہ تقاضا ہے قیامت!
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The Grave: O hundred years dead do you know, nay! Each death’s hidden need is the doomsday
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="مردہ">
+    <Verse ID="05">
+      <Text Language="Original">
+        جس موت کا پوشیدہ تقاضا ہے قیامت
+اس موت کے پھندے میں گرفتار نہیں میں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The Dead: Which death’s hidden need is the doomsday. Fastened in its trap, I would like, nay.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        ہر چند کہ ہوں مردئہ صد سالہ ولیکن
+ظلمت کدہ خاک سے بیزار نہیں میں
+      </Text>
+      <Text Language="Urdu">
+        ظلمت کدہ خاک : مٹی کے اندر تاریک گھر۔
+      </Text>
+      <Text Language="English">
+        A hundred years dead I am called though, I’m not sick of that dusty gloom so.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        ہو روح پھر اک بار سوار بدن زار
+ایسی ہے قیامت تو خریدار نہیں میں
+      </Text>
+      <Text Language="Urdu">
+        سوار بدن زار: کمزور بدن پر سوار۔
+      </Text>
+      <Text Language="English">
+        If a soul comes back in this body weak, if that is doomsday, to that I wont seek.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="صدائے غیب">
+    <Verse ID="11">
+      <Text Language="Original">
+        نے نصیب مار و کژدم، نے نصیب دام و دد
+ہے فقط محکوم قوموں کے لیے مرگ ابد
+      </Text>
+      <Text Language="Urdu">
+        یہ تو سانپ، بچھو اور درندوں وغیرہ کی بھی قسمت میں نہیں اور تو انسان ہو کر ہمیشہ کی موت چاہتا ہے۔
+مرگ ابد: ہمیشہ کی موت۔
+      </Text>
+      <Text Language="English">
+        A Hidden Voice: No fate of snakes and scorps: nor jungle’s snare, a life long death’s fate is slaves’ only share.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        بانگ اسرافیل ان کو زندہ کر سکتی نہیں
+روح سے تھا زندگی میں بھی تہی جن کا جسد
+      </Text>
+      <Text Language="Urdu">
+        جسد: بدن۔
+      </Text>
+      <Text Language="English">
+        To him cant wake up the Israpheel’s horn, so void of soul body was his life’s thorn.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        مر کے جی اٹھنا فقط آزاد مردوں کا ہے کام
+گرچہ ہر ذی روح کی منزل ہے آغوش لحد
+      </Text>
+      <Text Language="Urdu">
+        ذي روح: روح رکھنے والا، انسان۔ 
+آغوش لحد: قبر کی آغوش۔
+      </Text>
+      <Text Language="English">
+        Would rise from graves the free men alone, though each man’s abode is the grave lone.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="قبر اپنے مردہ سے ">
+    <Verse ID="17">
+      <Text Language="Original">
+        آہ، ظالم! تو جہاں میں بندہ محکوم تھا
+ناکمیں نہ سمجھی تھی کہ ہے کیوں خاک میری سوز
+      </Text>
+      <Text Language="Urdu">
+        سوز ناک: جلن والی۔
+      </Text>
+      <Text Language="English">
+        The Grave (to her Dead): O fool in this world you were the men slave, now I follow why pinched me the grave.
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        تیری میت سے مری تاریکیاں تاریک تر
+تیری میت سے زمیں کا پردئہ ناموس چاک
+      </Text>
+      <Text Language="Urdu">
+        پردئہ ناموس: عزت کا پردہ۔
+      </Text>
+      <Text Language="English">
+        My gloom from thy body added more gloom, the veil of Earth’s honour in rags did loom.
+      </Text>
+    </Verse>
+    <Verse ID="21">
+      <Text Language="Original">
+        الحذر، محکوم کی میت سے سو بار الحذر
+اے سرافیل! اے خدائے کائنات! اے جان پاک!
+      </Text>
+      <Text Language="Urdu">
+        الحذر: ڈرو۔
+      </Text>
+      <Text Language="English">
+        Shun hundred times from a slave’s body then, O Seraph! O Soul! O God! Of whole men.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="صدائے غیب">
+    <Verse ID="23">
+      <Text Language="Original">
+        گرچہ برہم ہے قیامت سے نظام ہست و بود
+ہیں اسی آشوب سے بے پردہ اسرار وجود
+      </Text>
+      <Text Language="Urdu">
+        نظام ہست و بود: دنیا کا نظام۔ 
+آشوب: ہنگامہ۔
+اسرار: راز۔
+      </Text>
+      <Text Language="English">
+        A Mysterious Voice: From doomsday shakes the world’s order though, this noise but opes; the Beings Secrets so.
+      </Text>
+    </Verse>
+    <Verse ID="25">
+      <Text Language="Original">
+        زلزلے سے کوہ و در اڑتے ہیں مانند سحاب
+زلزلے سے وادیوں میں تازہ چشموں کی نمود
+      </Text>
+      <Text Language="Urdu">
+        نمود: ظاہر ہونا۔
+مانند سحاب: بادلوں کی طرح۔
+      </Text>
+      <Text Language="English">
+        From tremors, like clouds move the hills and dales, the tremors ope fountains in dales and vales.
+      </Text>
+    </Verse>
+    <Verse ID="27">
+      <Text Language="Original">
+        ہر نئی تعمیر کو لازم ہے تخریب تمام
+ہے اسی میں مشکلات زندگانی کی کشود
+      </Text>
+      <Text Language="Urdu">
+        کشود: کھلنا۔
+تخريب تمام: مکمل بربادی۔
+      </Text>
+      <Text Language="English">
+        A new built up needs a total wreck, through wreck life breaks all the bottlenecks.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="زمین">
+    <Verse ID="29">
+      <Text Language="Original">
+        آہ یہ مرگ دوام، آہ یہ رزم حیات
+ختم بھی ہوگی کبھی کشمکش کائنات!
+عقل کو ملتی نہیں اپنے بتوں سے نجات
+عارف و عامی تمام بندئہ لات و منات
+خوار ہوا کس قدر آدم یزداں صفات
+قلب و نظر پر گراں ایسے جہاں کا ثبات
+کیوں نہیں ہوتی سحر حضرت انساں کی رات؟
+      </Text>
+      <Text Language="Urdu">
+        مرگ دوام: ہمیشہ کی موت۔ 
+رزم حيات: زندگی کی جنگ۔ 
+و عامي: خاص و عام۔ عارف
+آدم يزداں صفات: خدا کی صفات رکھنے والا انسان۔
+      </Text>
+      <Text Language="English">
+        Earth: Oh! This lasting death! Oh battle! For life would the world ever, end its strife.
+A riddance from her idols, world cant get, a savant or layman are Lot’s’ slaves yet.
+How much man lowered who had Godly part's such world’s stay a load on eyes and hearts. Why is there no morn of such a man’s night?
+[Translated by Q A Kabir]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

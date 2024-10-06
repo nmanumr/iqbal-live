@@ -1,0 +1,40 @@
+<Poem ID="17" Name="خوب و زشت" BookID="03" BookName="ضربِ کلیم" SectionID="02" SectionName="تعلیم و تربیت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        ستارگان فضاہائے نیلگوں کی طرح 
+تخیلات بھی ہیں تابع طلوع و غروب
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Just like the stars that shine in azure sky, thoughts have short span of life and soon they dir.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        جہاں خودی کا بھی ہے صاحب فراز و نشیب 
+یہاں بھی معرکہ آرا ہے خوب سے ناخوب
+      </Text>
+      <Text Language="Urdu">
+        فراز و نشیب: بلندی اور پستی۔
+      </Text>
+      <Text Language="English">
+        The Realm of Self has its ups and downs, even here, the Fair and Foul exchange their frowns.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        نمود جس کی فراز خودی سے ہو، وہ جمیل 
+جو ہو نشیب میں پیدا، قبیح و نامحبوب!
+      </Text>
+      <Text Language="Urdu">
+        قبیح: برا۔
+      </Text>
+      <Text Language="English">
+        If Self has reached the height, its acts are fine, debased, its deeds as good one can't define.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

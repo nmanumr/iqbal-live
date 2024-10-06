@@ -1,0 +1,21 @@
+<Poem ID="70" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بہ مرغان چمن ہمداستانم
+زبان غنچہ ہای بی زبانم
+چو میرم با صبا خاکم بیامیز
+کہ جز طوف گلان کاری ندانم
+      </Text>
+      <Text Language="Urdu">
+        میں باغ کے پرندوں کی داستان بیان کرتا ہوں؛ میں بے زبان کلیموں کی زبان ہوں۔ 
+جب میں مر جاؤں تو میری خاک کو باد صبح میں ملا دینا؛ کیونکہ مجھے پھولوں کے طواف کے سوائے اور کوئی کام نہیں۔
+      </Text>
+      <Text Language="English">
+        My talk is with the songsters of the glade; the tongue of tongueless rosebuds I was made.
+When I am dead, O cast my dust on air – attending roses is my only trade. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

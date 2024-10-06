@@ -1,0 +1,19 @@
+<Poem ID="40" Name="قطعہ" BookID="02" BookName="‫بالِ جبریل" SectionID="03" SectionName="رباعیات">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        اقبال نے کل اہل خیاباں کو سنایا
+یہ شعر نشاط آور و پر سوز طرب ناک 
+میں صورت گل دست صبا کا نہیں محتاج 
+کرتا ہے مرا جوش جنوں میری قبا چاک
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Iqbal recited once in a garden in spring a couplet cheerful and bright in tone and spirit: 
+Unlike the rose, I need no breeze to blossom. My soul doth blossom with my ecstasy.
+(Translated by Naim Siddiqui)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

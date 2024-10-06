@@ -1,0 +1,71 @@
+<Poem ID="19" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="03" SectionName="می باقے">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        صد نالۂ شبگیری صد صبح بلا خیزی
+صد آہ شرر ریزی یک شعر دل آویزی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        A hundred nights of wailing, a hundred mornings of travail, a hundred fire-emitting sighs: The product? One poignant verse.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        در عشق و ہوسناکی دانی کہ تفاوت چیست
+آن تیشۂ فرہادی این حیلۂ پرویزی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Do you know how you can tell love from lust? The former is Farhad’s pickaxe, the latter is Parvez’s guile.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        با پردگیان بر گوکاین مشت غبار من
+گردیست نظر بازی خاکیست بلا خیزی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Tell those behind the inner curtain this: The handful of dust that is; I is dust that sees, is dust that raises storms.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        ہوشم برد اے مطرب مستم کند ایساقی
+گلبانگ دل آویزی از مرغ سحر خیزی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        A pleasing song sung by an early morning bird intoxicates me and enraptures me, O saki, O musician.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        از خاک سمرقندی ترسم کہ دگر خیزد
+آشوب ھلاکوئی، ہنگامۂ چنگیزی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        From Samarkand, I fear, there may arise again the threat of a Hulaku or the terror of a Genghis Khan.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        مطرب غزلی، بیتی از مرشد روم آور
+تا غوطہ زند جانم در آٹش تبریزی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        O singer, sing a ghazal or a couplet of the holy guide of Rum, so that my soul may be immersed in the fire of Tabriz.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

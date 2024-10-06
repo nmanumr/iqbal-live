@@ -1,0 +1,71 @@
+<Poem ID="36" Name="" BookID="08" BookName="زبورِعجم" SectionID="01" SectionName="حصہ اول">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        زمستان را سرآمد روزگاران
+نواہا زندہ شد در شاخساران
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The days are ended of winter long; the branches quiver with living song.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        گلان را رنگ و نم بخشد ہواہا
+کہ می آید ز طرف جویباران
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The breeze in beauty arrays the rose as from the river it gently blows.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        چراغ لالہ اندر دشت و صحرا
+شود روشن تر از باد بہاران
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The tulip’s lantern in desert bare is fanned to brightness, by the spring air.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        دلم افسردہ تر در صحبت گل
+گریزد این غزال از مرغزاران
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Sad, mid the roses, my heart doth dwell, yea, from the meadow flees the gazelle;
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        دمی آسودہ با درد و غم خویش
+دمی نالان چو جوی کوہساران
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        A little eases with grief and pain or like a bill-stream laments again.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        ز بیم اینکہ ذوقش کم نگردد
+نگویم حال دل با رازداران
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Lest my heart’s passion may softer grow, not to the trusty I’ll tell my woe.
+(Translated by A.J. Arberry)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

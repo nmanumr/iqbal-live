@@ -1,0 +1,50 @@
+<Poem ID="28" Name="مصور" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        کس درجہ یہاں عام ہوئی مرگ تخیل
+ہندی بھی فرنگی کا مقلد، عجمی بھی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        THE PAINTER
+The death of fancy is so widely spread that men of Pers and Ind by Franks are led.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        مجھ کو تو یہی غم ہے کہ اس دور کے بہزاد
+کھو بیٹھے ہیں مشرق کا سرور ازلی بھی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        I feel sad that Behzad's of modern time have lost East's rapture sweet and joy sublime.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        معلوم ہیں اے مرد ہنر تیرے کمالات
+صنعت تجھے آتی ہے پرانی بھی، نئی بھی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        O artist, of your talents I can tell, you know the ancient crafts and new so well.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        فطرت کو دکھایا بھی ہے، دیکھا بھی ہے تو نے
+آئینہ فطرت میں دکھا اپنی خودی بھی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        You have portrayed many a natural sight, display your Self in Nature's mirror bright.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

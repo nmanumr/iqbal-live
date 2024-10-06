@@ -1,0 +1,21 @@
+<Poem ID="07" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        نہ ہر کس از محبت مایہ دار است
+نہ با ہر کس محبت سازگار است
+بروید لالہ با داغ جگر تاب
+دل لعل بدخشان بی شرار است
+      </Text>
+      <Text Language="Urdu">
+        ہر چیز محبت کی دولت سے بہراور نہیں؛ نہ ہر شخص کو محبت سازگار ہے۔ 
+گل لالہ داغ جگر تاب لیے پیدا ہوتا ہے؛ مگر لعل بدخشاں کا دل شرر کے بغیر ہے۔
+      </Text>
+      <Text Language="English">
+        Not every soul of Love hath capital, not every spirit respondeth to Love’s call.
+The tulip flowereth with a branded breast; the ruby’s heart hath not a spark at all. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,21 @@
+<Poem ID="26" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        سحر در شاخسار بوستانے
+چہ خوش میگفت مرغ نغمہ خوانے
+بر آور ہر چہ اندر سینہ داری
+سرودے ، نالہ ئی ، آہے فغانے
+      </Text>
+      <Text Language="Urdu">
+        صبح کے وقت چمن کی شاخ پر ، مرغ نغمہ خواں نے کیا اچھی بات کی۔
+جو کچھ تیرے سینے کے اندر ہے باہر نکال، وہ راگ ہو، نالہ و فریاد یا آ ہ و فغاں۔
+      </Text>
+      <Text Language="English">
+        One morning in a garden, passing by, I heard a bird perched on a high branch cry: 
+‘Out with whatever you have inside you; a song, a plaint, a dirge, a cry, a sigh.’
+[Translated by M Hadi Hussain]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

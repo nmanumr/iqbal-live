@@ -1,0 +1,40 @@
+<Poem ID="20" Name="" BookID="01" BookName="بانگِ درا" SectionID="04" SectionName="ظریفانہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        رات مچھر نے کہہ دیا مجھ سے 
+ماجرا اپنی ناتمامی کا
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Last night the mosquito related to me the whole story of his failures.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        مجھ کو دیتے ہیں ایک بوند لہو 
+صلہ شب بھر کی تشنہ کامی کا
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        ‘They give me only one drop of blood in return for the whole night’s labour.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        اور یہ بسوہ دار، بے زحمت 
+پی گیا سب لہو اسامی کا
+      </Text>
+      <Text Language="Urdu">
+        اسامي: کاشتکار۔
+بسوہ دار: مراد ہے زمیندار ۔
+      </Text>
+      <Text Language="English">
+        And this land owner without any effort sucked all the blood of the cultivator.’ 
+(Translated by M.A.K. Khalil)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

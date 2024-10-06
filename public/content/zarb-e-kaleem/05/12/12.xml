@@ -1,0 +1,40 @@
+<Poem ID="12" Name="خواجگی" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        دور حاضر ہے حقیقت میں وہی عہد قدیم 
+اہل سجادہ ہیں یا اہل سیاست ہیں امام
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        LORDSHIP
+In fact, the present age is still the same antique and ancient tide, whether statesmen give them lead, or spiritual leaders guide.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        اس میں پیری کی کرامت ہے نہ میری کا ہے زور
+سینکڑوں صدیوں سے خوگر ہیں غلامی کے عوام
+      </Text>
+      <Text Language="Urdu">
+        خوگر: عادی۔
+      </Text>
+      <Text Language="English">
+        To bondage common man is wont, since times none can recall to mind; this wonder is not wrought by Guides, but by wealth's vigour blind.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        خواجگی میں کوئی مشکل نہیں رہتی باقی 
+پختہ ہو جاتے ہیں جب خوئے غلامی میں غلام
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        When commons grow mature and ripe, in slavish bent and trend of heart; the governors can rule with ease, they don't face hurdles on their part.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

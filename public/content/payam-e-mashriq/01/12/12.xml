@@ -1,0 +1,21 @@
+<Poem ID="12" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        نوای عشق را ساز است آدم
+کشاید راز و خود رازست آدم
+جہان او آفرید این خوبتر ساخت
+مگر با ایزد انباز است آدم
+      </Text>
+      <Text Language="Urdu">
+        نوائے عشق کے لیے آدم ساز ہے (عشق کے نغمے انسان ہی کے قلب سے پھوٹتے ہیں)، یہ (خالق حقیقی کا) راز وا کرتا ہے، مگر خود بھی راز ہے۔ 
+اللہ تعالے نے جہان پیدا کیا، یہ اسے خوب تر بناتا ہے؛ گویا یہ خالق کا شریک کار ہے۔
+      </Text>
+      <Text Language="English">
+        To the voice of love Adam is music; he reveals secrets, but he is a secret himself. 
+God created the world, but Adam made it better – Adam, perhaps, is God’s co-worker. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

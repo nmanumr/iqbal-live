@@ -1,0 +1,39 @@
+<Poem ID="30" Name="یورپ سے ایک خط" BookID="02" BookName="‫بالِ جبریل" SectionID="04" SectionName="منظومات">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        ہم خوگر محسوس ہیں ساحل کے خریدار 
+اک بحر پر آشوب و پر اسرار ہے رومی 
+تو بھی ہے اسی قافلہء شوق میں اقبال 
+جس قافلہء شوق کا سالار ہے رومی 
+اس عصر کو بھی اس نے دیا ہے کوئی پیغام؟ 
+کہتے ہیں چراغ رہ احرار ہے رومی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        A LETTER FROM EUROPE
+We venture not beyond the shores: Being to the senses confined. But Rumi is an ocean, stormy, mysterious.
+Iqbal! Thou, too, art moving in that band of men: That band of men of passion, of which Rumi is the guide;
+Rumi, they say, is the guiding light for freedom; has he, indeed, a message for the age we live in?
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="جواب">
+    <Verse ID="07">
+      <Text Language="Original">
+        کہ نباید خورد و جو ہمچوں خراں 
+آہوانہ در ختن چر ارغواں 
+ہر کہ کاہ و جو خورد قرباں شود 
+ہر کہ نور حق خورد قرآں شود
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Reply: ‘Eat not hay and corn like donkeys; eat of thy choice like the musk-deer: 
+He dies who eats hay and corn. He who eats God’s light, becomes the Quran.’
+[Translated by Naim Siddiqui]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

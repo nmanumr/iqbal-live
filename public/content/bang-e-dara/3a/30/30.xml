@@ -1,0 +1,44 @@
+<Poem ID="30" Name="تعلیم اور اس کے نتائج" BookID="01" BookName="بانگِ درا" SectionID="3a" SectionName="حصہ سوم">
+  <Para Name="تضمین بر شعر ملا عرشی">
+    <Verse ID="01">
+      <Text Language="Original">
+        خوش تو ہیں ہم بھی جوانوں کی ترقی سے مگر 
+لب خنداں سے نکل جاتی ہے فریاد بھی ساتھ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        ہم سمجھتے تھے کہ لائے گی فراغت تعلیم
+کیا خبر تھی کہ چلا آئے گا الحاد بھی ساتھ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        گھر میں پرویز کے شیریں تو ہوئی جلوہ نما 
+لے کے آئی ہے مگر تیشہء فرہاد بھی ساتھ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        تخم دیگر بکف آریم و بکاریم ز نو 
+کانچہ کشتیم ز خجلت نتواں کرد درو
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

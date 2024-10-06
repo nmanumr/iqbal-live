@@ -1,0 +1,64 @@
+<Poem ID="12" Name="گدائی" BookID="02" BookName="‫بالِ جبریل" SectionID="04" SectionName="منظومات">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        مے کدے میں ایک دن اک رند زیرک نے کہا 
+ہے ہمارے شہر کا والی گدائے بے حیا
+      </Text>
+      <Text Language="Urdu">
+        رند زيرک: دانا شرابی۔
+      </Text>
+      <Text Language="English">
+        MENDICANCY
+A witty man in a tavern spoke with a tongue untamed: ‘The ruler of our state is a beggar unashamed;
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        تاج پہنایا ہے کس کی بے کلاہی نے اسے 
+کس کی عریانی نے بخشی ہے اسے زریں قبا
+      </Text>
+      <Text Language="Urdu">
+        بے کلاہي: ننگے سر۔
+      </Text>
+      <Text Language="English">
+        How many go bare-headed to deck him with a crown? How many go naked to supply his golden gown?
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        اس کے آب لالہ گوں کی خون دہقاں سے کشید 
+تیرے میرے کھیت کی مٹی ہے اس کی کیمیا
+      </Text>
+      <Text Language="Urdu">
+        رنگیں مشروب، شراب۔ آب لالہ گوں:
+      </Text>
+      <Text Language="English">
+        The blood of the poor turns into his red wine; and they starve so that he may in luxury dine.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        اس کے نعمت خانے کی ہر چیز ہے مانگی ہوئی 
+دینے والا کون ہے، مرد غریب و بے نوا
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The epicure’s table is loaded with delights, stolen from the needy, stripped of all their rights.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        مانگنے والا گدا ہے، صدقہ مانگے یا خراج 
+کوئی مانے یا نہ مانے، میرو سلطاں سب گدا!
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        He is a beggar who begs money, be it large or small, Kings with royal pomp and pride, in fact, are beggars all.’
+(Translated by Naim Siddiqui)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

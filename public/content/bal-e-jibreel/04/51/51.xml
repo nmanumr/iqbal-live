@@ -1,0 +1,22 @@
+<Poem ID="51" Name="فلسفی" BookID="02" BookName="‫بالِ جبریل" SectionID="04" SectionName="منظومات">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بلند بال تھا، لیکن نہ تھا جسور و غیور 
+حکیم سر محبت سے بے نصیب رہا 
+پھرا فضاوں میں کرگس اگرچہ شاہیں وار 
+شکار زندہ کی لذت سے بے نصیب رہا
+      </Text>
+      <Text Language="Urdu">
+        بال: اونچا اڑنے والا۔ بلند
+جسور و غيور: جسارت والا ۔ 
+کرگس: گدھ۔
+      </Text>
+      <Text Language="English">
+        He could fly high but he wasn’t daring and passionate, the sage remained a stranger to the secret of Love.
+The vulture roamed around the air like an eagle, but could not get acquainted with the taste of a fresh prey. 
+(Translated by Naim Siddiqui)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

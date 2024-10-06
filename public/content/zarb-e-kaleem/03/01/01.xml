@@ -1,0 +1,39 @@
+<Poem ID="01" Name="مرد فرنگ" BookID="03" BookName="ضربِ کلیم" SectionID="03" SectionName="عورت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        ہزار بار حکیموں نے اس کو سلجھایا 
+مگر یہ مسئلہ زن رہا وہیں کا وہیں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        THE FRANKISH MAN
+To solve this riddle thinkers have much tried, their efforts all so far it has defied.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        قصور زن کا نہیں ہے کچھ اس خرابی میں 
+گواہ اس کی شرافت پہ ہیں مہ و پرویں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        No doubt, to woman's faith and conduct clear, the Pleiades and moon do witness bear.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        فساد کا ہے فرنگی معاشرت میں ظہور 
+کہ مرد سادہ ہے بیچارہ زن شناس نہیں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        This vice in Frankish way of life we find, men fools and blind, can't read a woman's mind.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

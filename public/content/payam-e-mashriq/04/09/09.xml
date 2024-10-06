@@ -1,0 +1,54 @@
+<Poem ID="09" Name="نیچہ" BookID="07" BookName="پیامِ مشرق" SectionID="04" SectionName="نقش فرنگ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        گر نوا خواہی ز پیش او گریز
+در نے کلکش غریو تندر است
+      </Text>
+      <Text Language="Urdu">
+        اگر تو نغمہ چاہتا ہے تو اس سے دور رہ، ( کیونکہ ) اس کی آواز میں بجلی کی کڑک ہے۔
+      </Text>
+      <Text Language="English">
+        NIETZSCHE
+If song thou crave, flee form him! Thunder roars in the reed of his pen.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        نیشتر اندر دل مغرب فشرد
+دستش از خون چلیپا احمر است
+      </Text>
+      <Text Language="Urdu">
+        اس نے مغرب کے دل میں نشتر چبو دیا ہے، اس کے ہاتھ عیسائیت کے خون سے سرخ ہیں۔
+      </Text>
+      <Text Language="English">
+        He plunged a lancet into Europe’s heart; his hand is red with the blood of the Cross.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        آنکہ بر طرح حرم بتخانہ ساخت
+قلب او مومن دماغش کافر است
+      </Text>
+      <Text Language="Urdu">
+        وہ ایسا شخص ہے جس نے حرم کی طرز پر بتخانہ تعمیر کیا ہے، اس کا قلب مومن ہے مگر دماغ کافر ہے۔
+      </Text>
+      <Text Language="English">
+        He reared a pagoda on the ruins of the Temple: His heart is a true believer, but his brain an infidel.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        خویش را در نار آن نمرود سوز
+زانکہ بستان خلیل از آذر است
+      </Text>
+      <Text Language="Urdu">
+        اپنے آپ کو اس نمرود کی آگ میں جلا ، کیونکہ خلیل اللہ (علیہ) کا باغ آگ ہی سے وجود میں آیا بھی۔
+      </Text>
+      <Text Language="English">
+        Burn thyself in the fire of that Nimrod, for the garden of Abraham is produced from fire. 
+(Translated by R.A. Nicholson)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

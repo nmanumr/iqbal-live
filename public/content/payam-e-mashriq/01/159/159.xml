@@ -1,0 +1,21 @@
+<Poem ID="159" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بساطم خالی از مرغ کباب است
+نہ در جامم می آئینہ تاب است
+غزال من خورد برگ گیاہی
+ولی خون دل او مشک ناب است
+      </Text>
+      <Text Language="Urdu">
+        میرا دستر خوان مرغ کے کباب سے خالی ہے؛ میرے جام میں قیمتی شراب بھی نہیں۔ 
+میرا غزال گھاس کے پتے کھاتا ہے؛ مگر اس کے دل کا خون مشک نافہ کے خون کی مانند (خوشبودار ) ہے۔
+      </Text>
+      <Text Language="English">
+        I have no roasted fowl on which to sup; no mirror-shining wine is in my cup; 
+Upon green grasses grazes my gazelle, yet fragrant musk filleth his heartblood up. 
+(Translated by A.J. Arberry)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

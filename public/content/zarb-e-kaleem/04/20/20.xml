@@ -1,0 +1,19 @@
+<Poem ID="20" Name="اقبال" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        فردوس میں رومی سے یہ کہتا تھا سنائی 
+مشرق میں ابھی تک ہے وہی کاسہ، وہی آش 
+حلاج کی لیکن یہ روایت ہے کہ آخر 
+اک مرد قلندر نے کیا راز خودی فاش
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        IQBAL
+Hallaj relates that thus at last a man in India has appeared who with efforts firm and strong, the webs that hid the Self has cleared.
+In Eden Sinai to Rumi told that people living in the East, still eat their bread and beans from begging cups they have not made progress least.
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

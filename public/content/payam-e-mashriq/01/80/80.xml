@@ -1,0 +1,21 @@
+<Poem ID="80" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        نفس آشفتہ موجی از یم اوست
+نے ما نغمۂ ما از دم اوست
+لب جوی ابد چون سبزہ رستیم
+رگ ما ریشۂ ما از نم اوست
+      </Text>
+      <Text Language="Urdu">
+        ہماری سانس اللہ تعالے کے بحر بیکراں سے اٹھی ہوئی موج ہے؛ ہماری نے ، ہمارا نغمہ اسی کے دم سے ہے۔
+ہم ابد کی ندی کے کنارے سبزہ کی مانند اگے ہیں؛ ہمارا رگ و ریشہ اسی نم ابدیت سے ہے۔
+      </Text>
+      <Text Language="English">
+        The heaved breath is a beaker of His sea; He lips our reed, and plays our melody.
+We grow as grass by an eternal stream; His dew is in our vein and artery. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

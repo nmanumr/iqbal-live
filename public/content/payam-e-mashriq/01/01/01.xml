@@ -1,0 +1,993 @@
+<Poem ID="01" Name="پیش کش" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="بسم اﷲ الرحمن الرحیم">
+    <Verse ID="01">
+      <Text Language="Original">
+        پیشکش بحضور اعلیحضرت امیرامان اﷲ خان
+فرمانروای دولت مستقلۂ افغانستان خلد اﷲ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        DEDICATORY EPISTLE TO KING AMANULLAH KHAN OF AFGHANISTAN
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="ملکہ وا جلالہ">
+    <Verse ID="03">
+      <Text Language="Original">
+        اے امیر کامگار اے شہریار
+نوجوان و مثل پیران پختہ کار
+      </Text>
+      <Text Language="Urdu">
+        اے شہریار! اے خوش نصیب امیر! عمر میں نوجوان اور پیروں کی مانند پختہ کار۔
+      </Text>
+      <Text Language="English">
+        Successful head of a great monarchy, youthful in years, old in sagacity.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        چشم تو از پردگیہای محرم است
+دل میان سینہ ات جام جم است
+      </Text>
+      <Text Language="Urdu">
+        تیری آنکھ چھپے ہوئے رازوں سے آشنا ہے۔ تیرا دل جام جم کی مانند ہے (اس پر ہر چیز عیاں ہے)۔
+      </Text>
+      <Text Language="English">
+        Inspired practitioner of the royal art, possessor of the wisdom of the heart.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        عزم تو پایندہ چون کہسار تو
+حزم تو آسان کند دشوار تو
+      </Text>
+      <Text Language="Urdu">
+        تیرا عزم تیرے (ملک کے) پہاڑوں کی مانند مضبوط ہے؛ تیرے استقلال کے باعث تجھ پر ہر مشکل آسان ہے۔
+      </Text>
+      <Text Language="English">
+        With a will as strong as your mountain walls, and constant circumspection that forestalls.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        ہمت تو چون خیال من بلند
+ملت صد پارہ را شیرازہ بند
+      </Text>
+      <Text Language="Urdu">
+        تیری ہمت میرے فکر کی مانند بلند ہے؛ یہ ہمت صد پارہ ملت کو متحد کر سکتی ہے۔
+      </Text>
+      <Text Language="English">
+        All risks, ambition as high as my thought, and organizing power that has brought.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        ھدیہ از شاہنشہان داری بسی
+لعل و یاقوت گران داری بسی
+      </Text>
+      <Text Language="Urdu">
+        تیرے پاس پادشاہوں کے ( دیے ہوئے) کئی تحفے ہیں؛ تو بہت سے لعل و یاقوت رکھتا ہے۔
+      </Text>
+      <Text Language="English">
+        Together feuding tribes, you have untold gifts made to you by kings – silver and gold, rubies and jewels.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        اے امیر ابن امیر ابن امیر
+ھدیہ ئی از بینوائی ہم پذیر
+      </Text>
+      <Text Language="Urdu">
+        اے امیر ، ابن امیر، ابن امیر ؛ اس فقیر سے بھی یہ تحفہ قبول کر۔
+      </Text>
+      <Text Language="English">
+        O king, son of a king, accept from me this humble offering.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        تا مرا رمز حیات آموختند
+آتشے در پیکرم افروختند
+      </Text>
+      <Text Language="Urdu">
+        چونکہ مجھے زندگی کا راز وکھایا گیا ہے اور میرے پیکر میں آگ روشن کی گئی ہے۔
+      </Text>
+      <Text Language="English">
+        Ever since I found out life’s mystery, it is as if a fire blazed inside me.
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        یک نوای سینہ تاب آوردہ ام
+عشق را عہد شباب آوردہ ام
+      </Text>
+      <Text Language="Urdu">
+        (اس لیے) میں ایک ایسی نوا لے کر آیا ہوں جو سینے کو روشن کر دے؛ میں عشق کے لیے عہد شباب واپس لایا ہوں۔
+      </Text>
+      <Text Language="English">
+        My song is a flame of that inner fire – a song of passion sung on wisdom’s lyre.
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        پیر مغرب شاعر المانوی
+آن قتیل شیوہ ہای پہلوی
+      </Text>
+      <Text Language="Urdu">
+        وہ شاعر المانوی جو اہل مغرب کا استاد تھا؛ وہ جو فارسی شاعری کا فدائی ہے۔
+      </Text>
+      <Text Language="English">
+        That Western sage, that bard of Germany, that ardent lover of things Pahlavi.
+      </Text>
+    </Verse>
+    <Verse ID="21">
+      <Text Language="Original">
+        بست نقش شاہدان شوخ و شنگ
+داد مشرق را سلامی از فرنگ
+      </Text>
+      <Text Language="Urdu">
+        اس نے اپنے کلام میں شوخ و شنگ محبوبوں کے نقش ثبت کیے ہیں اور یورپ کی طرف سے مشرق کو سلام بھیجا ۔
+      </Text>
+      <Text Language="English">
+        Saluted the East with his great Divan, that tribute to the poets of Iran and veritable picture gallery of vignettes, all in Persian imagery.
+      </Text>
+    </Verse>
+    <Verse ID="23">
+      <Text Language="Original">
+        در جوابش گفتہ ام پیغام شرق
+ماہتابی ریختم بر شام شرق
+      </Text>
+      <Text Language="Urdu">
+        میں نے اس کے جواب میں 'پیام مشرق' لکھا ہے (اور اس سے) گویا مشرق کی شام (زوال) پر چاندنی بکھیر دی ہے۔
+      </Text>
+      <Text Language="English">
+        To that salute this book is a reply, this gleam of moonlight in the Eastern sky.
+      </Text>
+    </Verse>
+    <Verse ID="25">
+      <Text Language="Original">
+        تا شناسای خودم خود بین نیم
+با تو گویم او کہ بود و من کیم
+      </Text>
+      <Text Language="Urdu">
+        میں خود بیں (مغرور) نہیں، ہاں، اپنے آپ کو پہچانتا ضرور ہوں؛ میں آپ کو بتاتا ہوں کہ وہ کون تھا اور میں کیا ہوں۔
+      </Text>
+      <Text Language="English">
+        Without deluding myself, I will dare to tell you how the two of us compare.
+      </Text>
+    </Verse>
+    <Verse ID="27">
+      <Text Language="Original">
+        او ز افرنگی جوانان مثل برق
+شعلۂ من از دم پیران شرق
+      </Text>
+      <Text Language="Urdu">
+        وہ یورپ کے ان نوجوانوں سے تھا جو برق کی مانند چمکے، میرے اندر جو شعلہ ہے وہ پیران مشرق کے فیض سے ہے۔
+      </Text>
+      <Text Language="English">
+        His was the vital spark of the young West; mine has been wrung from the East’s aged breast.
+      </Text>
+    </Verse>
+    <Verse ID="29">
+      <Text Language="Original">
+        او چمن زادی چمن پروردہ ئی
+من دمیدم از زمین مردہ ئی
+      </Text>
+      <Text Language="Urdu">
+        وہ چمن میں پیدا ہوا اور چمن ہی نے اس کی پرورش کی؛ اور میں مردہ زمین سے اٹھا۔
+      </Text>
+      <Text Language="English">
+        A flourishing spring garden gave him birth; I am a product of a long dead earth.
+      </Text>
+    </Verse>
+    <Verse ID="31">
+      <Text Language="Original">
+        او چو بلبل در چمن فردوس گوش
+من بصحرا چون جرس گرم خروش
+      </Text>
+      <Text Language="Urdu">
+        اس کی آواز چمن میں بلبل کی طرح 'فردوس گوش' تھی؛ میں صحرا میں جرس کی مانند سرگرم خروش ہوں۔
+      </Text>
+      <Text Language="English">
+        He was a nightingale that filled with song an orchard; I am but a desert gong, a signal for the caravan to start.
+      </Text>
+    </Verse>
+    <Verse ID="33">
+      <Text Language="Original">
+        ہر دو دانای ضمیر کائنات
+ہر دو پیغام حیات اندر ممات
+      </Text>
+      <Text Language="Urdu">
+        ہم دونوں کائنات کے ضمیر کو سمجھتے ہیں؛ ہم دونوں اس موت کے اندر (جو دنیا پر چھا رہی ہے) پیغام حیات ہیں۔
+      </Text>
+      <Text Language="English">
+        We both have delved into the inmost heart of being; both of us are messages of life in the midst of death’s ravages;
+      </Text>
+    </Verse>
+    <Verse ID="35">
+      <Text Language="Original">
+        ہر دو خنجر صبح خند آئینہ فام
+او برہنہ من ہنوز اندر نیام
+      </Text>
+      <Text Language="Urdu">
+        ہم دونوں خنجر ہیں، صبح کی طرح روشن اور آئینہ کی طرح چمکدار؛ وہ برہنہ اور میں ابھی تک نیام میں ہوں ۔
+      </Text>
+      <Text Language="English">
+        Two daggers, morning-lustred, mirror-bright; he naked; I still sheathed, concealed from sight.
+      </Text>
+    </Verse>
+    <Verse ID="37">
+      <Text Language="Original">
+        ہر دو گوہر ارجمند و تاب دار
+زادۂ دریای ناپیدا کنار
+      </Text>
+      <Text Language="Urdu">
+        ہم دونوں قیمتی چمکدار موتی ہیں ، جو (حیات) کے دریائے بیکراں سے پیدا ہوئے ہیں۔
+      </Text>
+      <Text Language="English">
+        Two pearls, both precious, both unmatched, are we, both from the depths of an unfathomed sea.
+      </Text>
+    </Verse>
+    <Verse ID="39">
+      <Text Language="Original">
+        او ز شوخی در تہ قلزم تپید
+تا گریبان صدف را بر درید
+      </Text>
+      <Text Language="Urdu">
+        وہ شوخی سے سمندر کی تہ میں تڑپا ، یہاں تک کہ اس نے صدف کا گریبان پھاڑ دیا۔
+      </Text>
+      <Text Language="English">
+        He burst out of the mother-of-pearl’s womb, for he could rest no longer in that tomb.
+      </Text>
+    </Verse>
+    <Verse ID="41">
+      <Text Language="Original">
+        من بہ آغوش صدف تابم ہنوز
+در ضمیر بحر نایابم ہنوز
+      </Text>
+      <Text Language="Urdu">
+        میں ابھی تک صدف کے اندر پیچ (و تاب) کھا رہا ہوں ؛ میں ابھی تک بحر (حیات) کے ضمیر میں نایاب (پوشیدہ) ہوں۔
+      </Text>
+      <Text Language="English">
+        But I, who still am lying shell-enshrined, have yet to be astir in the sea’s mind.
+      </Text>
+    </Verse>
+    <Verse ID="43">
+      <Text Language="Original">
+        آشنای من ز من بیگانہ رفت
+از خمستانم تہی پیمانہ رفت
+      </Text>
+      <Text Language="Urdu">
+        میرا جاننے والا بھی مجھے جانے بغیر چلا گیا، اس نے (بھی) میرے شراب خانے سے اپنا پیمانہ پر نہ کیا۔
+      </Text>
+      <Text Language="English">
+        No one around me knows me properly: They go away with empty cups from my wine-fount.
+      </Text>
+    </Verse>
+    <Verse ID="45">
+      <Text Language="Original">
+        من شکوہ خسروی او را دہم
+تخت کسری زیر پای او نہم
+      </Text>
+      <Text Language="Urdu">
+        میں اسے خسروانہ شان دیتا ہوں ، میں اس کے پاؤں کے نیچے کسری کا تخت بچھاتا ہوں۔
+      </Text>
+      <Text Language="English">
+        I offer them a royal state, with Chosroe’s throne for use as their foot-mat.
+      </Text>
+    </Verse>
+    <Verse ID="47">
+      <Text Language="Original">
+        او حدیث دلبری خواہد ز من
+رنگ و آب شاعری خواہد ز من
+      </Text>
+      <Text Language="Urdu">
+        وہ مجھ سے دلبری کی بات چاہتا ہے ، وہ مجھ سے (روایتی ) شاعری کی چمک اور رنگ طلب کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        But they want fairy tales of love from me, the gaudy trappings of mere poesy.
+      </Text>
+    </Verse>
+    <Verse ID="49">
+      <Text Language="Original">
+        کم نظر بیتابی جانم ندید
+آشکارم دید و پنھانم ندید
+      </Text>
+      <Text Language="Urdu">
+        کم نظر نے میری جان کی بیتابی کو نہ دیکھا، اس نے صرف میرا ظاہر دیکھا میرے اندرون کو نہ دیکھا۔
+      </Text>
+      <Text Language="English">
+        They are so purblind that they only see my outside, not the fervid soul in me.
+      </Text>
+    </Verse>
+    <Verse ID="51">
+      <Text Language="Original">
+        فطرت من عشق را در بر گرفت
+صحبت خاشاک و آتش در گرفت
+      </Text>
+      <Text Language="Urdu">
+        میری فطرت نے عشق کو اپنے اندر سمو لیا ہے ، میں نے تنکے اور آگ دونوں کو اپنے اندر اکٹھا کر لیا ہے۔
+      </Text>
+      <Text Language="English">
+        I have made Love my very being’s law: in me can live together fire and straw.
+      </Text>
+    </Verse>
+    <Verse ID="53">
+      <Text Language="Original">
+        حق رموز ملک و دین بر من گشود
+نقش غیر از پردۂ چشمم ربود
+      </Text>
+      <Text Language="Urdu">
+        اللہ تعالے نے مجھ پر ملک اور دین کے رموز منکشف کیے ہیں، اور میری آنکھ پر سے غیر اللہ کا پردہ ہٹا دیا ہے۔
+      </Text>
+      <Text Language="English">
+        The truths of statecraft and religion both God has revealed to me; so I am loth to turn to any other guide.
+      </Text>
+    </Verse>
+    <Verse ID="55">
+      <Text Language="Original">
+        برگ گل رنگین ز مضمون من است
+مصرع من قطرۂ خون من است
+      </Text>
+      <Text Language="Urdu">
+        پھول کی پتی میرے مضمون سے رنگین ہے، میرے ہر شعر کا مصرع میرے خون کا قطرہ ہے۔
+      </Text>
+      <Text Language="English">
+        From my imagination do the flowers come by their hues. Each line of verse that I compose is a drop of my rich heart’s blood that flows from my pen’s point.
+      </Text>
+    </Verse>
+    <Verse ID="57">
+      <Text Language="Original">
+        تا نپنداری سخن دیوانگیست
+در کمال این جنوان فرزانگیست
+      </Text>
+      <Text Language="Urdu">
+        تاکہ تو یہ گمان نہ کرے کہ شاعری دیوانگی ہے، (میں نے یہ ثابت کر دیا ہے کہ) اس جنون کا کمال دانائی ہے۔
+      </Text>
+      <Text Language="English">
+        Do not think poetry is merely madness; if this madness be complete, then wisdom is its name.
+      </Text>
+    </Verse>
+    <Verse ID="59">
+      <Text Language="Original">
+        از ھنر سرمایہ دارم کردہ اند
+در دیار ہند خوارم کردہ اند
+      </Text>
+      <Text Language="Urdu">
+        مجھے ہنر (سخن) کا سرمایہ عطا کر کے سرزمین ہند میں خوار کیا گیا ہے۔
+      </Text>
+      <Text Language="English">
+        Alas! Vouchsafed this gift, I am condemned to pass my days in exile in this joyless land, this India;
+      </Text>
+    </Verse>
+    <Verse ID="61">
+      <Text Language="Original">
+        لالہ و گل از نوایم بی نصیب
+طایرم در گلستان خود غریب
+      </Text>
+      <Text Language="Urdu">
+        (یہاں کے) لالہ و گل میری نوا سے بے نصیب ہیں ، میں ایسا پرندہ ہوں جو اپنے گلستان کے اندر اجنبی ہے۔
+      </Text>
+      <Text Language="English">
+        Where none can understand the things I sing of like a nightingale with not a tulip, not a rose to hail its song – a nightingale singing alone in some deserted place, sad and forlorn.
+      </Text>
+    </Verse>
+    <Verse ID="63">
+      <Text Language="Original">
+        بسکہ گردون سفلہ و دون پرور است
+وای بر مردی کہ صاحب جوہر است
+      </Text>
+      <Text Language="Urdu">
+        آسمان انہی کی پرورش کرتا ہے، جو رذیل اور کم ظرف ہوں ، (اس شخص کی قسمت پر) افسوس ہے جسے کوئی جوہر عطا کیا گیا ہو۔
+      </Text>
+      <Text Language="English">
+        So mean is fortune that it favours fools. woe to the gifted, who defy its rules!
+      </Text>
+    </Verse>
+    <Verse ID="65">
+      <Text Language="Original">
+        دیدہ ئی اے خسرو کیوان جناب
+آفتاب "ما توارت بالحجاب"
+      </Text>
+      <Text Language="Urdu">
+        اے بلند مرتبت بادشاہ تو نے دیکھا ہے کہ ہمارا آفتاب پردے میں چھپ چکا ہے، (ملت اسلامیہ زوال کا شکار ہے)۔
+      </Text>
+      <Text Language="English">
+        You see, O king, the Muslims’ sun dimmed by the darkling clouds that overhang the sky:
+      </Text>
+    </Verse>
+    <Verse ID="67">
+      <Text Language="Original">
+        ابطحی در دشت خویش از راہ رفت
+از دم او سوز الا اﷲ رفت
+      </Text>
+      <Text Language="Urdu">
+        بطحا کا رہنے والا اپنے ہی صحرا میں راہ گم کیے ہوئے ہے، اس کے دم سے الا اﷲ کا سوز ختم ہو چکا ہے۔
+      </Text>
+      <Text Language="English">
+        The Arab in his desert gone astray; the way of godliness no more his way.
+      </Text>
+    </Verse>
+    <Verse ID="69">
+      <Text Language="Original">
+        مصریان افتادہ در گرداب نیل
+سست رگ تورانیان ژندہ پیل
+      </Text>
+      <Text Language="Urdu">
+        اہل مصر نیل کے گرداب میں پڑے ہیں ، افلاس زدہ تورانی بھی کمزور پڑ چکے ہیں۔
+      </Text>
+      <Text Language="English">
+        The Egyptian in the whirlpool of the Nile; and the Turanian slow-pulsed and senile.
+      </Text>
+    </Verse>
+    <Verse ID="71">
+      <Text Language="Original">
+        آل عثمان در شکنج روزگار
+مشرق و مغرب ز خونش لالہ زار
+      </Text>
+      <Text Language="Urdu">
+        آل عثمان (ترک) زمانے کے شکنجے میں گرفتار ہے، مشرق و مغرب ان کے خون سے سرخ ہو چکا ہے۔
+      </Text>
+      <Text Language="English">
+        The Turk a victim of the ancient feud of East and West, both covered with his blood;
+      </Text>
+    </Verse>
+    <Verse ID="73">
+      <Text Language="Original">
+        عشق را آئین سلمانی نماند
+خاک ایران ماند و ایرانی نماند
+      </Text>
+      <Text Language="Urdu">
+        عشق کے اندر سلمان فارسی (رضی اللہ) کا انداز نہ رہا۔ ایران کی سرزمین رہ گئی مگر ایرانی ختم ہو گیا۔
+      </Text>
+      <Text Language="English">
+        No one left like that ardent soul, Salman; his creed of Love now alien to Iran:
+      </Text>
+    </Verse>
+    <Verse ID="75">
+      <Text Language="Original">
+        سوز و ساز زندگی رفت از گلش
+آن کہن آتش فسردہ اندر دلش
+      </Text>
+      <Text Language="Urdu">
+        اس کی مٹی (بدن) میں سوز و ساز زندگی نہیں رہا ، اس کے دل کے اندر کی پرانی آگ افسردہ ہو چکی ہے۔
+      </Text>
+      <Text Language="English">
+        Which has lost all its fervour, all its zest, the old fire all cold ashes in its breast.
+      </Text>
+    </Verse>
+    <Verse ID="77">
+      <Text Language="Original">
+        مسلم ہندی شکم را بندہ ئی
+خود فروشی دل ز دین بر کندہ ئی
+      </Text>
+      <Text Language="Urdu">
+        ہندی مسلمان صرف پیٹ کا غلام ہے ، اس نے اپنے آپ کو بیچ دیا ہے اور دین سے برگشتہ خاطر ہو چکا ہے۔
+      </Text>
+      <Text Language="English">
+        The Indian Muslim unconcerned about all save his belly, sunk in listless doubt.
+      </Text>
+    </Verse>
+    <Verse ID="79">
+      <Text Language="Original">
+        در مسلمان شأن محبوبی نماند
+خالد و فاروق و ایوبی نماند
+      </Text>
+      <Text Language="Urdu">
+        مسلمان کے اندر شان محبوبی نہ رہی؛ وہ فاروق اعظم (رضی اللہ) حضرت خالد (رضی اللہ) اور صلاح الدین (رحمتہ اللہ) نہ رہا۔
+      </Text>
+      <Text Language="English">
+        The heroes have departed from the scene: All, all gone – Khalid, Umar, Saladin.
+      </Text>
+    </Verse>
+    <Verse ID="81">
+      <Text Language="Original">
+        اے ترا فطرت ضمیر پاک داد
+از غم دین سینۂ صد چاک داد
+      </Text>
+      <Text Language="Urdu">
+        تجھے اللہ تعالے نے پاکیزہ سرشت عطا فرمائی ہے، تیرا سینہ دین کے غم سے چاک چاک ہے۔
+      </Text>
+      <Text Language="English">
+        God has endowed you with a feeling heart that bleeds to see the Muslims thus distraught.
+      </Text>
+    </Verse>
+    <Verse ID="83">
+      <Text Language="Original">
+        تازہ کن آئین صدیق و عمر
+چون صبا بر لالۂ صحرا گذر
+      </Text>
+      <Text Language="Urdu">
+        (اپنی حکومت سے پھر) حضرت صدیق (رضی اللہ) اور حضرت عمر (رضی اللہ) کا انداز تازہ کر؛ صحرا میں کھلے ہوئے لالہ پر سے باد صبا کی مانند گذر جا (اپنے عوام کو تر و تازگی عطا کر)۔
+      </Text>
+      <Text Language="English">
+        Across this wilderness pass like a breeze of spring; blow back Siddiq’s and Umar’s days.
+      </Text>
+    </Verse>
+    <Verse ID="85">
+      <Text Language="Original">
+        ملت آوارۂ کوہ و دمن
+در رگ او خون شیران موج زن
+      </Text>
+      <Text Language="Urdu">
+        ملت (افغانیہ) جو پہاڑوں اور وادیوں میں بکھری ہوئی ہے ، اس کی رگوں میں شیروں کا خون موجزن ہے۔
+      </Text>
+      <Text Language="English">
+        This race of mountain-dwellers, the Afghans, the blood of lions flowing in their veins;
+      </Text>
+    </Verse>
+    <Verse ID="87">
+      <Text Language="Original">
+        زیرک و روئین تن و روشن جبین
+چشم او چون جرہ بازان تیز بین
+      </Text>
+      <Text Language="Urdu">
+        یہ لوگ سمجھدار ، قوی بدن اور روشن جبیں ہیں؛ ان کی آنکھ نر باز کی طرح تیز نگاہ ہے۔
+      </Text>
+      <Text Language="English">
+        Industrious, brave, intelligent and wise, with the look of the eagle in their eyes:
+      </Text>
+    </Verse>
+    <Verse ID="89">
+      <Text Language="Original">
+        قسمت خود از جہان نا یافتہ
+کوکب تقدیر او نا تافتہ
+      </Text>
+      <Text Language="Urdu">
+        مگر انہوں نے دنیا سے اپنا (پورا) حصّہ نہیں پایا؛ ان کی تقدیر کا ستارہ ابھی چمکا نہیں۔
+      </Text>
+      <Text Language="English">
+        Have not, alas, fulfilled their destiny: Their star has not yet risen in the sky.
+      </Text>
+    </Verse>
+    <Verse ID="91">
+      <Text Language="Original">
+        در قہستان خلوتی ورزیدہ ئی
+رستخیز زندگی نادیدہ ئی
+      </Text>
+      <Text Language="Urdu">
+        وہ کوہستان میں الگ تھلگ رہ رہے ہیں ، (ابھی) انہوں نے زندگی کی کشمکش نہیں دیکھی۔
+      </Text>
+      <Text Language="English">
+        They dwell hemmed in by mountain fastnesses, shut off from all renascent influences.
+      </Text>
+    </Verse>
+    <Verse ID="93">
+      <Text Language="Original">
+        جان تو بر محنت پیہم صبور
+کوش در تہذیب افغان غیور
+      </Text>
+      <Text Language="Urdu">
+        تیری جان میں سعیء پیہم پر استقلال موجود ہے، ان غیور افغانیوں کی تربیت کے لیے کوشش کر۔
+      </Text>
+      <Text Language="English">
+        O you, for whom no labour is too great, spare no endeavour to ameliorate your people;
+      </Text>
+    </Verse>
+    <Verse ID="95">
+      <Text Language="Original">
+        تا ز صدیقان این امت شوی
+بہر دین سرمایۂ قوت شوی
+      </Text>
+      <Text Language="Urdu">
+        تاکہ تو اس امت کے صدیقین میں سے ہو جائے، اور دین کے لیے سرمایہء قوت بنے۔
+      </Text>
+      <Text Language="English">
+        So that you may add your name to those of men who worked for Islam’s fame.
+      </Text>
+    </Verse>
+    <Verse ID="97">
+      <Text Language="Original">
+        زندگی جہد است و استحقاق نیست
+جز بہ علم انفس و آفاق نیست
+      </Text>
+      <Text Language="Urdu">
+        زندگی جد و جہد ہے اس پر کسی کو کوئی استحقاق نہیں ، زندگی صرف انفس اور آفاق کے علم پر مشتمل ہے۔
+      </Text>
+      <Text Language="English">
+        Life is a struggle, not beseeching rights; and knowledge is the arms with which one fights.
+      </Text>
+    </Verse>
+    <Verse ID="99">
+      <Text Language="Original">
+        گفت حکمت را خدا خیر کیثر
+ہر کجا این خیز را بینی بگیر
+      </Text>
+      <Text Language="Urdu">
+        اللہ تعالے نے حکمت کو خیر کثیر فرمایا ہے (حضور صلعم کا ارشاد ہے) کہ جہاں سے حکمت ملے اسے لے لو۔
+      </Text>
+      <Text Language="English">
+        God ranked it with the good things that abound and said it must be grasped, wherever found.
+      </Text>
+    </Verse>
+    <Verse ID="101">
+      <Text Language="Original">
+        سید کل صاحب ام الکتاب
+پردگیہا بر ضمیرش بی حجاب
+      </Text>
+      <Text Language="Urdu">
+        آپ (صلعم) موجودات کے سردار اور صاحب ام الکتاب ہیں، آپ (صلعم) کے ضمیر پر سارے راز وا ہیں۔
+      </Text>
+      <Text Language="English">
+        The one to whom the Quran was revealed, from whom no aspect of truth was concealed:
+      </Text>
+    </Verse>
+    <Verse ID="103">
+      <Text Language="Original">
+        گرچہ عین ذات را بی پردہ دید
+"رب زدنی" از زبان او چکید
+      </Text>
+      <Text Language="Urdu">
+        اگرچہ حضور اکرم (صلعم) نے ذات باری تعالے کو بالکل بے پردہ دیکھا ؛ پھر بھی آپ (صلعم) کی زبان پر رب زدنی علما کے الفاظ تھے۔
+      </Text>
+      <Text Language="English">
+        Beheld the Essence itself with his eye; and yet ‘God, teach me still more’ was his cry.
+      </Text>
+    </Verse>
+    <Verse ID="105">
+      <Text Language="Original">
+        علم اشیا "علم الاسماستی"
+ہم عصا و ھم ید بیضا ستی
+      </Text>
+      <Text Language="Urdu">
+        علم اشیاء ہی علم اسماء کی تفسیر ہے؛ یہی عصا ہے اور یہی ید بیضا۔
+      </Text>
+      <Text Language="English">
+        Knowledge of things is Adam’s gift from God, the shining palm of Moses and his rod.
+      </Text>
+    </Verse>
+    <Verse ID="107">
+      <Text Language="Original">
+        علم اشیا داد مغرب را فروغ
+حکمت او ماست می بندد ز دوغ
+      </Text>
+      <Text Language="Urdu">
+        علم اشیاء ہی سے یورپ نے ترقی حاصل کی ہے؛ وہ اپنی حکمت کے ذریعے چھاچھ سے پنیر بنا لیتی ہیں۔
+      </Text>
+      <Text Language="English">
+        The secret of the greatness of the West, the source of all that it has of the best.
+      </Text>
+    </Verse>
+    <Verse ID="109">
+      <Text Language="Original">
+        جان ما را لذت احساس نیست
+خاک رہ جز ریزۂ الماس نیست
+      </Text>
+      <Text Language="Urdu">
+        مگر ہماری جان میں احساس کی لذت نہیں، (ہم یہ نہیں سمجھتے) کہ خاک راہ کا (ہر ذرّہ ) الماس کے ٹکڑے کی مانند قیمتی ہے۔
+      </Text>
+      <Text Language="English">
+        We would see, if our spirits had true zest, nothing but diamonds in the roadside dust.
+      </Text>
+    </Verse>
+    <Verse ID="111">
+      <Text Language="Original">
+        علم و دولت نظم کار ملت است
+علم و دولت اعتبار ملت است
+      </Text>
+      <Text Language="Urdu">
+        کاروبار ملت کا نظم علم و دولت پر مبنی ہے، علم و دولت ہی سے قوم کا وقار ہے۔
+      </Text>
+      <Text Language="English">
+        Knowledge and wealth make nations sound and strong, and thus enable them to get along.
+      </Text>
+    </Verse>
+    <Verse ID="113">
+      <Text Language="Original">
+        آن یکی از سینۂ احرار گیر
+وان دگر از سینۂ کہسار گیر
+      </Text>
+      <Text Language="Urdu">
+        علم سینہء احرار سے حاصل کر اور دولت سینہء کوہسار سے۔
+      </Text>
+      <Text Language="English">
+        For knowledge cultivate your people’s minds; for wealth exploit your mineral finds.
+      </Text>
+    </Verse>
+    <Verse ID="115">
+      <Text Language="Original">
+        دشنہ زن در پیکر این کائنات
+در شکم دارد گہر چون سومنات
+      </Text>
+      <Text Language="Urdu">
+        اس کائنات کے پیکر میں خنجر گھونپ ، یہ سومنات کی مانند اپنے شکم میں بہت سے گوہر رکھتی ہے۔
+      </Text>
+      <Text Language="English">
+        Go, plunge a dagger into your land’s bowels; like Somnat’s idol it is full of jewels.
+      </Text>
+    </Verse>
+    <Verse ID="117">
+      <Text Language="Original">
+        لعل ناب اندر بدخشان تو ہست
+برق سینا در قہستان تو ہست
+      </Text>
+      <Text Language="Urdu">
+        تیرے بدخشاں کے اندر قیمتی لعل ہیں ، اور تیرے قہستان میں سینا کی برق ہے۔
+      </Text>
+      <Text Language="English">
+        In it do rubies of Badakhshan lie; in its hills is the thunder of Sinai.
+      </Text>
+    </Verse>
+    <Verse ID="119">
+      <Text Language="Original">
+        کشور محکم اساسی بایدت
+دیدۂ مردم شناسی بایدت
+      </Text>
+      <Text Language="Urdu">
+        مضبوط سلطنت کے لیے بنیاد چاہیے؟ یہ بنیاد (حاکم کی) مردم شناس نگاہ ہے۔
+      </Text>
+      <Text Language="English">
+        If you desire a firmly founded state, then make of men a proper estimate.
+      </Text>
+    </Verse>
+    <Verse ID="121">
+      <Text Language="Original">
+        اے بسا آدم کہ ابلیسی کند
+اے بسا شیطان کہ ادریسی کند
+      </Text>
+      <Text Language="Urdu">
+        بہت سے انسان ہیں جو ابلیس کا کام کرتے ہیں، اور بہت سے شیطان ہیں جو ادریسی لباس میں نظر آتے ہیں۔
+      </Text>
+      <Text Language="English">
+        Many an Adam acts like an Iblis; many an Iblis acts like an Idris:
+      </Text>
+    </Verse>
+    <Verse ID="123">
+      <Text Language="Original">
+        رنگ او نیرنگ و بود او نمود
+اندرون او چو داغ لالہ دود
+      </Text>
+      <Text Language="Urdu">
+        ایسے شخص کا رنگ نیرنگ (طلسم) ہے اور اس کا ہونا نہ ہونا ہے، اس کے اندر گل لالہ کا داغ نہیں بلکہ کینے کا دھواں ہے۔
+      </Text>
+      <Text Language="English">
+        With false pretences that cheat simple folk, his tulip-heart a lamp that is all smoke.
+      </Text>
+    </Verse>
+    <Verse ID="125">
+      <Text Language="Original">
+        پاکباز و کعبتین او دغل
+ریمن و غدر و نفاق اندر بغل
+      </Text>
+      <Text Language="Urdu">
+        (بظاہر) وہ پاکباز ہے مگر وہ فریب کا کھیل کھیلتا ہے، اس کی بغل میں مکاری ، غداری اور نفاق ہے۔
+      </Text>
+      <Text Language="English">
+        Deceitful, with a show of piety, his heart full of hate and hypocrisy.
+      </Text>
+    </Verse>
+    <Verse ID="127">
+      <Text Language="Original">
+        در نگر اے خسرو صاحب نظر
+نیست ہر سنگی کہ می تابد گہر
+      </Text>
+      <Text Language="Urdu">
+        اے صاحب نظر بادشاہ! سمجھ لے کہ ہر چمکنے والا پتھر موتی نہیں۔
+      </Text>
+      <Text Language="English">
+        O king, be careful in assessing them, not every stone that glitters is a gem.
+      </Text>
+    </Verse>
+    <Verse ID="129">
+      <Text Language="Original">
+        مرشد رومی حکیم پاک زاد
+سر مرگ و زندگی بر ما گشاد
+      </Text>
+      <Text Language="Urdu">
+        مرشد رومی (رحمتہ اللہ) نے جو دانائے پاک فطرت ہیں ، ہم پر موت اور زندگی کا راز ظاہر کر دیا ہے۔
+      </Text>
+      <Text Language="English">
+        The sage of Rum, of blessed memory, has thus summed up why nations live or die:
+      </Text>
+    </Verse>
+    <Verse ID="131">
+      <Text Language="Original">
+        "ہر ہلاک امت پیشین کہ بود
+زانکہ بر جندل گمان بردند عود"
+      </Text>
+      <Text Language="Urdu">
+        (یعنی یہ کہ) پہلی قوموں کی ہلاکت کا سبب یہ تھا کہ انہوں نے پتھر کو عود سمجھ لیا۔
+      </Text>
+      <Text Language="English">
+        ‘The end of no past nation has been good which could not tell a stone from aloe-wood.’ Rumi
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="رومی">
+    <Verse ID="133">
+      <Text Language="Original">
+        سروری در دین ما خدمتگری است
+عدل فاروقی و فقر حیدری است
+      </Text>
+      <Text Language="Urdu">
+        ہمارے دین میں پادشاہی خدمت گری ہے ، یہ فاروقی عدل اور حیدری فقر سے عبارت ہے۔
+      </Text>
+      <Text Language="English">
+        A king in Islam is God’s servitor – a selfless Ali or a just Umar.
+      </Text>
+    </Verse>
+    <Verse ID="135">
+      <Text Language="Original">
+        در ہجوم کارہای ملک و دین
+با دل خود یک نفس خلوت گزین
+      </Text>
+      <Text Language="Urdu">
+        حکومت اور دین کے معاملات کے ہجوم میں، کبھی ایک لمحہ کے لیے اپنے دل کے ساتھ بھی خلوت اختیار کر۔
+      </Text>
+      <Text Language="English">
+        Among your multifarious tasks of state give yourself time to think and contemplate.
+      </Text>
+    </Verse>
+    <Verse ID="137">
+      <Text Language="Original">
+        ہر کہ یکدم در کمین خود نشست
+ہیچ نخچیر از کمند او نجست
+      </Text>
+      <Text Language="Urdu">
+        جو شخص ایک لمحہ کے لیے اپنی گھات میں بیٹھتا ہے (اپنا محاسبہ کرتا ہے) اس کی کمند سے کوئی شکار بچ کے نہیں جا سکتا۔
+      </Text>
+      <Text Language="English">
+        The ambusher of self can never lose a quarry: quarries fall into his noose.
+      </Text>
+    </Verse>
+    <Verse ID="139">
+      <Text Language="Original">
+        در قبای خسروی درویش زی
+دیدہ بیدار و خدا اندیش زی
+      </Text>
+      <Text Language="Urdu">
+        پادشاہی کے لباس میں درویش کی طرح زندگی بسر کر؛ راتوں کو جاگ اور ہر دم اللہ تعالے کو یاد رکھ۔
+      </Text>
+      <Text Language="English">
+        In royal robes live like an anchorite: Eyes wide awake, but thought of God hugged tight.
+      </Text>
+    </Verse>
+    <Verse ID="141">
+      <Text Language="Original">
+        قاید ملت شہنشاہ مراد
+تیغ او را برق و تندر خانہ زاد
+      </Text>
+      <Text Language="Urdu">
+        شہنشاہ مراد جو قائد ملت تھا، برق اور کڑک جس کی تلوار کے غلام تھے۔
+      </Text>
+      <Text Language="English">
+        That soldier-king, the Emperor Murad, whose lightning-spouting sword kept his foes awed.
+      </Text>
+    </Verse>
+    <Verse ID="143">
+      <Text Language="Original">
+        ہم فقیری ہم شہ گردون فری
+ارد شیری با روان بوذری
+      </Text>
+      <Text Language="Urdu">
+        وہ فقر بھی تھا اور بلند وقار پادشاہ بھی؛ اردشیر کی مانند تھا مگر اس کی روح حضرت ابوذر غفاری (رضی اللہ) کی سی تھی۔
+      </Text>
+      <Text Language="English">
+        An Ardeshir with an Abu Dharr’s soul, played both a king’s role and a hermit’s role.
+      </Text>
+    </Verse>
+    <Verse ID="145">
+      <Text Language="Original">
+        غرق بودش در زرہ بالا و دوش
+در میان سینہ دل موئینہ پوش
+      </Text>
+      <Text Language="Urdu">
+        وہ سر سے کندھوں تک زرہ پوش رہتا ، مگر اس کے سینہ کے اندر دل خرقہ پوش تھا۔
+      </Text>
+      <Text Language="English">
+        His breast wore armour for his soldier’s part, but in it dwelt a hairshirt-wearer’s heart.
+      </Text>
+    </Verse>
+    <Verse ID="147">
+      <Text Language="Original">
+        آن مسلمانان کہ میری کردہ اند
+در شہنشاہی فقیری کردہ اند
+      </Text>
+      <Text Language="Urdu">
+        مسلمانوں نے اس طرح حکومت کی ہے کہ وہ شہنشاہی میں بھی فقیر منش رہے۔
+      </Text>
+      <Text Language="English">
+        All Muslim rulers who were truly great led hermits’ lives despite their royal state.
+      </Text>
+    </Verse>
+    <Verse ID="149">
+      <Text Language="Original">
+        در امارت فقر را افزودہ اند
+مثل سلمان در مدائن بودہ اند
+      </Text>
+      <Text Language="Urdu">
+        انہوں نے اپنی امارت کے دوران فقر میں اضافہ کیا ؛ وہ اس طرح زندگی بسر کرتے رہے جس طرح سلمان فارسی (رضی اللہ) مدائن میں رہے۔
+      </Text>
+      <Text Language="English">
+        Asceticism was their way of life; to cultivate it was their constant strife. They lived as Salman lived in Ctesiphon.
+      </Text>
+    </Verse>
+    <Verse ID="151">
+      <Text Language="Original">
+        حکمرانی بود و سامانی نداشت
+دست او جز تیغ و قرآنی نداشت
+      </Text>
+      <Text Language="Urdu">
+        وہ حکمران تھے مکر ان کے پاس کوئی سامان نہ تھا، وہ قرآن پاک اور تلوار کے علاوہ اپنے پاس کچھ نہیں رکھتے تھے۔
+      </Text>
+      <Text Language="English">
+        The ruler he who did not care to don the robes of royalty and who abhorred all outfit save the Qur’an and the sword.
+      </Text>
+    </Verse>
+    <Verse ID="153">
+      <Text Language="Original">
+        ہر کہ عشق مصطفی سامان اوست
+بحر و بر در گوشۂ دامان اوست
+      </Text>
+      <Text Language="Urdu">
+        جس کے پاس جناب رسول پاک (صلعم) کی محبت کا سامان ہے، اس کے دامن کے پلو میں بحر و بر بندھے ہوئے ہیں۔
+      </Text>
+      <Text Language="English">
+        Armed with love of Muhammad (S.A.W.), one commands complete dominion over seas and lands.
+      </Text>
+    </Verse>
+    <Verse ID="155">
+      <Text Language="Original">
+        سوز صدیق و علی از حق طلب
+ذرہ ئی عشق نبے از حق طلب
+      </Text>
+      <Text Language="Urdu">
+        اللہ تعالے سے حضرت صدیق (رضی اللہ) اور حضرت علی (رضی اللہ) کا سوز طلب کر، حضور اکرم (صلعم) کے عشق کا ذرّہ مانگ (اسی عشق سے یہ سوز و ساز حاصل ہو گا)۔
+      </Text>
+      <Text Language="English">
+        Ask God to grant you some small part of that love for Muhammad which the heart of Siddiq and of Ali bore:
+      </Text>
+    </Verse>
+    <Verse ID="157">
+      <Text Language="Original">
+        زانکہ ملت را حیات از عشق اوست
+برگ و ساز کائنات از عشق اوست
+      </Text>
+      <Text Language="Urdu">
+        ملت اسلامیہ کی زندگی کا دار و مدار حضور اکرم (صلعم) کی محبت پر ہے، یہی عشق کائنات کا ساز و سامان ہے۔
+      </Text>
+      <Text Language="English">
+        Because, the life of the Islamic people draws its sustenance from it and it, in fact, is that which keeps the universe intact.
+      </Text>
+    </Verse>
+    <Verse ID="159">
+      <Text Language="Original">
+        جلوۂ بی پردہ او وانمود
+جوہر پنھان کہ بود اندر وجود
+      </Text>
+      <Text Language="Urdu">
+        حضور (صلعم) کے جلوہ ء بے پردہ (تشریف آوری) سے وہ جوہر پنہاں جو وجود کائنات کے اندر تھا ظاہر ہوا۔
+      </Text>
+      <Text Language="English">
+        It was Muhammad whose epiphany laid bare the essence of Reality.
+      </Text>
+    </Verse>
+    <Verse ID="161">
+      <Text Language="Original">
+        روح را جز عشق او آرام نیست
+عشق او روزیست کو را شام نیست
+      </Text>
+      <Text Language="Urdu">
+        آپ (صلعم) کی محبت کے بغیر روح کو تسکین حاصل نہیں ہوتی؛ آپ (صلعم) کا عشق ایسا روز (روشن) ہے جس پر شام کا گذر نہیں۔
+      </Text>
+      <Text Language="English">
+        My soul has no peace but in love of him – a light in me that never can get dim.
+      </Text>
+    </Verse>
+    <Verse ID="163">
+      <Text Language="Original">
+        خیز و اندر گردش آور جام عشق
+در قہستان تازہ کن پیغام عشق
+اقبال
+      </Text>
+      <Text Language="Urdu">
+        اٹھ اور عشق رسول پاک (صلعم) کے جام کو گردش میں لا؛ قہستان کے اندر از سر نو عشق کا پیغام عام کر۔
+      </Text>
+      <Text Language="English">
+        Arise and make the cup of Love go round, and in your hills make songs of Love resound. 
+(Translated by M. Hadi Hussain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

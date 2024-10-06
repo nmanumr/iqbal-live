@@ -1,0 +1,19 @@
+<Poem ID="16" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        ز آب و گل خدا خوش پیکری ساخت
+جہانی از ارم زیبا تری ساخت
+ولی ساقی بہ آن آتش کہ دارد
+ز خاک من جہان دیگری ساخت
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Of water and of clay a figure fine God wrought, a world than Eden more divine. 
+And still the saki fashioned with his flame another world out of this dust of mine.
+(Translated by A.J. Arberry)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

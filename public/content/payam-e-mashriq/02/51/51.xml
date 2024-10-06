@@ -1,0 +1,54 @@
+<Poem ID="51" Name="تہذیب" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        انسان کہ رخ ز غازۂ تہذیب بر فروخت
+خاک سیاہ خویش چو آئینہ وانمود
+      </Text>
+      <Text Language="Urdu">
+        انسان ، جس نے غازہء تہذیب سے اپنا چہرہ چمکا رکھا ہے، (اور اس طرح ) اپنی سیاہ خاک کو آئینہ بنا رکھا ہے۔
+      </Text>
+      <Text Language="English">
+        CIVILIZATION
+Man, who has brightened up his face with civilization’s rouge, displays the dark dust which is he as if it were a mirror.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        پوشید پنجہ را تہ دستانہ حریر
+افسونی قلم شد و تیغ از کمر گشود
+      </Text>
+      <Text Language="Urdu">
+        جس نے اپنا ہاتھ ریشمی دستانے میں چھپا رکھا ہے، جس نے کمر سے تلوار کھول دی ہے اور (بظاہر) قلم سے مشہور نظر آتا ہے۔
+      </Text>
+      <Text Language="English">
+        He hides his iron fist under a velvet glove. Charmed by the pen, he has laid off the sword.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        این بوالہوس صنم کدۂ صلح عام ساخت
+رقصید گرد او بہ نواہای چنگ و عود
+      </Text>
+      <Text Language="Urdu">
+        اس بوالہوس نے صلحء عام کا بت کدہ بنا رکھا ہے، ا ور چنگ و رباب کی آواز پر اس کے گرد رقص کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        This slave of lust once built an idol-temple of world peace, and danced around it to the music of the pipes of peace.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        دیدم چو جنگ پردہ ناموس او درید
+جز یسفک الدما و "خصیم مبین" نبود
+      </Text>
+      <Text Language="Urdu">
+        جب جنگ نے اس کا پردہء ناموس چاک کیا تو میں نے دیکھا ، کہ وہ 'صرف خون بہانے والا اور جھگڑالو' تھا۔
+      </Text>
+      <Text Language="English">
+        But when war tore the veil off its pretence, it stood exposed as man’s blood-thirsty enemy. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,53 @@
+<Poem ID="61" Name="آزادی" BookID="03" BookName="ضربِ کلیم" SectionID="01" SectionName="اسلام اور مسلمان">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        ہے کس کی یہ جرات کہ مسلمان کو ٹوکے 
+حریت افکار کی نعمت ہے خدا داد
+      </Text>
+      <Text Language="Urdu">
+        حريت افکار: خیالات کی آزادی۔
+      </Text>
+      <Text Language="English">
+        FREEDOM
+The right of thinking free, a Muslim owns, is gift or God which can't be checked by frowns.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        چاہے تو کرے کعبے کو آتش کدہ پارس 
+چاہے تو کرے اس میں فرنگی صنم آباد
+      </Text>
+      <Text Language="Urdu">
+        آتش کدہ پارس: اہل فارس کا آتش کدہ۔
+      </Text>
+      <Text Language="English">
+        He can transform the Shrine to Magian fane, can deck the Shrine with Frankish idols vain.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        قرآن کو بازیچہ تاویل بنا کر 
+چاہے تو خود اک تازہ شریعت کرے ایجاد
+      </Text>
+      <Text Language="Urdu">
+        بازيچہ: کھیل، بے معنی بچوں کا کھیل۔
+      </Text>
+      <Text Language="English">
+        Can make the Holy Book the sport or boys, and can with ease devise new Faiths like toys.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        ہے مملکت ہند میں اک طرفہ تماشا 
+اسلام ہے محبوس، مسلمان ہے آزاد
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        In India queer and odd the farce you see, the Faith is captive, but the Muslims free.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

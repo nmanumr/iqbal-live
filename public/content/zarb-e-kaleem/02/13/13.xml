@@ -1,0 +1,42 @@
+<Poem ID="13" Name="خودی کی زندگی" BookID="03" BookName="ضربِ کلیم" SectionID="02" SectionName="تعلیم و تربیت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        خودی ہو زندہ تو ہے فقر بھی شہنشاہی
+نہیں ہے سنجر و طغرل سے کم شکوہ فقیر
+      </Text>
+      <Text Language="Urdu">
+        شکوہ: شان و شوکت۔
+      </Text>
+      <Text Language="English">
+        THE LIFE OF SELFHOOD
+Faqr is as exalted as a king if Self of man has vital flame: The lofty rank of true Faqir isn't less than Sanjar and Tughral's fame.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        خودی ہو زندہ تو دریائے بے کراں پایاب
+خودی ہو زندہ تو کہسار پر نیان و حریر
+      </Text>
+      <Text Language="Urdu">
+        پر نیان: ایک قسم کا پھولدار ریشمی کپڑا۔ 
+حریر: ریشم۔
+      </Text>
+      <Text Language="English">
+        On foot we can cross the bundless sea, if Self is active and can tread over mountain range and feel as if not stones, but carpet soft is spread.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        نہنگ زندہ ہے اپنے محیط میں آزاد
+نہنگ مردہ کو موج سراب بھی زنجیر
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        A crocodile that is full or verve in its own suburbs is quite free if dead, e'en billows or mirage for it, like chains and fetters be.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

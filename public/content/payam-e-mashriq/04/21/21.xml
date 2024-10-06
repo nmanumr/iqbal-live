@@ -1,0 +1,54 @@
+<Poem ID="21" Name="خطاب بہ انگلستان" BookID="07" BookName="پیامِ مشرق" SectionID="04" SectionName="نقش فرنگ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        مشرقی بادہ چشیدہ است ز مینای فرنگ
+عجبی نیست اگر توبۂ دیرینہ شکست
+      </Text>
+      <Text Language="Urdu">
+        مشرقی نے مینائے فرنگ سے شراب چکھی، اس میں تعجب نہیں اگر اس نے اپنی پرانی توبہ توڑ دی۔
+      </Text>
+      <Text Language="English">
+        A WORD TO ENGLAND
+An Easterner tasted once the wine in Europe’s glass; no wonder if he broke old vows in reckless glee.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        فکر نوزادۂ او شیوۂ تدبیر آموخت
+جوش زد خون بہ رگ بندۂ تقدیر پرست
+      </Text>
+      <Text Language="Urdu">
+        مغرب کے نئے فکر نے اسے تدبیر کہ ہنر سکھایا، تو تقدیر پرست مشرقی کی رگ میں خون نے جوش مارا۔
+      </Text>
+      <Text Language="English">
+        The blood came surging up in the veins of his new-born thought: Predestination’s bond-slave he learned that man is free.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        ساقیا تنگ دل از شورش مستان نشوی
+خود تو انصاف بدہ اینہمہ ہنگامہ کہ بست؟
+      </Text>
+      <Text Language="Urdu">
+        اے ساقی! اب تو مستوں کے شور سے ناراض نہ ہو، تو خود انصاف کر کہ یہ سارا ہنگامہ کس نے پیدا کیا ہے۔
+      </Text>
+      <Text Language="English">
+        Let not thy soul be vexed with the drunkards’ noise and rout! O saki, tell me fairly, who was’t that broached this jar?
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        "بوی گل خود بہ چمن راہ نما شد ز نخست
+ورنہ بلبل چہ خبر داشت کہ گلزاری ہست"
+      </Text>
+      <Text Language="Urdu">
+        'پھول کی خوشبو ہی نے پہلے پہل چمن کی صرف اس کی راہنمائی کی، ورنہ بلبل کو کیا پتا تھا کہ باغ بھی موجود ہے'۔
+      </Text>
+      <Text Language="English">
+        The scent of the rose showed first the way into the garden; else, how should the nightingale have known that roses are?
+(Translated by R.A. Nicholson)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

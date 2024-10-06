@@ -1,0 +1,40 @@
+<Poem ID="13" Name="غلاموں کے لیے" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        حکمت مشرق و مغرب نے سکھایا ہے مجھے 
+ایک نکتہ کہ غلاموں کے لیے ہے اکسیر
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        FOR SLAVES
+Both wisdoms of the East and West have given to me of their best: Both of them to me have taught a point with Elixir's virtues fraught.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        دین ہو، فلسفہ ہو، فقر ہو، سلطانی ہو 
+ہوتے ہیں پختہ عقائد کی بنا پر تعمیر
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        It may be philosophy or creed, Derveshhood or else kingly breed; through sound beliefs they grow mature, get built on founds so firm and sure.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        حرف اس قوم کا بے سوز، عمل زار و زبوں 
+ہو گیا پختہ عقائد سے تہی جس کا ضمیر
+      </Text>
+      <Text Language="Urdu">
+        زار و زبوں: ذلیل و خوار۔
+      </Text>
+      <Text Language="English">
+        Of ripe beliefs, if nations' heart has no share or allotted part; such mortals are devoid of glow; their acts are mean, debased and low.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

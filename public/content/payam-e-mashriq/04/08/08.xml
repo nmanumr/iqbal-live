@@ -1,0 +1,54 @@
+<Poem ID="08" Name="بایرن" BookID="07" BookName="پیامِ مشرق" SectionID="04" SectionName="نقش فرنگ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        مثال لالہ و گل شعلہ از زمین روید
+اگر بخاک گلستان تراود از جامش
+      </Text>
+      <Text Language="Urdu">
+        اگر اس کے جام سے گلستان کی مٹی میں (کچھ شراب) ٹپکے، تو زمین سے لالہ و گل کی مانند شعلہ پیدا ہو جائے۔
+      </Text>
+      <Text Language="English">
+        BYRON
+Flames would spring up, just as rose and tulip do, from the garden’s soil, if you poured a drop or two on it from his cup, always on the boil.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        نبود در خور طبعش ہوای سرد فرنگ
+تپید پیک محبت ز سوز پیغامش
+      </Text>
+      <Text Language="Urdu">
+        اس کی طبع کو فرنگستان کی ٹھنڈک (بے سوز) آب و ہوا راس نہ آتی ، (مگر ) اس کے پیغام کے سوز سے محبت کا قاصد تڑپ اٹھا۔
+      </Text>
+      <Text Language="English">
+        England’s chilly climate did not suit his spirit. His heart’s message’s great ardour set aflame love’s messenger.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        خیال او چہ پریخانہ ئی بنا کرد است
+شباب غش کند از جلوہ لب بامش
+      </Text>
+      <Text Language="Urdu">
+        اس کے فکر نے کیا پری خانہ بنایا ہے ، کہ اس کے جلوہ ء لب بام سے شباب ہوش و ہواس کھو بیٹھتا ہے۔
+      </Text>
+      <Text Language="English">
+        What a fairyland of beauty was created by his fancy! Seeing his epiphanies, youth goes into ecstasies.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        گذاشت طایر معنی نشیمن خود را
+کہ سازگار تر افتاد حلقۂ دامش
+      </Text>
+      <Text Language="Urdu">
+        معنی کے پرندے نے اپنا نشیمن چھوڑ دیا ہے، کیونکہ بائرن کے دام نے اپنے دام کا حلقہ اسے زیادہ پسند آ گیا ہے۔
+      </Text>
+      <Text Language="English">
+        But his genius, that high-soaring bird, left its nest to fall into a snare, which it preferred to soaring in the air. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

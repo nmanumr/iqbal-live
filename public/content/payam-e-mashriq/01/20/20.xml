@@ -1,0 +1,19 @@
+<Poem ID="20" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        ترا اے تازہ پرواز آفریدند
+سراپا لذت بال آزمائی
+ہوس ما را گران پرواز دارد
+تو از ذوق پریدن پر گشائی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        O new-fledged spirit proudly hovering! God made thee all delight upon the wing; 
+’Tis fleshly passion checks our sluggard flight, while thou ecstatic unto Heaven dost spring. 
+(Translated by A.J. Arberry)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

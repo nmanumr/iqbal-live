@@ -1,0 +1,18 @@
+<Poem ID="13" Name="None" BookID="04" BookName="ارمغانِ حجاز" SectionID="02" SectionName="رباعیات">
+  <Para>
+    <Verse ID="01">
+      <Text Language="Original">
+        کبھی دریا سے مثل موج ابھر کر
+کبھی دریا کے سینے میں اتر کر
+کبھی دریا کے ساحل سے گزر کر
+مقام اپنی خودی کا فاش تر کر
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Some times from oceans rise like a wave, dash in bosom oft like drivers brave. Lave the sea often along the store; show the Ego’s true place more and more.
+(Translated by Q A Kabir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

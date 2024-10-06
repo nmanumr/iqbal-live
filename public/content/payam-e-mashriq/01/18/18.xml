@@ -1,0 +1,21 @@
+<Poem ID="18" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        گذشتی تیز گام اے اختر صبح
+مگر از خواب ما بیزار رفتی
+من از ناآگہی گم کردہ راھم
+تو بیدار آمدی بیدار رفتی
+      </Text>
+      <Text Language="Urdu">
+        صبح کے ستارے! تو تیزی سے گزر جاتا ہے؛ شاید تو ہماری خواب (غفلت) سے بیزار ہے۔
+میں (حقیقت) نہ سمجھنے کے باعث گم کردہ راہ ہوں؛ تو بیدار آتا ہے اور بیدار ہی جاتا ہے۔
+      </Text>
+      <Text Language="English">
+        Swift-paced thou hast departed, star of dawn! Perchance disgusted that we slumbered on: 
+It was through ignorance I lost the way – wakeful thou earnest, wakeful thou art gone.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,21 @@
+<Poem ID="13" Name="ھگل" BookID="07" BookName="پیامِ مشرق" SectionID="04" SectionName="نقش فرنگ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        حکمتش معقول و با محسوس در خلوت نرفت
+گرچہ بکر فکر او پیرایہ پوشد چون عروس
+طایر عقل فلک پرواز او دانی کہ چیست؟
+"ماکیان کز زور مستی خایہ گیرد بی خروس"
+      </Text>
+      <Text Language="Urdu">
+        اس کا فلسفہ معقول ہے لیکن وہ محسوسات کی تہ تک نہیں پہنچ سکا، اگرچہ اس کے فکر نو نے عروس کا سا لباس پہنا ہوا ہے۔
+      </Text>
+      <Text Language="English">
+        HEGEL 
+His thought is fully rational and unrelated to the sensuous, although his ideas are decked out in the garb of brides.
+Do you know what kind of a bird is his high-soaring thought? It is a hen which through excess of heat conceives without a mate.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

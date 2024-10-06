@@ -1,0 +1,21 @@
+<Poem ID="164" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        مرا ذوق سخن خون در جگر کرد
+غبار راہ را مشت شرر کرد
+بہ گفتار محبت لب گشودم
+بیان این راز را پوشیدہ تر کرد
+      </Text>
+      <Text Language="Urdu">
+        ذوق سخن نے میرے جگر کو خون کر دیا ہے؛ میں جو غبار راہ تھا اس نے میری خاک کو شرر بنا دیا ہے۔ 
+محبت کو بیان کرنے کے لیے میں نے اپنے لب کھولے؛ مگر بیان نے اس راو کو اور پوشیدہ بنا دیا۔
+      </Text>
+      <Text Language="English">
+        The love of speech first filled my heart with blood and set aflame the dust upon the road;
+But when I oped my lips, to speak of love, words veiled this secret in a thicker shroud. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

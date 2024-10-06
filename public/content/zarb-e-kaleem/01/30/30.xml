@@ -1,0 +1,20 @@
+<Poem ID="30" Name="نماز" BookID="03" BookName="ضربِ کلیم" SectionID="01" SectionName="اسلام اور مسلمان">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بدل کے بھیس پھر آتے ہیں ہر زمانے میں 
+اگرچہ پیر ہیں آدم، جواں ہیں لات و منات 
+یہ ایک سجدہ جسے تو گراں سمجھتا ہے 
+ہزار سجدے سے دیتا ہے آدمی کو نجات!
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        PRAYER (NAMAZ)
+In different garbs and various masks the idols re-appear in every age: They e'er retain their youth and gloss though man has grown old on this stage.
+Prostration 'fore God you presume as irksome, tedious, burden great but mind, this homage sets you free from bonds of men, of might who prate. 
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

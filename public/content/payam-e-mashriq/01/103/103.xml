@@ -1,0 +1,19 @@
+<Poem ID="103" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        چسان اے آفتاب آسمان گرد
+باین دوری بہ چشم من در آئی
+بخاکی واصل و از خاکدان دور
+تو اے مژگان گسل آخر کجائی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Being so distant, heaven-circling sun, what manner to my vision dost thou come? 
+Nigh to the earthy, from the earth so far! O vision dazzler, whither dost thou roam? 
+(Translated by A.J. Arberry)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

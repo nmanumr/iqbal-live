@@ -1,0 +1,41 @@
+<Poem ID="05" Name="عورت" BookID="03" BookName="ضربِ کلیم" SectionID="03" SectionName="عورت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        وجود زن سے ہے تصویر کائنات میں رنگ 
+اسی کے ساز سے ہے زندگی کا سوز دروں
+      </Text>
+      <Text Language="Urdu">
+        مکنوں: پوشیدہ، چھپا ہوا۔
+      </Text>
+      <Text Language="English">
+        WOMAN
+The picture that this world presents from woman gets its tints and scents'; she is the lyre that can impart pathos and warmth to human heart.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        شرف میں بڑھ کے ثریا سے مشت خاک اس کی 
+کہ ہر شرف ہے اسی درج کا در مکنوں
+      </Text>
+      <Text Language="Urdu">
+        درج: ڈبہ۔
+      </Text>
+      <Text Language="English">
+        Her handful clay is superior far to Pleiades that so higher are for every man with knowledge vast, like gem out of her cask is cast.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        مکالمات فلاطوں نہ لکھ سکی، لیکن 
+اسی کے شعلے سے ٹوٹا شرار افلاطوں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Like Plato cannot hold discourse, nor can with thunderous voice declaim but Plato was a spark that broke from her fire that blazed like flame.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

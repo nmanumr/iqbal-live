@@ -1,0 +1,23 @@
+<Poem ID="50" Name="شیخ مکتب سے" BookID="02" BookName="‫بالِ جبریل" SectionID="04" SectionName="منظومات">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        شیخ مکتب ہے اک عمارت گر 
+جس کی صنعت ہے روح انسانی 
+نکتہء دلپذیر تیرے لیے 
+کہہ گیا ہے حکیم قاآنی 
+پیش خورشید بر مکش دیوار 
+خواہی ار صحن خانہ نورانی
+      </Text>
+      <Text Language="Urdu">
+        'اگر تو اپنے گھر کا صحن روشن رکھنا چاہتا ہے تو ایسی دیوار نہ بنا جو سورج کی روشنی کو روک دے'۔
+      </Text>
+      <Text Language="English">
+        The headmaster is an architect whose material is the human soul.
+A good advice has been left for you by the sage Qa‘ani:
+‘Do not raise a wall against the Sun if you wish the courtyard illuminated.’
+(Translate by V G Kiernan)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

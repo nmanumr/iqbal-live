@@ -1,0 +1,1309 @@
+<Poem ID="01" Name="تمہید" BookID="05" BookName="اسرارِ خودی" SectionID="01" SectionName="اسرار خودی">
+  <Para>
+    <Verse ID="01">
+      <Text Language="Original">
+        "نیست در خشک و تر بیشۂ من کوتاہی" 
+"چوب ہر نخل کہ منبر نشود دارکنم" 
+نظیری نیشابوری
+      </Text>
+      <Text Language="Urdu">
+        میرے جنگل کے خشک و تر میں کوئی ایسی چیز نہیں جو کار آمد نہ ہم؛
+ جس درخت کی لکڑی منبر بنانے کی صلاحیت نہیں رکھتی میں اس سے سولی بنا دیتا ہوں
+ نظیری نیشا پوری۔
+ (منبر پر سے وعظ کہا جاتا ہے اور سولی سے مراد شہدا کا مقام ہے۔)
+      </Text>
+      <Text Language="English">
+        There is nothing in my jungle, fresh or dry, which is not useful;
+dry wood which cannot be used for making a member, I make gallows of that.
+by Naziri Nishapuri
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        راہ شب چون مہر عالمتاب زد
+گریۂ من بر رخ گل ، آ ب زد
+      </Text>
+      <Text Language="Urdu">
+        جب دنیا کو روشن کرنے والے آفتاب نے رات کو ختم کر دیا؛
+تو میرے آنسوؤں نے پھول کے چہرے پر پانی چھڑکا۔
+      </Text>
+      <Text Language="English">
+        When the world-illuming sun rushed upon night like a brigand; 
+my weeping bedewed the face of the rose.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        اشک من از چشم نرگس خواب شست
+سبزۂ از ہنگامہ ام بیدار رست
+      </Text>
+      <Text Language="Urdu">
+        میرے آنسوؤں نے نرگس کی آنکھ سے خواب کا اثر دھو دیا؛
+میرے شور سے سبزہ بیدار ہو کر زمین سے نکل آیا۔
+      </Text>
+      <Text Language="English">
+        My tears washed away sleep from the eye of the narcissus;
+my passion wakened the grass and made it grow.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        باغبان زور کلامم آ زمود
+مصرعے کارید و شمشیرے درود
+      </Text>
+      <Text Language="Urdu">
+        باغبان (فطرت) نے میرے کلام کے زور کو آزمایا؛
+مصرع بویا اور شمشیر کاٹی (مصرع بویا تو وہ بڑھ کر شمشیر بن گیا)۔
+      </Text>
+      <Text Language="English">
+        The Gardener tried the power of my song,
+he sowed my verse and reaped a sword.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        در چمن جز دانۂ اشکم نکشت
+تار افغانم بہ پود باغ رشت
+      </Text>
+      <Text Language="Urdu">
+        اس نے باغ میں میرے آنسو کے دانے کے علاوہ اور کچھ نہ بویا؛
+اس نے میری فغاں کے تار کو باغ کے پود سے ملا دیا (تار و پود سے کپڑا بنا جاتا ہے)۔
+      </Text>
+      <Text Language="English">
+        In the soil he planted only the seed of my tears;
+and wove my lament with the garden, as warp and woof.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        ذرہ ام مہر منیر ن من است
+صد سحر اندر گریبان من است
+      </Text>
+      <Text Language="Urdu">
+        گو میں ایک ذرّہ ہوں لیکن سورج کی ساری روشنی میرے ایک لحظہ کے برابر ہے؛
+میرے گریبان میں سینکڑوں صبحیں مستور ہیں (میں ہر روز ایک نئی صبح طلوع کر سکتا ہوں)۔
+      </Text>
+      <Text Language="English">
+        Tho’ I am but a mote, the radiant sun is mine:
+Within my bosom are a hundred dawns.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        خاک من روشن تر از جام جم است
+محرم از نازادہای عالم است
+      </Text>
+      <Text Language="Urdu">
+        میری خاک جمشید کے جام سے زیادہ روشن ہے؛
+میں ان واقعات سے با خبر ہوں جو ابھی دنیا کے اندر وجود میں نہیں آئے۔
+      </Text>
+      <Text Language="English">
+        My dust is brighter than Jamshid's cup;
+it knows things that are yet unborn in the world.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        فکرم ن ہو سر فتراک بست
+کو ہنوز از نیستی بیرون نجست
+      </Text>
+      <Text Language="Urdu">
+        میرے فکر نے (معنی کے) وہ غزال اپنے شکار بند میں باندھ لیے ہیں؛
+جو ابھی تک عدم سے وجود میں نہیں آئے۔
+      </Text>
+      <Text Language="English">
+        My thought hunted down and slung from the saddle a deer;
+that has not yet leaped forth from the covert of non-existence.
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        سبزہ نا روئیدہ زیب گلشنم
+گل بشاخ اندر نہان در دامنم
+      </Text>
+      <Text Language="Urdu">
+        وہ سبزہ جو ابھی اگا نہيں میرے گلشن فکر کی زیب و زینت ہے؛
+پھول جو ابھی شاخ سے پھوٹے نہیں وہ میرے دامن ( فکر) میں ہیں۔
+      </Text>
+      <Text Language="English">
+        Fair is my garden ere yet the leaves are green;
+unborn roses are hidden in the skirt of my garment.
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        محفل رامشگری برھم زدم
+زخمہ بر تار رگ عالم زدم
+      </Text>
+      <Text Language="Urdu">
+        میں عیش و طرب کی محفل برہم کرنے والا ہوں؛
+یں رگ عالم کے تار کو اپنے مضراب سے چھیڑتا ہوں۔
+      </Text>
+      <Text Language="English">
+        I struck dumb the musicians where they were gathered together;
+I smote the heart-string of the universe.
+      </Text>
+    </Verse>
+    <Verse ID="21">
+      <Text Language="Original">
+        بسکہ عود فطرتم نادر نوا ست
+ہم نشین از نغمہ ام نا شنا ست
+      </Text>
+      <Text Language="Urdu">
+        کیوں کہ میری فطرت کے ساز سے نادر نغمے پیدا ہو رہے ہیں؛
+اس لیے میرے پاس بیٹھنے والے نغمے سے ناواقف ہیں۔
+      </Text>
+      <Text Language="English">
+        Because the lute of my genius hath a rare melody:
+Even to comrades my song is strange.
+      </Text>
+    </Verse>
+    <Verse ID="23">
+      <Text Language="Original">
+        در جہان خورشید نوزائیدہ ام
+رسم و ئین فلک نادیدہ ام
+      </Text>
+      <Text Language="Urdu">
+        میں دنیا میں ایک نیا طلوع ہونے والا سورج ہوں؛
+میں نے ابھی آسمان کے طور طریقے نہیں دیکھے۔
+      </Text>
+      <Text Language="English">
+        I am born in the world as a new sun;
+I have not learned the ways and fashions of the sky.
+      </Text>
+    </Verse>
+    <Verse ID="25">
+      <Text Language="Original">
+        رم ندیدہ انجم از تابم ہنوز
+ہست نا شفتہ سیمابم ہنوز
+      </Text>
+      <Text Language="Urdu">
+        ابھی تک ستارے میری روشنی سے ماند نہیں پڑے؛
+ابھی تک میرے پارے میں تڑپ پیدا نہیں ہوئی۔
+      </Text>
+      <Text Language="English">
+        Not yet have the stars fled before my splendour,
+not yet is my quicksilver astir.
+      </Text>
+    </Verse>
+    <Verse ID="27">
+      <Text Language="Original">
+        بحر از رقص ضیایم بے نصیب
+کوہ از رنگ حنایم بے نصیب
+      </Text>
+      <Text Language="Urdu">
+        ابھی تک سمندر میری شعاؤں کے رقص سے بے نصیب ہے؛
+ابھی تک پہاڑ نے میرا حنائی رنگ نہیں پایا۔
+      </Text>
+      <Text Language="English">
+        Untouched is the sea by my dancing rays;
+untouched are the mountains by my crimson hue.
+      </Text>
+    </Verse>
+    <Verse ID="29">
+      <Text Language="Original">
+        خوگر من نیست چشم ہست و بود
+لرزہ بر تن خیزم از بیم نمود
+      </Text>
+      <Text Language="Urdu">
+        ابھی تک دنیا کی آنکھ میری خوگر نہیں ہوئی؛
+میں خود بھی اپنے برسر عام آنے سے لرزہ بر اندام ہوں (کہ دیکھیں اس کا ردعمل کیا ہوتا ہے)۔
+      </Text>
+      <Text Language="English">
+        The eye of existence is not familiar with me;
+I rise trembling, afraid to show myself.
+      </Text>
+    </Verse>
+    <Verse ID="31">
+      <Text Language="Original">
+        بامم از خاور رسید و شب شکست
+شبنم نو برگل عالم نشست
+      </Text>
+      <Text Language="Urdu">
+        (میرے آفتاب کی) صبح مشرق سے طلوع ہو چکی ہے اور رات کا اندھیرا ختم ہو چکا ہے؛ دنیا کے پھول پر (میرے آنسوؤں کی) نئی شبنم گر رہی ہے۔
+      </Text>
+      <Text Language="English">
+        From the East my dawn arrived and routed night;
+a fresh dew settled on the rose of the world.
+      </Text>
+    </Verse>
+    <Verse ID="33">
+      <Text Language="Original">
+        انتظار صبح خیزان می کشم
+اے خوشا زرتشتیان تشم
+      </Text>
+      <Text Language="Urdu">
+        میں صبح سویرے اٹھنے والوں کے انتظار میں ہوں؛
+کیا خوش نصیب ہیں وہ جو میرے آتشیں (جذبہ ) کے پرستار ہیں۔
+      </Text>
+      <Text Language="English">
+        I am waiting for the votaries that rise at dawn;
+oh, happy they who shall worship my fire!
+      </Text>
+    </Verse>
+    <Verse ID="35">
+      <Text Language="Original">
+        نغمہ ام، از زخمہ بے پرواستم
+من نوای شاعر فرداستم
+      </Text>
+      <Text Language="Urdu">
+        میں ایسا نغمہ ہوں جو مضراب سے بے نیاز ہے؛
+میں آنے والے دور کا شاعر ہوں۔
+      </Text>
+      <Text Language="English">
+        I have no need of the ear of to-day;
+I am the voice of the poet of To-morrow.
+      </Text>
+    </Verse>
+    <Verse ID="37">
+      <Text Language="Original">
+        عصر من دانندۂ اسرار نیست
+یوسف من بہر این بازار نیست
+      </Text>
+      <Text Language="Urdu">
+        میرا دور اسرار کو نہیں سمجھتا؛
+میرا یوسف اس بازار کے لائق نہیں۔
+      </Text>
+      <Text Language="English">
+        My own age does not understand my deep meanings;
+my Joseph is not for this market.
+      </Text>
+    </Verse>
+    <Verse ID="39">
+      <Text Language="Original">
+        ناامید استم ز یاران قدیم
+طور من سوزد کہ مے ید کلیم
+      </Text>
+      <Text Language="Urdu">
+        میں اپنے پرانے دوستوں سے ناامید ہوں (کہ وہ میری بات سمجھ سکیں گے)؛
+میرا طور جل رہا ہے (اور اس انتظار میں ہے کہ) کوئی کلیم آئے۔
+      </Text>
+      <Text Language="English">
+        I despair of my old companions;
+my Sinai burns for sake of the Moses who is coming.
+      </Text>
+    </Verse>
+    <Verse ID="41">
+      <Text Language="Original">
+        قلزم یاران چو شبنم بے خروش
+شبنم من مثل یم طوفان بدوش
+      </Text>
+      <Text Language="Urdu">
+        میرے ساتھیوں کا سمندر شبنم کی طرح بغیر جوش و خروش کے ہے؛
+اس کے برعکس میری شبنم سمندر کی مانند طوفانی ہے۔
+      </Text>
+      <Text Language="English">
+        Their sea is silent, like dew;
+but my dew is storm-ridden, like the ocean.
+      </Text>
+    </Verse>
+    <Verse ID="43">
+      <Text Language="Original">
+        نغمہ ی من از جہان دیگر است
+این جرس را کاروان دیگر است
+      </Text>
+      <Text Language="Urdu">
+        میرے نغمے کا تعلق ایک اور ہی دنیا سے ہے؛
+اس جرس کے لیے کوئی نیا قافلہ آئے گا۔
+      </Text>
+      <Text Language="English">
+        My song is of another world than theirs;
+This bell calls other travelers to take the road.
+      </Text>
+    </Verse>
+    <Verse ID="45">
+      <Text Language="Original">
+        اے بسا شاعر کہ بعد از مرگ زاد
+چشم خود بر بست و چشم ما گشاد
+      </Text>
+      <Text Language="Urdu">
+        بہت سے شاعر ہیں جو مرنے کے بعد زندہ ہوتے (شہرت پاتے) ہیں؛
+اپنی آنکھ موند لیتے ہیں اور ہماری آنکھ کھول دیتے ہیں۔
+      </Text>
+      <Text Language="English">
+        Many a poet was born after his death;
+opened our eyes when his own were closed.
+      </Text>
+    </Verse>
+    <Verse ID="47">
+      <Text Language="Original">
+        رخت باز از نیستی بیرون کشید
+چون گل از خاک مزار خود دمید
+      </Text>
+      <Text Language="Urdu">
+        وہ عدم سے دوبارہ (زندگی کا) ساز و سامان لاتے ہیں؛
+پھول کی مانند اپنے مزار کی خاک سے اگ آتے ہیں۔
+      </Text>
+      <Text Language="English">
+        And journeyed forth again from nothingness;
+like roses blossoming o'er the earth of his grave.
+      </Text>
+    </Verse>
+    <Verse ID="49">
+      <Text Language="Original">
+        کاروان ہا گرچہ زین صحرا گذشت
+مثل گام ناقہ کم غوغا گذشت
+      </Text>
+      <Text Language="Urdu">
+        اگرچہ اس صحرا سے کئی قافلے گزرے ہیں؛
+مگر وہ ناقہ کے قدموں کی مانند بغیر کسی شور و غوغا کے گزرے ہیں۔
+      </Text>
+      <Text Language="English">
+        Albeit caravans have passed through this desert;
+they passed, as a camel steps, with little sound.
+      </Text>
+    </Verse>
+    <Verse ID="51">
+      <Text Language="Original">
+        عاشقم، فریاد، ایمان من است
+شور حشر از پیش خیزان من است
+      </Text>
+      <Text Language="Urdu">
+        میں عشق ہوں فریاد کرنا میرا ایمان ہے؛
+میری فریاد سے اتنا شور اٹھتا ہے کہ اس کے مقابلے میں حشر کا شور ان ملازموں کی مانند ہے جو بادشاہ کی سواری کے آگے آگے بھاگتے اور اس کی آمد کی اطلاع دیتے ہیں۔
+      </Text>
+      <Text Language="English">
+        But I am a lover: loud crying is my faith;
+the clamour of Judgment Day is one of my minions.
+      </Text>
+    </Verse>
+    <Verse ID="53">
+      <Text Language="Original">
+        نغمہ ام ز اندازۂ تار است بیش
+من نترسم از شکست عود خویش
+      </Text>
+      <Text Language="Urdu">
+        اگرچہ میرے ساز کے تار میرے نغمے کے متحمّل نہیں ہو سکتے؛
+لیکن میں اس سے نہیں ڈرتا کہ وہ ٹوٹ جائیں گے (اپنا نغمہ ضرور سناؤں گا)۔
+      </Text>
+      <Text Language="English">
+        My song exceeds the range of the chord,
+yet I do not fear that my lute will break.
+      </Text>
+    </Verse>
+    <Verse ID="55">
+      <Text Language="Original">
+        قطرہ از سیلاب من بیگانہ بہ
+قلزم از شوب او دیوانہ بہ
+      </Text>
+      <Text Language="Urdu">
+        قطرے (کم ہمت لوگوں) کے لیے میرے (نغمے کے) سیلاب سے دور رہنا ہی بہتر ہے؛
+سمندر ہی کو اس کے شور سے دیوانگی حاصل کرنی چاہئے۔
+      </Text>
+      <Text Language="English">
+        ’Twere better for the water drop not to know my torrent,
+whose fury should rather madden the sea.
+      </Text>
+    </Verse>
+    <Verse ID="57">
+      <Text Language="Original">
+        در نمے گنجد بجو عمان من
+بحرہا باید پے طوفان من
+      </Text>
+      <Text Language="Urdu">
+        میرا سمندر کسی چھوٹی ندی میں نہیں سما سکتا؛
+میرے طوفان کو سنبھالنے کے لیے کئی سمندر چاہئیں۔
+      </Text>
+      <Text Language="English">
+        No river will contain my Oman.
+My flood requires whole seas to hold it.
+      </Text>
+    </Verse>
+    <Verse ID="59">
+      <Text Language="Original">
+        غنچہ کز بالیدگی گلشن نشد
+در خور ابر بھار من نشد
+      </Text>
+      <Text Language="Urdu">
+        وہ غنچہ جو نشو و نما پا کر گلشن کی طرح صورت اختیار نہیں کرتا
+وہ میرے نغمے کے ابر بہار کے لائق نہیں۔
+      </Text>
+      <Text Language="English">
+        Unless the bud expand into a bed of roses,
+it is unworthy of my spring-cloud's bounty.
+      </Text>
+    </Verse>
+    <Verse ID="61">
+      <Text Language="Original">
+        برقہا خوابیدہ در جان من است
+کوہ و صحرا باب جولان من است
+      </Text>
+      <Text Language="Urdu">
+        میری جان میں بجلیاں خوابیدہ ہیں؛
+کوہ و صحرا ہی میری تگ و تاز کے لائق ہیں۔
+      </Text>
+      <Text Language="English">
+        Lightnings slumber within my soul,
+I sweep over mountain and plain.
+      </Text>
+    </Verse>
+    <Verse ID="63">
+      <Text Language="Original">
+        پنجہ کن با بحرم ار صحراستی
+برق من در گیر اگر سیناستی
+      </Text>
+      <Text Language="Urdu">
+        اگر تو صحرا ہے تب میرے صحرا کو گرفت میں لے؛
+اگر تو طور سینا ہے تو پھر میری برق کو اپنے اندر سما۔
+      </Text>
+      <Text Language="English">
+        Wrestle with my sea, if thou art a plain;
+receive my lightning if thou art a Sinai.
+      </Text>
+    </Verse>
+    <Verse ID="65">
+      <Text Language="Original">
+        چشمۂ حیوان براتم کردہ اند
+محرم راز حیاتم کردہ اند
+      </Text>
+      <Text Language="Urdu">
+        آب حیات میرے نصیب کیا گیا ہے؛
+مجھے راز حیات کا محرم بنایا گیا ہے۔
+      </Text>
+      <Text Language="English">
+        The Fountain of Life hath been given me to drink.
+I have been made an adept of the mystery of Life.
+      </Text>
+    </Verse>
+    <Verse ID="67">
+      <Text Language="Original">
+        ذرہ از سوز نوایم زندہ گشت
+پر گشود و کرمک تابندہ گشت
+      </Text>
+      <Text Language="Urdu">
+        میری نوا کی تپش سے ذرّہ زندہ ہو گیا ہے؛
+اور پر و بال نکال کر جگنو بن گیا ہے۔
+      </Text>
+      <Text Language="English">
+        The speck of dust was vitalised by my burning song;
+It unfolded wings and became a firefly.
+      </Text>
+    </Verse>
+    <Verse ID="69">
+      <Text Language="Original">
+        ہیچکس، رازی کہ من گویم، نگفت
+ہمچو فکر من در معنی نسفت
+      </Text>
+      <Text Language="Urdu">
+        جو راز میں بیان کر رہا ہوں وہ کسی اور نے بیان نہیں کیا؛
+کسی نے معنی کے موتیوں کو اس طرح (ایک لڑی میں) نہیں پرویا۔
+      </Text>
+      <Text Language="English">
+        No one hath told the secret which I will tell;
+or threaded a pearl of thought like mine.
+      </Text>
+    </Verse>
+    <Verse ID="71">
+      <Text Language="Original">
+        سر عیش جاودان خواہی بیا
+ہم زمین، ھم آسمان خواہی بیا
+      </Text>
+      <Text Language="Urdu">
+        اگر تو عیش جاوید کا راز معلوم کرنا چاہتا ہے تو میرے پاس آ؛
+تو دنیا کا خواہاں ہو یا آخرت کا میرے پاس آ۔
+      </Text>
+      <Text Language="English">
+        Come, if thou wouldn’t know the secret of everlasting life.
+Come, if thou wouldn’t win both earth and heaven.
+      </Text>
+    </Verse>
+    <Verse ID="73">
+      <Text Language="Original">
+        پیر گردون بامن این اسرار گفت
+از ندیمان رازہا نتوان نہفت
+      </Text>
+      <Text Language="Urdu">
+        یہ راز مجھے پیر گردوں نے بتائے ہیں؛
+اگرچہ انہیں ظاہر نہیں کرنا چاہئے لیکن انہیں دوستوں سے پوشیدہ نہیں رکھا جا سکتا۔
+      </Text>
+      <Text Language="English">
+        Heaven taught me this lore,
+I cannot hide it from comrades.
+      </Text>
+    </Verse>
+    <Verse ID="75">
+      <Text Language="Original">
+        ساقیا برخیز و می در جام کن
+محو از دل کاوش ایام کن
+      </Text>
+      <Text Language="Urdu">
+        اے ساقی! اٹھ اور میرے جام میں شراب ڈال دے جو دل سے زمانے کی کلفتیں دور کر دے۔
+      </Text>
+      <Text Language="English">
+        O Saki arise and pour wine into the cup!
+Clear the vexation of Time from my heart.
+      </Text>
+    </Verse>
+    <Verse ID="77">
+      <Text Language="Original">
+        شعلہ ی بے کہ اصلش زمزم است
+گر گدا باشد پرستارش جم است
+      </Text>
+      <Text Language="Urdu">
+        وہ آتشیں شراب جس کی اصل زمزم سے ہے؛
+اس کا چاہنے والا اگر گدا بھی ہو تو وہ بادشاہ ہے۔
+      </Text>
+      <Text Language="English">
+        The sparkling liquor that flows from Zemzem;
+were a beggar to worship it, he would become a king.
+      </Text>
+    </Verse>
+    <Verse ID="79">
+      <Text Language="Original">
+        می کند اندیشہ را ہشیار تر
+دیدہ ی بیدار را بیدار تر
+      </Text>
+      <Text Language="Urdu">
+        ایسی شراب سوچ کو اور تیز کر دیتی ہے؛
+اور جو آنکھ پہلے ہی بیدار ہو ا سے بیدار تر کر دیتی ہے۔
+      </Text>
+      <Text Language="English">
+        It makes thought more sober and wise;
+it makes the keen eye keener.
+      </Text>
+    </Verse>
+    <Verse ID="81">
+      <Text Language="Original">
+        اعتبار کوہ بخشد کاہ را
+قوت شیران دہد روباہ را
+      </Text>
+      <Text Language="Urdu">
+        یہ تنکے کو پہاڑ کا وقار عطا کرتی ہے؛
+اور لومڑی کو شیروں کی قوّت بخشتی ہے۔
+      </Text>
+      <Text Language="English">
+        It gives to a straw the weight of a mountain;
+and to foxes the strength of lions.
+      </Text>
+    </Verse>
+    <Verse ID="83">
+      <Text Language="Original">
+        خاک را اوج ثریا میدہد
+قطرہ را پہنای دریا میدہد
+      </Text>
+      <Text Language="Urdu">
+        خاک کو ثریا کی بلندی دیتی ہے؛
+اور قطرے کو سمندر کی وسعت۔
+      </Text>
+      <Text Language="English">
+        It causes dust to soar to the Pleiades;
+and a drop of water swell to the breadth of the sea.
+      </Text>
+    </Verse>
+    <Verse ID="85">
+      <Text Language="Original">
+        خامشی را شورش محشر کند
+پای کبک از خون باز احمر کند
+      </Text>
+      <Text Language="Urdu">
+        یہ خاموشی کو شور قیامت میں تبدیل کر دیتی ہے؛
+اور چکور کے پنجے کو باز سے لڑا دیتی ہے۔
+      </Text>
+      <Text Language="English">
+        It turns silence into the din of Judgment Day;
+it makes the foot of the partridge red with blood of the hawk.
+      </Text>
+    </Verse>
+    <Verse ID="87">
+      <Text Language="Original">
+        خیز و در جامم شراب ناب ریز
+بر شب اندیشہ ام مہتاب ریز
+      </Text>
+      <Text Language="Urdu">
+        اٹھ اور میرے جام میں یہ خالص شراب ڈال؛
+اور اس طرح میرے فکر کی رات پر چاندنی بکھیر دے۔
+      </Text>
+      <Text Language="English">
+        Arise and pour pure wine into my cup;
+pour moon beams into the dark night of my thought.
+      </Text>
+    </Verse>
+    <Verse ID="89">
+      <Text Language="Original">
+        تا سوی منزل کشم وارہ را
+ذوق بیتابے دہم نظارہ را
+      </Text>
+      <Text Language="Urdu">
+        تاکہ میں بھٹکے ہوؤں کو منزل کی جانب لے جاؤں؛
+اور (شوق) نظارہ کو ذوق بے تابی دوں۔
+      </Text>
+      <Text Language="English">
+        That I may lead home the wanderer;
+and imbue the idle looker-on with restless impatience.
+      </Text>
+    </Verse>
+    <Verse ID="91">
+      <Text Language="Original">
+        گرم رو از جستجوی نو شوم
+روشناس رزوی نو شوم
+      </Text>
+      <Text Language="Urdu">
+        تاکہ میں ایک نئی جستجو کے راستے میں سرگرم ہو جاؤں؛
+اور اپنے آپ کو نئی آرزو سے متعارف کروں۔
+      </Text>
+      <Text Language="English">
+        And advance hotly on a new quest;
+and become known as the champion of a new spirit.
+      </Text>
+    </Verse>
+    <Verse ID="93">
+      <Text Language="Original">
+        چشم اھل ذوق را مردم شوم
+چون صدا در گوش عالم گم شوم
+      </Text>
+      <Text Language="Urdu">
+        اہل ذوق کی آنکھ کی پتلی بن جاؤں؛
+اور دنیا کی آواز میں صدا کی طرح گم ہو جاؤں۔
+      </Text>
+      <Text Language="English">
+        And be to people of insight as the pupil to the eye;
+and sink into the ear of the world, like a voice.
+      </Text>
+    </Verse>
+    <Verse ID="95">
+      <Text Language="Original">
+        قیمت جنس سخن بالا کنم
+ب چشم خویش در کالاکنم
+      </Text>
+      <Text Language="Urdu">
+        تاکہ میں متاع شاعری میں اپنے آنسو شامل کر کے اس کی قیمت بڑھا دوں۔
+      </Text>
+      <Text Language="English">
+        And exalt the worth of Poesy;
+and sprinkle the dry herbs with my tears.
+      </Text>
+    </Verse>
+    <Verse ID="97">
+      <Text Language="Original">
+        باز بر خوانم ز فیض پیر روم
+دفتر سر بستہ اسرار علوم
+      </Text>
+      <Text Language="Urdu">
+        اور پیر روم کے فیض سے؛ اسرار علوم کے سربستہ دفتر کھول دوں۔
+      </Text>
+      <Text Language="English">
+        Inspired by the genius of the Master of Rum;
+I rehearse the sealed book of secret lore.
+      </Text>
+    </Verse>
+    <Verse ID="99">
+      <Text Language="Original">
+        جان او از شعلہ ہا سرمایہ دار
+من فروغ یک نفس مثل شرار
+      </Text>
+      <Text Language="Urdu">
+        مولانا روم کی جان کئی شعلوں کی سرمایہ دار ہے؛
+جبکہ میری چمک شرر کی مانند لمحہ بھر کی ہے۔
+      </Text>
+      <Text Language="English">
+        His soul is the flaming furnace,
+I am but as the spark that gleams for a moment.
+      </Text>
+    </Verse>
+    <Verse ID="101">
+      <Text Language="Original">
+        شمع سوزان تاخت بر پروانہ ام
+بادہ شبخون ریخت بر پیمانہ ام
+      </Text>
+      <Text Language="Urdu">
+        اس کی جلتی ہوئی شمع نے مجھ پروانے پر یورش کر دی؛
+گویا اس کی شراب نے میرے پیمانے پر شبخون مارا۔
+      </Text>
+      <Text Language="English">
+        His burning candle consumed me, the moth;
+His wine overwhelmed my goblet.
+      </Text>
+    </Verse>
+    <Verse ID="103">
+      <Text Language="Original">
+        پیر رومی خاک را اکسیر کرد
+از غبارم جلوہ ہا تعمیر کرد
+      </Text>
+      <Text Language="Urdu">
+        پیر رومی نے میری خاک کو اکسیر بنا دیا؛
+اور میرے غبار سے کئی جلوے پیدا کر دیئے۔
+      </Text>
+      <Text Language="English">
+        The master of Rum transmuted my earth to gold;
+and set my ashes aflame.
+      </Text>
+    </Verse>
+    <Verse ID="105">
+      <Text Language="Original">
+        ذرہ از خاک بیابان رخت بست
+تا شعاع فتاب رد بدست
+      </Text>
+      <Text Language="Urdu">
+        میرے ذرّے نے بیابان کی خاک سے رخت (سفر) باندھا؛
+تاکہ وہ آفتاب کی شعاع کو گرفت میں لے۔
+      </Text>
+      <Text Language="English">
+        The grain of sand set forth from the desert;
+that it might win the radiance of the sun.
+      </Text>
+    </Verse>
+    <Verse ID="107">
+      <Text Language="Original">
+        موجم و در بحر او منزل کنم
+تا در تابندہ ئی حاصل کنم
+      </Text>
+      <Text Language="Urdu">
+        میں موج ہوں اور میں نے رومی کے سمندر کو اپنا مسکن بنایا ہے؛
+تاکہ وہاں سے چمکدار موتی حاصل کروں۔
+      </Text>
+      <Text Language="English">
+        I am a wave and I will come to rest in his sea;
+that I may make the glistening pearl mine own.
+      </Text>
+    </Verse>
+    <Verse ID="109">
+      <Text Language="Original">
+        من کہ مستی ہا ز صہبایش کنم
+زندگانے از نفس ہایش کنم
+      </Text>
+      <Text Language="Urdu">
+        یں جو اس کی شراب سے مستی حاصل کرتا ہوں؛
+میری زندگی انہی کے دم سے ہے۔
+      </Text>
+      <Text Language="English">
+        I who am drunken with the wine of his song;
+draw life from the breath of his words.
+      </Text>
+    </Verse>
+    <Verse ID="111">
+      <Text Language="Original">
+        شب دل من مایل فریاد بود
+خامشے از"یا ربم" باد بود
+      </Text>
+      <Text Language="Urdu">
+        رات میرا دل فریاد کناں تھا؛
+رات کی خاموشی میری 'یا رب کی' آواز سے آباد ہو رہی تھی۔
+      </Text>
+      <Text Language="English">
+        'Twas night: my heart would fain lament.
+The silence was filled with my cries to God.
+      </Text>
+    </Verse>
+    <Verse ID="113">
+      <Text Language="Original">
+        شکوہ شوب غم دوران بدم
+از تہی پیمانگی نالان بةدم
+      </Text>
+      <Text Language="Urdu">
+        میں نے غم دوراں کی شکائت کا طوفان اٹھا رکھا تھا اور اپنی بے سر و سامانی پر نالاں تھا۔
+      </Text>
+      <Text Language="English">
+        I was complaining of the sorrows of the world;
+and bewailing the emptiness of my cup.
+      </Text>
+    </Verse>
+    <Verse ID="115">
+      <Text Language="Original">
+        این قدر نظارہ ام بیتاب شد
+بال و پر بشکست و خر خواب شد
+      </Text>
+      <Text Language="Urdu">
+        میری نگاہیں تڑپتے تڑپتے بال و پر کھو بیٹھیں اور میں سو گیا۔
+      </Text>
+      <Text Language="English">
+        At last mine eye could endure no more;
+broken with fatigue it went to sleep.
+      </Text>
+    </Verse>
+    <Verse ID="117">
+      <Text Language="Original">
+        روی خود بنمود پیر حق سرشت
+کو بحرف پہلوی قر ن نوشت
+      </Text>
+      <Text Language="Urdu">
+        پیر حق سرشت (رومی) ظاہر ہوئے؛
+وہ جنہوں نے فارسی زبان میں قران پاک کی حکمت بیان کی ہے۔
+      </Text>
+      <Text Language="English">
+        There appeared the Master, formed in the mould of Truth;
+who wrote the Quran in Persian.
+      </Text>
+    </Verse>
+    <Verse ID="119">
+      <Text Language="Original">
+        گفت"اے دیوانہ ی ارباب عشق
+جرعہ ئی گیر از شراب ناب عشق
+      </Text>
+      <Text Language="Urdu">
+        انہوں نے فرمایا تو جو اہل عشق کا شیدائی ہے؛
+عشق کی خالص شراب کا ایک گھونٹ پی لے۔
+      </Text>
+      <Text Language="English">
+        He said, ‘O frenzied lover;
+take a draught of love's pure wine.
+      </Text>
+    </Verse>
+    <Verse ID="121">
+      <Text Language="Original">
+        بر جگر ہنگامہ ی محشر بزن
+شیشہ بر سر، دیدہ بر نشتر بزن
+      </Text>
+      <Text Language="Urdu">
+        (اور اس سے) اپنے جگر میں قیامت کا ہنگامہ پیدا کر؛
+ اس شراب سے سرمست ہو اور اشکوں کو خونتاب کر۔
+      </Text>
+      <Text Language="English">
+        Strike the chords of thine heart and rouse a tumultuous strain.
+Dash thine head against the goblet and thine eye against the lancet!
+      </Text>
+    </Verse>
+    <Verse ID="123">
+      <Text Language="Original">
+        خندہ را سرمایہ ی صد نالہ ساز
+اشک خونین را جگر پرکالہ ساز
+      </Text>
+      <Text Language="Urdu">
+        اپنی ہنسی کو سینکڑوں نالوں کا سرمایہ بنا (اپنی ہنسی کو نالہ و فریاد میں بدل دے)؛
+اپنے اشک خونیں میں جگر کے ٹکڑے ملا۔
+      </Text>
+      <Text Language="English">
+        Make thy laughter the source of a hundred sighs.
+Make the hearts of men bleed with thy tears.
+      </Text>
+    </Verse>
+    <Verse ID="125">
+      <Text Language="Original">
+        تا بکی چون غنچہ می باشی خموش
+نکہت خود را چو گل ارزان فروش
+      </Text>
+      <Text Language="Urdu">
+        کب تک کلی کی مانند خاموش رہے گا؛
+اپنی خوشبو کو پھول کی مانند عام کر دے۔
+      </Text>
+      <Text Language="English">
+        How long wilt thou be silent, like a bud?
+Sell thy fragrance cheap, like the rose!
+      </Text>
+    </Verse>
+    <Verse ID="127">
+      <Text Language="Original">
+        در گرہ ہنگامہ داری چون سپند
+محمل خود بر سر تش بہ بند
+      </Text>
+      <Text Language="Urdu">
+        تو حرمل کے دانے کی طرح اپنے اندر ہنگامہ رکھتا ہے؛
+اس لیے اپنے محمل (ناقہ) کو آتش پر باندھ لے۔
+      </Text>
+      <Text Language="English">
+        Tongue-tied, thou art in pain;
+Cast thyself upon the fire, like rue!
+      </Text>
+    </Verse>
+    <Verse ID="129">
+      <Text Language="Original">
+        چون جرس خر ز ہر جزو بدن
+نالہ ی خاموش را بیرون فکن
+      </Text>
+      <Text Language="Urdu">
+        نالہ خاموش کو اپنے بدن کے ہر بن و مو سے جرس کی مانند باہر نکال۔
+      </Text>
+      <Text Language="English">
+        Like the bell, break silence at last, and from every limb. Utter forth a lamentation!
+      </Text>
+    </Verse>
+    <Verse ID="131">
+      <Text Language="Original">
+        تش استی بزم عالم بر فروز
+دیگران را ھم ز سوز خود بسوز
+      </Text>
+      <Text Language="Urdu">
+        تو آگ ہے بزم کائنات کو جگمگا دے؛
+دوسروں کو بھی سوز کی تپش عطا کر۔
+      </Text>
+      <Text Language="English">
+        Thou art fire: fill the world with thy glow!
+Make others burn with thy burning!
+      </Text>
+    </Verse>
+    <Verse ID="133">
+      <Text Language="Original">
+        فاش گو اسرار پیر می فروش
+موج می شو کسوت مینا بپوش
+      </Text>
+      <Text Language="Urdu">
+        پیر مغاں کے راز برملا بیان کر؛
+شراب کی موج بن اور مینا کا لباس پہن۔
+      </Text>
+      <Text Language="English">
+        Proclaim the secrets of the old wine seller;
+be thou a surge of wine, and the crystal cup thy robe!
+      </Text>
+    </Verse>
+    <Verse ID="135">
+      <Text Language="Original">
+        سنگ شو ئینہ ی اندیشہ را
+بر سر بازار بشکن شیشہ را
+      </Text>
+      <Text Language="Urdu">
+        خرد کے آئینے کے لیے پتھر بن؛
+اور اسے سر بازار توڑ دے۔
+      </Text>
+      <Text Language="English">
+        Shatter the mirror of fear;
+break the bottles in the bazaar
+      </Text>
+    </Verse>
+    <Verse ID="137">
+      <Text Language="Original">
+        از نیستان ہمچو نے پیغام دہ
+قیس را از قوم"حی" پیغام دہ
+      </Text>
+      <Text Language="Urdu">
+        بانسری کی مانند نیستاں کا پیغام سنا؛
+قیس کے لیے لیلی کا پیغام لا۔
+      </Text>
+      <Text Language="English">
+        Like the reed-flute, bring a message from the reed-bed.
+Give to Majnun a message from the tribe of Layla!
+      </Text>
+    </Verse>
+    <Verse ID="139">
+      <Text Language="Original">
+        نالہ را انداز نو ایجاد کن
+بزم را از ہاے و ہو باد کن
+      </Text>
+      <Text Language="Urdu">
+        نالہ و فریاد کے لیے نئے انداز ایجاد کر؛
+(افسردہ) محفل کو ہا و ہو سے گرم دے۔
+      </Text>
+      <Text Language="English">
+        Create a new style for thy song;
+enrich the assembly with thy piercing strains!
+      </Text>
+    </Verse>
+    <Verse ID="141">
+      <Text Language="Original">
+        خیز و جان نو بدہ ہر زندہ را
+از"قم" خود زندہ تر کن زندہ را
+      </Text>
+      <Text Language="Urdu">
+        اٹھ اور زندہ شخص کو نئی جان عطا کر؛
+لفظ '‍ قوم' کہہ کے زندوں میں اور زندگی بھر دے۔
+      </Text>
+      <Text Language="English">
+        Up, and re-inspire every living soul.
+Say 'Arise!' and by that word quicken the living!
+      </Text>
+    </Verse>
+    <Verse ID="143">
+      <Text Language="Original">
+        خیز و پا بر جادہ ی دیگر بنہ
+جوش سودای کہن از سر بنہ
+      </Text>
+      <Text Language="Urdu">
+        اٹھ اور نئے راستے پر قدم رکھ؛
+ اپنے سر سے پرانی روایات کا سودا نکال دے۔
+      </Text>
+      <Text Language="English">
+        Up, and set thy feet on another path;
+put aside the passionate melancholy of old!
+      </Text>
+    </Verse>
+    <Verse ID="145">
+      <Text Language="Original">
+        شنای لذت گفتار شو
+اے دراے کاروان بیدار شو"
+      </Text>
+      <Text Language="Urdu">
+        لذّت گفتار سے آشنا ہو (کچھ کہہ )؛
+تو قافلہ کے لیے بانگ راحیل ہے، اٹھ (قافلے کو جگا)۔
+      </Text>
+      <Text Language="English">
+        Become familiar with the delight of singing;
+bell of the caravan, awake!‛
+      </Text>
+    </Verse>
+    <Verse ID="147">
+      <Text Language="Original">
+        زین سخن تش بہ پیراہن شدم
+مثل نے ہنگامہ بستن شدم
+      </Text>
+      <Text Language="Urdu">
+        اس آواز نے میرے تن بدن میں آگ لگا دی؛
+اور میں ہنگاموں بھری بانسری کی مانند ہوں۔
+      </Text>
+      <Text Language="English">
+        At these words my bosom was enkindled;
+and swelled with emotion like the flute.
+      </Text>
+    </Verse>
+    <Verse ID="149">
+      <Text Language="Original">
+        چون نوا از تار خود برخاستم
+جنتی از بھر گوش راستم
+      </Text>
+      <Text Language="Urdu">
+        میں اپنے (ساز کے) تار سے نغمے کی مانند اٹھا؛
+اور میں نے سماعت کے لیے جنت سجا دی۔(غالب نے جنت نگاہ اور فردوس گوش کی اصطلاحیں استعمال کی ہیں)
+      </Text>
+      <Text Language="English">
+        I rose like music from the string;
+to prepare a Paradise for the ear.
+      </Text>
+    </Verse>
+    <Verse ID="151">
+      <Text Language="Original">
+        بر گرفتم پردہ از راز خودی
+وا نمودم سر اعجاز خودی
+      </Text>
+      <Text Language="Urdu">
+        میں نے خودی کے راز سے پردہ اٹھا دیا؛
+اور اس کے اعجاز پوری طرح ظاہر کر دیئے۔
+      </Text>
+      <Text Language="English">
+        I unveiled the mystery of the self;
+and disclosed its wondrous secret.
+      </Text>
+    </Verse>
+    <Verse ID="153">
+      <Text Language="Original">
+        بود نقش ہستیم انگارہ ئی
+نا قبولی، ناکسے، ناکارہ ئی
+      </Text>
+      <Text Language="Urdu">
+        میرا وجود ایک ناتمام نقش تھا؛
+ناقابل قبول، بے قیمت اور ناکارہ۔
+      </Text>
+      <Text Language="English">
+        My being was an unfinished statue;
+uncomely, worthless, good for nothing.
+      </Text>
+    </Verse>
+    <Verse ID="155">
+      <Text Language="Original">
+        عشق سوہان زد مرا، دم شدم
+عالم کیف و کم عالم شدم
+      </Text>
+      <Text Language="Urdu">
+        عشق نے مجھے سان پر چڑھایا تو میں آدم بنا؛
+اور میں نے اس جہان کی اشیاء کا علم پایا۔
+      </Text>
+      <Text Language="English">
+        Love chiselled me: I became a man.
+And gained knowledge of the nature of the universe.
+      </Text>
+    </Verse>
+    <Verse ID="157">
+      <Text Language="Original">
+        حرکت اعصاب گردون دیدہ ام
+در رگ مہ گردش خون دیدہ ام
+      </Text>
+      <Text Language="Urdu">
+        میں نے آسمان کے اعصاب کی حرکت دیکھ لی؛
+مجھے چاند کی رگوں میں گردش کرتا ہوا خون نظر آ گیا۔
+      </Text>
+      <Text Language="English">
+        I have seen the movement of the sinews of the sky.
+And the blood coursing in the veins of the moon.
+      </Text>
+    </Verse>
+    <Verse ID="159">
+      <Text Language="Original">
+        بہر انسان چشم من شبہا گریست
+تا دریدم پردہ ی اسرار زیست
+      </Text>
+      <Text Language="Urdu">
+        میں نے انسان کے غم میں رو رو کر راتیں گزار دیں؛
+تب کہیں جا کر میں زندگی کے رازوں پر سے پردہ اٹھانے میں کامیاب ہوا۔
+      </Text>
+      <Text Language="English">
+        Many a night I wept for Man's sake;
+that I might tear the veil from Life's mysteries.
+      </Text>
+    </Verse>
+    <Verse ID="167">
+      <Text Language="Original">
+        از درون کارگاہ ممکنات
+بر کشیدم سر تقویم حیات
+      </Text>
+      <Text Language="Urdu">
+        میں نے ممکنات کے کارخانے کے اندر سے؛ زندگی کے استحکام کا راز (لائحہ عمل ) نکال لیا ہے۔
+      </Text>
+      <Text Language="English">
+        And extract the secret of Life's constitution;
+from the laboratory of phenomena.
+      </Text>
+    </Verse>
+    <Verse ID="169">
+      <Text Language="Original">
+        من کہ این شب را چو مہ راستم
+گرد پای ملت بیضاستم
+      </Text>
+      <Text Language="Urdu">
+        میں جس نے (زندگی کی) رات کو چاند کی طرح خوبصورت بنا دیا ہے؛
+میں فقط ملّت بیضا کی گرد پا ہوں۔
+      </Text>
+      <Text Language="English">
+        I who give beauty to this night, like the moon;
+am as dust in devotion to the pure Faith (Islam).
+      </Text>
+    </Verse>
+    <Verse ID="171">
+      <Text Language="Original">
+        ملتی در باغ و راغ وازہ اش
+تش دلہا سرود تازہ اش
+      </Text>
+      <Text Language="Urdu">
+        وہ ملّت جس کا شہرہ باغ و راغ میں ہے؛
+جس کے تازہ نغمے دلوں میں حرارت پیدا کرتے ہیں۔
+      </Text>
+      <Text Language="English">
+        A Faith renowned in hill and dale;
+which kindles in men's hearts a flame of undying song:
+      </Text>
+    </Verse>
+    <Verse ID="173">
+      <Text Language="Original">
+        ذرہ کشت و فتاب انبار کرد
+خرمن از صد رومی و عطار کرد
+      </Text>
+      <Text Language="Urdu">
+        وہ ملت جس نے ذرّہ بویا اور آفتابوں کے انبار لگا دیئے؛
+جس کے کھلیان سینکڑوں رومی اور عطّار ہیں۔
+      </Text>
+      <Text Language="English">
+        It sowed an atom and reaped a sun;
+it harvested a hundred poets like Rumi and Attar.
+      </Text>
+    </Verse>
+    <Verse ID="175">
+      <Text Language="Original">
+        آہ گرمم ، رخت بر گردون کشم
+گرچہ دودم از تبار آتشم
+      </Text>
+      <Text Language="Urdu">
+        میں آگ گرم ہوں جو آسمان تک پہنچتی ہے؛
+اگرچہ میں (آہ) کا دھواں ہوں لیکن ہوں تو آگ کے خاندان سے۔
+      </Text>
+      <Text Language="English">
+        I am a sigh: I will mount to the heavens;
+I am but smoke, yet am I sprung of fire.
+      </Text>
+    </Verse>
+    <Verse ID="177">
+      <Text Language="Original">
+        خامہ ام از ھمت فکر بلند
+راز این نہ پردہ در صحرا فکند
+      </Text>
+      <Text Language="Urdu">
+        میرے قلم نے فکربلند کی ہمت سے؛
+اس نہہ پردہ (کائنات) کے راز کو صحرا میں ڈال دیا (سر عام واضح کر دیا)۔
+      </Text>
+      <Text Language="English">
+        Driven onward by high thoughts, my pen;
+cast abroad the secret behind this veil.
+      </Text>
+    </Verse>
+    <Verse ID="179">
+      <Text Language="Original">
+        قطرہ تا ہمپایہ ی دریا شود
+ذرہ از بالیدگی صحرا شود
+      </Text>
+      <Text Language="Urdu">
+        تا کہ قطرہ دریا کے ہم پلّہ ہو جائے اور ذرّہ بڑھ کر صحرا بن جائے۔
+      </Text>
+      <Text Language="English">
+        That the drop may become co-equal with the sea;
+and the grain of sand grow into a Sahara.
+      </Text>
+    </Verse>
+    <Verse ID="181">
+      <Text Language="Original">
+        شاعری زین مثنوی مقصود نیست
+بت پرستی، بت گری مقصود نیست
+      </Text>
+      <Text Language="Urdu">
+        اس مثنوی کا مقصد شاعری (بت بنانا اور بت پرستی سکھانا) نہیں۔
+      </Text>
+      <Text Language="English">
+        Poetising is not the aim of this mathnavi.
+Beauty-worshipping and love-making is not its aim.
+      </Text>
+    </Verse>
+    <Verse ID="183">
+      <Text Language="Original">
+        ہندیم از پارسے بیگانہ ام
+ماہ نو باشم تہی پیمانہ ام
+      </Text>
+      <Text Language="Urdu">
+        میں ہندی ہوں فارسی میری زبان نہیں؛
+میں نئے چاند کی مانند اندر سے خالی ہوں۔
+      </Text>
+      <Text Language="English">
+        I am of India: Persian is not my native tongue;
+I am like the crescent moon: my cup is not full.
+      </Text>
+    </Verse>
+    <Verse ID="185">
+      <Text Language="Original">
+        حسن انداز بیان از من مجو
+خوانسار و اصفہان از من مجو
+      </Text>
+      <Text Language="Urdu">
+        مجھ سے انداز بیاں کی خوبصورتی کی توقع نہ رکھ؛
+میں شعراء خوانسار اور اصفہان جیسی زبان پیش نہیں کر سکتا۔
+      </Text>
+      <Text Language="English">
+        Do not seek from me charm of style in exposition.
+Do not seek from me Khansar and Isfahan.
+      </Text>
+    </Verse>
+    <Verse ID="187">
+      <Text Language="Original">
+        گرچہ ہندی در عذوبت شکر است
+طرز گفتار دری شیرین تر است
+      </Text>
+      <Text Language="Urdu">
+        اگرچہ ہندی زبان مٹھاس میں شکر ہے؛
+لیکن فارسی زبان کا انداز بیان اس سے زیادہ شیریں ہے۔
+      </Text>
+      <Text Language="English">
+        Although the language of Hind is sweet as sugar;
+yet sweeter is the fashion of Persian speech.
+      </Text>
+    </Verse>
+    <Verse ID="189">
+      <Text Language="Original">
+        فکر من از جلوہ اش مسحور گشت
+خامۂ من شاخ نخل طور گشت
+      </Text>
+      <Text Language="Urdu">
+        فارسی زبان کے جلوے نے میرے فکر کو مشہور کر دیا؛ اور میرا کلام (اس کی بدولت) نخل طور کی شاخ بن گیا۔
+      </Text>
+      <Text Language="English">
+        My mind was enchanted by its loveliness; my pen became as a twig of the Burning Bush.
+      </Text>
+    </Verse>
+    <Verse ID="191">
+      <Text Language="Original">
+        پارسے از رفعت اندیشہ ام
+در خورد با فطرت اندیشہ ام
+      </Text>
+      <Text Language="Urdu">
+        میرے فکر کی بلندی کے لحاظ سے فارسی زبان اس کی فطرت سے زیادہ مناسبت رکھتی ہے۔
+      </Text>
+      <Text Language="English">
+        Because of the loftiness of my thoughts; Persian alone is suitable to them.
+      </Text>
+    </Verse>
+    <Verse ID="193">
+      <Text Language="Original">
+        خردہ بر مینا مگیر اے ہوشمند
+دل بذوق خردہ ی مینا بہ بند
+      </Text>
+      <Text Language="Urdu">
+        خردہ مینا: شراب۔ خردہ گرفتن: نکتہ چینی کرنا۔
+اے دانا شخص! میری مینائے کلام (الفاظ) پر نکتہ چینی نہ کر بلکہ اس مینا کی شراب (معنی) سے لطف اندوز ہونے کا ذوق پیدا کر۔
+      </Text>
+      <Text Language="English">
+        O Reader, do not find fault with the wine-cup;
+but consider attentively the taste of the wine.
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

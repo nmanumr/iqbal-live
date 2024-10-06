@@ -1,0 +1,40 @@
+<Poem ID="08" Name="" BookID="11" BookName="ارمغانِ حجاز" SectionID="01" SectionName="حضور حق">
+  <Para Name="(1)">
+    <Verse ID="01">
+      <Text Language="Original">
+        جہان تست در دست خسی چند
+کسان او بہ بند ناکسی چند
+ہنرور میان کارگاہان
+کشد خود را بہ عیش کرکسی چند
+      </Text>
+      <Text Language="Urdu">
+        آپ کا جہان چند خسیسوں کے ہاتھ میں ہے، یہاں کے اہل لوگ چند نا اہلوں کے پنجے میں گرفتار ہیں۔ 
+ہنر مند کارخانوں میں اپنے آپ کو، چند گدھوں (سرمایہ داروں ) کے عیش و عشرت کے لیے ہلاک کر رہے ہیں۔
+      </Text>
+      <Text Language="English">
+        Thy world is ruled by misers few, whose men still serve the worthless few.
+The workers skilled in workshops queue, have killed themselves for vultures few. 
+(Translated by Q A Kabir)
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="(2)">
+    <Verse ID="05">
+      <Text Language="Original">
+        مریدی فاقہ مستی گفت با شیخ
+کہ یزدان را ز حال ما خبر نیست
+بما نزدیک تر از شہرک ماست
+ولیکن از شکم نزدیکتر نیست
+      </Text>
+      <Text Language="Urdu">
+        ایک فاقہ مست مرید نے اپنے مرشد سے کہا، اللہ تعالے کو ہمارے حال کی کچھ خبر نہیں۔
+یوں تو وہ ہماری شاہ رگ سے بھی قریب پر ہے، مگر ہمارے پیٹ سے قریب تر نہیں۔
+      </Text>
+      <Text Language="English">
+        A hungry seeker begged his Sheikh to plead, does God has no knowledge of peoples’ need.
+To me he is closer than jugular vein, but not closer than my abdomen’s pain.
+(Translated by Q A Kabir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

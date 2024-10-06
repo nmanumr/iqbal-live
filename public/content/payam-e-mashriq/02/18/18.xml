@@ -1,0 +1,42 @@
+<Poem ID="18" Name="حکمت و شعر" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بوعلی اندر غبار ناقہ گم
+دست رومی پردۂ محمل گرفت
+      </Text>
+      <Text Language="Urdu">
+        بو علی سینا ناقہ کے غبار ہی میں گم ہو کر رہ گیا ہے، رومی (رحمتہ) کا ہاتھ پردہء محمل (معنی) تک جا پہنچا۔
+      </Text>
+      <Text Language="English">
+        PHILOSOPHY AND POETRY
+Bu Ali got lost in the dust kicked up by Layla’s dromedary. Rumi’s hand seized the curtain of her litter.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        این فرو تر رفت و تا گوہر رسید
+آن بگردابی چو خس منزل گرفت
+      </Text>
+      <Text Language="Urdu">
+        رومی (بحر حیات میں) گہرا گیا اور گوہر تک پہنچا، بو علی نے تنکے کی مانند گرداب ہی کو منزل بنا لیا۔
+      </Text>
+      <Text Language="English">
+        This one dived deeper, deeper still, till he came upon the pearl he was after. But the other got caught in a whirlpool like a piece of straw.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        حق اگر سوزی ندارد حکمت است
+شعر میگردد چو سوز از دل گرفت
+      </Text>
+      <Text Language="Urdu">
+        حقیقت میں اگر سوز نہ ہو تو فلسفہ ہے، اگر دل سے سوز حاصل کر لے تو شعر بن جاتی ہے۔
+      </Text>
+      <Text Language="English">
+        If the truth has no fervour, it is plain philosophy. If it has the proper fervour, it is poetry. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

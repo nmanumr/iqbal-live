@@ -1,0 +1,21 @@
+<Poem ID="86" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        دل من اے دل من ایدل من
+یم من کشتی من ساحل من
+چو شبنم بر سر خاکم چکیدی
+و یا چون غنچہ رستی از گل من
+      </Text>
+      <Text Language="Urdu">
+        میں کیا کہوں کہ نیکی اور بدی کیا ہے؛ زباں لرزتی ہے کیونکہ معنی پیچدار ہیں۔
+شاخ کے باہر کانٹے بھی نظر آتے ہیں اور پھول بھی، مگر شاخ کے اندر نہ پھول ہے، نہ کانٹا۔
+      </Text>
+      <Text Language="English">
+        What maketh Foul and Fair, how shall I say? Tongue trembleth, such a riddle to declare:
+Without the stem, thou seest rose and thorn; within, nor rose nor thorn is patent there.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

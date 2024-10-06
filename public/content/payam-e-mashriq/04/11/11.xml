@@ -1,0 +1,42 @@
+<Poem ID="11" Name="پتوفی" BookID="07" BookName="پیامِ مشرق" SectionID="04" SectionName="نقش فرنگ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        نفسی درین گلستان ز عروس گل سرودی
+بدلی غمی فزودی ز دلی غمی ربودی
+      </Text>
+      <Text Language="Urdu">
+        اس نے اس گلستان (دنیا ) میں ایک لمحہ کے لیے عروس گل کا گیت گایا، (اور اس سے) دل کے غم میں اضافہ بھی کیا اور دل سے غم کو دور بھی کیا۔
+      </Text>
+      <Text Language="English">
+        PETÖFI
+In this garden, for just one moment, you sang of the bride-like rose, you increased the sorrow of some hearts, and dispelled the sorrow of others.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        تو بخون خویش بستی کف لالہ را نگاری
+تو بہ آہ صبحگاہی دل غنچہ را گشودی
+      </Text>
+      <Text Language="Urdu">
+        (ایک طرف) تو نے اپنے خون سے کف لالہ پر نقش و نگار بنائے ، (دوسری طرف) تو نے اپنی آہ صبحگاہی سے غنچے کا (بند) دل کھلا دیا۔
+      </Text>
+      <Text Language="English">
+        You painted the tulip’s palm with y our blood; and opened the bud’s heart with your sighs at dawn.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        بہ نوای خود گم استی سخن تو مرقد تو
+بہ زمین نہ باز رفتی کہ تو از زمین نبودی
+      </Text>
+      <Text Language="Urdu">
+        تیرے سخن اور تیرا مرقد دونوں اپنی نوا میں گم ہیں، تو زمیں میں دوبارہ نہ گیا، کیونکہ تیرا تعلق زمین سے نہ تھا۔
+      </Text>
+      <Text Language="English">
+        You are lost in your song – because your verse is your tomb: You did not return to earth because you were not of earth. 
+(Translated by Mustansir Mir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

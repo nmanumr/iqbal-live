@@ -1,0 +1,21 @@
+<Poem ID="100" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        چسان زاید تمنا در دل ما
+چسان سوزد چراغ منزل ما
+بچشم ما کہ می بیند چہ بیند
+چسان گنجید دل اندر گل ما
+      </Text>
+      <Text Language="Urdu">
+        ہمارے دل میں تمنا کیسے پیدا ہوتی ہے؟ ہماری منزل کا چراغ (تمنا) (ہمارے اندر) کیسے روشن ہوتا ہے؟ 
+میری آنکھ سے کون دیکھتا ہے، کیا دیکھتا ہے ؟ دل (جو لا محدود ہے) میرے بدن کے اندر کیسے سماتا ہے؟
+      </Text>
+      <Text Language="English">
+        Declare: how in the heart is born desire, how in the dwelling burns the lantern’s fire. 
+Who sees with this our sight, and what he sees, and how the soul was lodged within our ware. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

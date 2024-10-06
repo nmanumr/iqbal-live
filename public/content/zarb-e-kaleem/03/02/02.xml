@@ -1,0 +1,28 @@
+<Poem ID="02" Name="ایک سوال" BookID="03" BookName="ضربِ کلیم" SectionID="03" SectionName="عورت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        کوئی پوچھے حکیم یورپ سے
+ہند و یوناں ہیں جس کے حلقہ بگوش
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        A QUESTION
+Let some one ask this question from the wise of West, whom Greece and India, as their guide and master hold:
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        کیا یہی ہے معاشرت کا کمال
+مرد بے کار و زن تہی آغوش
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Is it the highest social mode by them evolved, the males unemployed, fair sex to procreation cold? 
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

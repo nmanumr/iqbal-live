@@ -1,0 +1,39 @@
+<Poem ID="25" Name="اساتذہ" BookID="03" BookName="ضربِ کلیم" SectionID="02" SectionName="تعلیم و تربیت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        مقصد ہو اگر تربیت لعل بدخشاں 
+بے سود ہے بھٹکے ہوئے خورشید کا پر تو
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        TEACHERS
+If you desire to breed such ruby which is red, don't beg light of sun that from course has fled.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        دنیا ہے روایات کے پھندوں میں گرفتار 
+کیا مدرسہ، کیا مدرسے والوں کی تگ و دو!
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The world is trapped by traditions old and hoar, preceptors helpless quite, can do no more.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        کر سکتے تھے جو اپنے زمانے کی امامت 
+وہ کہنہ دماغ اپنے زمانے کے ہیں پیرو
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Those who deserved to lead the modern age have worn out brains and others hold the stage.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

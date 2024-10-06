@@ -1,0 +1,39 @@
+<Poem ID="33" Name="فلسطینی عرب سے" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        زمانہ اب بھی نہیں جس کے سوز سے فارغ 
+میں جانتا ہوں وہ آتش ترے وجود میں ہے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        TO THE PALESTINIAN ARABS
+I know the fire that burns throughout your frame; the lands of world still fear its scorching flame.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        تری دوا نہ جنیوا میں ہے، نہ لندن میں 
+فرنگ کی رگ جاں پنجہ یہود میں ہے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Your cure in Geneva or London you can’t trace, wind-pipe of Franks is gripped by Jewish race.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        سنا ہے میں نے، غلامی سے امتوں کی نجات 
+خودی کی پرورش و لذت نمود میں ہے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        I know that subject nation’s freedom gain, if they would nourish Self, display its main.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

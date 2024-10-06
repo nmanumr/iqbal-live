@@ -1,0 +1,61 @@
+<Poem ID="13" Name="نسیم صبح" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        ز روی بحر و سر کوھسار می آیم
+ولیک می نشناسم کہ از کجا خیزم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        THE MORNING BREEZE
+Tripping over mountain-tops and skipping over seas, I come no one knows from where, and bring tidings of spring’s coming,
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        دہم بہ غمزدہ طایر پیام فصل بہار
+تہ نشیمن او سیم یاسمن ریزم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        As it were, to the autumn-weary birds, lining their nests with the silver of white lilies.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        بہ سبزہ غلتم و بر شاخ لالہ می پیچم
+کہ رنگ و بو ز مسامات او بر انگیزم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        I roll on the grass and frolic with the tulip-branches, coaxing smells and colours – flowers – out of them.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        خمیدہ تا نشود شاخ او ز گردش من
+بہ برگ لالہ و گل نرم نرمک آویزم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Gently do I stroke the petals of the tulip and the rose, lest their stems should bend under my weight.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        چو شاعری ز غم عشق در خروش آید
+نفس نفس بہ نوا ہای او در آمیزم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        When a poet breaks into song with the frenzy of love’s sorrow, with his breath I join my own.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

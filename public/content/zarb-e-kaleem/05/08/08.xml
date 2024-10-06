@@ -1,0 +1,42 @@
+<Poem ID="08" Name="بلشویک روس" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        روش قضائے الہی کی ہے عجیب و غریب 
+خبر نہیں کہ ضمیر جہاں میں ہے کیا بات
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        BOLSHEVIK RUSSIA 
+Unsearchably God’s edicts move; who knows what thoughts are stirring up deep in the world-mind!
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        ہوئے ہیں کسر چلیپا کے واسطے مامور 
+وہی کہ حفظ چلیپا کو جانتے تھے نجات
+      </Text>
+      <Text Language="Urdu">
+        چليپا: صلیب۔
+کسر: توڑنا۔
+      </Text>
+      <Text Language="English">
+        Those are appointed to pull down, who lately held it salvation to protect, the priests;
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        یہ وحی دہریت روس پر ہوئی نازل 
+کہ توڑ ڈال کلیسائیوں کے لات و منات!
+      </Text>
+      <Text Language="Urdu">
+        دہريت: خدا کا انکار۔
+      </Text>
+      <Text Language="English">
+        On godless Russia the command descends: Smite all the Baals and Dagons of the Church!
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

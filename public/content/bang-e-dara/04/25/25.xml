@@ -1,0 +1,50 @@
+<Poem ID="25" Name="" BookID="01" BookName="بانگِ درا" SectionID="04" SectionName="ظریفانہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        تکرار تھی مزارع و مالک میں ایک روز 
+دونوں یہ کہہ رہے تھے، مرا مال ہے زمیں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        One day a dispute arose between the farmer and the owner; each of them was saying that the land belonged to him.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        کہتا تھا وہ، کرے جو زراعت اسی کا کھیت 
+کہتا تھا یہ کہ عقل ٹھکانے تری نہیں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The farmer said that the field belonged to the cultivator; the owner said that the farmer had become demented.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        پوچھا زمیں سے میں نے کہ ہے کس کا مال تو 
+بولی مجھے تو ہے فقط اس بات کا یقیں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        I asked the land as to whose property it was; it replied that it was believing only this:
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        مالک ہے یا مزارع شوریدہ حال ہے 
+جو زیر آسماں ہے، وہ دھرتی کا مال ہے
+      </Text>
+      <Text Language="Urdu">
+        مزارع شوريدہ حال: بد حال کاشتکار۔
+      </Text>
+      <Text Language="English">
+        Whether it be the owner or the wretched farmer; whatever is under the sky is property of the land. 
+(Translated by M.A.K. Khalil)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,47 @@
+<Poem ID="22" Name="صبح چمن" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="پھول">
+    <Verse ID="01">
+      <Text Language="Original">
+        شاید تو سمجھتی تھی وطن دور ہے میرا 
+اے قاصد افلاک! نہیں، دور نہیں ہے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        DAWN OF THE PARK
+The Flower: Perhaps you thought my land is far away, O courier from the sky, I say, ‘Nay, Nay’.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="شبنم">
+    <Verse ID="03">
+      <Text Language="Original">
+        ہوتا ہے مگر محنت پرواز سے روشن 
+یہ نکتہ کہ گردوں سے زمیں دور نہیں ہے
+      </Text>
+      <Text Language="Urdu">
+        گردوں: آسمان۔
+      </Text>
+      <Text Language="English">
+        Dew: This subtle point is brought to light that sky isn’t far from earth, by toil of flight.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="صبح">
+    <Verse ID="05">
+      <Text Language="Original">
+        مانند سحر صحن گلستاں میں قدم رکھ 
+آئے تہ پا گوہر شبنم تو نہ ٹوٹے 
+ہو کوہ و بیاباں سے ہم آغوش، و لیکن 
+ہاتھوں سے ترے دامن افلاک نہ چھوٹے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Dawn: Step tip-toe in the lawn of park at morn, don't crush the shining gems that park adorn.
+Embrace the mount and waste but caution take that links with whirling sky you do not break.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

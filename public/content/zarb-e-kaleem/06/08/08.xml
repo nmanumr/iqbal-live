@@ -1,0 +1,41 @@
+<Poem ID="08" Name="" BookID="03" BookName="ضربِ کلیم" SectionID="06" SectionName="محراب گل افغان کے افکار">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        زاغ کہتا ہے نہایت بدنما ہیں تیرے پر 
+شپرک کہتی ہے تجھ کو کور چشم و بے ہنر
+      </Text>
+      <Text Language="Urdu">
+        شپرک: چمگادڑ۔
+زاغ: کوّا۔ 
+کور چشم: اندھا پن۔
+      </Text>
+      <Text Language="English">
+        The crow says, ‘In your wings no charm I find.’ The bat says, ‘You have no craft, are blind.’
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        لیکن اے شہباز! یہ مرغان صحرا کے اچھوت 
+ہیں فضائے نیلگوں کے پیچ و خم سے بے خبر
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        O hawk, these low-caste birds of vast expanse, of azure heaven's twists and turns haven't sense.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        ان کو کیا معلوم اس طائر کے احوال و مقام 
+روح ہے جس کی دم پرواز سر تا پا نظر!
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        They can't know states and rank of hawk aright, whose soul grows sight entire at time of flight.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

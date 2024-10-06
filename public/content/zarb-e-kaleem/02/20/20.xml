@@ -1,0 +1,39 @@
+<Poem ID="20" Name="عصر حاضر" BookID="03" BookName="ضربِ کلیم" SectionID="02" SectionName="تعلیم و تربیت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        پختہ افکار کہاں ڈھونڈنے جائے کوئی 
+اس زمانے کی ہوا رکھتی ہے ہر چیز کو خام
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        MODERN AGE
+Where from a man can find ripe thoughts in present age? The weather of this park no ripeness can presage.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        مدرسہ عقل کو آزاد تو کرتا ہے مگر 
+چھوڑ جاتا ہے خیالات کو بے ربط و نظام
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The seats of learning give the mind of pupils’ scope but leave the thoughts of youth unlinked by thread or rope.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        مردہ، 'لا دینی افکار سے افرنگ میں عشق 
+عقل بے ربطی افکار سے مشرق میں غلام!
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The love of God is dead by unbelief 'mong Franks through lack of link in thoughts, East shackles wears on shanks.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

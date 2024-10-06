@@ -1,0 +1,40 @@
+<Poem ID="18" Name="اہرام مصر" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        اس دشت جگر تاب کی خاموش فضا میں 
+فطرت نے فقط ریت کے ٹیلے کیے تعمیر
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        THE PYRAMIDS OF EGYPT
+The quiet environs of this waste whose intense heat scalds the heart: In forming only dunes of sand Nature has displayed its Art.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        اہرام کی عظمت سے نگوں سار ہیں افلاک 
+کس ہاتھ نے کھینچی ابدےت کی یہ تصویر!
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The grandeur of these pyramids puts lofty heavens to disgrace, what hand did build, design and frame, they seem attired in lasting grace?
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        فطرت کی غلامی سے کر آزاد ہنر کو 
+صیاد ہیں مردان ہنر مند کہ نخچیر
+      </Text>
+      <Text Language="Urdu">
+        نخچير: شکار۔
+      </Text>
+      <Text Language="English">
+        Set your craftsmanship quite free from Nature's chains that bind it tight for men endowed with gift of craft aren't prey, of hunters need no fright.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

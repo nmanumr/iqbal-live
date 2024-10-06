@@ -1,0 +1,694 @@
+<Poem ID="02" Name="مناجات" BookID="09" BookName="جاوید نامہ" SectionID="01" SectionName="جاوید نامہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        آدمی اندر جہان ہفت رنگ
+ہر زمان گرم فغان مانند چنگ
+      </Text>
+      <Text Language="Urdu">
+        اس سات رنگی دنیا میں انسان ہر لحظہ سارنگی کی طرح فریاد کناں ہے۔
+      </Text>
+      <Text Language="English">
+        Man, in this world of seven hues, lute-like is ever afire with lamentation;
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        آرزوی ھم نفس می سوزدش
+نالہ ہای دل نواز آموزدش
+      </Text>
+      <Text Language="Urdu">
+        محرم راز کی آرزو اسے ہر لمحہ جلاتی اور نالہ ہائے دل نواز سکھاتی ہے۔
+      </Text>
+      <Text Language="English">
+        Yearning for a kindred spirit burns him inwardly; teaching him threnodies to soothe the heart;
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        لیکن این عالم کہ از آب و گل است
+کی توان گفتن کہ دارای دل است
+      </Text>
+      <Text Language="Urdu">
+        لیکن یہ عالم جو پانی اور مٹی سے بنا ہوا ہے کیسے کہیں کہ یہ صاحب دل ہے۔
+      </Text>
+      <Text Language="English">
+        And yet this world, that is wrought of water and clay; how can it be said to possess a heart?
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        بحر و دشت و کوہ و کہ خاموش و کر
+آسمان و مہر و مہ خاموش و کر
+      </Text>
+      <Text Language="Urdu">
+        سمندر، جنگل، پہاڑ، سبزہ، آسمان، سورج، چاند سب گونگے اور بہرے ہیں۔
+      </Text>
+      <Text Language="English">
+        Sea, plain, mountain, grass – all are deaf and dumb, deaf and dumb heaven and sun and moon;
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        گرچہ بر گردون ہجوم اختر است
+ہر یکی از دیگری تنھا تر است
+      </Text>
+      <Text Language="Urdu">
+        اگرچہ آسمان پر ستاروں کا ہجوم ہے لیکن ہر ایک دوسرے سے زیادہ تنہا ہے۔
+      </Text>
+      <Text Language="English">
+        Though the stars swarm in the selfsame sky, each star is more solitary than the other;
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        ہر یکے مانند، بیچارہ ایست 
+در فضای نیلگون آوارہ ایست
+      </Text>
+      <Text Language="Urdu">
+        ہر ایک ہماری طرح بیچارہ اور فضائے نیلگوں میں آوارہ ہے۔
+      </Text>
+      <Text Language="English">
+        Each one is desperate just as we are, a vagrant lost in an azure wilderness;
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        کاروان برگ سفر ناکردہ ساز
+بیکران افلاک و شب ہا دیر یاز
+      </Text>
+      <Text Language="Urdu">
+        یہ قافلہ رخت سفر کے بغیر ہے، جبکہ شب سفر طویل اور آسماں لا محدود ہے۔
+      </Text>
+      <Text Language="English">
+        The caravan unprovisioned against the journey, the heavens boundless, the nights interminable.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        این جہان صید است و صیادیم ما
+یا اسیر رفتہ از یادیم ما
+      </Text>
+      <Text Language="Urdu">
+        کیا یہ جہاں شکار اور ہم شکاری ہیں؟ یا ہم ایسے قیدی ہیں جنہیں فراموش کر دیا گیا ہے۔
+      </Text>
+      <Text Language="English">
+        Is this world then some prey, and we the huntsmen, or are we prisoners utterly forgotten?
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        زار نالیدم صدائے برنخاست
+ہم نفس فرزند آدم را کجاست
+      </Text>
+      <Text Language="Urdu">
+        میں نے بہت آہ و زاری کی (مگر جواب) میں کوئی آواز نہ آئی فرزند آدم کا ہمراز کہاں ہے؟
+      </Text>
+      <Text Language="English">
+        Bitterly I wept, but echo answered never: Where may Adam’s son find a kindred spirit?
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        دیدہ ام روز جہان چار سوی
+آنکہ نورش بر فروزد کاخ و کوی
+      </Text>
+      <Text Language="Urdu">
+        میں نے اس چار اطراف کے جہان کے دن کو دیکھا ہے جس کا نور کاخ و کو کو روشن کر رہا ہے۔
+      </Text>
+      <Text Language="English">
+        I have seen that the day of this dimensioned world, whose light illuminates both palace and street.
+      </Text>
+    </Verse>
+    <Verse ID="21">
+      <Text Language="Original">
+        از رم سیارہ ئی او را وجود
+نیست الا اینکہ گوئی رفت و بود
+      </Text>
+      <Text Language="Urdu">
+        ا س کا وجود ایک سیّارہ کی حرکت کا مرہون منّت ہے، یہاں رفت و بود (گیا اور تھا) کے علاوہ اور کچھ نہیں ہے۔
+      </Text>
+      <Text Language="English">
+        Came into being from the flight of a planet, is nothing more, you might say, than a moment gone.
+      </Text>
+    </Verse>
+    <Verse ID="23">
+      <Text Language="Original">
+        اے خوش آن روزی کہ از ایام نیست
+صبح او را نیمروز و شام نیست
+      </Text>
+      <Text Language="Urdu">
+        مبارک ہے وہ دن جو سورج کے ایّام سے نہیں جس کی صبح، دوپہر و شام میں تبدیل نہیں ہوتی۔
+      </Text>
+      <Text Language="English">
+        How fair is the Day that is not of our days, the Day whose dawn has neither noon nor eve!
+      </Text>
+    </Verse>
+    <Verse ID="25">
+      <Text Language="Original">
+        روشن از نورش اگر گردد روان
+صوت را چون رنگ دیدن میتوان
+      </Text>
+      <Text Language="Urdu">
+        اگر ایسے دن کے نور سے جان منوّر ہو جائے تو آواز کو رنگ کی طرح دیکھا جا سکتا ہے۔
+      </Text>
+      <Text Language="English">
+        Let its light illuminate the spirit	and sounds become visible even as colours;
+      </Text>
+    </Verse>
+    <Verse ID="27">
+      <Text Language="Original">
+        غیب ہا از تاب او گردد حضور
+نوبت او لایزال و بے مرور
+      </Text>
+      <Text Language="Urdu">
+        ایسے دن کی روشنی سے غیب حضوری میں بدل جاتا ہے، وہ دن ہمیشہ رہتا ہے اور کبھی ختم نہیں ہوتا۔
+      </Text>
+      <Text Language="English">
+        Hidden things become manifest in its splendour, its watch is unending and intransient.
+      </Text>
+    </Verse>
+    <Verse ID="29">
+      <Text Language="Original">
+        اے خدا روزی کن آن روزے مرا
+وارہان زین روز بے سوزے مرا
+      </Text>
+      <Text Language="Urdu">
+        یا الّلّہ ! مجھے وہ دن نصیب فرمائیے اور اس بے سوز دن سے رہائی دلا ئیے۔
+      </Text>
+      <Text Language="English">
+        Grant me that Day, Lord, even for a single day; deliver me from this day that has no glow!
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="31">
+      <Text Language="Original">
+        آیۂ تسخیر اندر شأن کیست؟
+این سپہر نیلگون حیران کیست؟
+      </Text>
+      <Text Language="Urdu">
+        آیہء تسخیر کس کی شان میں ہے، اور یہ نیلا آسمان کس (کی عظمت) پر حیران ہے۔
+      </Text>
+      <Text Language="English">
+        Concerning whom was the Verse of Subjection revealed? For whose sake spins the azure sphere so wildly?
+      </Text>
+    </Verse>
+    <Verse ID="33">
+      <Text Language="Original">
+        رازدان علم الاسما کہ بود
+مست آن ساقی و آن صہبا کہ بود
+      </Text>
+      <Text Language="Urdu">
+        علم الاسماء کا رازدان کون ہوا؟ اس ساقی اور اس کی شراب (الست) سے کون سرمست ہوا؟
+      </Text>
+      <Text Language="English">
+        Who was it knew the secret of He taught the names? Who was intoxicated with that saki and that wine?
+      </Text>
+    </Verse>
+    <Verse ID="35">
+      <Text Language="Original">
+        برگزیدے از ہمہ عالم کرا؟
+کردی از راز درون محرم کرا؟
+      </Text>
+      <Text Language="Urdu">
+        آپ نے کسے سارے عالم میں سے منتخب فرمایا اور راز درون سے محرم کیا؟
+      </Text>
+      <Text Language="English">
+        Whom didst Thou choose out of all the world? To whom didst Thou confide the innermost secret?
+      </Text>
+    </Verse>
+    <Verse ID="37">
+      <Text Language="Original">
+        اے ترا تیرے کہ ما را سینہ سفت
+حرف از "ادعونی" کہ گفت و با کہ گفت؟
+      </Text>
+      <Text Language="Urdu">
+        آپ کے تیر (ہجر ) نے ہمارا سینہ چھید ڈالا، 'مجھے پکارو میں جواب دوں گا'، کس نے کہا تھا اور کس سے کہا تھا؟
+      </Text>
+      <Text Language="English">
+        O Thou whose arrow transpierced our breast, who uttered the words Call upon me, and to whom?
+      </Text>
+    </Verse>
+    <Verse ID="39">
+      <Text Language="Original">
+        روی تو ایمان من قرآن من
+جلوہ ئی داری دریغ از جان من
+      </Text>
+      <Text Language="Urdu">
+        آپ کا چہرہ ہی میرا ایمان اور میرا قرآن بنے، آپ اپنے دیدار سے مجھے کیوں محروم رکھتے؟
+      </Text>
+      <Text Language="English">
+        Thy countenance is my faith, and my Koran: dost Thou begrudge my soul one manifestation?
+      </Text>
+    </Verse>
+    <Verse ID="41">
+      <Text Language="Original">
+        از زیان صد شعاع آفتاب
+کم نمیگردد متاع آفتاب
+      </Text>
+      <Text Language="Urdu">
+        آفتاب کے سینکڑوں شعاعوں کے بکھیر دینے سے اس کا متاع (نور) کم نہیں ہوتا۔
+      </Text>
+      <Text Language="English">
+        By the loss of a hundred of its rays; the sun’s capital is in no wise diminished.
+      </Text>
+    </Verse>
+    <Verse ID="43">
+      <Text Language="Original">
+        عصر حاضر را خرد زنجیر پاست
+جان بیتابی کہ من دارم کجاست؟
+      </Text>
+      <Text Language="Urdu">
+        دور حاضر کے لیے خرد پاؤں کی زنجیر بن چکی ہے، جان بیتاب جو میں رکھتا ہوں وہ کہاں ہے؟
+      </Text>
+      <Text Language="English">
+        Reason is a chain fettering this present age: where is a restless soul such as I possess?
+      </Text>
+    </Verse>
+    <Verse ID="45">
+      <Text Language="Original">
+        عمر ہا بر خویش می پیچد وجود
+تا یکی بیتاب جان آید فرود
+      </Text>
+      <Text Language="Urdu">
+        حیات مدّتوں پیچ و تاب کھاتی ہے تب کہیں جا کر ایک جان بیتاب ظہور میں آتی ہے۔
+      </Text>
+      <Text Language="English">
+        For many ages Being must twist on itself that one restless soul may come into being.
+      </Text>
+    </Verse>
+    <Verse ID="47">
+      <Text Language="Original">
+        گر نرنجے این زمین شورہ زار
+نیست تخم آرزو را سازگار
+      </Text>
+      <Text Language="Urdu">
+        اگر آپ ناراض نہ ہوں تو کہوں کہ یہ شور زمین (دنیا) آرزو کے بیج کے لیے سازگار نہیں۔
+      </Text>
+      <Text Language="English">
+        Except you fret away at this brackish soil; it is not congenial to the seed of desire.
+      </Text>
+    </Verse>
+    <Verse ID="49">
+      <Text Language="Original">
+        از درون این گل بے حاصلی
+بس غنیمت دان اگر روید دلی
+      </Text>
+      <Text Language="Urdu">
+        اگر اس بنجر زمین میں سے ایک دل بھی پیدا ہو جائے تو اسے غنیمت سمجھئے۔
+      </Text>
+      <Text Language="English">
+        Count it for gain enough if a single heart grows from the bosom of this unproductive clay!
+      </Text>
+    </Verse>
+    <Verse ID="51">
+      <Text Language="Original">
+        تو مہے اندر شبستانم گذر
+یک زمان بے نوری جانم نگر
+      </Text>
+      <Text Language="Urdu">
+        اگر آپ چاند ہیں میرے شبستان کی طرف آئیے، اور ذرا میری جان کی تاریکی کو دیکھئے۔
+      </Text>
+      <Text Language="English">
+        Thou art a moon: pass within my dormitory, glance but once on my unenlightened soul.
+      </Text>
+    </Verse>
+    <Verse ID="53">
+      <Text Language="Original">
+        شعلہ را پرہیز از خاشاک چیست؟
+برق را از برفتادن باک چیست؟
+      </Text>
+      <Text Language="Urdu">
+        شعلے کو خس و خاشاک جلانے سے پرہیز کیوں ہو، بجلی کو گرنے سے کیا خوف۔
+      </Text>
+      <Text Language="English">
+        Why does the flame shrink away from the stubble? Why is the lightning-flash afraid to strike?
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="55">
+      <Text Language="Original">
+        زیستم تا زیستم اندر فراق
+وانما آنسوی این نیلی رواق
+      </Text>
+      <Text Language="Urdu">
+        میں جب تک جیا فراق ہی میں جیا، مجھے دیکھائیے کہ اس نیلے آسمان کے پرے کیا ہے۔
+      </Text>
+      <Text Language="English">
+        So long as I have lived, I have lived in separation: reveal what lies beyond yon azure canopy;
+      </Text>
+    </Verse>
+    <Verse ID="57">
+      <Text Language="Original">
+        بستہ در ہا را برویم باز کن
+خاک را با قدسیان ہمراز کن
+      </Text>
+      <Text Language="Urdu">
+        مجھ پر بند دروازے کھول دیجئے، اس خاکی کو نوریوں کا ہمراز بنایئے۔
+      </Text>
+      <Text Language="English">
+        Open the doors that have been closed in my face, let earth share the secrets of heaven’s holy ones.
+      </Text>
+    </Verse>
+    <Verse ID="59">
+      <Text Language="Original">
+        آتشے در سینۂ من برفروز
+عود را بگذار و ھیزم را بسوز
+      </Text>
+      <Text Language="Urdu">
+        میرے سینے میں عشق کی آگ روشن کر دیجئے، عود کو باقی رہنے دیجئے اور ایندھن کو جلا دیجئے۔
+      </Text>
+      <Text Language="English">
+        Kindle now a fire within my breast, leave be the aloe, and consume the brushwood;
+      </Text>
+    </Verse>
+    <Verse ID="61">
+      <Text Language="Original">
+        باز بر آتش بنہ عود مرا
+در جھان آشفتہ کن دود مرا
+      </Text>
+      <Text Language="Urdu">
+        پھر اس عود کو آگ پر رکھیئے اور اس کا دھواں سارے جہان میں پھیلا دیجئے۔
+      </Text>
+      <Text Language="English">
+        Then set my aloe again upon the fire and scatter my smoke through all the world.
+      </Text>
+    </Verse>
+    <Verse ID="63">
+      <Text Language="Original">
+        آتش پیمانۂ من تیز کن
+با تغافل یک نگہ آمیز کن
+      </Text>
+      <Text Language="Urdu">
+        میرے پیمانے کی آتش (شراب) کو تیز کر دیجئے، تغافل کے ساتھ ایک نگاہ بھی ملا دیجئے۔
+      </Text>
+      <Text Language="English">
+        Stir up the fire within my goblet; mingle one glance with this inadvertency.
+      </Text>
+    </Verse>
+    <Verse ID="65">
+      <Text Language="Original">
+        ما ترا جوئیم و تو از دیدہ دور
+نے غلط، ما کور و تو اندر حضور
+      </Text>
+      <Text Language="Urdu">
+        ہم آپ کو ڈھونڈتے ہیں اور آپ ہماری آنکھ سے دور ہیں، نہیں یہ بات نہیں آپ سامنے ہیں، مگر ہم اندھے ہیں۔
+      </Text>
+      <Text Language="English">
+        We seek Thee, and Thou art far from our sight; no, I have erred-we are blind, and Thou art present.
+      </Text>
+    </Verse>
+    <Verse ID="67">
+      <Text Language="Original">
+        یا گشا این پردۂ اسرار را
+یا بگیر این جان بے دیدار را
+      </Text>
+      <Text Language="Urdu">
+        یا اس پردہ اسرار کو ہٹا دیجئے، یا دیدار سے محروم اس جان کو واپس لے لیجئے۔
+      </Text>
+      <Text Language="English">
+        Either draw aside this veil of mysteries, or seize to Thyself this sightless soul!
+      </Text>
+    </Verse>
+    <Verse ID="69">
+      <Text Language="Original">
+        نخل فکرم ناامید از برگ و بر
+یا تبر بفرست یا باد سحر
+      </Text>
+      <Text Language="Urdu">
+        میرے فکر کا درخت برگ و بر سے نا امید ہے، یا اسے کلہاڑے کی نظر کیجئے یا اسے باد سحر سے نوازیئے۔
+      </Text>
+      <Text Language="English">
+        The date-tree of my thought despairs of leaf and fruit; either despatch the axe, or the breeze of dawn.
+      </Text>
+    </Verse>
+    <Verse ID="71">
+      <Text Language="Original">
+        عقل دادی ھم جنونی دہ مرا
+رہ بہ جذب اندرونی دہ مرا
+      </Text>
+      <Text Language="Urdu">
+        مجھے عقل دی ہے تو جنون سے بھی نوازیئے، جزب اندرون کی طرف میری رہنمائی فرمایئے۔
+      </Text>
+      <Text Language="English">
+        Thou gavest me reason, give me madness too, show me the way to inward ecstasy.
+      </Text>
+    </Verse>
+    <Verse ID="73">
+      <Text Language="Original">
+        علم در اندیشہ می گیرد مقام
+عشق را کاشانہ قلب لاینام
+      </Text>
+      <Text Language="Urdu">
+        علم سوچ میں اپنا مقام رکھتا ہے، عشق کا کاشانہ قلب بیدار ہے۔
+      </Text>
+      <Text Language="English">
+        Knowledge takes up residence in the thought; love’s lodge is the unsleeping heart;
+      </Text>
+    </Verse>
+    <Verse ID="75">
+      <Text Language="Original">
+        علم تا از عشق برخودار نیست
+جز تماشا خانۂ افکار نیست
+      </Text>
+      <Text Language="Urdu">
+        جب تک علم عشق سے فیض نہ پائے، وہ تماشا خانہ افکار کے سوائے اور کچھ نہیں۔
+      </Text>
+      <Text Language="English">
+        So long as knowledge has no portion of love; it is a mere picture-gallery of thoughts.
+      </Text>
+    </Verse>
+    <Verse ID="77">
+      <Text Language="Original">
+        این تماشا خانہ سحر سامری است
+علم بے روح القدس افسونگری است
+      </Text>
+      <Text Language="Urdu">
+        یہ تماشا خانہ سحر سامری ہے، روح القدس کے بغیر علم شعبدہ بازی ہے۔
+      </Text>
+      <Text Language="English">
+        This peep-show is the Samiri’s conjuring-trick; knowledge without the Holy Ghost is mere spellbinding.
+      </Text>
+    </Verse>
+    <Verse ID="79">
+      <Text Language="Original">
+        بے تجلی مرد دانا رہ نبرد
+از لکد کوب خیال خویش مرد
+      </Text>
+      <Text Language="Urdu">
+        مرد دانا تجلّی کے بغیر رہ نہیں پاتا، اپنے افکار کی دولتّیوں ہی سے مر جاتا ہے۔
+      </Text>
+      <Text Language="English">
+        Without revelation no wise man ever found the way, he died buffetted by his own imaginings;
+      </Text>
+    </Verse>
+    <Verse ID="81">
+      <Text Language="Original">
+        بے تجلی زندگی رنجوری است
+عقل مہجوری و دین مجبوری است
+      </Text>
+      <Text Language="Urdu">
+        تجلّی کے بغیر زندگی بیماری ہے، حق تعالے سے دور لی جاتی ہے اور اس کا دین مجبوری بن کر رہ جاتا ہے۔
+      </Text>
+      <Text Language="English">
+        Without revelation life is a mortal sickness, reason is banishment, religion constraint.
+      </Text>
+    </Verse>
+    <Verse ID="83">
+      <Text Language="Original">
+        این جہان کوہ و دشت و بحر و بر
+ما نظر خواہیم و او گوید خبر
+      </Text>
+      <Text Language="Urdu">
+        کوہ و دشت و بحر و بر کا یہ جہان ہمیں صرف اللہ تعالے کی خبر دیتا ہے مگر ہم اس کے دیدار کے مشتاق ہیں۔
+      </Text>
+      <Text Language="English">
+        This world of mountain and plain, ocean and land, we yearn for vision, and it speaks of report.
+      </Text>
+    </Verse>
+    <Verse ID="85">
+      <Text Language="Original">
+        منزلی بخش اے دل آوارہ را
+باز دہ با ماہ این مہپارہ را
+      </Text>
+      <Text Language="Urdu">
+        اس دل آوارہ کو منزل عطا فرمایئے، اس ماہ پارے کو دوبارہ چاند سے ملا دیجیئے۔
+      </Text>
+      <Text Language="English">
+        Grant to this vagrant heart a resting-place, restore to the moon this fragment of the moon.
+      </Text>
+    </Verse>
+    <Verse ID="87">
+      <Text Language="Original">
+        گرچہ از خاکم نروید جز کلام
+حرف مہجوری نمی گردد تمام
+      </Text>
+      <Text Language="Urdu">
+        اگرچہ میری خاک سے سوائے کلام کے اور کچھ پیدا نہیں ہوتا مگر میرے کلام ہجر کی پوری داستان بیان نہیں کر سکا۔
+      </Text>
+      <Text Language="English">
+        Though from my soil nothing grows but words, the language of banishment never comes to an end.
+      </Text>
+    </Verse>
+    <Verse ID="89">
+      <Text Language="Original">
+        زیر گردون خویش را یابم غریب
+ز آنسوی گردون بگو "انی قریب"
+      </Text>
+      <Text Language="Urdu">
+        میں آسمان کے نیچے اپنے آپ کو اجنبی پاتا ہوں، آسمان کے اس جانب سے صدا دیجیئے کہ میں قریب ہوں۔
+      </Text>
+      <Text Language="English">
+        Under the heavens I feel myself a stranger: from beyond the skies utter the words I am near;
+      </Text>
+    </Verse>
+    <Verse ID="91">
+      <Text Language="Original">
+        تا مثال مہر و مہ گردد غروب
+این جہات و این شمال و این جنوب
+      </Text>
+      <Text Language="Urdu">
+        تا کہ اس جہان کی جہات چاند سورج کی مانند نظروں سے اجھل ہو جائیں (تا کہ میں قید مکان سے آزاد ہو جاؤں)۔
+      </Text>
+      <Text Language="English">
+        That these dimensions, this north and this south, like to the sun and moon in the end may set;
+      </Text>
+    </Verse>
+    <Verse ID="93">
+      <Text Language="Original">
+        از طلسم دوش و فردا بگذرم
+از مہ و مھر و ثریا بگذرم
+      </Text>
+      <Text Language="Urdu">
+        اور میں ماضی و مستقبل کے طلسم، اور مہ و مہر و ثرّیا کے جہان سے نکل جاؤں (قید زمان سے بھی آزاد ہو جاؤں)۔
+      </Text>
+      <Text Language="English">
+        I shall transcend the talisman of yesterday and tomorrow, transcend the moon, sun, Pleiades.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="95">
+      <Text Language="Original">
+        تو فروغ جاودان ما چون شرار
+یک دو دم داریم و آن ہم مستعار
+      </Text>
+      <Text Language="Urdu">
+        آپ کا نور جاودان ہے جب کہ ہماری ز ندگی شرارے کی مانند ایک دو مستعار لمحوں کی ہے۔
+      </Text>
+      <Text Language="English">
+        Thou art eternal splendour; we are like sparks; a breath or two we possess, and that too borrowed.
+      </Text>
+    </Verse>
+    <Verse ID="97">
+      <Text Language="Original">
+        اے تو نشناسی نزاع مرگ و زیست
+رشک بر یزدان برد این بندہ کیست
+      </Text>
+      <Text Language="Urdu">
+        آپ مرگ و حیات کی کشمکش سے بے خبر ہیں، یہ بندہ کون ہے جو اللہ تعالے پر بھی رشک کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        You who know naught of the battle of death and life, who is this slave who would emulate even God?
+      </Text>
+    </Verse>
+    <Verse ID="99">
+      <Text Language="Original">
+        بندۂ آفاق گیر و ناصبور
+نے غیاب او را خوش آید نے حضور
+      </Text>
+      <Text Language="Urdu">
+        اگرچہ یہ بندہ آفاق گیر ہے مگر پھر بھی ناصبور ہے، نہ اسے ہجر خوش کرتا ہے نہ وصال (وصال میں مرگ آرزو، ہجر میں لذّت طلب)۔
+      </Text>
+      <Text Language="English">
+        This slave, impatient, conquering all horizons, finds pleasure neither in absence nor in presence.
+      </Text>
+    </Verse>
+    <Verse ID="101">
+      <Text Language="Original">
+        آنیم من جاودانی کن مرا
+از زمینی آسمانی کن مرا
+      </Text>
+      <Text Language="Urdu">
+        آپ کا میری زندگی ایک لمحہ کی زندگی ہے، اسے جاودان کر دیجیئے، میرا تعلق زمین سے ہے مجھے آسمانی بنا دیجیئے۔
+      </Text>
+      <Text Language="English">
+        I am a momentary thing: make me eternal, out of my earthiness make me celestial.
+      </Text>
+    </Verse>
+    <Verse ID="103">
+      <Text Language="Original">
+        ضبط در گفتار و کرداری بدہ
+جادہ ہا پیداست رفتاری بدہ
+      </Text>
+      <Text Language="Urdu">
+        مجھے گفتار و کردار میں ضبط عطا فرمایئے، راستے سامنے ہیں مجھے ان پر چلنے کی توفیق عطا فرمایئے۔
+      </Text>
+      <Text Language="English">
+        Grant me precision both in speech and action: the ways are clear- give me the strength to walk.
+      </Text>
+    </Verse>
+    <Verse ID="105">
+      <Text Language="Original">
+        آنچہ گفتم از جہانے دیگر است
+این کتاب از آسمانی دیگر است
+      </Text>
+      <Text Language="Urdu">
+        میں نے جو کچھ کہا ہے ایک اور جہان کی بات ہے، اس کتاب کا تعلق ایک اور آسمان سے ہے۔
+      </Text>
+      <Text Language="English">
+        What I have said comes from another world; this book descends from another heaven.
+      </Text>
+    </Verse>
+    <Verse ID="107">
+      <Text Language="Original">
+        بحرم و از من کم آشوبی خطاست
+آنکہ در قعرم فرو آید کجاست
+      </Text>
+      <Text Language="Urdu">
+        میں بحر ہوں کم آبی میرے لیے نقص ہے، کہاں ہے وہ شخص جو میرے افکار (کی گہرائی) میں اترے؟
+      </Text>
+      <Text Language="English">
+        I am a sea; untumult in me is a fault; where is he who can plunge into my depths?
+      </Text>
+    </Verse>
+    <Verse ID="109">
+      <Text Language="Original">
+        یک جہان بر ساحل من آرمید
+از کران غیر از رم موجی ندید
+      </Text>
+      <Text Language="Urdu">
+        مجھے ایک جہان میرے ساحل پر آرام کر رہا ہے، مگر وہ کنارے پر بیٹھے سوائے موجوں کی حرکت کے اور کچھ نہیں دیکھتے۔
+      </Text>
+      <Text Language="English">
+        A whole world slumbered upon my shore and saw from the strand naught but the surge of a wave.
+      </Text>
+    </Verse>
+    <Verse ID="111">
+      <Text Language="Original">
+        من کہ نومیدم ز پیران کہن
+دارم از روزی کہ میآید سخن
+      </Text>
+      <Text Language="Urdu">
+        میں جو پیران کہن سے نا امید ہوں، میں آنے والے دور کی بات کہنا چاہتا ہوں۔
+      </Text>
+      <Text Language="English">
+        I, who despair of the great sages of old, have a word to say touching the day to come!
+      </Text>
+    </Verse>
+    <Verse ID="113">
+      <Text Language="Original">
+        بر جوانان سہل کن حرف مرا
+بہرشان پایاب کن ژرف مرا
+      </Text>
+      <Text Language="Urdu">
+        جوانوں کے لیے میرا کلام سمجھنا آسان کر دیجیئے، ان کے لیے میرے سخن کی گہرائیاں پا یاب کر دیجیئے۔
+      </Text>
+      <Text Language="English">
+        Render my speech easy unto the young, make my abyss for them attainable.
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

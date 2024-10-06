@@ -1,0 +1,53 @@
+<Poem ID="10" Name="بیداری" BookID="03" BookName="ضربِ کلیم" SectionID="02" SectionName="تعلیم و تربیت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        جس بندئہ حق بیں کی خودی ہوگئی بیدار 
+شمشیر کی مانند ہے برندہ و براق
+      </Text>
+      <Text Language="Urdu">
+        برندہ و براق: کاٹ دار اور چمکدار۔
+      </Text>
+      <Text Language="English">
+        AWAKENING
+A man with true belief, whose Self attentive grows like sturdy sword of steel, can cut and sheen it shows.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        اس کی نگہ شوخ پہ ہوتی ہے نمودار 
+ہر ذرے میں پوشیدہ ہے جو قوت اشراق
+      </Text>
+      <Text Language="Urdu">
+        قوت اشراق: روشن ہونا ، طلوع ہونا۔
+      </Text>
+      <Text Language="English">
+        The urge to shine and grow, within the mote concealed; 'fore his eyes sharp and keen is with much haste revealed.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        اس مرد خدا سے کوئی نسبت نہیں تجھ کو 
+تو بندئہ آفاق ہے، وہ صاحب آفاق
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        You have no link or bond with men of godly brand, you are a slave to world, on world he holds command.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        تجھ میں ابھی پیدا نہیں ساحل کی طلب بھی 
+وہ پاکی فطرت سے ہوا محرم اعماق
+      </Text>
+      <Text Language="Urdu">
+        اعماق: گہرائیاں، عمیق کی جمع۔
+      </Text>
+      <Text Language="English">
+        So far you have not formed for coast a love or taste: He knows the depths full well, by dint of nature chaste. 
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

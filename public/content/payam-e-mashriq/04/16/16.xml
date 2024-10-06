@@ -1,0 +1,54 @@
+<Poem ID="16" Name="میخانۂ فرنگ" BookID="07" BookName="پیامِ مشرق" SectionID="04" SectionName="نقش فرنگ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        یاد ایامی کہ بودم در خمستان فرنگ
+جام او روشنتر از آئینۂ اسکندر است
+      </Text>
+      <Text Language="Urdu">
+        مجھے وہ دن یاد ہیں جب میں میخانہء فرنگستان میں تھا، وہاں کے جام ، آئینہء سکندر سے بھی زیادہ چمکدار ہیں۔
+      </Text>
+      <Text Language="English">
+        THE WINE-SHOP OF THE WEST
+I well recall the days that I spent in the Wine-Shop of the West. Its wine-bowls shine like Alexander’s looking-glass.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        چشم مست می فروشش بادہ را پروردگار
+بادہ خواران را نگاہ ساقی اش پیغمبر است
+      </Text>
+      <Text Language="Urdu">
+        مے فروش کی چشم مست شراب کی پروردگار ہے، (شراب میں نشہ پیدا کرتی ہے) اور ساقی کی نگاہ بادہ نوشوں کے لیے پیغامبر ہے (مے فروش ان کا رب ہے اور ساقی ان کا پیغامبر )۔
+      </Text>
+      <Text Language="English">
+        Its saki’s eyes are as intoxicating as its wine, and every glance of theirs conveys a message to some drinker’s breast.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        جلوۂ او بی کلیم و شعلہ او بی خلیل
+عقل ناپروا متاع عشق را غارتگر است
+      </Text>
+      <Text Language="Urdu">
+        مگر (وہاں) کا جلوہ بغیر کلیم (علیہ) کے ہے اور شعلہ بغیر خلیل (علیہ) کے، ان کی لا پروا عقل متاع عشق کو برباد کر دیتی ہے۔
+      </Text>
+      <Text Language="English">
+        But O it has no Moses to experience epiphanies, no Abraham to undergo ordeals by fire. There intellect with careless ease robs Love of its entire possessions:
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        در ہوایش گرمی یک آہ بیتابانہ نیست
+رند این میخانہ را یک لغزش مستانہ نیست
+      </Text>
+      <Text Language="Urdu">
+        وہاں کی ہوا میں کسی آہ بیتاب کی گرمی نہیں، نہ اس شراب خانہ کا رند کوئی لغزش مستانہ رکھتا ہے۔
+      </Text>
+      <Text Language="English">
+        And there is no heat in its air of a fervent sigh. No one is so intoxicated by its wine as to sway on his feet.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

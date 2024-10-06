@@ -1,0 +1,53 @@
+<Poem ID="23" Name="" BookID="08" BookName="زبورِعجم" SectionID="01" SectionName="حصہ اول">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        عقل هم عشق است و از ذوق نگه بیگانه نیست
+لیکن این بیچارہ را آن جرأت رندانہ نیست
+      </Text>
+      <Text Language="Urdu">
+        عقل بھی عشق ہے اور ذوق نگاہ سے بیگانہ نہیں، البتہ اس بیچاری میں جراءت رندانہ نہیں (یہ پھونک پھونک کر قدم رکھتی ہے)۔
+      </Text>
+      <Text Language="English">
+        Intellect is passion too, and it knows the joy to view, but the poor unfortunate dares not as the inebriate.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        گرچہ می دانم خیال منزل ایجاد من است
+در سفر از پا نشستن ھمت مردانہ نیست
+      </Text>
+      <Text Language="Urdu">
+        اگرچہ میں جانتا ہوں کہ منزل کا خیال میری اپنی ایجاد ہے، لیکن سفر چھوڑ کے بیٹھ جانا ہمت مردانہ کے منافی ہے۔
+      </Text>
+      <Text Language="English">
+        Though I know the fantasy of the stage was shaped by me, yet it were a coward’s way on the journey to delay.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        ہر زمان یک تازہ جولانگاہ میخواہم ازو
+تا جنون فرمای من گوید دگر ویرانہ نیست
+      </Text>
+      <Text Language="Urdu">
+        میں اس سے ہر لمحہ ایک تازہ جولاں گاہ کا خواہاں رہتا ہوں، یہاں تک کہ میرا جنوں فرما (مجھے جنوں عطا کرنے والا) کہہ دے کہ اب اور کوئی ویرانہ باقی نہیں رہا۔
+      </Text>
+      <Text Language="English">
+        Every moment is my prayer that I may yet further fare, till my folly’s governor says there is no desert more.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        با چنین زور جنون پاس گریبان داشتم
+در جنون از خود نرفتن کار ہر دیوانہ نیست
+      </Text>
+      <Text Language="Urdu">
+        اس قدر زور جنوں میں گریباں کا پاس رکھنا ہر دیوانہ کا کام نہیں کہ وہ جنوں میں از خود رفتہ ہو۔
+      </Text>
+      <Text Language="English">
+        In such frenzy of the soul still I do not yield control: every madman cannot boast that to self he is not lost!
+(Translated by A.J. Arberry)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

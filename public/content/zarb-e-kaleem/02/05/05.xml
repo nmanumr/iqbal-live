@@ -1,0 +1,21 @@
+<Poem ID="05" Name="مصلحین مشرق" BookID="03" BookName="ضربِ کلیم" SectionID="02" SectionName="تعلیم و تربیت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        میں ہوں نومید تیرے ساقیان سامری فن سے
+کہ بزم خاوراں میں لے کے آئے ساتگیں خالی
+نئی بجلی کہاں ان بادلوں کے جیب و دامن میں
+پرانی بجلیوں سے بھی ہے جن کی آستیں خالی
+      </Text>
+      <Text Language="Urdu">
+        سامري فن: سامری کے طور طریقے والے جادوگر۔ 
+ساتگيں: پیالہ۔
+      </Text>
+      <Text Language="English">
+        Your vintners have despaired me much, like Samri, they can cast a spell: With empty bowls to East have conic; what they would do is hard to tell.
+No lighting new can ever flash in tap or clouds that float in sky: Of lightning old, their sleeves are void; how can they gain a Status high?
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

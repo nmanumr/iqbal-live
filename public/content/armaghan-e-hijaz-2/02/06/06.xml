@@ -1,0 +1,39 @@
+<Poem ID="06" Name="" BookID="11" BookName="ارمغانِ حجاز" SectionID="02" SectionName="حضور رسالت">
+  <Para Name="(1)">
+    <Verse ID="01">
+      <Text Language="Original">
+        غم پنہاں کہ بے گفتن عیان است
+چو آید بر زبان یک داستان است
+رہی پر پیچ و راہی خستہ و زار
+چراغش مردہ و شب درمیان است
+      </Text>
+      <Text Language="Urdu">
+        میرا پوشیدہ غم جو بغیر کہے ظاہر ہے؛ اسے جب زبان پر لایا جاتا ہے تو وہ ایک (طویل) داستان بن جاتا ہے۔ 
+راستہ پیچدار ہے اور مسافر تھکا ماندہ اور بیمار؛ اس کا چراغ بجھا ہوا ہے اور اسے رات کی تاریکی کا سامنا ہے۔
+      </Text>
+      <Text Language="English">
+        A hidden grief untold is clear, to lips when brought, a tale-we hear: 
+The ways are like a maze, seeker is weak, the lamp blown out, night amidst, also bleak.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="(2)">
+    <Verse ID="05">
+      <Text Language="Original">
+        بہ راغان لالہ رست از نو بہاران
+بہ صحرا خیمہ گستردند یاران
+مرا تنہا نشستن خوشتر آید
+کنار آب جوی کوہساران
+      </Text>
+      <Text Language="Urdu">
+        بہار کی آمد سے سبزہ زاروں میں لالہ کے پھول کھل اٹھے؛ دوستوں نے صحرا میں خیمے گاڑ دیے (برائے سیر و تفریح)۔ 
+(مگر) مجھے پہاڑ کے دامن میں ندی کے کنارے؛ اکیلے بیٹھنا ہی پسند ہے۔
+      </Text>
+      <Text Language="English">
+        In pits grow poppies from vernal tide, then the friends pitch tents on desert’s side. 
+It looks me nice to sit all alone, when fountains flow in a mountain zone.
+(Translated by Q A Kabir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

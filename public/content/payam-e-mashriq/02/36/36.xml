@@ -1,0 +1,41 @@
+<Poem ID="36" Name="الملک ﷲ" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        طارق چو بر کناررۂ اندلس سفینہ سوخت
+گفتند کار تو بہ نگاہ خرد خطاست
+      </Text>
+      <Text Language="Urdu">
+        طارق نے جب اندلس کے ساحل پر اپنی کشتیاں جلائیں ، تو اس کے ساتھیوں نے کہا: تیرا یہ کام عقل کی رو سے غلط ہے۔
+      </Text>
+      <Text Language="English">
+        GOD’S COUNTRY
+When Tariq burned his boats on Andalusia’s coast, his men observed: ‘It was an unwise thing to do.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        دوریم از سواد وطن باز چون رسیم
+ترک سبب ز روی شریعت کجا رواست
+      </Text>
+      <Text Language="Urdu">
+        ہم سرزمین وطن سے دور ہیں ، واپس کیسے پہنچیں گے؟ شریعت میں کہاں ترک سبب کی اجازت ہے۔
+      </Text>
+      <Text Language="English">
+        We are so far from home; how shall we now return? Foregoing means is wrong in the Divine Law’s view.’
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        خندید و دست خویش بشمشیر برد و گفت
+ہر ملک ملک ماست کہ ملک خدای ماست
+      </Text>
+      <Text Language="Urdu">
+        طارق مسکرایا، اس نے اپنا ہاتھ تلوار کے قبضے پر رکھا اور کہا؛ ہر ملک ہمارا ملک ہے کیونکہ ہمارے خدا کا ملک ہے۔
+      </Text>
+      <Text Language="English">
+        He laughed and, putting his hand on his sword, declared: ‘All lands are God’s and they are all our homeland too.’ (Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

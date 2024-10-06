@@ -1,0 +1,21 @@
+<Poem ID="22" Name="" BookID="01" BookName="بانگِ درا" SectionID="04" SectionName="ظریفانہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        جان جائے ہاتھ سے جائے نہ ست 
+ہے یہی اک بات ہر مذہب کا تت 
+چٹے بٹے ایک ہی تھیلی کے ہیں 
+ساہو کاری، بسوہ داری، سلطنت
+      </Text>
+      <Text Language="Urdu">
+        تت: روح۔
+ست: سچ۔
+      </Text>
+      <Text Language="English">
+        Life may be lost but truth should not be lost: This one principle is the core of all religions.
+They are the birds of the same feather; banking, landlordship, monarchy.
+(Translated by M.A.K. Khalil)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,54 @@
+<Poem ID="07" Name="مسلمان کا زوال" BookID="03" BookName="ضربِ کلیم" SectionID="01" SectionName="اسلام اور مسلمان">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        اگرچہ زر بھی جہاں میں ہے قاضی الحاجات 
+جو فقر سے ہے میسر، تو نگری سے نہیں
+      </Text>
+      <Text Language="Urdu">
+        قاضي الحاجات: حاجتیں یا ضرورتیں پوری کرنے والا۔
+      </Text>
+      <Text Language="English">
+        Though wealth and gold provide the worldly needs of man; but what Faqr can bestow, no wealth or gold e'er can.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        اگر جواں ہوں مری قوم کے جسور و غیور 
+قلندری مری کچھ کم سکندری سے نہیں
+      </Text>
+      <Text Language="Urdu">
+        جسور و غيور: دلیر اور غیرتمند۔
+      </Text>
+      <Text Language="English">
+        If youth of nation mine were jealous of their creed; my Qalandar's state won't mind Alexander's might indeed.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        سبب کچھ اور ہے، تو جس کو خود سمجھتا ہے 
+زوال بندہ مومن کا بے زری سے نہیں
+      </Text>
+      <Text Language="Urdu">
+        بے زري: دولت کا نہ ہونا۔
+      </Text>
+      <Text Language="English">
+        With ease you can divine to some thing else is due: Penury can not cause decline of Moslems True.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        اگر جہاں میں مرا جوہر آشکار ہوا 
+قلندری سے ہوا ہے، تو نگری سے نہیں
+      </Text>
+      <Text Language="Urdu">
+        آشکار: ظاہر۔
+جوہر: صلاحیت۔
+      </Text>
+      <Text Language="English">
+        Wealth has played no part to bring my worth to light; my Faqr this spell has cast, the share of wealth is slight.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

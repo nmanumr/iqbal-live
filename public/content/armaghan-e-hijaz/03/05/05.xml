@@ -1,0 +1,43 @@
+<Poem ID="05" Name="None" BookID="04" BookName="ارمغانِ حجاز" SectionID="03" SectionName="ملا زادہ ضیغم لولا بے کشمیری کا بیاض">
+  <Para>
+    <Verse ID="01">
+      <Text Language="Original">
+        دراج کی پرواز میں ہے شوکت شاہیں
+حیرت میں ہے صیاد، یہ شاہیں ہے کہ دراج!
+      </Text>
+      <Text Language="Urdu">
+        دراج: تیتر۔
+      </Text>
+      <Text Language="English">
+        In quail’s flight looks the hawk’s grandeur and grace, the hunter knows not, of quail or hawk’s face.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        ہر قوم کے افکار میں پیدا ہے تلطم
+مشرق میں ہے فردائے قیامت کی نمود آج
+      </Text>
+      <Text Language="Urdu">
+        تلاطم: طغیانی۔ 
+فردائے قیامت: کل آنے والی قیامت۔ 
+نمود: ظہور۔
+      </Text>
+      <Text Language="English">
+        In each race thought see a flood and storm, in East see the future doom’s day form.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        فطرت کے تقاضوں سے ہوا حشر پہ مجبور
+وہ مردہ کہ تھا بانگ سرافیل کا محتاج
+      </Text>
+      <Text Language="Urdu">
+        حشر: جب مردے دوبارہ زندہ ہوں گے۔
+      </Text>
+      <Text Language="English">
+        The nature forced him to bring a great doom, like dead he needed the Seraph’s horn zoom.
+[Translated by Q A Kabir]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

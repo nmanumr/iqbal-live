@@ -1,0 +1,30 @@
+<Poem ID="10" Name="پروانہ اور جگنو" BookID="02" BookName="‫بالِ جبریل" SectionID="04" SectionName="منظومات">
+  <Para Name="پروانہ">
+    <Verse ID="01">
+      <Text Language="Original">
+        پروانے کی منزل سے بہت دور ہے جگنو 
+کیوں آتش بے سوز پہ مغرور ہے جگنو
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        THE MOTH AND THE FIREFLY
+MOTH: The firefly is so far removed from the status of the moth! Why is it so proud of a fire that cannot burn?
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="جگنو">
+    <Verse ID="03">
+      <Text Language="Original">
+        اللہ کا سو شکر کہ پروانہ نہیں میں 
+دریوزہ گر آتش بیگانہ نہیں میں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        FIRE FLY: God be thanked a hundred times that I am not a moth: That I am no beggar of alien fire!
+(Translated by Mustansir Mir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,53 @@
+<Poem ID="17" Name="نسیم و شبنم" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="نسیم">
+    <Verse ID="01">
+      <Text Language="Original">
+        انجم کی فضا تک نہ ہوئی میری رسائی 
+کرتی رہی میں پیرہن لالہ و گل چاک
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        BREEZE AND DEW
+Breeze: I could not find access to tracts where stars like pendent lamps do shine tearing vest of tulips and the rose was main and foremost duty mine.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        مجبور ہوئی جاتی ہوں میں ترک وطن پر 
+بے ذوق ہیں بلبل کی نوا ہائے طرب ناک
+      </Text>
+      <Text Language="Urdu">
+        طرب ناک: خوشی سے بھری ہوئی ۔
+      </Text>
+      <Text Language="English">
+        I feel an inner urge so great to bid farewell to home and depart for joyful songs of nightingale, no zeal or zest to me impart.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        دونوں سے کیا ہے تجھے تقدیر نے محرم 
+خاک چمن اچھی کہ سرا پردہ افلاک
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        O dew, God's will has made you know full well, both park and heavens high what i's more precious in your eyes, the dust of park or dome of sky?
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="شبنم">
+    <Verse ID="07">
+      <Text Language="Original">
+        کھینچیں نہ اگر تجھ کو چمن کے خس و خاشاک 
+گلشن بھی ہے اک سر سرا پردہ افلاک
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Dew: If thorns and straws of worldly mead to cause a tension in you fail, then bear in mind, this lonely parks for heaven's dome is like a veil.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

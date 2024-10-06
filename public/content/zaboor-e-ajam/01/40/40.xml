@@ -1,0 +1,41 @@
+<Poem ID="40" Name="" BookID="08" BookName="زبورِعجم" SectionID="01" SectionName="حصہ اول">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        درین میخانہ اے ساقی ندارم محرمی دیگر
+کہ من شاید نخستین آدمم از عالمی دیگر
+      </Text>
+      <Text Language="Urdu">
+        اے ساقی! اس میخانے میں مجھے کوئی محرم راز نہیں ملتا؛ شاید میں آنے والے نئے دور کا پہلا آدمی ہوں۔
+      </Text>
+      <Text Language="English">
+        None other in this tavern is, Saki, to share my mysteries; am I the first (O who can tell) conceived in heaven, on earth to dwell?
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        دمی این پیکر فرسودہ را سازی کف خاکی
+فشانی آب و از خاک آتش انگیزی دمی دیگر
+      </Text>
+      <Text Language="Urdu">
+        کبھی آپ میرے اس پیکر فرسودہ کو کف چاک بنا دیتے ہیں؛ اور کبھی اس خاک پر آپ عشق چھڑک کر اس کے اندر آگ پیدا کر دیتے ہیں۔
+      </Text>
+      <Text Language="English">
+        A while this spent and weary frame Thou makest dust; and on the same scatterest water; lo I see fire in the ashes presently.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        بیار آن دولت بیدار و آن جام جہان بین را
+عجم را دادہ ئی ہنگامۂ بزم جمی دیگر
+      </Text>
+      <Text Language="Urdu">
+        آپ نے عجم کو ایک بار پھر بزم جم کا ہنگامہ عطا کیا ہے؛ اب اس عشق کی دولت بیدار اور جام جہاں بیں بھی عطا فرمائیے۔
+      </Text>
+      <Text Language="English">
+        Bring me that fortune ever new, the cup where lies the world to view, for, in the palace of the East, another Jamshid sits to feast.
+(Translated by A.J. Arberry)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

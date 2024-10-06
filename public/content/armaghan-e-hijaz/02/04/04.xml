@@ -1,0 +1,20 @@
+<Poem ID="04" Name="None" BookID="04" BookName="ارمغانِ حجاز" SectionID="02" SectionName="رباعیات">
+  <Para>
+    <Verse ID="01">
+      <Text Language="Original">
+        غریبی میں ہوں محسود امیری
+کہ غیرت مند ہے میری فقیری
+حذر اس فقر و درویشی سے، جس نے
+مسلماں کو سکھا دی سر بزیری
+      </Text>
+      <Text Language="Urdu">
+        محسود امیری: جس پر امیر بھی حسد کرے۔ 
+سر بزیری: کسی کے آگے جھکنا۔
+      </Text>
+      <Text Language="English">
+        I’m envied by rich in a poor state too, as envy for honour is my view. Shun the faqr’s form which may ever lead, a Muslim to bow in want and need.
+(Translated by Q A Kabir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

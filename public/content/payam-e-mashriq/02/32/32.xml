@@ -1,0 +1,61 @@
+<Poem ID="32" Name="زندگی" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        پرسیدم از بلند نگاہی حیات چیست
+گفتا مئی کہ تلخ تر او نکوتر است
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        LIFE
+I asked a lofty sage what Life might be. ‘The wine whose bitterest cup is best’, said he.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        گفتم کہ کرمک است و ز کل سر برون زند
+گفتا کہ شعلہ زاد مثال سمندر است
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Said I, ‘A vile worm rearing head from mire.’ Said he, ‘A salamander born of fire.’
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        گفتم کہ شر بفطرت خامش نھادہ اند
+گفتا کہ خیر او نشناسی ہمین شر است
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        ‘Its nature steeped in evil’, I pursued. Said he, ’Tis just this evil makes it good.’
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        گفتم کہ شوق سیر نبردش بمنزلی
+گفتا کہ منزلش بہمین شوق مضمر است
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        ‘It winds not to the goal, though it aspire.’ ‘The goal’, said he, ‘lies hid in that desire.’
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        گفتم کہ خاکی است و بخاکش ہمی دہند
+گفتا چو دانہ خاک شکافد گل تر است
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Said I, ‘Of earth it comes, to earth it goes.’ Said he, ‘The seed bursts earth, and is the rose.’ 
+(Translated by R.A. Nicholson)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

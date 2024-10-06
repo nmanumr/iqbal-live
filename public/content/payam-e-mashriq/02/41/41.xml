@@ -1,0 +1,54 @@
+<Poem ID="41" Name="عشق" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        عقلے کہ جہان سوزد یک جلوۂ بیباکش
+از عشق بیاموزد آئین جھانتابی
+      </Text>
+      <Text Language="Urdu">
+        عقل جس کا جلوہ ء بے باک دنیا کو جلا دیتا ہے؛ اس نے جہان کو روشن کرنے کا طریقہ عشق سے سیکھا ہے۔
+      </Text>
+      <Text Language="English">
+        LOVE
+To Intellect, which, if it chose, could set the universe aflame, learns from Love to illuminate, instead of burning up, its frame.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        عشق است کہ در جانت ہر کیفیت انگیزد
+از تاب و تب رومی تا حیرت فارابی
+      </Text>
+      <Text Language="Urdu">
+        رومی کی تڑپ اور چمک سے لے کر فارابی کی حیرت تک جتنی کیفیات ہیں وہ سب عشق ہی تیرے دل کے اندر پیدا کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        To Love it is that your soul owes its heightened states’ engenderment – from Rumi’s ardent passion to Farabi’s solemn wonderment.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        این حرف نشاط آور می گویم و میرقصم
+از عشق دل آساید با اینہمہ بیتابی
+      </Text>
+      <Text Language="Urdu">
+        میں یہ پرسرور حرف (شعر) گاتا ہوں اور رقص کرتا ہوں ، کہ عشق کی ساری بیتابیوں کے باوجود دل اسی سے سکون پاتا ہے۔
+      </Text>
+      <Text Language="English">
+        I sing these joy-inspiring words – I sing them and dance with delight – Love is a balsam for the heart despite its soul-tormenting might.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        ہر معنی پیچیدہ در حرف نمی گنجد
+یک لحظہ بدل در شو شاید کہ تو دریابی
+      </Text>
+      <Text Language="Urdu">
+        سارے مشکل معنی الفاظ میں نہیں سماتے؛ ایک لمحہ کے لیے اپنے دل کے اندر نظر ڈال شاید تو انہیں پا لے۔
+      </Text>
+      <Text Language="English">
+        Not every subtle point can be expressed in words. Consult a while your own heart: maybe you will see my point made in the heart’s own style.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

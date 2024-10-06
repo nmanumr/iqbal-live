@@ -1,0 +1,19 @@
+<Poem ID="24" Name="آزادی بحر" BookID="07" BookName="پیامِ مشرق" SectionID="04" SectionName="نقش فرنگ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بطی می گفت بحر آزاد گردید
+چنین فرمان ز دیوان خضر رفت
+نہنگی گفت رو ہر جا کہ خواہی
+ولی از ما نباید بے خبر رفت
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        THE FREEDOM OF THE SEA
+بطخ کہتی تھی، ہمارے لیے بحر میں (گھومنے پھرنے کی) پوری آزادی ہو گئی ہے۔ خضر (علیہ) کے دفتر سے یہ فرمان صادر ہوا ہے۔
+مگر مچھ بولا: جہاں چاہے پھر مگر ہم سے غافل نہ رہنا۔
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

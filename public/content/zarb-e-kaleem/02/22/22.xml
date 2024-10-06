@@ -1,0 +1,43 @@
+<Poem ID="22" Name="امتحان" BookID="03" BookName="ضربِ کلیم" SectionID="02" SectionName="تعلیم و تربیت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        کہا پہاڑ کی ندی نے سنگ ریزے سے 
+فتادگی و سرا فگندگی تری معراج!
+      </Text>
+      <Text Language="Urdu">
+        فتادگی: ایک جگہ پڑے رہنا، عاجزی۔ 
+سرا فگندگی: سر جھکانا۔
+      </Text>
+      <Text Language="English">
+        EXAMINATION
+Thus mountain stream to pebble spake: ‘This lowly state for height you take.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        ترا یہ حال کہ پامال و درد مند ہے تو 
+مری یہ شان کہ دریا بھی ہے مرا محتاج
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        You are tread upon and suffer deal, how nice! My need the rivers feel.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        جہاں میں تو کسی دیوار سے نہ ٹکرایا 
+کسے خبر کہ تو ہے سنگ خارہ یا کہ زجاج
+      </Text>
+      <Text Language="Urdu">
+        سنگ خارہ: ایک قسم کا سخت پتھر۔ 
+زجاج: شیشہ۔
+      </Text>
+      <Text Language="English">
+        You never clashed against a wall, don't know, a stone or glass to call’.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,86 @@
+<Poem ID="40" Name="ایک مکالمہ" BookID="01" BookName="بانگِ درا" SectionID="3a" SectionName="حصہ سوم">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        اک مرغ سرا نے یہ کہا مرغ ہوا سے 
+پردار اگر تو ہے تو کیا میں نہیں پردار!
+      </Text>
+      <Text Language="Urdu">
+        مرغ ہوا: آزاد پرندہ۔
+مرغ سرا: پالتو پرندہ۔
+      </Text>
+      <Text Language="English">
+        A DIALOGUE
+A domesticated bird once said to the wild bird: ‘If you have wings, do not I also have wings?
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        گر تو ہے ہوا گیر تو ہوں میں بھی ہوا گیر 
+آزاد اگر تو ہے، نہیں میں بھی گرفتار
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        If you are air-borne, I am also air-borne. If you are free I am also not a prisoner.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        پرواز، خصوصیت ہر صاحب پر ہے 
+کیوں رہتے ہیں مرغان ہوا مائل پندار؟
+      </Text>
+      <Text Language="Urdu">
+        مائل پندار: مغرور۔
+      </Text>
+      <Text Language="English">
+        All winged creatures are characterized by flight: Why then are wild birds inclined to be arrogant!’
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        مجروح حمیت جو ہوئی مرغ ہوا کی 
+یوں کہنے لگا سن کے یہ گفتار دل آزار
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        As the wild bird’s self-respect became wounded; he spoke thus on hearing this heart-rending talk:
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        کچھ شک نہیں پرواز میں آزاد ہے تو بھی 
+حد ہے تری پرواز کی لیکن سر دیوار
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        ‘There is no doubt you also are free for flight. But, the limit of your flight is only up to the wall.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        واقف نہیں تو ہمت مرغان ہوا سے 
+تو خاک نشیمن، انھیں گردوں سے سروکار
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Are you unacquainted with the courage of the wild birds? You live on the dust; they are concerned with the sky.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        تو مرغ سرائی، خورش از خاک بجوئی 
+ما در صدد دانہ بہ انجم زدہ منقار
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        You are a household bird; you seek food in the dust. We strike the star with our beak in search of the grain.’
+[Translated by Dr M A K Khalil]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,21 @@
+<Poem ID="04" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بہ باغان باد فروردین دہد عشق
+بہ راغان غنچہ چون پروین دہد عشق
+شعاع مہر او قلزم شکاف است
+بہ ماھے دیدۂ رہ بین دہد عشق
+      </Text>
+      <Text Language="Urdu">
+        عشق باغوں کو باد بہاری عطا کرتا ہے؛ اور گلشنوں میں ستاروں کی مانند سفید غنچے پیدا کرتا ہے ۔
+آفتاب عشق کی شعاع سمندر چیر جاتی ہے؛ وہ (اس کی تہ میں ) مچھلی کو دیدہء راہ بیں عطا کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        Love gives the garden the soft breeze of May, Love lights the star-buds in the meadow gay. 
+The ray of passion plunges through the deep, Love gives the fishes sight to see the way. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

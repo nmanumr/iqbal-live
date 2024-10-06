@@ -1,0 +1,59 @@
+<Poem ID="10" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="03" SectionName="می باقے">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        ہوای فرودین در گلستان میخانہ میسازد
+سبو از غنچہ می ریزد ز گل پیمانہ می سازد
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The breeze of spring makes of the garden a wine-tavern. It casts buds into jar-shapes, and makes of flowers cups.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        محبت چون تمام افتد رقابت از میان خیزد
+بہ طوف شعلہ ئی پروانہ با پروانہ می سازد
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        When love attains its climax, then no rivalry remains. In flitting round a candle; moths join hands with one another.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        بہ ساز زندگی سوزی بہ سوز زندگی سازے
+چہ بیدردانہ می سوزد چہ بیتابانہ می سازد
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Life builds, but also burns; and what it burns it builds again. How ruthlessly it burns! How eagerly it builds!
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        تنش از سایۂ بال تذروی لرزہ می گیرد
+چو شاہین زادۂ اندر قفس با دانہ می سازد
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        An eagle in a cage, when he accepts food offered, becomes so timid that he trembles on seeing shadows of quails’ wings.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        بگو اقبال را اے باغبان رخت از چمن بندد
+کہ این جادو نوا ما را ز گل بیگانہ می سازد
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        O gardener, tell Iqbal to be off from the garden, for this spellbinding singer makes men forget the roses. (Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

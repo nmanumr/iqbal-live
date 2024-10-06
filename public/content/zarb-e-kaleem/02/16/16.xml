@@ -1,0 +1,52 @@
+<Poem ID="16" Name="تربیت" BookID="03" BookName="ضربِ کلیم" SectionID="02" SectionName="تعلیم و تربیت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        زندگی کچھ اور شے ہے، علم ہے کچھ اور شے
+زندگی سوز جگر ہے، علم ہے سوز دماغ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        UPBRINGING
+Existence and knowledge both are poles apart, life burns the soul, whereas lore makes it smart.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        علم میں دولت بھی ہے، قدرت بھی ہے، لذت بھی ہے 
+ایک مشکل ہے کہ ہاتھ آتا نہیں اپنا سراغ
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Joy, wealth and power all, to lore are due, how irksome that to Self it yields no clue.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        اہل دانش عام ہیں، کم یاب ہیں اہل نظر 
+کیا تعجب ہے کہ خالی رہ گیا تیرا ایاغ!
+      </Text>
+      <Text Language="Urdu">
+        ایاغ: پیالہ۔
+      </Text>
+      <Text Language="English">
+        No dearth of lettered men, ah few! Provide the bowl with wine of gnosis like True Guide.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        شیخ مکتب کے طریقوں سے کشاد دل کہاں 
+کس طرح کبریت سے روشن ہو بجلی کا چراغ!
+      </Text>
+      <Text Language="Urdu">
+        کبریت: گندھک، آج کل عربی اور فارسی میں دیا سلائی کو بھی کہتے ہیں۔
+      </Text>
+      <Text Language="English">
+        The ways of teachers don't expand the heart, match stick can't light to electric lamp impart.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

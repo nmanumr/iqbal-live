@@ -1,0 +1,44 @@
+<Poem ID="05" Name="معزول شہنشاہ" BookID="04" BookName="ارمغانِ حجاز" SectionID="01" SectionName="ابتدا">
+  <Para>
+    <Verse ID="01">
+      <Text Language="Original">
+        ہو مبارک اس شہنشاہ نکو فرجام کو
+جس کی قربانی سے اسرار ملوکیت ہیں فاش
+      </Text>
+      <Text Language="Urdu">
+        نکو فرجام: نیک انجام۔ 
+اسرار ملوکيت: بادشاہت کے راز۔
+      </Text>
+      <Text Language="English">
+        A DETHRONED KING
+I hail, that king great who earned a good name’ whose sacrifice reveals the kingship’s game.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        'شاہ' ہے برطانوی مندر میں اک مٹی کا بت
+جس کو کر سکتے ہیں، جب چاہیں پجاری پاش پاش
+      </Text>
+      <Text Language="Urdu">
+        پاش پاش: ٹکڑے ٹکڑے۔
+      </Text>
+      <Text Language="English">
+        The king in British fane, idol of dust, to whom the old baptists if wish can burst.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        ہے یہ مشک آمیز افیوں ہم غلاموں کے لیے
+ساحر انگلیس! مارا خواجہ دیگر تراش
+      </Text>
+      <Text Language="Urdu">
+        اے انگریز جادوگر! ہمارے لیے کوئی دوسرا آقا بنا۔ 
+مشک آميز افيوں: خشبودار افیون۔
+      </Text>
+      <Text Language="English">
+        They keep a musky poppy for slaves like us; O English charmer carve a new king for us.
+[Translated by Q A Kabir]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

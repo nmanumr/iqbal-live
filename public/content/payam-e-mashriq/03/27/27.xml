@@ -1,0 +1,53 @@
+<Poem ID="27" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="03" SectionName="می باقے">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        دلیل منزل شوقم بہ دامنم آویز
+شرر ز آتش نابم بخاک خویش آمیز
+      </Text>
+      <Text Language="Urdu">
+        میں منزل شوق کا راہبر ہوں ۔ میرا دامن پکڑ لے؛ خالص آگ کا شرر ہوں، مجھے اپنی خاک میں ملا لے۔
+      </Text>
+      <Text Language="English">
+        I am a guidepost to the goal of heart’s desire. Adhere to me. Mix with your dust a spark of my pure fire.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        عروس لالہ برون آمد از سراچہ ناز
+بیا کہ جان تو سوزم ز حرف شوق انگیز
+      </Text>
+      <Text Language="Urdu">
+        میری آواز سے عروس لالہ حجلہء ناز سے باہر آگئی، آ کہ میں اپنے شوق انگیز اشعار سے تیری جان کو بھی جلا دوں۔
+      </Text>
+      <Text Language="English">
+        The tulip-bride has come out of its boudoir. Come, let me fire your soul with passion-stimulating talk.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        بہر زمانہ بہ اسلوب تازہ میگویند
+حکایت غم فرہاد و عشرت پرویز
+      </Text>
+      <Text Language="Urdu">
+        غم فرہاد اور عشرت پرویز کی کہانی، ہر دور میں نئے انداز سے بیان کی جاتی ہے۔
+      </Text>
+      <Text Language="English">
+        The tale of Farhad’s grief and of Parvez’s happiness is told in every age in different ways.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        اگرچہ زادۂ ہندم فروغ چشم من است۔
+ز خاک پاک بخارا و کابل و تبریز
+      </Text>
+      <Text Language="Urdu">
+        اگرچہ میں ہند میں پیدا ہوا ہوں مگر تیری آنکھ ، بخارا، کابل، اور تبریز کی خاک پاک سے روشن ہے۔
+      </Text>
+      <Text Language="English">
+        Though born in India, I draw my inspiration from the hallowed dust of Kabul and Bokhara and Tabriz. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

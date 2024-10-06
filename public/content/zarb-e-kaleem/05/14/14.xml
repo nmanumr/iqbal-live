@@ -1,0 +1,40 @@
+<Poem ID="14" Name="اہل مصر سے" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        خود ابوالہول نے یہ نکتہ سکھایا مجھ کو 
+وہ ابوالہول کہ ہے صاحب اسرار قدیم
+      </Text>
+      <Text Language="Urdu">
+        ابوالہول: مصر میں احرام کے پاس ایک بہت بڑا بت ہے جو ایک چٹان کو تراش کر تیار کیا گیا ہے؛ اس کا دھڑ شیر کا ہے اور چہرہ انسان کا۔
+      </Text>
+      <Text Language="English">
+        TO THE EGYPTIANS
+By Sphinx this subtle point to me was told; the Sphinx, whose breast holds secrets old.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        دفعتہً جس سے بدل جاتی ہے تقدیر امم 
+ہے وہ قوت کہ حریف اس کی نہیں عقل حکیم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Might at once can change a nation's fate, but wisdom is not its match and mate.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        ہر زمانے میں دگر گوں ہے طبیعت اس کی 
+کبھی شمشیر محمد ہے، کبھی چوب کلیم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Change its wont e'ery age, though odd, now Mohammad's sword, then Moses' Rod. 
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,21 @@
+<Poem ID="43" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بہ خود باز آورد رند کہن را
+می برنا کہ من در جام کردم
+من این می چون مغان دور پیشین
+ز چشم مست ساقی وام کردم
+      </Text>
+      <Text Language="Urdu">
+        میں نے جام میں جو جوان شراب ڈالی، وہ رند کہن کو دوبارہ ہوش میں لے آئی۔
+پہلے دور کے پیران مغاں کی مانند، میں نے بھی یہ شراب ساقی کی چشم مست سے قرض لی ہے۔
+      </Text>
+      <Text Language="English">
+        I offer you a strange, new kind of wine, which makes old tipplers sober, sane and wise.
+And like the mystical Magi of old I borrowed it from the Cupbearer’s eyes. 
+[Translated by M Hadi Hussain]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

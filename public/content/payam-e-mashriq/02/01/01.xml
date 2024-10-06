@@ -1,0 +1,54 @@
+<Poem ID="01" Name="گل نخستین" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        ہنوز ہمنفسی در چمن نمی بینم
+بہار می رسد و من گل نخستینم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        بہ آب جو نگرم خویش را نظارہ کنم
+بہ این بھانہ مگر روی دیگری بینم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        بخامہ ئی کہ خط زندگی رقم زدہ است
+نوشتہ اند پیامی بہ برگ رنگینم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        دلم بدوش و نگاہم بہ عبرت امروز
+شہید جلوۂ فردا و تازہ آئینم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        ز تیرہ خاک دمیدم قبای گل بستم
+وگرنہ اختر واماندہ ئی ز پروینم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

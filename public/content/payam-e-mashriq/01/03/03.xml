@@ -1,0 +1,21 @@
+<Poem ID="03" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        دل من روشن از سوز درون است
+جہان بین چشم من از اشک خون است
+ز رمز زندگے بیگانہ تر باد
+کسی کو عشق را گوید جنون است
+      </Text>
+      <Text Language="Urdu">
+        میرا دل سوز درون سے روشن ہے؛ اشک خون کے باعث میری آنکھ جہان بیں ہے۔
+جو شخص عشق کو جنوں کہتا ہے، اسے سر حیات سے بےگانہ تر سمجھ۔
+      </Text>
+      <Text Language="English">
+        My heart is bright with burning inwardly, mine eye weeps blood, yet all the world does see;
+Let him still less Life’s mystery attain who says that Love is but insanity!
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

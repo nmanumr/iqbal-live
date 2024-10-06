@@ -1,0 +1,20 @@
+<Poem ID="71" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        نماید آنچہ ہست این وادی گل
+درون لالۂ آتش بجان چیست
+بچشم ما چمن یک موج رنگ است
+کہ می داند بہ چشم بلبلان چیست؟
+      </Text>
+      <Text Language="Urdu">
+        کیا یہ وادیء گل وہی نظر آتی ہے ، جو وہ ہے؛ کیا یہ ہم جانتے ہیں کہ لالہء آتشیں کے اندر کیا ہے؟ 
+ہمیں تو چمن ایک موج رنگ نظر آتا ہے؛ کون جانتا ہے کہ بلبل کی آنکھ اسے کیا دیکھتی ہے؟
+      </Text>
+      <Text Language="English">
+        This vale of roses, is it as it seems? What makes the tulip’s fiery heart to glow?
+A sea of colours is the mead we view: How nightingales behold it, who can know?
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

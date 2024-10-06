@@ -1,0 +1,42 @@
+<Poem ID="20" Name="حقیقت" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        عقاب دوربین جوئینہ را گفت
+نگاہم آنچہ می بیند سراب است
+      </Text>
+      <Text Language="Urdu">
+        عقاب تیز نظر نے جوئینہ سے کہا، میری نظر جو کچھ دیکھتی ہے وہ سراب ہے۔
+      </Text>
+      <Text Language="English">
+        REALITY
+The eagle, who sees far, said to the swan, ‘My eyes see nothing but a bright mirage.’
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        جوابش داد آن مرغ حق اندیش
+تو می بینی و من دانم کہ آبست
+      </Text>
+      <Text Language="Urdu">
+        اس راست فکر پرندے نے جواب دیا، تو صرف دیکھتا ہے اور میں جانتا ہوں کہ یہ پانی ہے۔
+      </Text>
+      <Text Language="English">
+        That truthful bird replied, ‘You see, and I know that you see, a watery expanse.’
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        صداے ماہی آمد از تہ بحر
+کہ چیزی ہست و ہم در پیچ و تاب است
+      </Text>
+      <Text Language="Urdu">
+        دریا کے نبچے مچھلی کی آواز آئی ، ہاں، کوئی چیز ہے جو پیچ و تاب کھا رہی ہے ( حقیقت کسی پر پوری طرح واضح نہیں)۔
+      </Text>
+      <Text Language="English">
+        From the sea’s depth arose a fish’s cry, ‘There is something in an unceasing dance.’
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

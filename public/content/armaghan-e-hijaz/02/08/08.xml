@@ -1,0 +1,22 @@
+<Poem ID="08" Name="None" BookID="04" BookName="ارمغانِ حجاز" SectionID="02" SectionName="رباعیات">
+  <Para>
+    <Verse ID="01">
+      <Text Language="Original">
+        حدیث بندۂ مومن دل آویز
+جگر پر خوں، نفس روشن، نگہ تیز
+میسر ہو کسے دیدار اس کا
+کہ ہے وہ رونق محفل کم آمیز
+      </Text>
+      <Text Language="Urdu">
+        بندئہ مومن: مومن کی کہانی۔ حدیث
+دل آویز:دل لبھانے والا۔ 
+کم آمیز: کم ملنے جلنے والا۔
+      </Text>
+      <Text Language="English">
+        The talk of a Muslim is always sweet, who holds blue blood, bright self, eyes sharp and neat.
+If one is lucky to see his face, he’s shy to meet, though the function’s meetings’ grace. (Grace, occasions’ as we say you will grace the occasion with your presence (ins) or function’s grace)
+(Translated by Q A Kabir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

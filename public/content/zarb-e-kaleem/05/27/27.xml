@@ -1,0 +1,33 @@
+<Poem ID="27" Name="ایک بحری قزاق اور سکندر" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="سکندر">
+    <Verse ID="01">
+      <Text Language="Original">
+        صلہ تیرا تری زنجیر یا شمشیر ہے میری 
+کہ تیری رہزنی سے تنگ ہے دریا کی پہنائی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        A PIRATE AND ALEXANDER
+Alexander: Is your retribution shackles or cold steel, your violence on high seas, all sailors feel?
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="قزاق">
+    <Verse ID="03">
+      <Text Language="Original">
+        سکندر! حیف، تو اس کو جواں مردی سمجھتا ہے 
+گوارا اس طرح کرتے ہیں ہم چشموں کی رسوائی؟ 
+ترا پیشہ ہے سفاکی، مرا پیشہ ہے سفاکی 
+کہ ہم قزاق ہیں دونوں، تو میدانی، میں دریائی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Pirate: Alas! Alexander, you deem it void of blame, do men of same craft bear each other's shame?
+Your craft is blood-shed and my craft the same, we are both bandits, is diverse fields play the game? 
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,343 @@
+<Poem ID="02" Name="حرکت بجنت الفردوس" BookID="09" BookName="جاوید نامہ" SectionID="08" SectionName="آن سوی افلاک">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        در گذشتم از حد این کائنات
+پا نھادم در جہان بے جہات
+      </Text>
+      <Text Language="Urdu">
+        جنت الفردوس کی طرف روانگی۔
+میں اس کائنات کی حد سے گزر گیا اور میں نے بے جہات جہان کے اندر قدم رکھا۔
+      </Text>
+      <Text Language="English">
+        DEPARTURE FOR THE GARDEN OF PARADISE
+I passed beyond the bounds of this universe and set foot in the undimensioned world;
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        بے یمین و بے یسار است این جہان
+فارغ از لیل و نہار است این جہان
+      </Text>
+      <Text Language="Urdu">
+        یہ جہان دائیں بائیں اور دن رات کے بغیر تھا۔
+      </Text>
+      <Text Language="English">
+        A world without both right and left, a world devoid of night and day.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        پیش او قندیل ادراکم فسرد
+حرف من از ہیبت معنی بمرد
+      </Text>
+      <Text Language="Urdu">
+        وہ جہان دیکھ کر میری سمجھ کا چراغ گل ہو گیا؛ معنی کی ہیبت سے یارائے الفاظ نہ رہا۔
+      </Text>
+      <Text Language="English">
+        Before it the lantern of my perception dimmed, my words died in awe of the meaning.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        با زبان آب و گل گفتار جان
+در قفس پرواز میآید گران
+      </Text>
+      <Text Language="Urdu">
+        جان کی باتیں آب و گل کی زبان سے ادا نہیں کی جا سکتیں ؛ پرندے کے لیے قفس کے اندر پرواز کرنا بہت مشکل ہے۔
+      </Text>
+      <Text Language="English">
+        To speak of the spirit with the tongue of water and clay – it is very hard to soar in a cage!
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        اندکے اندر جھان دل نگر
+تا ز نور خود شوی روشن بصر
+      </Text>
+      <Text Language="Urdu">
+        ذرا اپنے دل کے جہان پر نگاہ ڈال ؛ تاکہ تیری بصارت اپنے نور سے روشن ہو جائے۔
+      </Text>
+      <Text Language="English">
+        Regard a little while the world of the heart that you may win clear vision by the light of the Self.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        چیست دل یک عالم بے رنگ و بوست
+عالم بے رنگ و بو بے چار سوست
+      </Text>
+      <Text Language="Urdu">
+        دل کیا ہے؟ بے رنگ و بو اور بے چار سو جہان۔
+      </Text>
+      <Text Language="English">
+        What is the heart? A world without colour and scent, a world without colour and scent and without dimensions.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        ساکن و ہر لحظہ سیار است دل
+عالم احوال و افکار است دل
+      </Text>
+      <Text Language="Urdu">
+        دل ساکن بھی ہے اور ہر لحظہ سیار بھی؛ یہ کیفیات اور افکار کا جہان ہے۔
+      </Text>
+      <Text Language="English">
+        The heart is at rest, yet every moment in motion; the heart is a world of spiritual states and thoughts.
+ا
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        از حقایق تا حقایق رفتہ عقل
+سیر او بے جادہ و رفتار و نقل
+      </Text>
+      <Text Language="Urdu">
+        عقل بغیر راستے، رفتا اور نقل مکانی کے ایک حقیقت سے دوسری حقیقت کی طرف بڑھتی ہے۔
+      </Text>
+      <Text Language="English">
+        Reason makes its way from fact to fact; it travels without highroad and tramping and transport;
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        صد خیال و ہر یک از دیگر جداست
+این بگردون آشنا آن نارساست
+      </Text>
+      <Text Language="Urdu">
+        (قلب کے اندر) سینکڑوں خیالات آتے ہیں اور ہر ایک دوسرے سے جدا ہے؛ کوئی گردوں آشنا اور کوئ نا رسا۔
+      </Text>
+      <Text Language="English">
+        A hundred images, each different from the other, this one acquaint with heaven, that one unattaining.
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        کس نگوید این کہ گردون آشناست
+بر یمین آن خیال نارساست
+      </Text>
+      <Text Language="Urdu">
+        مگر کوئی شخص یہ نہیں کہتا کہ گردوں آشنا خیال نا رسا خیال کے دائیں یا (بائیں) جانب ہے۔
+      </Text>
+      <Text Language="English">
+        No one says that this which is acquaint with heaven is on the right hand of that unattaining image,
+      </Text>
+    </Verse>
+    <Verse ID="21">
+      <Text Language="Original">
+        یا سروری کاید از دیدار دوست
+نیم گامی از ہوای کوی اوست
+      </Text>
+      <Text Language="Urdu">
+        نہ کوئی یہ کہتا ہے کہ دیدار دوست سے جو سرور حاصل ہوتا ہے وہ کوئے یار کی خواہش سے نصف قدم کے فاصلے پر ہے۔
+      </Text>
+      <Text Language="English">
+        Or that the joy which comes from beholding the beloved is but half a pace from the air of His street.
+      </Text>
+    </Verse>
+    <Verse ID="23">
+      <Text Language="Original">
+        چشم تو بیدار باشد یا بخواب
+دل ببیند بے شعاع آفتاب
+      </Text>
+      <Text Language="Urdu">
+        تیری آنکھ بیدار ہو یا خواب میں، تیرا قلب آفتاب کی روشنی کے بغیر دیکھتا رہتا ہے۔
+      </Text>
+      <Text Language="English">
+        Your eyes may be wakeful or asleep; the heart sees without the rays of the sun.
+      </Text>
+    </Verse>
+    <Verse ID="25">
+      <Text Language="Original">
+        آن جہان را بر جہان دل شناس
+من چگویم زانچہ ناید در قیاس
+      </Text>
+      <Text Language="Urdu">
+        جنت کو جہان دل کی مثال سے سمجھ کیونکہ جو کچھ میں کہہ رہا ہوں وہ قیاس سے ماورا ہے۔
+      </Text>
+      <Text Language="English">
+        Know that world by the world of the heart – yet what shall I say of what defies analogy?
+      </Text>
+    </Verse>
+    <Verse ID="27">
+      <Text Language="Original">
+        اندر آن عالم جھانی دیگری
+اصل او از کن فکانی دیگری
+      </Text>
+      <Text Language="Urdu">
+        عالم آخرت مختلف جہان ہے؛ اس کی بنیاد اور کن فکان پر ہے۔
+      </Text>
+      <Text Language="English">
+        In that universe was another world whose origin was from another Divine fiat;
+      </Text>
+    </Verse>
+    <Verse ID="29">
+      <Text Language="Original">
+        لازوال و ھر زمان نوع دگر
+ناید اندر وھم و آید در نظر
+      </Text>
+      <Text Language="Urdu">
+        وہ لا زوال ہے اور ہر زمان اس کی نوعیت بدلتی رہتی ہے؛ وہ سمجھ میں نہیں آتا البتہ اسے دیکھا جا سکتا ہے۔
+      </Text>
+      <Text Language="English">
+        Undecaying, and every moment transformed, unimaginable, yet there clearly visible;
+      </Text>
+    </Verse>
+    <Verse ID="31">
+      <Text Language="Original">
+        ہر زمان او را کمالے دیگری
+ہر زمان او را جمالے دیگری
+      </Text>
+      <Text Language="Urdu">
+        ہر لحظہ اس کا نیا کمال اور نیا جمال نظر آتا ہے۔
+      </Text>
+      <Text Language="English">
+        Every moment clothed in a new perfection, every moment clad in a new beauty.
+      </Text>
+    </Verse>
+    <Verse ID="33">
+      <Text Language="Original">
+        روزگارش بے نیاز از ماہ و مہر
+گنجد اندر ساحت او نہ سپہر
+      </Text>
+      <Text Language="Urdu">
+        اس کا زمانہ چاند سورج سے بے نیاز ہے؛ اس کی وسعت کے اندر نو آسمان سما جاتے ہیں۔
+      </Text>
+      <Text Language="English">
+        Its time had no need of moon and sun; in its expanse the nine spheres are contained.
+      </Text>
+    </Verse>
+    <Verse ID="35">
+      <Text Language="Original">
+        ہر چہ در غیب است آید روبرو
+پیش از آن کز دل بروید آرزو
+      </Text>
+      <Text Language="Urdu">
+        دل کے اندر کسی چیز کی خواہش پیدا ہوتے ہی وہ چیز غائب سے خود بخود آ موجود ہو گی۔
+      </Text>
+      <Text Language="English">
+        Whatever is in the Unseen comes face to face even before the desire for it issues from the heart.
+      </Text>
+    </Verse>
+    <Verse ID="37">
+      <Text Language="Original">
+        در زبان خود چسان گویم کہ چیست
+این جہان نور و حضور و زندگیست
+      </Text>
+      <Text Language="Urdu">
+        میں اپنی زبان میں کیا کہوں کہ وہ جہان کیا ہے؛ حنت، حور، حضور اور زندگی ہے۔
+      </Text>
+      <Text Language="English">
+        How can I tell in my own tongue what it is, this world? It is light, and presence, and life.
+      </Text>
+    </Verse>
+    <Verse ID="39">
+      <Text Language="Original">
+        لالہ ھا آسودہ در کہسار ہا
+نہر ھا گردندہ در گلزار ہا
+      </Text>
+      <Text Language="Urdu">
+        وہاں کے پہاڑوں میں لالے کے پھول تر و تازہ ہیں؛ اور اس کے باغات میں نہریں رواں ہیں۔
+      </Text>
+      <Text Language="English">
+        Tulips repose amidst the mountains, rivers meander in the rose -gardens;
+      </Text>
+    </Verse>
+    <Verse ID="41">
+      <Text Language="Original">
+        غنچہ ہای سرخ و اسپید و کبود
+از دم قدوسیان او را گشود
+      </Text>
+      <Text Language="Urdu">
+        وہاں کی سرخ و سفید اور نیلی کلیاں نفس ملکوتی سے کھلتی ہیں۔
+      </Text>
+      <Text Language="English">
+        Buds crimson, white and blue blossom with the breath of the holy ones;
+      </Text>
+    </Verse>
+    <Verse ID="43">
+      <Text Language="Original">
+        آبہا سیمین، ہوا ہا عنبرین
+قصرھا با قبہ ہای زمردین
+      </Text>
+      <Text Language="Urdu">
+        شفاف پانی ، عنبریں ہوا ، زمردیں گنبدوں والے محل۔
+      </Text>
+      <Text Language="English">
+        Its waters silver, the air ambergris, palaces with domes of emerald,
+      </Text>
+    </Verse>
+    <Verse ID="45">
+      <Text Language="Original">
+        خیمہ ہا یاقوت گون زرین طناب
+شاہدان با طلعت آئینہ تاب
+      </Text>
+      <Text Language="Urdu">
+        یاقوتی رنگ کے خیمے جن کی طنابیں سنہری تھیں ؛ ان کے اندر آئینے کی طرح چمکتے ہو‏ئے چہرے والی حوریں فروکش تھیں۔
+      </Text>
+      <Text Language="English">
+        Tents of ruby with golden ropes, beauties with countenances radiant as a mirror.
+      </Text>
+    </Verse>
+    <Verse ID="47">
+      <Text Language="Original">
+        گفت رومی "اے گرفتار قیاس
+در گذر از اعتبارات حواس
+      </Text>
+      <Text Language="Urdu">
+        رومی نے کہا 'اے گرفتار قیاس، اپنے ہوس کے مشاہدات سے آگے بڑھ۔
+      </Text>
+      <Text Language="English">
+        رومی نے کہا 'اے گرفتار قیاس، اپنے ہوس کے مشاہدات سے آگے بڑھ۔
+      </Text>
+    </Verse>
+    <Verse ID="49">
+      <Text Language="Original">
+        از تجلی کارہای خوب و زشت
+می شود آن دوزخ این گردد بہشت
+      </Text>
+      <Text Language="Urdu">
+        حق تعالے کی تجلّی سے اچھے اعمال بہشت میں تبدیل ہو جاتے ہیں اور برے اعمال دوزخ کی صورت اختیار کر لیتے ہیں۔
+      </Text>
+      <Text Language="English">
+        Acts fair and foul derive out of manifestation, the latter turning to Hell, the former to Heaven;
+      </Text>
+    </Verse>
+    <Verse ID="51">
+      <Text Language="Original">
+        این کہ بینی قصر ہای رنگ رنگ
+اصلش از اعمال و نے از خشت و سنگ
+      </Text>
+      <Text Language="Urdu">
+        یہ جو تو رنگا رنگ محل دیکھ رہا ہے ان کی اصل اعمال سے ہے، اینٹ پتھر سے نہیں۔
+      </Text>
+      <Text Language="English">
+        These many-coloured palaces you behold are built of deeds, not of bricks and stones;
+      </Text>
+    </Verse>
+    <Verse ID="53">
+      <Text Language="Original">
+        آنچہ خوانی کوثر و غلمان و حور
+جلوۂ این عالم جذب و سرور
+      </Text>
+      <Text Language="Urdu">
+        جنہیں تو کوثر ، غلمان اور حوریں کہتا ہے یہ عالم جذب و سرور کے جلوے ہیں۔
+      </Text>
+      <Text Language="English">
+        What you call Kauthar and page and houri are the reflection of this world of ecstasy and joy.
+      </Text>
+    </Verse>
+    <Verse ID="55">
+      <Text Language="Original">
+        زندگی اینجا ز دیدار است و بس
+ذوق دیدار است و گفتار است و بس"
+      </Text>
+      <Text Language="Urdu">
+        یہاں کی زندگی بس دیدار (جمال) ہے، دیدار اور گفتار کا ذوق۔
+      </Text>
+      <Text Language="English">
+        Here life is the Beatific Vision, naught else, the bliss of seeing and speaking with the Beloved.’
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

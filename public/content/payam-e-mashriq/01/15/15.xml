@@ -1,0 +1,21 @@
+<Poem ID="15" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        تنی پیدا کن از مشت غباری
+تنی محکم تر از سنگین حصاری
+درون او دل درد آشنائی
+چو جوئے در کنار کوہساری
+      </Text>
+      <Text Language="Urdu">
+        اپنی خاک کی مٹھی سے ایسا بدن پیدا کر؛ جو سنگین حصار سے زیادہ پختہ ہو۔
+مگر اس کے اندر درد سے آشنا دل ہو؛ جیسے کوہسار کے اندر ندی۔
+      </Text>
+      <Text Language="English">
+        Build, with your handful of dust, a body stronger than a rock fortress; 
+And inside this body let there be a heart that feels sorrow – like a stream flowing by a mountain. 
+(Translated by Mustansir Mir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

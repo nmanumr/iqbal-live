@@ -1,0 +1,40 @@
+<Poem ID="29" Name="دنیا" BookID="03" BookName="ضربِ کلیم" SectionID="01" SectionName="اسلام اور مسلمان">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        مجھ کو بھی نظر آتی ہے یہ بوقلمونی 
+وہ چاند، یہ تارا ہے، وہ پتھر، یہ نگیں ہے
+      </Text>
+      <Text Language="Urdu">
+        وقلمونی: رنگا رنگی۔
+      </Text>
+      <Text Language="English">
+        THE WORLD
+The diverse hues of world I can descry, here stone and gem, there moon and starry sky.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        دیتی ہے مری چشم بصیرت بھی یہ فتوی 
+وہ کوہ، یہ دریا ہے، وہ گردوں، یہ زمیں ہے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        My insight also gives this verdict clear; these are hills, river, earth and sphere.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        حق بات کو لیکن میں چھپا کر نہیں رکھتا 
+تو ہے، تجھے جو کچھ نظر آتا ہے، نہیں ہے!
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Of facts so true, I strive to hide not aught, you are, all else a trick that eyes have wrought. 
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

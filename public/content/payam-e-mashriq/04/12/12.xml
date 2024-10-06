@@ -1,0 +1,153 @@
+<Poem ID="12" Name="محاورہ مابین اوگوست کنت و مرد مزدور" BookID="07" BookName="پیامِ مشرق" SectionID="04" SectionName="نقش فرنگ">
+  <Para Name="حکیم">
+    <Verse ID="01">
+      <Text Language="Original">
+        "بنی آدم اعضای یکدیگرند"
+ہمان نخل را شاخ و برگ و بر اند
+      </Text>
+      <Text Language="Urdu">
+        فرانسیسی فلسفی آگسٹس اور ایک مزدور کے درمیان گفتگو۔ 
+'آدم کی اولاد ایک ہی بدن کے اعضاء ہیں '، ایک ہی درحت کی شاخیں ، پتے اور پھل ہیں۔
+      </Text>
+      <Text Language="English">
+        DIALOGUE BETWEEN AUGUSTE COMTE AND THE LABOURER 
+Comte: All men are one another’s limbs, the leaves and stems of one big tree.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        دماغ ار خرد زاست از فطرت است
+اگر پا زمین ساست از فطرت است
+      </Text>
+      <Text Language="Urdu">
+        اگر دماغ میں عقل ہے تو یہ فطرت کی عطا کردہ ہے، اور اگر پاؤں زمین پر چلتا ہے تو یہ بھی فطری عمل ہے۔
+      </Text>
+      <Text Language="English">
+        If man’s brain is the seat of intellect and if his feet trail on the ground, this is because they both are bound by Nature’s ineluctable decree.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        یکی کار فرما، یکی کار ساز
+نیاید ز محمود کار ایاز
+      </Text>
+      <Text Language="Urdu">
+        کوئی حکم دینے والا، کوئی کام کرنے والا، محمود ایاز کا کام نہیں کر سکتا۔
+      </Text>
+      <Text Language="English">
+        One man commands, another works, both born to it. A Mahmud cannot do the work of an Ayaz.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        نبینی کہ از قسمت کار زیست
+سراپا چمن می شود خار زیست
+      </Text>
+      <Text Language="Urdu">
+        کیا تو نہیں دیکھتا کہ تقسیم کار کے باعث زندگی کا کانٹا بھی چمن بن جاتا ہے۔
+      </Text>
+      <Text Language="English">
+        Do you not see it is because work is divided between you that life becomes a garden, with both rose and thorn?
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="مرد مزدور">
+    <Verse ID="09">
+      <Text Language="Original">
+        فریبی بہ حکمت مرا اے حکیم
+کہ نتوان شکست این طلسم قدیم
+      </Text>
+      <Text Language="Urdu">
+        اے فلسفی! کیا تو مجھے اپنے فلسفہ سے فریب میں مبتلا کرتا ہے، اور کہتا ہے کہ اس طلسم قدیم کم توڑا نہیں جا سکتا۔
+      </Text>
+      <Text Language="English">
+        The Labourer: Philosopher, you cheat me when you say that I can never break my way out of this magic circle that you weave.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        مس خام را از زر اندودہ ئے
+مرا خوی تسلیم فرمودہ ئی
+      </Text>
+      <Text Language="Urdu">
+        تو نے کچّے تانبے پر سونے کا پانی چڑھایا ہے، کہ مجھے تسلیم و رضا کی عادت اختیار کرنے کا مشورہ دیا ہے۔
+      </Text>
+      <Text Language="English">
+        You pass base brass for gold, and teach me to resign myself to fate.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        کند بحر را آبنایم اسیر
+ز خارا برد تیشہ ام جوی شیر
+      </Text>
+      <Text Language="Urdu">
+        میری آبنائے ، سمندر کو اپنا اسیر بناتی ہے، میرا تیشہ چٹان سے دودھ کی ندی بہاتا ہے۔
+      </Text>
+      <Text Language="English">
+        With my pickaxe I excavate long waterways, in which I hold the very ocean prisoner, and retrieve milk and honey from Nature’s stores.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        حق کوہکن دادی اے نکتہ سنج
+بہ پرویز پرکار و نا بردہ رنج
+      </Text>
+      <Text Language="Urdu">
+        اے نکتہ داں (فلسفی) ! تو نے کوہکن کا حق چالاک پرویز کو دے دیا ہے، جس نے کوئی تکلیف نہیں اٹھائی۔
+      </Text>
+      <Text Language="English">
+        Purveyor of strange subtleties, you give poor Kohkan’s prize, for all his sores, to the idle, rich and sly Parvez.
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        خطا را بہ حکمت مگردان صواب
+خضر را نگیری بدام سراب
+      </Text>
+      <Text Language="Urdu">
+        اپنے فلسفہ سے غلط کو درست نہ بنا، تو خضر (علیہ) کو سراب کے جال میں نہیں لا سکتا۔
+      </Text>
+      <Text Language="English">
+        Do not try passing wrong for right with your philosophy. You cannot dupe a Khizr’s sight with a mirage’s trickery.
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        بہ دوش زمین بار، سرمایہ دار
+ندارد گذشت از خور و خواب و کار
+      </Text>
+      <Text Language="Urdu">
+        سرمایہ دار زمین کے کندھوں پر بوجھ ہے، اسے کھانے اور سونے کے علاوہ اور کوئی کام نہیں۔
+      </Text>
+      <Text Language="English">
+        The capitalist is a burden on earth, with nothing to do but eat and sleep:
+      </Text>
+    </Verse>
+    <Verse ID="21">
+      <Text Language="Original">
+        جہان راست بہروزی از دست مزد
+ندانی کہ این ہیچ کار است دزد
+      </Text>
+      <Text Language="Urdu">
+        دنیا کی خوشالی مزدور کے ہاتھوں ہے، تو مت سمجھ کہ یہ معمولی کام کرنے والا (مزدور) چور ہے۔
+      </Text>
+      <Text Language="English">
+        Which thrives because of those who work on it; do you not know this idler is a thief by birth?
+      </Text>
+    </Verse>
+    <Verse ID="23">
+      <Text Language="Original">
+        پی جرم او پوزش آوردہ ئی
+بہ این عقل و دانش فسون خوردہ ئی
+      </Text>
+      <Text Language="Urdu">
+        تو سرمایہ دار کے جرم کے لیے جواز پیدا کر رہا ہے، اپنی اے عقل و دانش کے باوجود تو فریب خردہ ہے۔
+      </Text>
+      <Text Language="English">
+        The crime that he exists you want excused. With all your wisdom you have been bemused. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,21 @@
+<Poem ID="114" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        گل رعنا چو من در مشکلی ہست
+گرفتار طلسم محفلی ہست
+زبان برگ او گویا نکردند
+ولی در سینۂ چاکش دلی ہست
+      </Text>
+      <Text Language="Urdu">
+        گل رعنا بھی میری طرح مشکل میں ہے؛ وہ بھی محفل کے جادو کا اسیر ہے۔ 
+اس کے پتوں کی زبان کو گویائی عطا نہیں ہوئی؛ مگر اس کے سینہ ء چاک کے اندر دل موجود ہے۔
+      </Text>
+      <Text Language="English">
+        The Rose and I one problem have to tell; we both are seized by the assembly’s spell; 
+The petal’s tongue was not made eloquent, but in his wounded breast a heart doth dwell.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

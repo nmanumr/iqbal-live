@@ -1,0 +1,62 @@
+<Poem ID="02" Name="تخلیق" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        جہان تازہ کی افکار تازہ سے ہے نمود 
+کہ سنگ و خشت سے ہوتے نہیں جہاں پیدا
+      </Text>
+      <Text Language="Urdu">
+        سنگ و خشت: پتھر اور اینٹ۔
+      </Text>
+      <Text Language="English">
+        CREATION
+New worlds derive their pomp from thoughts quite fresh and new from stones and bricks a world was neither built nor grew.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        خودی میں ڈوبنے والوں کے عزم و ہمت نے 
+اس آبجو سے کیے بحر بے کراں پیدا
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The firm resolve of those, who depths of Self explore, transforms this stream to sea that has no marge or shore.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        وہی زمانے کی گردش پہ غالب آتا ہے 
+جو ہر نفس سے کرے عمر جاوداں پیدا
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The follow same is lord of freaks of fate and strife, who with e'ery breath he draws creates an eternal life.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        خودی کی موت سے مشرق کی سر زمینوں میں 
+ہوا نہ کوئی خدائی کا رازداں پیدا
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The death of Self has made the lands of East effete, men who God's secrets share in these realms are deplete.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        ہوائے دشت سے بوئے رفاقت آتی ہے 
+عجب نہیں ہے کہ ہوں میرے ہم عناں پیدا
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The air of waste gives out the smell of friendship deep, perhaps there may be some who may my company keep. 
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,41 @@
+<Poem ID="05" Name="" BookID="08" BookName="زبورِعجم" SectionID="01" SectionName="حصہ اول">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        درون سینۂ ما سوز آرزو ز کجاست؟
+سبو ز ماست ولی بادہ در سبو ز کجاست؟
+      </Text>
+      <Text Language="Urdu">
+        ہمارے سینے میں آپ کی محبت کا سوز کہاں سے آیا؛ بدن تو ہمارا ہے، لیکن اس مٹی کے اندر عشق الہی کی شراب کہاں سے آگئی۔
+      </Text>
+      <Text Language="English">
+        The ardent longing in our hearts – where does it come from? Ours is the tumbler, but the wine within – where does it come from?
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        گرفتم اینکہ جہان خاک و ما کف خاکیم
+بہ ذرہ ذرہ ما درد جستجو ز کجاست؟
+      </Text>
+      <Text Language="Urdu">
+        مانا کہ یہ جہان خاک ہے اور ہم بھی مٹھی بھر خاک ہیں؛ مگر ہماری خاک کے ذرے ذرے میں یہ تلاش حق کا درد کہاں سے پیدا ہو گیا۔
+      </Text>
+      <Text Language="English">
+        I know that this world is mere dust, and that we, too, are a handful of dust. But this pain of quest that runs through our being – where does it come from?
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        نگاہ ما بہ گریبان کہکشان افتد
+جنون ما ز کجا شور ہای و ہو ز کجاست؟
+      </Text>
+      <Text Language="Urdu">
+        ہماری نگاہ (کی رسائی اتنی بلندی تک ہے کہ یہ) گریبان کہکشاں سے الجھتی ہے؛ ہمارے اندر یہ جنوں اور یہ شور ہائے و ہو کہاں سے آیا؟
+      </Text>
+      <Text Language="English">
+        Our glances reach the neckline of the Galaxy; this obsession of ours, this tumult and clamor – where does it come from?
+(Translated by Mustansir Mir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

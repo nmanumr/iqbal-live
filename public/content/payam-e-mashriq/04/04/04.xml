@@ -1,0 +1,22 @@
+<Poem ID="04" Name="فلسفہ و سیاست" BookID="07" BookName="پیامِ مشرق" SectionID="04" SectionName="نقش فرنگ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        فلسفی را با سیاست دان بیک میزان مسنج
+چشم آن خورشید کوری دیدۂ این بی نمی
+آن تراشد قول حق را حجت نا استوار
+وین تراشد قول باطل را دلیل محکمی
+      </Text>
+      <Text Language="Urdu">
+        فلسفی کو سیاست دان کے ساتھ ایک ترازو میں نہ رکھ، فلسفی کی آنکھ خورشید دیکھنے سے اندھی ہے، سیاست دان کی آنکھ میں نمی نہیں۔ 
+فلسفی سچی بات کے لیے نا پختہ دلیل تراشتا ہے، جب کہ سیاست دان قول باطل کے لیے پکّی دلیل گھڑتا ہے۔
+      </Text>
+      <Text Language="English">
+        PHILOSOPHY AND POLITICS
+Philosopher with statesman weigh not thou: Those are sun-blinded, these are tearless eyes.
+One shapes a false argument for his truth, the other a block of logic for his lies. 
+(Translated by R.A. Nicholson)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

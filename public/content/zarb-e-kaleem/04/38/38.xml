@@ -1,0 +1,38 @@
+<Poem ID="38" Name="موسیقی" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        وہ نغمہ سردی خون غزل سرا کی دلیل 
+کہ جس کو سن کے ترا چہرہ تاب ناک نہیں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        A song that fails to make your face glimmer and glow with joy and glee, shows that minstrel's blood is cold, his heart of heat and warmth is free.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        نوا کو کرتا ہے موج نفس سے زہر آلود 
+وہ نے نواز کہ جس کا ضمیر پاک نہیں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        That player on the flute who has a conscience much defiled, impure with puff of breath can make a tune replete with poison which hasn't cure.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        پھرا میں مشرق و مغرب کے لالہ زاروں میں 
+کسی چمن میں گریبان لالہ چاک نہیں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        I have visited the meads in East and West, where tulips parks adorn, but I have not beheld a park, where tulips have their collars torn.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,34 @@
+<Poem ID="01" Name="بخوانندہ کتاب زبور" BookID="08" BookName="زبورِعجم" SectionID="01" SectionName="حصہ اول">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        می شود پردۂ چشمم پر کاہی گاہی
+دیدہ ام ہر دو جہان را بہ نگاہی گاہی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        وادی عشق بسی دور و درازست ولی
+طی شود جادۂ صد سالہ بہ آہی گاہی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        در طلب کوش و مدہ دامن امید زدست
+دولتی ہست کہ یابی سر راہی گاہی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,41 @@
+<Poem ID="64" Name="امرائے عرب سے" BookID="03" BookName="ضربِ کلیم" SectionID="01" SectionName="اسلام اور مسلمان">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        کرے یہ کافر ہندی بھی جرات گفتار
+اگر نہ ہو امرائے عرب کی بے ادبی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        If Amirs of Arabian lands don't take it for a slur or slight; this Muslim from the land of Ind may speak with vigour great and might.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        یہ نکتہ پہلے سکھایا گیا کس امت کو؟
+وصال مصطفوی، افتراق بولہبی
+      </Text>
+      <Text Language="Urdu">
+        مصطفوي: مصطفے (صلعم) کا پیغام اتفاق۔ وصال
+افتراق بولہبي: ابو لہب کا پیغام نفاق پھیلانا ہے۔
+      </Text>
+      <Text Language="English">
+        Who were the people whom at first God's apostle preached kinship close? Division amongst them was infused by men, like Bu Lahab the like.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        نہیں وجود حدود و ثغور سے اس کا
+محمد عربی سے ہے عالم عربی
+      </Text>
+      <Text Language="Urdu">
+        ثغور: حدیں۔
+      </Text>
+      <Text Language="English">
+        Their existence does not rest at all on borders long and deserts vast Arabian lands subsist because of blessings of Arabia's Prophet Last.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

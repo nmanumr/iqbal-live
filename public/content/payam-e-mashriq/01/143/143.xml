@@ -1,0 +1,19 @@
+<Poem ID="143" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        عجم از نغمہ ام آتش بجان است
+صدای من درای کاروان است
+حدی را تیز تر خوانم چو عرفی
+کہ رہ خوابیدہ و محمل گران است
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The soul of Persia kindles at my song, the caravan moves on, my call is strong;
+Like Urfi I will lift a livelier lilt, for heavy is the load, the way sleeps long.
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

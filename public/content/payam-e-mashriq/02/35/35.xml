@@ -1,0 +1,20 @@
+<Poem ID="35" Name="زندگی و عمل" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="در جواب ہاینہ موسوم بہ سوالات">
+    <Verse ID="01">
+      <Text Language="Original">
+        ساحل افتادہ گفت گرچہ بسی زیستم
+ہیچ نہ معلوم شد آہ کہ من چیستم
+موج ز خود رفتہ ئی تیز خرامید و گفت
+ھستم اگر میروم گر نروم نیستم
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        LIFE AND ACTION
+‘I have lived a long, long while’, said a fallen shore; ‘What I am know as ill as I knew of yore.’
+Then swiftly advanced wave from the Sea upshot; ‘If I roll, I am’, it said; ‘if I rest, I am not.’
+(Translated by R.A. Nicholson)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

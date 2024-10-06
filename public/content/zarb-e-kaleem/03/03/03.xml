@@ -1,0 +1,42 @@
+<Poem ID="03" Name="پردہ" BookID="03" BookName="ضربِ کلیم" SectionID="03" SectionName="عورت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بہت رنگ بدلے سپہر بریں نے 
+خدایا یہ دنیا جہاں تھی، وہیں ہے
+      </Text>
+      <Text Language="Urdu">
+        سپہر بريں: آسمان۔
+زن و شو: بیوی اور شوہر۔
+تفاوت: فرق۔
+      </Text>
+      <Text Language="English">
+        VEIL
+Great change the lofty spheres have met, O God! The world his not budged as yet.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        تفاوت نہ دیکھا زن و شو میں میں نے 
+وہ خلوت نشیں ہے، یہ خلوت نشیں ہے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        In man and wife is no contrast, they like seclusion and hold it fast.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        ابھی تک ہے پردے میں اولاد آدم 
+کسی کی خودی آشکارا نہیں ہے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The sons of Adam still wear the mask, but self hasn't peeped out of the casque. 
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,1003 @@
+<Poem ID="12" Name="حضور" BookID="09" BookName="جاوید نامہ" SectionID="08" SectionName="آن سوی افلاک">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        گرچہ جنت از تجلی ہای اوست
+جان نیاساید بجز دیدار دوست
+      </Text>
+      <Text Language="Urdu">
+        اگرچہ جنت بھی اللہ تعالے کی تجلیات میں سے ایک تجلی ہے؛ مگر محبوب حقیقی کے دیدار کے بغیر جان تسکین نہیں پاتی۔
+      </Text>
+      <Text Language="English">
+        THE DIVINE PRESENCE
+Though Paradise is a manifestation of Him the soul reposes not, save in the vision of Him.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        ما ز اصل خویشتن در پردہ ایم
+طائریم و آشیان گم کردہ ایم
+      </Text>
+      <Text Language="Urdu">
+        ہم اپنی اصل سے پردے میں ہیں؛ ہم اس پرندے کی مانند ہیں جو اپنا آشیاں گم کر چکا ہے۔
+      </Text>
+      <Text Language="English">
+        We are veiled from our Origin; we are as birds who have lost our nest.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        علم اگر کج فطرت و بد گوہر است
+پیش چشم ما حجاب اکبر است
+      </Text>
+      <Text Language="Urdu">
+        اگر علم کج فطرت اور بد اصل ہو تو وہ آنکھوں کے سامنے حجاب اکبر بن جاتا ہے۔
+      </Text>
+      <Text Language="English">
+        If knowledge is perverse and evil of substance it is the greatest curtain before our eyes;
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        علم را مقصود اگر باشد نظر
+می شود ھم جادہ و ہم راہبر
+      </Text>
+      <Text Language="Urdu">
+        لیکن اگر علم سے مقصود نظارہء جمال ہو تو وہ راستہ بھی ہے اور راہبر بھی۔
+      </Text>
+      <Text Language="English">
+        But if the object of knowledge is contemplation it becomes at once the highway and the guide,
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        می نہد پیش تو از قشر وجود
+تا تو پرسی چیست راز این نمود
+      </Text>
+      <Text Language="Urdu">
+        پھر وہ تیرے سامنے وجود کا چھلکا رکھتا ہے تاکہ تو دریافت کرے کہ اس نمود کا راز کیا ہے۔
+      </Text>
+      <Text Language="English">
+        Laying bare before you the shell of being that you may ask, ‘What is the secret of this display?’
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        جادہ را ہموار سازد اینچین
+شوق را بیدار سازد اینچنین
+      </Text>
+      <Text Language="Urdu">
+        اس طرح وہ علم راستے کو ہموار اور شوق کو بیدار کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        Thus it is that knowledge smoothes the road, thus it is that it awakens desire;
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        درد و داغ و تاب و تب بخشد ترا
+گریہ ہای نیم شب بخشد ترا
+      </Text>
+      <Text Language="Urdu">
+        وہ تجھے درد و داغ، تاب و تب اور گریہء نیم شب عطا کرتا ہے۔
+      </Text>
+      <Text Language="English">
+        It gives you pain and anguish, fire and fever, it gives you mid-night lamentations.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        علم تفسیر جہان رنگ و بو
+دیدہ و دل پرورش گیرد ازو
+      </Text>
+      <Text Language="Urdu">
+        وہ جس جہان رنگ و بو کی ایسی تفسیر پیش کرتا ہے جس سے دیدہ و دل کی پرورش ہوتی ہے۔
+      </Text>
+      <Text Language="English">
+        From the science of the interpretation of the world of colour and scent your eyes and your heart derive nourishment;
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        بر مقام جذب و شوق آرد ترا
+باز چون جبریل بگذارد ترا
+      </Text>
+      <Text Language="Urdu">
+        وہ جبریل امین (علیہ) کی طرح تجھے مقام جذب و شوق (مقام عشق) پر لا کر چھوڑ دیتا ہے۔
+      </Text>
+      <Text Language="English">
+        It brings you to the stage of ecstasy and yearning and then suffers you like Gabriel to stand.
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        عشق کس را کی بخلوت می برد
+او ز چشم خویش غیرت می برد
+      </Text>
+      <Text Language="Urdu">
+        عشق کسی کو اپنے ساتھ خلوت میں کیسے لے سکتا ہے ؛ اس کی غیرت تو اپنی نظر کو بھی برداشت نہیں کرتی۔
+      </Text>
+      <Text Language="English">
+        How shall love bring any soul to the Solitude, seeing love is jealous of its own eyes?
+      </Text>
+    </Verse>
+    <Verse ID="21">
+      <Text Language="Original">
+        اول او ہم رفیق و ہم طریق
+آخر او راہ رفتن بے رفیق
+      </Text>
+      <Text Language="Urdu">
+        ابتدا ء عشق میں رفیق بھی ہے اور طریق بھی مگر اس کا آخر بغیر رفیق کے راہ طے کرنا ہے۔
+      </Text>
+      <Text Language="English">
+        Its beginning is the road and the companion, its end, travelling the road without companion.
+      </Text>
+    </Verse>
+    <Verse ID="23">
+      <Text Language="Original">
+        در گذشتم زان ہمہ حور و قصور
+زورق جان باختم در بحر نور
+      </Text>
+      <Text Language="Urdu">
+        میں حور و قصور سے آگے بڑھ گیا؛ اور میں نے کشتی ء جان کو بحر نور میں ڈال دیا۔
+      </Text>
+      <Text Language="English">
+        I passed on from all the houris and places and hazarded the soul’s skiff on the sea of light.
+      </Text>
+    </Verse>
+    <Verse ID="25">
+      <Text Language="Original">
+        غرق بودم در تماشای جمال
+ہر زمان در انقلاب و لایزال
+      </Text>
+      <Text Language="Urdu">
+        میں جمال ذات کے نظارے میں غرق ہو گیا؛ وہ جمال لا یزال ہر لمحے نئے رنگ میں جلوہ گر تھا۔
+      </Text>
+      <Text Language="English">
+        I was drowned in the contemplation of Beauty, which is constantly in eternal revolution;
+      </Text>
+    </Verse>
+    <Verse ID="27">
+      <Text Language="Original">
+        گم شدم اندر ضمیر کائنات
+چون رباب آمد بچشم من حیات
+      </Text>
+      <Text Language="Urdu">
+        میں ضمیر کائنات کے اندر گم ہو گیا؛ میں نے زندگی کو رباب کی مانند دیکھا۔
+      </Text>
+      <Text Language="English">
+        I became lost in the heart of creation till life appeared to me like a rebeck
+      </Text>
+    </Verse>
+    <Verse ID="29">
+      <Text Language="Original">
+        آنکہ ہر تارش رباب دیگری
+ہر نوا از دیگرے خونین تری
+      </Text>
+      <Text Language="Urdu">
+        اس رباب کا ہر تار ایک نیا رباب تھا؛ اور اس کی ہر نوا پہلی نوا سے خونیں تر تھی۔
+      </Text>
+      <Text Language="English">
+        Whose every string was another lute, each melody more blood-drenched than the other.
+      </Text>
+    </Verse>
+    <Verse ID="31">
+      <Text Language="Original">
+        ما ہمہ یک دودمان نار و نور
+آدم و مہر و مہ و جبریل و حور
+      </Text>
+      <Text Language="Urdu">
+        آدم ، مہر و ماہ ، جبریل و حور ؛ ہم سب نار و نور کے ایک ہی خاندان سے تعلق رکھتے ہیں۔
+      </Text>
+      <Text Language="English">
+        We are all one family of fire and light, man, sun and moon, Gabriel and houri.
+      </Text>
+    </Verse>
+    <Verse ID="33">
+      <Text Language="Original">
+        پیش جان آئینہ ئی آویختند
+حیرتے را با یقین آمیختند
+      </Text>
+      <Text Language="Urdu">
+        میری جان کے سامنے گویا آئینہ لٹکا دیا گیا اور میری حیرت یقین کے ساتھ ملا دیا گیا ہے۔
+      </Text>
+      <Text Language="English">
+        Before the soul a mirror has been hung, bewilderment mingled with certainty;
+      </Text>
+    </Verse>
+    <Verse ID="35">
+      <Text Language="Original">
+        صبح امروزی کہ نورش ظاہر است
+در حضورش دوش و فردا حاضر است
+      </Text>
+      <Text Language="Urdu">
+        (میں نے دیکھا) کہ صبح امروز جس کا نور ظاہر ہے اس کے حضور میں ماضی اور مستقبل دونوں حاضر ہیں۔(حضرت مجدد (رضی اللہ) لکھتے ہیں کہ اللہ تعالے کے ہاں وقت ایک بسیط آن واحد ہے، جس میں ماضی و مستقبل حال ہی کی صورت میں ظاہر ہوتے ہیں۔)
+      </Text>
+      <Text Language="English">
+        Today’s dawn, whose light is manifest, in His Presence is yesterday and tomorrow ever present.
+      </Text>
+    </Verse>
+    <Verse ID="37">
+      <Text Language="Original">
+        حق ہویدا با ہمہ اسرار خویش
+با نگاہ من کند دیدار خویش
+      </Text>
+      <Text Language="Urdu">
+        حق تعالے اپنے سارے اسرار کے ساتھ ظاہر تھے؛ بلکہ وہ میری نگاہ سے اپنا دیدار کر رہے تھے۔
+      </Text>
+      <Text Language="English">
+        God revealed in all His mysteries, with my eyes makes vision of Himself.
+      </Text>
+    </Verse>
+    <Verse ID="39">
+      <Text Language="Original">
+        دیدنش افزودن بے کاستن
+دیدنش از قبر تن برخاستن
+      </Text>
+      <Text Language="Urdu">
+        اللہ تعالے کے دیدار سے وہ افزودنی ملتی ہے جس میں کمی کا احتمال نہیں؛ ان کے نظارہء جمال سے بندہ تن کی قبر سے دوبارہ زندہ ہو کر اٹھتا ہے۔
+      </Text>
+      <Text Language="English">
+        To see Him is to wax ever without waning, to see Him is to rise from the body’s tomb;
+      </Text>
+    </Verse>
+    <Verse ID="41">
+      <Text Language="Original">
+        عبد و مولا در کمین یکدگر
+ہر دو بیتاب اند از ذوق نظر
+      </Text>
+      <Text Language="Urdu">
+        بندہ و آقا دونوں ایک دوسرے کی جستجو میں ہیں؛ دونوں ذوق نظر کے سبب بے تاب ہیں۔
+      </Text>
+      <Text Language="English">
+        Servant and Master lying in wait on one another, each impatiently yearning to behold the other.
+      </Text>
+    </Verse>
+    <Verse ID="43">
+      <Text Language="Original">
+        زندگی ہر جا کہ باشد جستجوست
+حل نشد این نکتہ من صیدم کہ اوست
+      </Text>
+      <Text Language="Urdu">
+        زندگی جہان بھی ہے جستجو سے عبارت ہے؛ یہ نکتہ حل نہیں ہوتا کہ میں شکار (مطلوب) ہوں یا وہ۔
+      </Text>
+      <Text Language="English">
+        Life, wherever it may be, is a restless search; unresolved is this riddle-am I the quarry, or is He?
+      </Text>
+    </Verse>
+    <Verse ID="45">
+      <Text Language="Original">
+        عشق جان را لذت دیدار داد
+با زبانم جرأت گفتار داد
+      </Text>
+      <Text Language="Urdu">
+        عشق نے میری جان کو لذت دیدار بخشی اور میری زبان کو جرات گفتار۔(میں نے حق تعالے کی جناب میں عرض کیا۔)
+      </Text>
+      <Text Language="English">
+        Love gave my soul the delight of beholding, gave my tongue the boldness to speak:
+      </Text>
+    </Verse>
+    <Verse ID="47">
+      <Text Language="Original">
+        اے دو عالم از تو با نور و نظر
+اندکے آن خاکدانی را نگر
+      </Text>
+      <Text Language="Urdu">
+        'اے وہ ذات جس نے دونوں جہانوں کو نور اور نگاہ سے نوازا ہے! ذرا اس دنیا پر نظر ڈالئیے۔
+      </Text>
+      <Text Language="English">
+        Thou who givest light and vision to both worlds, look a little while on yonder ball of clay.
+      </Text>
+    </Verse>
+    <Verse ID="49">
+      <Text Language="Original">
+        بندۂ آزاد را ناسازگار
+بر دمد از سنبل او نیش خار
+      </Text>
+      <Text Language="Urdu">
+        یہ بندہء آزاد کے لیے ناسازگار ہے ؛ اس کے گل سنبل سے کانٹے کا زخم پیدا ہوتا ہے۔
+      </Text>
+      <Text Language="English">
+        Uncongenial to the free servitor, from its hyacinths springs the sting of thorns.
+      </Text>
+    </Verse>
+    <Verse ID="51">
+      <Text Language="Original">
+        غالبان غرق اند در عیش و طرب
+کار مغلوبان شمار روز و شب
+      </Text>
+      <Text Language="Urdu">
+        چیرہ دست عیش و طرب میں غرق ہیں ؛ کمزور گن گن کے دن گذارتے ہیں۔
+      </Text>
+      <Text Language="English">
+        The victors are drowned in pleasure and enjoyment, the vanquished have only to count the days and nights.
+      </Text>
+    </Verse>
+    <Verse ID="53">
+      <Text Language="Original">
+        از ملوکیت جہان تو خراب
+تیرہ شب در آستین آفتاب
+      </Text>
+      <Text Language="Urdu">
+        پادشاہت نے آپ کی دنیا کو خراب کر ڈالا ہے (اس کے) آفتاب کی آستین میں تاریک رات چھپی ہے۔
+      </Text>
+      <Text Language="English">
+        Thy world has been wasted by imperialism, dark night ravelled in the sleeve of the sun.
+      </Text>
+    </Verse>
+    <Verse ID="55">
+      <Text Language="Original">
+        دانش افرنگیان غارتگری
+دیر ہا خیبر شد از بے حیدری
+      </Text>
+      <Text Language="Urdu">
+        افرنگیوں کی دانش غارتگری ہے، کوئی حیدر کرار (رضی اللہ) نہ ہونے کے باعث بت کدے ناقابل تسخیر ہو چکے ہیں۔
+      </Text>
+      <Text Language="English">
+        The science of Westerners is spoliation; the temples have turned to Khaibar, without a Haidar.
+      </Text>
+    </Verse>
+    <Verse ID="57">
+      <Text Language="Original">
+        آنکہ گوید لاالہ بیچارہ ایست
+فکرش از بے مرکزی آوارہ ایست
+      </Text>
+      <Text Language="Urdu">
+        لاالہ کہنے والا بے چارگی کا شکار ہے، اس کا فکر مرکز سے لاتعلق ہو جانے کے باعث آوارہ ہو چکا ہے۔
+      </Text>
+      <Text Language="English">
+        He who proclaims ‘No god but God’ is helpless; his thought, having no centre, wanders astray,
+      </Text>
+    </Verse>
+    <Verse ID="59">
+      <Text Language="Original">
+        چار مرگ اندر پی این دیر میر
+سود خوار و والی و ملا و پیر
+      </Text>
+      <Text Language="Urdu">
+        اس سخت جان (مسلم) کی گھات میں چار اموات ہیں؛ سود خوری ، حاکم، ملّا اور پیر۔
+      </Text>
+      <Text Language="English">
+        Slowly dying, pursued by four deaths – the usurer, the governor, the mullah, the shaikh.
+      </Text>
+    </Verse>
+    <Verse ID="61">
+      <Text Language="Original">
+        اینچنین عالم کجا شایان تست
+آب و گل داغی کہ بر دامان تست
+      </Text>
+      <Text Language="Urdu">
+        ایسی دنیا تو آپ کی شان کے شایان نہیں؛ یہ آب و گل کا جہان آپ کے دامن کا داغ بن چکا ہے۔
+      </Text>
+      <Text Language="English">
+        How is such a world worthy of Thee? Water and clay are a stain upon Thy skirt.’
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="ندای جمال">
+    <Verse ID="63">
+      <Text Language="Original">
+        کلک حق از نقشہای خوب و زشت
+ہر چہ ما را سازگار آمد نوشت
+      </Text>
+      <Text Language="Urdu">
+        خوب و زشت کے نقوش میں سے جو ہمیں پسند آیا اسے قلم تقدیر نے لکھ دیا۔
+      </Text>
+      <Text Language="English">
+        The Voice of Beauty
+The Pen of God such images fair and foul wrote exactly as became each one of us.
+      </Text>
+    </Verse>
+    <Verse ID="65">
+      <Text Language="Original">
+        چیست بودن دانی اے مرد نجیب؟
+از جمال ذات حق بردن نصیب
+      </Text>
+      <Text Language="Urdu">
+        اے مرد نجیب ! کیا تو جانتا ہے کہ زندہ رہنا کیا ہے؟ (زندگی) حق تعالے کے جمال سے حصّہ پانا ہے۔
+      </Text>
+      <Text Language="English">
+        Noble sir, do you know what it is, to be? It is to take one’s share of the beauty of God’s Essence.
+      </Text>
+    </Verse>
+    <Verse ID="67">
+      <Text Language="Original">
+        آفریدن جستجوے دلبرے
+وانمودن خویش را بر دیگرے
+      </Text>
+      <Text Language="Urdu">
+        تخلیق؟ دلبر کی جستجو ہے ، یہ اپنے آپ کو دوسروں پر ظاہر کرنا ہے۔(تخلیق انسانی کا مقصد یہ ہے کہ انسان اللہ تعالے کی معرفت حاصل کرے)۔
+      </Text>
+      <Text Language="English">
+        Creating? It is to search for a beloved, to display one’s self to another being.
+      </Text>
+    </Verse>
+    <Verse ID="69">
+      <Text Language="Original">
+        اینہمہ ہنگامہ ہای ہست و بود
+بے جمال ما نیاید در وجود
+      </Text>
+      <Text Language="Urdu">
+        ہست و بود کا یہ سارا ہنگامہ ہمارے جمال کے بغیر وجود میں نہیں آیا۔
+      </Text>
+      <Text Language="English">
+        All these tumultuous riots of being without our beauty could not come to exist.
+      </Text>
+    </Verse>
+    <Verse ID="71">
+      <Text Language="Original">
+        زندگی ہم فانی و ہم باقی است
+این ہمہ خلاقی و مشتاقی است
+      </Text>
+      <Text Language="Urdu">
+        زندگی فانی بھی ہے اور باقی (غیر فانی) بھی؛ یہ سر تا پا خلّاقی اور مشتاقی (تخلیق اور عشق) ہے۔
+      </Text>
+      <Text Language="English">
+        Life is both transient and everlasting; all this is creativity and vehement desire.
+      </Text>
+    </Verse>
+    <Verse ID="73">
+      <Text Language="Original">
+        زندہ ئی؟ مشتاق شو خلاق شو
+ہمچو ما گیرندۂ آفاق شو
+      </Text>
+      <Text Language="Urdu">
+        اگر تو زندہ ہے ، تو مشتاق اور خلّاق بن اور ہماری طرح آفاق کو اپنے قبضہ میں کر لے۔
+      </Text>
+      <Text Language="English">
+        Are you alive? Be vehement, be creative; like Us, embrace all horizons;
+      </Text>
+    </Verse>
+    <Verse ID="75">
+      <Text Language="Original">
+        در شکن آنرا کہ ناید سازگار
+از ضمیر خود دگر عالم بیار
+      </Text>
+      <Text Language="Urdu">
+        جو نقش تجھے سازگار نہیں آتا ، اسے توڑ دے ؛ اور اپنے ضمیر کے اندر سے عالم پیدا کر۔
+      </Text>
+      <Text Language="English">
+        Break whatsoever is uncongenial, out of your heart’s heart produce a new world;
+      </Text>
+    </Verse>
+    <Verse ID="77">
+      <Text Language="Original">
+        بندۂ آزاد را آید گران
+زیستن اندر جھان دیگران
+      </Text>
+      <Text Language="Urdu">
+        دوسروں کے جہان میں زندگی بسر کرنا بندہء آزاد پر گراں گزرتا ہے۔
+      </Text>
+      <Text Language="English">
+        It is irksome to the free servitor to live in a world belonging to others.
+      </Text>
+    </Verse>
+    <Verse ID="79">
+      <Text Language="Original">
+        ہر کہ او را قوت تخلیق نیست
+پیش ما جز کافر و زندیق نیست
+      </Text>
+      <Text Language="Urdu">
+        جس کے اندر قوّت تخلیق نہیں ؛ ہماری نظر میں وہ کافر و زندیق ہے۔
+      </Text>
+      <Text Language="English">
+        Whoever possesses not the power to create in Our sight is naught but an infidel, a heathen;
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="ق">
+    <Verse ID="81">
+      <Text Language="Original">
+        از جمال ما نصیب خود نبرد
+از نخیل زندگانے بر نخورد
+      </Text>
+      <Text Language="Urdu">
+        جس نے ہمارے جمال سے حصّہ نہیں پایا ؛ اس نے نخل حیات کا پھل حاصل نہ کیا۔
+      </Text>
+      <Text Language="English">
+        Such a one has not taken his share of Our Beauty, has not tasted the fruit of the Tree of Life.
+      </Text>
+    </Verse>
+    <Verse ID="83">
+      <Text Language="Original">
+        مرد حق برندہ چون شمشیر باش
+خود جہان خویش را تقدیر باش
+      </Text>
+      <Text Language="Urdu">
+        اے مرد حق! شمشیر کی مانند تیز رہ ؛ اور آپ اپنے جہان کی تقدیر بن۔
+      </Text>
+      <Text Language="English">
+        Man of God, be trenchant as a sword, be yourself your own world’s destiny!
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="زندہ رود">
+    <Verse ID="85">
+      <Text Language="Original">
+        چیست آئین جہان رنگ و بو
+جز کہ آب رفتہ می ناید بجو
+      </Text>
+      <Text Language="Urdu">
+        اس جہان رنگ و بو (دنیا) کا قانون صرف یہ ہے کہ گزرا ہوا پانی پھر ندی میں واپس نہیں آتا۔
+      </Text>
+      <Text Language="English">
+        Zinda-Rud
+What law governs the world of colour and scent, but that water once flowed returns not to the stream?
+      </Text>
+    </Verse>
+    <Verse ID="87">
+      <Text Language="Original">
+        زندگانے را سر تکرار نیست
+فطرت او خوگر تکرار نیست
+      </Text>
+      <Text Language="Urdu">
+        نہ حیات میں تکرار کی خو ہے، نہ شوق۔
+      </Text>
+      <Text Language="English">
+        Life has no desire for repetition; its nature is not habituated to repetition;
+      </Text>
+    </Verse>
+    <Verse ID="89">
+      <Text Language="Original">
+        زیر گردون رجعت او را نارواست
+چون ز پا افتاد قومی برنخاست
+      </Text>
+      <Text Language="Urdu">
+        آسمان کے نیچے (دنیا میں) حیات کا لوٹ آنا نامناسب ہے؛ جب کوئی قوم گر جاتی ہے ، تو پھر دوبارہ نہیں اٹھتی۔
+      </Text>
+      <Text Language="English">
+        Beneath the sky, reversion is unlawful to life once a people has fallen, it rises not again.
+      </Text>
+    </Verse>
+    <Verse ID="91">
+      <Text Language="Original">
+        ملتی چون مرد، کم خیزد ز قبر
+چارۂ او چیست غیر از قبر و صبر
+      </Text>
+      <Text Language="Urdu">
+        جو قوم مر جاتی ہے ، وہ پھر قبر سے کم ہی اٹھتی ہے ؛ اس کے لیے سوائے قبر و صبر کے اور کوئی چارہ نہیں رہتا۔
+      </Text>
+      <Text Language="English">
+        When a nation dies, it rarely rises from the grave; what recourse has it, but the tomb and resignation?
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="ندای جمال">
+    <Verse ID="93">
+      <Text Language="Original">
+        زندگانی نیست تکرار نفس
+اصل او از حی و قیوم است و بس
+      </Text>
+      <Text Language="Urdu">
+        زندگی سانس کے آنے جانے کا نام نہیں؛ اس کی اصل خدائے حی و قیوم سے ہے۔
+      </Text>
+      <Text Language="English">
+        The Voice of Beauty
+Life is not a mere repetition of the breath; its origin is from the Living, Eternal God.
+      </Text>
+    </Verse>
+    <Verse ID="95">
+      <Text Language="Original">
+        قرب جان با آنکہ گفت "انی قریب"
+از حیات جاودان بردن نصیب
+      </Text>
+      <Text Language="Urdu">
+        اللہ تعالے جنہوں نے فرمایا کہ میں قریب ہوں ؛ ان سے قرب حاصل کرنا حیات جاوداں سے حصّہ پانا ہے۔
+      </Text>
+      <Text Language="English">
+        The soul near to Him who said ‘Lo, I am nigh’ – that is to take one’s share of everlasting life.
+      </Text>
+    </Verse>
+    <Verse ID="97">
+      <Text Language="Original">
+        فرد از توحید لاہوتی شود
+ملت از توحید جبروتی شود
+      </Text>
+      <Text Language="Urdu">
+        فرد توحید سے لامکانی ہو جاتا ہے اور ملت توحید سے کائنات پر تسلط حاصل کرتی ہے۔
+      </Text>
+      <Text Language="English">
+        The individual through the Unity becomes Divine, the nation through the Unity becomes Omnipotent;
+      </Text>
+    </Verse>
+    <Verse ID="99">
+      <Text Language="Original">
+        بایزید و شبلی و بوذر ازوست
+امتان را طغرل و سنجر ازوست
+      </Text>
+      <Text Language="Urdu">
+        با یزید ، شبلی، بوذر اور طغرل و سنجر جیسی شخصیتیں اللہ تعالے کے قرب سے بنتی ہیں۔
+      </Text>
+      <Text Language="English">
+        Unity produced Ba Yazid, Shibli, Bu Dharr, Unity produced, for the nations, Tughril and Sanjar.
+      </Text>
+    </Verse>
+    <Verse ID="101">
+      <Text Language="Original">
+        بے تجلی نیست آڈم را ثبات
+جلوۂ ما فرد و ملت را حیات
+      </Text>
+      <Text Language="Urdu">
+        انسان کو ہماری تجلّی کے بغیر ثبات حاصل نہیں ہوتا؛ ہمارا جلوہ ہی فرد و ملت کو حیات بخشتا ہے۔
+      </Text>
+      <Text Language="English">
+        Without the Divine Epiphany man has no permanence; Our Manifestation is life to individual and nation;
+      </Text>
+    </Verse>
+    <Verse ID="103">
+      <Text Language="Original">
+        ہر دو از توحید می گیرد کمال
+زندگی این را جلال، آنرا جمال
+      </Text>
+      <Text Language="Urdu">
+        فرد و ملت دونوں توحید سے کمال پاتے ہیں؛ فرد کی زندگی جمال ہے اور قوم کی جلال۔
+      </Text>
+      <Text Language="English">
+        Both attain their perfection through the Unity, life being for the latter Majesty, for the former Beauty.
+      </Text>
+    </Verse>
+    <Verse ID="105">
+      <Text Language="Original">
+        این سلیمانی است آن سلمانی است
+آن سراپا فقر و این سلطانی است
+      </Text>
+      <Text Language="Urdu">
+        یہ سلیمانی ہے اور وہ سلمانی، یہ سراپا فقر ہے اور وہ سراپا سلطانی۔
+      </Text>
+      <Text Language="English">
+        The one is of Solomon, the other of Salman, the one perfect poverty, the other all power:
+      </Text>
+    </Verse>
+    <Verse ID="107">
+      <Text Language="Original">
+        آن یکی را بیند، این گردد یکی
+در جہان با آن نشین با این بزی
+      </Text>
+      <Text Language="Urdu">
+        فرد یکے (اللہ تعالے) کا مشاہدہ کرتا ہے اور ملت یکے (واحد) بن جاتی ہے؛ دنیا میں باکمال فرد کی صحبت اختیار کر اور ملت واحدہ کے ساتھ زندگی بسر کر۔
+      </Text>
+      <Text Language="English">
+        The one sees there is One, the other becomes one – while in the world, sit with the former, live with the latter!
+      </Text>
+    </Verse>
+    <Verse ID="109">
+      <Text Language="Original">
+        چیست ملت ایکہ گوئی لاالہ
+با ہزاران چشم بودن یک نگہ
+      </Text>
+      <Text Language="Urdu">
+        اے لاالہ کہنے والے کیا تو جانتا ہے کہ منت کیا ہے؟ ملت کا مطلب یہ ہے کہ ہزاروں آنکھوں میں ایک ہی نگاہ پیدا ہو جائے۔
+      </Text>
+      <Text Language="English">
+        What is the nation, you who declare ‘No god but God’? With thousands of eyes, to be one in vision.
+      </Text>
+    </Verse>
+    <Verse ID="111">
+      <Text Language="Original">
+        اہل حق را حجت و دعوی یکیست
+خیمہ ہای ما جدا دلہا یکی است
+      </Text>
+      <Text Language="Urdu">
+        اہل حق کی دلیل و دعوی ایک ہے؛ ہمارے خیمے الگ الگ ہیں اور دل اکٹھے ہیں۔
+      </Text>
+      <Text Language="English">
+        The proof and claim of God’s people are always One: ‘Our tents are apart, our hearts are one.’
+      </Text>
+    </Verse>
+    <Verse ID="113">
+      <Text Language="Original">
+        ذرہ ہا از یک نگاہ آفتاب
+یک نگہ شو تا شود حق بے حجاب
+      </Text>
+      <Text Language="Urdu">
+        ذرے یک نگاہی سے آفتاب بن جاتے ہیں؛ تو بھی یک نگاہ ہو جا تاکہ حق تعالے کو بے حجاب دیکھ سکے۔
+      </Text>
+      <Text Language="English">
+        Oneness of vision converts the motes to the sun; be one of vision, that God may be seen unveiled.
+      </Text>
+    </Verse>
+    <Verse ID="115">
+      <Text Language="Original">
+        یک نگاہی را بچشم کم مبین
+از تجلی ہای توحید است این
+      </Text>
+      <Text Language="Urdu">
+        یک نگاہی کو حقارت کی نظر سے نہ دیکھ؛ یہ بھی توحید کی تجلّیات میں سے ایک تجلّی ہے۔
+      </Text>
+      <Text Language="English">
+        Do not look slightingly on oneness of vision; this is a true epiphany of the Unity.
+      </Text>
+    </Verse>
+    <Verse ID="117">
+      <Text Language="Original">
+        ملتی چون می شود توحید مست
+قوت و جبروت می آید بدست
+      </Text>
+      <Text Language="Urdu">
+        جب ملت توحید مست ہو جاتی ہے تو وہ قوّت و جبروت کی مالک ہو جاتی ہے۔
+      </Text>
+      <Text Language="English">
+        When a nation becomes drunk with the Unity power, yea, omnipotence lies in its grasp.
+      </Text>
+    </Verse>
+    <Verse ID="119">
+      <Text Language="Original">
+        روح ملت را وجود از انجمن
+روح ملت نیست محتاج بدن
+      </Text>
+      <Text Language="Urdu">
+        روح ملت کا وجود انجمن سے ہے، وہ بدن کی محتاج نہیں۔
+      </Text>
+      <Text Language="English">
+        A nation’s spirit exists through association; a nation’s spirit has no need of a body.
+      </Text>
+    </Verse>
+    <Verse ID="121">
+      <Text Language="Original">
+        تا وجودش را نمود از صحبت است
+مرد چون شیرازۂ صحبت شکست
+      </Text>
+      <Text Language="Urdu">
+        چونکہ املت کا وجود ربط باہم سے ہے اس لیے جب اس کا شیرازہ بکھر جاتا ہے تو وہ مر جاتی ہے۔
+      </Text>
+      <Text Language="English">
+        Since its being manifests out of companionship, it dies when the bands of companionship are broken.
+      </Text>
+    </Verse>
+    <Verse ID="123">
+      <Text Language="Original">
+        مردہ ئی از یک نگاہی زندہ شو
+بگذر از بے مرکزی پایندہ شو
+      </Text>
+      <Text Language="Urdu">
+        اگر تو مردہ ہے تو یک نگاہی سے زندہ ہو جا، بے مرکزی چھوڑ اور پائیندگی پا لے۔
+      </Text>
+      <Text Language="English">
+        Are you dead? Become living through oneness of vision; cease to be centreless, become stable.
+      </Text>
+    </Verse>
+    <Verse ID="125">
+      <Text Language="Original">
+        وحدت افکار و کردار آفرین
+تا شوی اندر جہان صاحب نگین
+      </Text>
+      <Text Language="Urdu">
+        وحدت افکار و کردار پیدا کر تاکہ تو جہان میں فرماں روائی پا سکے۔
+      </Text>
+      <Text Language="English">
+        Create unity of thought and action, that you may possess authority in the world.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="زندہ رود">
+    <Verse ID="127">
+      <Text Language="Original">
+        من کیم تو کیستی عالم کجاست
+در میان ما و تو دوری چراست
+من چرا در بند تقدیرم بگوی
+تو نمیری من چرا میرم بگوی
+      </Text>
+      <Text Language="Urdu">
+        میں کون ہوں؟ آپ کی شان کیا ہے؟ کائنات کہاں (واقع ) ہے؟ میرے اور آپ کے درمیان یہ دوری کیوں ہے؟ 
+فرمائیے ؟ میں کیوں تقدیر کے بندھن میں گرفتار ہوں؟ میں کیوں مرتا ہوں؟ آپ کیسے حیّ و قیوم ہیں؟
+      </Text>
+      <Text Language="English">
+        Zinda-Rud
+Who am I? Who art Thou? Where is the world? Why is there a distance between me and Thee?
+Say, why am I in the bonds of destiny? Why dost Thou die not, whilst I die?
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="ندای جمال">
+    <Verse ID="131">
+      <Text Language="Original">
+        بودہ ئی اندر جھان چار سو
+ہر کہ گنجد اندرو میرد درو
+      </Text>
+      <Text Language="Urdu">
+        تو اس جہان چار سو میں رہا ہے – جو اس میں سما جاتا ہے ، وہ اس میں مر جاتا ہے۔
+      </Text>
+      <Text Language="English">
+        The Voice of Beauty
+You have been in the world dimensionate, and any contained therein, therein dies.
+      </Text>
+    </Verse>
+    <Verse ID="133">
+      <Text Language="Original">
+        زندگی خواہی خودی را پیش کن
+چار سو را غرق اندر خویش کن
+      </Text>
+      <Text Language="Urdu">
+        زندگی چاہتا ہے تو خودی کو مستحکم کر - اور اس جہان چار سو کو اپنے اندر سمیٹ لے۔(کافر کی یہ پہچان کہ آفاق میں گم ہے؛ مومن کی یہ پہچان کہ گم اس میں ہیں آفاق – اقبال)
+      </Text>
+      <Text Language="English">
+        If you seek life, advance your selfhood; drown the world’s dimensions in your self.
+      </Text>
+    </Verse>
+    <Verse ID="135">
+      <Text Language="Original">
+        باز بینی من کیم تو کیستی
+در جھان چون مردی و چون زیستی
+      </Text>
+      <Text Language="Urdu">
+        پھر تو دیکھ لے گا کہ میں کون ہوں اور تو کیا ہے؛ اور تو دنیا میں کیسے مرتا اور کیسے زندہ رہتا ہے۔
+      </Text>
+      <Text Language="English">
+        You shall then behold who am and who you are how you died in the world, and how you lived.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="زندہ رود">
+    <Verse ID="137">
+      <Text Language="Original">
+        پوزش این مرد نادان در پذیر
+پردہ را از چہرۂ تقدیر گیر
+      </Text>
+      <Text Language="Urdu">
+        اس مرد ناداں کی معذرت قبول کر؛ تقدیر کے چہرے سے پردہ ہٹا دے۔
+      </Text>
+      <Text Language="English">
+        Accept the excuses of this ignorant man; remove the veil from the face of destiny.
+      </Text>
+    </Verse>
+    <Verse ID="139">
+      <Text Language="Original">
+        انقلاب روس و آلمان دیدہ ام
+شور در جان مسلمان دیدہ ام
+      </Text>
+      <Text Language="Urdu">
+        میں نے روس اور جرمنی کا انقلاب دیکھا ہے؛ مسلمان کے ضمیر میں جو ہنگامہ ہے ، وہ بھی دیکھا ہے۔
+      </Text>
+      <Text Language="English">
+        I have seen the revolution of Russia and Germany; I have seen the tumult raging in Moslemdom,
+      </Text>
+    </Verse>
+    <Verse ID="141">
+      <Text Language="Original">
+        دیدہ ام تدبیر ہای غرب و شرق
+وانما تقدیر ہای غرب و شرق
+      </Text>
+      <Text Language="Urdu">
+        میں کے مغرب و مشرق کی تدابیر ہیں؛ اب مجھ پر مشرق و مغرب کی تقدیر بھی ظاہر فرمائیے۔
+      </Text>
+      <Text Language="English">
+        I have seen the contrivings of West and East – prevent the destinies of West and East.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="افتادن تجلی جلال">
+    <Verse ID="143">
+      <Text Language="Original">
+        ناگھان دیدم جہان خویش را
+آن زمین و آسمان خویش را
+      </Text>
+      <Text Language="Urdu">
+        ناگہاں میں نے اپنے جہان اور اپنے زمین و آسمان کو دیکھا۔
+      </Text>
+      <Text Language="English">
+        Epiphany of the Divine Majesty
+Suddenly I beheld my world, that earth and heaven of mine,
+      </Text>
+    </Verse>
+    <Verse ID="145">
+      <Text Language="Original">
+        غرق در نور شفق گون دیدمش
+سرخ مانند طبر خون دیدمش
+      </Text>
+      <Text Language="Urdu">
+        میں نے اسے شفق کی مانند سرخ خون میں نہائے اور عناب کی صورت سرخ دیکھا۔
+      </Text>
+      <Text Language="English">
+        I saw it drowned in a light of dawn; I saw it crimson as a jujube-tree:
+      </Text>
+    </Verse>
+    <Verse ID="147">
+      <Text Language="Original">
+        زان تجلی ہا کہ در جانم شکست
+چون کلیم اﷲ فتادم جلوہ مست
+      </Text>
+      <Text Language="Urdu">
+        ان تجلّیات کے وفور سے جو میری روح پر گریں ؛ میں کلیم اللہ (علیہ) کی مانند بے ہوش ہو کر گر پڑا۔
+      </Text>
+      <Text Language="English">
+        Out of the epiphanies which broke in my soul I fell drunk with ecstasy, like Moses.
+      </Text>
+    </Verse>
+    <Verse ID="149">
+      <Text Language="Original">
+        نور او ھر پردگی را وانمود
+تاب گفتار از زبان من ربود
+      </Text>
+      <Text Language="Urdu">
+        ان تجلیات کے نور نے ہر پنہاں کو ظاہر کر دیا اور میری زبان میں گفتگو کا یارا نہ رہا۔
+      </Text>
+      <Text Language="English">
+        That light revealed every secret veiled and snatched the power of speech from my tongue.
+      </Text>
+    </Verse>
+    <Verse ID="151">
+      <Text Language="Original">
+        از ضمیر عالم بے چند و چون
+یک نوای سوزناک آمد برون
+      </Text>
+      <Text Language="Urdu">
+        اس عالم لا مکاں سے ایک سوز ناک صدا سنائی دی۔
+      </Text>
+      <Text Language="English">
+        Out of the deep heart of the inscrutable world an ardent, flaming melody broke forth.
+      </Text>
+    </Verse>
+    <Verse ID="153">
+      <Text Language="Original">
+        "بگذر از خاور و افسونی افرنگ مشو
+کہ نیرزد بجوی اینہمہ دیرینہ و نو
+      </Text>
+      <Text Language="Urdu">
+        مشرق کو چھوڑ ، نہ مغرب سے مسحور ہو؛ کہ یہ قدیم و جدید دو جو کے برابر بھی نہیں۔
+      </Text>
+      <Text Language="English">
+        ‘Abandon the East, be not spellbound by the West, for all this ancient and new is not worth one barleycorn.
+      </Text>
+    </Verse>
+    <Verse ID="155">
+      <Text Language="Original">
+        آن نگینے کہ تو با اہرمنان باختہ ئی
+ہم بہ جبریل امینی نتوان کرد گرو
+      </Text>
+      <Text Language="Urdu">
+        وہ نگینہ جو تو نے شیطان کے سامنے ہار دیا؛ اسے تو جبریل امین (علیہ) کے پاس گروی بھی نہیں رکھا جا سکتا۔
+      </Text>
+      <Text Language="English">
+        That signet-ring which you gambled away to Ahriman should not be pledged even to trusty Gabriel.
+      </Text>
+    </Verse>
+    <Verse ID="157">
+      <Text Language="Original">
+        زندگی انجمن آرا و نگھدار خود است
+اے کہ در قافلہ ئی، بے ہمہ شو با ہمہ رو
+      </Text>
+      <Text Language="Urdu">
+        زندگی انجمن آرا بھی ہے اور خود نگہدار بھی ؛ اے وہ شخص جو قافلہ میں ہے! سب سے بے نیاز رہ اور سب کے ساتھ چل۔(شمع محفل کی طرح سب سے جدا سب کا رفیق)
+      </Text>
+      <Text Language="English">
+        Life, that ornament of society, is guardian of itself; you who are of the caravan, travel alone, yet go with all!
+      </Text>
+    </Verse>
+    <Verse ID="159">
+      <Text Language="Original">
+        تو فروزندہ تر از مہر منیر آمدہ ئی
+آنچنان زی کہ بہر ذرہ رسانی پرتو
+      </Text>
+      <Text Language="Urdu">
+        تو مہر منیر سے زیادہ چمکدار واقع ہوا ہے؛ اس طرح زندگی بسر کر کہ ہر ذرہ تک اپنا پر تو پہنچائے۔
+      </Text>
+      <Text Language="English">
+        You have come forth brighter than the all-illumining sun; so live, that you may irradiate every mote.
+      </Text>
+    </Verse>
+    <Verse ID="161">
+      <Text Language="Original">
+        چون پرکاہ کہ در رھگذر باد افتاد
+رفت اسکندر و دارا و قباد و خسرو
+      </Text>
+      <Text Language="Urdu">
+        اس پر کاہ کی مانند جو آندھی کے راستہ میں ہو؛ سکندر، دارا، قباد اور خسرو اڑ گئے۔
+      </Text>
+      <Text Language="English">
+        Alexander, Darius, Qubad and Khusrau have departed like a blade of grass fallen in the path of the wind.
+      </Text>
+    </Verse>
+    <Verse ID="163">
+      <Text Language="Original">
+        از تنک جامی تو میکدہ رسوا گردید
+شیشہ ئی گیر و حکیمانہ بیاشام و برو"
+      </Text>
+      <Text Language="Urdu">
+        تیری تنک جامی (کم ظرفی) کے باعث مےکدہ رسوا ہو گیا ہے؛ صراحی اٹھا ، ہوشمندی سے پی اور رخصت ہو جا۔
+      </Text>
+      <Text Language="English">
+        So slender is your cup that the tavern has been put to shame; seize a tumbler, and drink wisely, and so be gone!’
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

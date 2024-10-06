@@ -1,0 +1,19 @@
+<Poem ID="21" Name="طالب علم" BookID="03" BookName="ضربِ کلیم" SectionID="02" SectionName="تعلیم و تربیت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        خدا تجھے کسی طوفاں سے آشنا کر دے 
+کہ تیرے بحر کی موجوں میں اضطراب نہیں 
+تجھے کتاب سے ممکن نہیں فراغ کہ تو 
+کتاب خواں ہے مگر صاحب کتاب نہیں
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        THE STUDENT
+May God acquaint you with some gale your tides no stir at all exhale: Respite from books you do not get, but Book Revealed too soon forget.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

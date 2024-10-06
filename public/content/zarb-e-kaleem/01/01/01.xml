@@ -1,0 +1,20 @@
+<Poem ID="01" Name="صبح" BookID="03" BookName="ضربِ کلیم" SectionID="01" SectionName="اسلام اور مسلمان">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        یہ سحر جو کبھی فردا ہے کبھی ہے امروز 
+نہیں معلوم کہ ہوتی ہے کہاں سے پیدا 
+وہ سحر جس سے لرزتا ہے شبستان وجود 
+ہوتی ہے بندہ مومن کی اذاں سے پیدا
+      </Text>
+      <Text Language="Urdu">
+        شبستان وجود: انسانی جسم کا یا کائنات کا سیاہ خانہ۔
+      </Text>
+      <Text Language="English">
+        The morn that shifts so soon tomorrow new, whence it comes is only known to few: 
+The dark abode of being is shook by morn, which by Muslim's Call to prayer is born.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

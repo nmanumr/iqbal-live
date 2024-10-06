@@ -1,0 +1,39 @@
+<Poem ID="37" Name="ایجاد معانی" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        ہر چند کہ ایجاد معانی ہے خدا داد 
+کوشش سے کہاں مرد ہنر مند ہے آزاد!
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        INVENTION OF NEW MEANINGS
+It is a gift by God bestowed, to coin fresh words with meanings new, yet skilful artist must work hard, as inborn trend is owned by few.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        خون رگ معمار کی گرمی سے ہے تعمیر 
+میخانہ حافظ ہو کہ بتخانہ بہزاد
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        It is the heat in mason's blood, who builds structures of various forms: It may be Behzad's picture hall, or house of wine where Hafiz charms.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        بے محنت پیہم کوئی جوہر نہیں کھلتا 
+روشن شرر تیشہ سے ہے خانہ فرہاد!
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Without resort to incessant strife, no skill or art completion gains: If Farhad does not hew the rocks, no sparks flash, dark his house remains!
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

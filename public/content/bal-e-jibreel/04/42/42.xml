@@ -1,0 +1,23 @@
+<Poem ID="42" Name="سیاست" BookID="02" BookName="‫بالِ جبریل" SectionID="04" SectionName="منظومات">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        اس کھیل میں تعیین مراتب ہے ضروری 
+شاطر کی عنایت سے تو فرزیں، میں پیادہ 
+بیچارہ پیادہ تو ہے اک مہرئہ ناچیز 
+فرزیں سے بھی پوشیدہ ہے شاطر کا ارادہ
+      </Text>
+      <Text Language="Urdu">
+        مراتب: مرتبہ کی جمع۔
+تعيين: مقرر کرنا۔ 
+فرزيں: وزیر؛ شطرنج کے کھیل میں وہ مہرہ جس کا درجہ بادشاہ کے بعد ہوتا ہے۔ 
+پيادہ: شطرنج کا سب سے چھوٹا مہرہ۔
+      </Text>
+      <Text Language="English">
+        Ranks must be determined for this game; let you be the firzine and I the pawn by the grace of the chess-player.
+The pawn, indeed, is an insignificant token; even the farzine is not privy to the chess-player’s strategy.
+(Translated by Naim Siddiqui)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,38 @@
+<Poem ID="26" Name="" BookID="01" BookName="بانگِ درا" SectionID="04" SectionName="ظریفانہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        اٹھا کر پھینک دو باہر گلی میں 
+نئی تہذیب کے انڈے ہیں گندے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Throw them out in the alley; the new civilization’s eggs are rotten.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        الکشن، ممبری، کونسل، صدارت 
+بنائے خوب آزادی نے پھندے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Election, membership, council, presidency; the nooses of independence are very strange.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        میاں نجار بھی چھیلے گئے ساتھ 
+نہایت تیز ہیں یورپ کے رندے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The carpenter has also been pared; the Europe’s planes are very sharp.
+(Translated by M.A.K. Khalil)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

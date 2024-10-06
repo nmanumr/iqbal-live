@@ -1,0 +1,19 @@
+<Poem ID="61" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        میارا بزم بر ساحل کہ آنجا
+نوای زندگانے نرم خیز است
+بہ دریا غلت و با موجش در آویز
+حیات جاودان اندر ستیز است
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Don’t arrange a party on the shore, for there the song of life is gentle and soft. 
+Roll with the ocean and contend with its waves: Struggle and combat give eternal life. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

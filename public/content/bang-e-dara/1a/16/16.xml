@@ -1,0 +1,115 @@
+<Poem ID="16" Name="صدائے درد" BookID="01" BookName="بانگِ درا" SectionID="1a" SectionName="حصہ اول">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        جل رہا ہوں کل نہیں پڑتی کسی پہلو مجھے
+ہاں ڈبو دے اے محیط آب گنگا تو مجھے
+      </Text>
+      <Text Language="Urdu">
+        محيط آب گنگا: گنگا کے گھیر لینے والے پانی۔
+      </Text>
+      <Text Language="English">
+        Consumed with grief I am, I get relief in no way; O circumambient waters of the Ganges drown me.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        سرزمیں اپنی قیامت کی نفاق انگیز ہے
+وصل کیسا، یاں تو اک قرب فراق انگیز ہے
+      </Text>
+      <Text Language="Urdu">
+        نفاق انگيز: نفاق پیدا کرنے والی، ایسی چیز جس کے ظاہر اور باطن میں فرق ہو۔
+قرب فراق انگيز: ایسی نزدیکی جس میں جدائی ملی ہوئی ہو۔
+      </Text>
+      <Text Language="English">
+        Our land foments excessive mutual enmity. What unity! Our closeness harbours separation.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        بدلے یک رنگی کے یہ نا آشنائی ہے غضب
+ایک ہی خرمن کے دانوں میں جدائی ہے غضب
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Enmity instead of sincerity is outrageous; enmity among the same barn’s grains is outrageous.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        جس کے پھولوں میں اخوت کی ہوا آئی نہیں
+اس چمن میں کوئی لطف نغمہ پیرائی نہیں
+      </Text>
+      <Text Language="Urdu">
+        اخوت: بھائی چارا، اتحاد۔
+نغمہ پيرائي: گیت گانا، راگ الاپنا۔
+      </Text>
+      <Text Language="English">
+        If the brotherly breeze has not entered in a garden; no pleasure can be derived from songs in that garden.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        لذت قرب حقیقی پر مٹا جاتا ہوں میں
+اختلاط موجہ و ساحل سے گھبراتا ہوں میں
+      </Text>
+      <Text Language="Urdu">
+        اختلاط: میل جول۔
+      </Text>
+      <Text Language="English">
+        Though I exceedingly love the real closeness; I am upset by the mixing of waves and the shore.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="11">
+      <Text Language="Original">
+        دانہ خرمن نما ہے شاعر معجز بیاں
+ہو نہ خرمن ہی تو اس دانے کی ہستی پھر کہاں
+      </Text>
+      <Text Language="Urdu">
+        دانہ خرمن نما: وہ دانہ جو کھلیان کا پتا بتائے۔ 
+شاعر معجز بياں: وہ شاعر جس کا کلام معجزہ معلوم ہو۔
+      </Text>
+      <Text Language="English">
+        The miraculous poet is like the grain from the barn; the grain has no existence if there is no barn.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        حسن ہو کیا خود نما جب کوئی مائل ہی نہ ہو
+شمع کو جلنے سے کیا مطلب جو محفل ہی نہ ہو
+      </Text>
+      <Text Language="Urdu">
+        خود نما: اپنے آپ کو نمایاں کرنے والا۔
+      </Text>
+      <Text Language="English">
+        How can beauty unveil itself if no one is anxious for sight; lighting of the candle is meaningless if there is no assembly.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        ذوق گویائی خموشی سے بدلتا کیوں نہیں
+میرے آئینے سے یہ جوہر نکلتا کیوں نہیں
+      </Text>
+      <Text Language="Urdu">
+        گويائي: بولنے کی لذّت ، بات کہنے کا شوق۔ ذوق
+      </Text>
+      <Text Language="English">
+        Why does the taste for speech not change to silence? Why does this brilliance not appear out from my mirror?
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        کب زباں کھولی ہماری لذت گفتار نے
+پھونک ڈالا جب چمن کو آتش پیکار نے
+      </Text>
+      <Text Language="Urdu">
+        آتش پيکار: لڑائی کی آگ۔
+      </Text>
+      <Text Language="English">
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

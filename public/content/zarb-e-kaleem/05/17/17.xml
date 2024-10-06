@@ -1,0 +1,41 @@
+<Poem ID="17" Name="جمعیت اقوام مشرق" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        پانی بھی مسخر ہے، ہوا بھی ہے مسخر 
+کیا ہو جو نگاہ فلک پیر بدل جائے
+      </Text>
+      <Text Language="Urdu">
+        مسخر: تسخیر کیا گیا۔
+      </Text>
+      <Text Language="English">
+        LEAGUE OF THE NATIONS OF THE EAST
+The West has made the wind and seas work through hard work, not chance; from West, the old blue' sky may turn its gaze and glance.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        دیکھا ہے ملوکیت افرنگ نے جو خواب 
+ممکن ہے کہ اس خواب کی تعبیر بدل جائے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The dream of such domains, ‘that have extensive range, 'bout which the Franks have dreamt, its purport right may change!
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        طہران ہو گر عالم مشرق کا جینوا 
+شاید کرہ ارض کی تقدیر بدل جائے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        If Tehran is made the Geneva of the East, the Fate or earthly globe may have some change at least. 
+(Written in Shish Mehal, Bhopal) 
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

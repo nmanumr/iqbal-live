@@ -1,0 +1,21 @@
+<Poem ID="25" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        رہے در سینۂ انجم گشائی
+ولے از خویشتن ناآشنائی
+یکے بر خود گشا چون دانہ چشمے
+کہ از زیر زمین نخلے بر آئی
+      </Text>
+      <Text Language="Urdu">
+        تو ستاروں کے اندر تو راستہ بنا لیتا ہے، مگر اپنے آپ سے نا آشنا ہے۔
+دانہ کی مانند ذرا اپنے آپ پر بھی آنکھ کھول، تا کہ زمین کے نیچے سے درخت بن کر نکلے۔
+      </Text>
+      <Text Language="English">
+        A stranger to your own identity, you seek new paths to the stars in the sky.
+Open your eyes to yourself like a seed so that you come out of the earth a tree.
+[Translated by M Hadi Hussain]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

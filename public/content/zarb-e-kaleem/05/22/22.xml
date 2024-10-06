@@ -1,0 +1,51 @@
+<Poem ID="22" Name="گلہ" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        معلوم کسے ہند کی تقدیر کہ اب تک 
+بیچارہ کسی تاج کا تابندہ نگیں ہے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        COMPLAINT
+The Fate of Mind to none at all is known, this lustrous gem still decks the British crown.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        دہقاں ہے کسی قبر کا اگلا ہوا مردہ 
+بوسیدہ کفن جس کا ابھی زیر زمیں ہے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Her peasant seems like corpse for want and dearth, whose rotten shroud is still beneath the earth.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        جاں بھی گرو غیر، بدن بھی گرو غیر 
+افسوس کہ باقی نہ مکاں ہے نہ مکیں ہے
+      </Text>
+      <Text Language="Urdu">
+        گرو غير: دوسروں کے پاس رہن رکھی ہوئی۔
+      </Text>
+      <Text Language="English">
+        His soul and frame to aliens have been sold. Alas! The soul on lodge has lost its hold.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        یورپ کی غلامی پہ رضا مند ہوا تو 
+مجھ کو تو گلہ تجھ سے ہے، یورپ سے نہیں ہے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        With Europe's bondage you are quite content, no plaint 'gainst them, but I your act resent.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

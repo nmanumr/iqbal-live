@@ -1,0 +1,21 @@
+<Poem ID="69" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        جہان ما کہ پایانے ندارد
+چو ماہی در یم ایام غرق است
+یکی بر دل نظر وا کن کہ بینی
+یم ایام در یک جام غرق است
+      </Text>
+      <Text Language="Urdu">
+        ہماری دنیا جس کا کوئی کنارہ نہیں؛ زمانے کے سمندر میں مچھلی کی طرح غرق ہے۔
+لیکن ذرا اپنے دل پر نظر ڈال ؛ زمانے کا سمندر اس ایک جام میں سمایا ہوا ہے۔
+      </Text>
+      <Text Language="English">
+        Our infinite world – of old Time’s ocean swallows it up (like fish).
+Look once in thy heart, and behold Time’s ocean sunk in a cup. 
+(Translated by R.A. Nicholson)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

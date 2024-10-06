@@ -1,0 +1,42 @@
+<Poem ID="16" Name="ہندی مسلمان" BookID="03" BookName="ضربِ کلیم" SectionID="01" SectionName="اسلام اور مسلمان">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        غدار وطن اس کو بتاتے ہیں برہمن 
+انگریز سمجھتا ہے مسلماں کو گداگر
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        INDIAN MUSLIM
+Brahmans dub him as foe to native land, the English call him beggar on other hand.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        پنجاب کے ارباب نبوت کی شریعت 
+کہتی ہے کہ یہ مومن پارینہ ہے کافر
+      </Text>
+      <Text Language="Urdu">
+        پنجاب کے ارباب نبوت: مرزا غلام محمد کی طرف اشارہ۔
+پارينہ: پرانا۔
+      </Text>
+      <Text Language="English">
+        The Code of Prophet born in Punjab says: ’This ancient Muslim owns many pagan ways’.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        آوازہ حق اٹھتا ہے کب اور کدھر سے 
+'مسکیں ولکم ماندہ دریں کشمکش اندر'
+      </Text>
+      <Text Language="Urdu">
+        میرا چھوٹا سا مسکین دل اسی کشمکش میں رہتا ہے۔
+      </Text>
+      <Text Language="English">
+        When and whence the call to truth shall rise, my humble heart is feeling much surprise?
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

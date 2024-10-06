@@ -1,0 +1,40 @@
+<Poem ID="30" Name="سرود حرام" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        نہ میرے ذکر میں ہے صوفیوں کا سوز و سرور 
+نہ میرا فکر ہے پیمانہ ثواب و عذاب
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        UNLAWFUL MUSIC
+My remembrance lacks the warmth and zeal that mystics oft attain my thought is not a scale at all for deeds deserving need or pain.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        خدا کرے کہ اسے اتفاق ہو مجھ سے 
+فقیہ شہر کہ ہے محرم حدیث و کتاب
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        I wish that jurist of the town, who knows the rules that Prophet taught and is adept at Book revealed, to my own point of view be brought.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        اگر نوا میں ہے پوشیدہ موت کا پیغام 
+حرام میری نگاہوں میں ناے و چنگ و رباب
+      </Text>
+      <Text Language="Urdu">
+        ناے: بانسری۔
+      </Text>
+      <Text Language="English">
+        If in the music or its strains tile message of decease is hid such music of harp, reed and lute in view of mine is quite forbid.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

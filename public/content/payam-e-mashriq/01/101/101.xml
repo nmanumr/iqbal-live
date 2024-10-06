@@ -1,0 +1,21 @@
+<Poem ID="101" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        چو در جنت خرامیدم پس از مرگ
+بہ چشمم این زمین و آسمان بود
+شکی با جان حیرانم در آویخت
+جہان بود آن کہ تصویر جہان بود
+      </Text>
+      <Text Language="Urdu">
+        جب میں فوت ہونے کے بعد جنت میں ٹہل رہا تھا ؛ تو مجھے اس زمین و آسمان کا کا خیال آیا۔
+ میری جان حیران شک میں مبتلا ہو گئی ، کہ وہ جہان تھا یا جہان کی تصویر تھی۔
+      </Text>
+      <Text Language="English">
+        When I was dead, and walked in Paradise, this heaven I could clearly see;
+One doubt yet lingered in my baffled soul – was it the world, that world of imagery? 
+(Translated by A.J. Arberry)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

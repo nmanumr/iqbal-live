@@ -1,0 +1,140 @@
+<Poem ID="17" Name="موسیولینن و قیصر ولیم" BookID="07" BookName="پیامِ مشرق" SectionID="04" SectionName="نقش فرنگ">
+  <Para Name="موسیولینن">
+    <Verse ID="01">
+      <Text Language="Original">
+        بسی گذشت کہ آدم درین سرای کہن
+مثال دانہ تہ سنگ آسیا بودست
+      </Text>
+      <Text Language="Urdu">
+        مدت گزر گئی کہ انسان اس سارے کہن (دنیا) میں، چکی کے پاٹ تلے پسنے والے دانے کی مانند ہے۔
+      </Text>
+      <Text Language="English">
+        DIALOGUE BETWEEN LENIN AND KAISER WILHELM
+Lenin: It is long since in this old world poor man is being ground like grain between millstones.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        فریب زاری و افسون قیصری خورد است
+اسیر حلقۂ دام کلیسیا بودست
+      </Text>
+      <Text Language="Urdu">
+        اس نے زار کا فریب کھایا ہے، وہ قیصر کے جادو سے مشہور ہوا ہے، وہ کلیسا کے دام میں بھی گرفتار رہا ہے۔
+      </Text>
+      <Text Language="English">
+        He has been duped by Kaisers and by Czars, and has been caught in the snare of the Church.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        غلام گرسنہ دیدی کہ بر درید آخر
+قمیص خواجہ کہ رنگین ز خون ما بودست
+      </Text>
+      <Text Language="Urdu">
+        تو نے دیکھا کہ بالآخر بھوکے غلام نے ، آقا کی وہ قمیص پھاڑ دی جو ہمارے خون سے رنگیں تھی۔
+      </Text>
+      <Text Language="English">
+        Have you not seen the hungry slave at last tear to shreds his lord’s garment, dyed red with his blood?
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        شرار آتش جمہور کہنہ سامان سوخت
+ردای پیر کلیسا قبای سلطان سوخت
+      </Text>
+      <Text Language="Urdu">
+        آتش جمہور کی چنگاری نے سارا پرانا (ساز و) سامان جلا دیا، پیر کلیسا کی چادر بھی جلا دی اور سلطان کی قبا بھی۔
+      </Text>
+      <Text Language="English">
+        Democracy’s spark has burnt up robes of the Church elders and the kings.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="قیصر ولیم">
+    <Verse ID="09">
+      <Text Language="Original">
+        گناہ عشوہ و ناز بتان چیست؟
+طواف اندر سرشت برہمن ہست
+      </Text>
+      <Text Language="Urdu">
+        محبوب کے ناز و ادا کا کو ئی گناہ نہیں، برہمن کی سرشت ہی میں (بتوں کا طواف) موجود ہے۔
+      </Text>
+      <Text Language="English">
+        The Kaiser: Why blame idols for their winsome ways? It is in the Brahmin’s nature to adore.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        دمادم نو خداوندان تراشد
+کہ بیزار از خدایان کہن ہست
+      </Text>
+      <Text Language="Urdu">
+        وہ ہر دم ایک نیا آقا تراشتا ہے، کیونکہ پرانے خداؤں سے بیزار ہو جاتا ہے۔
+      </Text>
+      <Text Language="English">
+        He keeps fashioning new idols; for he gets bored stiff with the ones he has.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        ز جور رھزنان کم گو کہ رہرو
+متاع خویش را خود رہزن ہست
+      </Text>
+      <Text Language="Urdu">
+        رہزنوں کے ظلم کی بات نہ کر ، کیونکہ یہ مسافر خود اپنے سامان کا رہزن ہے۔
+      </Text>
+      <Text Language="English">
+        Do not tell me of the highwaymen: His own robber is the traveler here.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        اگر تاج کئی جمہور پوشد
+ہمان ہنگامہ ہا در انجمن ہست
+      </Text>
+      <Text Language="Urdu">
+        اگر جمہور خسرو کا تاج پہن لیں ، تو پھر بھی انجمن میں وہی ہنگامے رہیں گے (عوامی لیڈر بھی وہی کام کریں گے جو بادشاہ کرتے ہیں)۔
+      </Text>
+      <Text Language="English">
+        If you crown the common people, then you will find oppression is still there.
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        ہوس اندر دل آدم نمیرد
+ہمان آتش میان مرزغن ہست
+      </Text>
+      <Text Language="Urdu">
+        آدم کے دل سے ہوس (اقتدار اور دولت) نہیں مرتی، اس آتشدان میں یہی آگ ہمیشہ جلتی رہے گی۔
+      </Text>
+      <Text Language="English">
+        Never does greed die out of men’s hearts: in a furnace fire must always blaze.
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        عروس اقتدار سحر فن را
+ہمان پیچاک زلف پر شکن ہست
+      </Text>
+      <Text Language="Urdu">
+        جادو کا فن رکھنے والی عروس اقتدار کی زلف پر شکن کا جال بدستور رہے گا۔
+      </Text>
+      <Text Language="English">
+        Power’s sorceress has the same arts irrespective of the part she plays.
+      </Text>
+    </Verse>
+    <Verse ID="21">
+      <Text Language="Original">
+        "نماند ناز شیرین بی خریدار
+اگر خسرو نباشد کوھکن ہست"
+      </Text>
+      <Text Language="Urdu">
+        شیریں کے ناز و ادا بغیر خریدار کے نہیں رہیں گے، خسرو نہ ہوا ، تو کوہکن سہی۔
+      </Text>
+      <Text Language="English">
+        ‘Shirin’s beauty never goes abegging: Khusroes or Farhads are never lacking.’ 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

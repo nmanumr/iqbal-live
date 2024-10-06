@@ -1,0 +1,20 @@
+<Poem ID="38" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        چو ذوق نغمہ ام در جلوت آرد
+قیامت افکنم در محفل خویش
+چو می خواھم دمی خلوت بگیرم
+جہان را گم کنم اندر دل خویش
+      </Text>
+      <Text Language="Urdu">
+        جب مجھے ذوق نغمہ جلوت میں لاتا ہے، تو میں محفل میں قیامت برپا کر دیتا ہوں۔
+لیکن جب میں ذرا خلوت اختیا ر کرتا ہوں ، تو اپنے دل میں کائنات کو گم کر لیتا ہوں۔
+      </Text>
+      <Text Language="English">
+        When the desire to sing aloud grips me, I storm the world with bursts of poesy.
+When I seek solitude, I let the world get lost in the waste of my privacy. [Translated by M Hadi Hussain]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

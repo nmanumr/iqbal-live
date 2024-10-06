@@ -1,0 +1,40 @@
+<Poem ID="10" Name="مشرق" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        مری نوا سے گریبان لالہ چاک ہوا 
+نسیم صبح، چمن کی تلاش میں ہے ابھی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        THE EAST
+By strains I sing at early morn, the vest of tulip has been torn.
+Breeze has been roaming since the dark, but has not found a single park.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        نہ مصطفی نہ رضا شاہ میں نمود اس کی 
+کہ روح شرق بدن کی تلاش میں ہے ابھی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        In Raza Shah or Mustafa Kamal, no trace of it is found at all. East's soul is seeking body sound, but such a body has not found.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        مری خودی بھی سزا کی ہے مستحق لیکن 
+زمانہ دارو رسن کی تلاش میں ہے ابھی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        My Self deserves correction dire. To set it right and sound entire: The world harbours this evil hope; to hang me seeks a plank and rope.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

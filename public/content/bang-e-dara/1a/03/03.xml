@@ -1,0 +1,79 @@
+<Poem ID="03" Name="عہد طفلی" BookID="01" BookName="بانگِ درا" SectionID="1a" SectionName="حصہ اول">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        تھے دیار نو زمین و آسماں میرے لیے
+وسعت آغوش مادر اک جہاں میرے لیے
+      </Text>
+      <Text Language="Urdu">
+        دیار نو: نیا شہر۔ 
+آغوش مادر: ماں کی گود۔
+      </Text>
+      <Text Language="English">
+        THE AGE OF INFANCY
+The earth and sky were unknown worlds to me; only the expanse of mother's bosom was a world to me.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        تھی ہر اک جنبش نشان لطف جاں میرے لیے
+حرف بے مطلب تھی خود میری زباں میرے لیے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Every movement was a symbol of life's pleasure to me; my own speech was like a meaningless word to me.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        درد، طفلی میں اگر کوئی رلاتا تھا مجھے
+شورش زنجیر در میں لطف آتا تھا مجھے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        During infancy's pain if somebody made me cry; the noise of the door chain would comfort me.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="">
+    <Verse ID="07">
+      <Text Language="Original">
+        تکتے رہنا ہائے! وہ پہروں تلک سوئے قمر
+وہ پھٹے بادل میں بے آواز پا اس کا سفر
+      </Text>
+      <Text Language="Urdu">
+        آواز پا: پاؤں کی آہٹ۔
+      </Text>
+      <Text Language="English">
+        Oh! How I stared at the moon for long hours staring at its silent journey among broken clouds.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        پوچھنا رہ رہ کے اس کے کوہ و صحرا کی خبر
+اور وہ حیرت دروغ مصلحت آمیز پر
+      </Text>
+      <Text Language="Urdu">
+        دروغ مصلحت آمیز: اچھا نتیجہ پیدا کرنے والا جھوٹ۔
+      </Text>
+      <Text Language="English">
+        I would ask repeatedly about its mountains and plains and how surprised would I be at that prudent lie.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        آنکھ وقف دید تھی، لب مائل گفتار تھا
+دل نہ تھا میرا، سراپا ذوق استفسار تھا
+      </Text>
+      <Text Language="Urdu">
+        وقف دید: دیکھنے میں مصروف۔
+      </Text>
+      <Text Language="English">
+        My eye was devoted to seeing, my lip was prone to speak; my heart was no less than inquisitiveness personified.
+[Translated by M.A.K.Khalil]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

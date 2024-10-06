@@ -1,0 +1,119 @@
+<Poem ID="34" Name="حور وشاعر" BookID="07" BookName="پیامِ مشرق" SectionID="02" SectionName="افکار">
+  <Para Name="در جواب نظم گوتہ موسوم بہ حور و شاعر" />
+  <Para Name="حور">
+    <Verse ID="01">
+      <Text Language="Original">
+        نہ بہ بادہ میل داری نہ بہ من نظر گشائے
+عجب اینکہ تو ندانی رہ و رسم آشنائے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        THE HOURI AND THE POET
+The Houri: You are not attracted to wine, and you do not look at me: How surprising that you do not know the art of mixing!
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        ہمہ ساز جستجوئی ہمہ سوز آرزوئے
+نفسی کہ میگدازی غزلی کہ می سرائے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        It is but a tune of quest, a flame of desire, your sigh, your song.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        بہ نوای آفریدی چہ جہان دلگشائے
+کہ ارم بہ چشم آید چو طلسم سیمیائے
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        With your song you have made such a lovely world that paradise itself appears to me to be some conjurer’s trick.
+      </Text>
+    </Verse>
+  </Para>
+  <Para Name="شاعر">
+    <Verse ID="07">
+      <Text Language="Original">
+        دل رھروان فریبی بہ کلام نیش داری
+مگر اینکہ لذت او نرسد بہ نوک خاری
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The Poet: You charm travelers’ hearts with pointed talk except that, in the pleasure it gives, one cannot compare it with the sharp thorn.
+      </Text>
+    </Verse>
+    <Verse ID="09">
+      <Text Language="Original">
+        چکنم کہ فطرت من بہ مقام در نسازد
+دل ناصبور دارم چو صبا بہ لالہ زاری
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        What can I do, for by nature I am not someone who can live for long in one place! My heart is restless, like the west wind in a field of tulips.
+      </Text>
+    </Verse>
+    <Verse ID="11">
+      <Text Language="Original">
+        چو نظر قرار گیرد بہ نگار خوبروئے
+تپد آن زمان دل من پی خوبتر نگاری
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The moment my eyes light upon a pretty face, my heart begins to long for one prettier still.
+      </Text>
+    </Verse>
+    <Verse ID="13">
+      <Text Language="Original">
+        ز شرر ستارہ جویم ز ستارہ آفتابی
+سر منزلی ندارم کہ بمیرم از قراری
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        In the spark I seek a star, in the star a sun: I have no wish for a destination, for if I stop I die.
+      </Text>
+    </Verse>
+    <Verse ID="15">
+      <Text Language="Original">
+        چو ز بادۂ بہاری قدحی کشیدہ خیزم
+غزلی دگر سرایم بہ ہوای نوبہاری
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        When I get up, having drunk a cup of wine matured by one spring, I begin to sing another verse, and long for yet another spring.
+      </Text>
+    </Verse>
+    <Verse ID="17">
+      <Text Language="Original">
+        طلبم نہایت آن کہ نہایتی ندارد
+بہ نگاہ ناشکیبی بہ دل امیدواری
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        I seek the end of what has no end – with a restless eye, and hope in my heart.
+      </Text>
+    </Verse>
+    <Verse ID="19">
+      <Text Language="Original">
+        دل عاشقان بمیرد بہ بہشت جاودانی
+نہ نوای دردمندی نہ غمی نہ غمگساری
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The lover’s heart dies in an eternal heaven – in it no afflicted soul cries, there is no sorrow, and no one to drive sorrow away!
+(Translated by Mustansir Mir)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

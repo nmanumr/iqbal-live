@@ -1,0 +1,54 @@
+<Poem ID="33" Name="شعر عجم" BookID="03" BookName="ضربِ کلیم" SectionID="04" SectionName="ادبیات فنون لطیفہ">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        ہے شعر عجم گرچہ طرب ناک و دل آویز 
+اس شعر سے ہوتی نہیں شمشیر خودی تیز
+      </Text>
+      <Text Language="Urdu">
+        طرب ناک: پر سرور۔ 
+شمشير خودي: خود آگاہی کی نظر۔
+      </Text>
+      <Text Language="English">
+        PERSIAN POETRY
+There is no doubt that Persian verse, like music of the harp and lute, is full of joy and has much charm, yet sword or Self it makes not sharp.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        افسردہ اگر اس کی نوا سے ہو گلستاں 
+بہتر ہے کہ خاموش رہے مرغ سحر خیز
+      </Text>
+      <Text Language="Urdu">
+        مرغ سحر خيز: صبح سویرے اٹھ کر چہچہانے والا پرندہ ۔
+      </Text>
+      <Text Language="English">
+        Much good that birds which chirp and sing at morning early rise and bloom, give tip their songs, if can't dispel this earthly meadow's murk and gloom.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        وہ ضرب اگر کوہ شکن بھی ہو تو کیا ہے 
+جس سے متزلزل نہ ہوئی دولت پرویز
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        A mighty stroke with case can cleave a mountain high and big in twain: If fails to shake the founds of Chosroe's throne, is useless quite and fully vain.
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        اقبال یہ ہے خارہ تراشی کا زمانہ 
+'از ہر چہ بآئینہ نمایند بہ پرہیز'
+      </Text>
+      <Text Language="Urdu">
+        یہ اپنی شاعری کے آئینے سے جو کچھ دیکھتے ہیں اس سے بچنا چاہئیے ۔
+      </Text>
+      <Text Language="English">
+        Iqbal much strife is needed in present age which needs chiselling rocks and crushing stone; shun case, in mirror do not peep, and let such things remain alone.
+[Translated by Syed Akbar Ali Shah]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

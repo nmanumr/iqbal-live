@@ -1,0 +1,41 @@
+<Poem ID="02" Name="کارل مارکس کی آواز" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        یہ علم و حکمت کی مہرہ بازی، یہ بحث و تکرار کی نمائش 
+نہیں ہے دنیا کو اب گوارا پرانے افکار کی نمائش
+      </Text>
+      <Text Language="Urdu">
+        مہرہ بازي: مہروں کا کھیل؛ مراد ہے عیاری، مکاری۔
+      </Text>
+      <Text Language="English">
+        THE VOICE OF KARL MARX
+The world does not like tricks and of science and wit nor, their contests; this age does not like ancient thoughts, from core of hearts their show detests.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        تری کتابوں میں اے حکیم معاش رکھا ہی کیا ہے آخر 
+خطوط خم دار کی نمائش، مریز و کج دار کی نمائش
+      </Text>
+      <Text Language="Urdu">
+        مريز و کج دار: لفظی معنی ہیں؛ ' نہ گرا' اور 'نہ ٹیڑھا رکھ' - مراد ہے کسی کی جھولی میں سب کچھ ڈالنے کی کوشش کرنا لیکن کچھ نہ ڈالنا۔
+      </Text>
+      <Text Language="English">
+        O wise economist, the books you write are quite devoid of useful aim: They have twisted lines with orders strange no warmth for labour, though they claim.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        جہان مغرب کے بت کدوں میں، کلیسیاوں میں، مدرسوں میں 
+ہوس کی خون ریزیاں چھپاتی ہے عقل عیار کی نمائش
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        The idol houses of the West, their schools and churches wide; the ravage caused for, greed of wealth their wily wit attempts to hide.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,21 @@
+<Poem ID="08" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        درین گلشن پریشان مثل بویم
+نمیدانم چہ میخواھم چہ جویم
+برآید آرزو یا بر نیاید
+شہید سوز و ساز آرزویم
+      </Text>
+      <Text Language="Urdu">
+        میں اس باغ (دنیا ) میں خوشبو کی مانند پریشان ہوں؛ مجھے معلوم نہیں میں کیا چاہتا ہوں، کسے تلاش کر رہا ہوں۔ 
+میری آرزو پوری ہو یا نہ ہو؛ مگر آرزو کے سوز و ساز پر مرتا ہوں۔
+      </Text>
+      <Text Language="English">
+        A spent scent in the garden I suspire, I know not what I seek, what I require. 
+But be my passion satisfied, or no, yet here I burn, a martyr to desire. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,40 @@
+<Poem ID="06" Name="یورپ اور یہود" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        یہ عیش فراواں، یہ حکومت، یہ تجارت 
+دل سینہ بے نور میں محروم تسلی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        EUROPE AND JEWS
+Unbridled luxury, state pomp and pride, rich commerce; but to dwell inside that lampless breast all tranquil thoughts refuse.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        تاریک ہے افرنگ مشینوں کے دھویں سے 
+یہ وادی ایمن نہیں شایان تجلی
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Dark is the white man’s country with the grime of engines, no valley that might see splendour descending on a burning tree:
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        ہے نزع کی حالت میں یہ تہذیب جواں مرگ 
+شاید ہوں کلیسا کے یہودی متولی!
+      </Text>
+      <Text Language="Urdu">
+        متولي: نگران، انتظام کرنے والے۔
+      </Text>
+      <Text Language="English">
+        A civilization sick before its prime, at its least gasp; leaving maybe for caretakers of Christendom, the Jews. 
+(Translated by V.G. Kiernan)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

@@ -1,0 +1,40 @@
+<Poem ID="07" Name="عورت کی حفاظت" BookID="03" BookName="ضربِ کلیم" SectionID="03" SectionName="عورت">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        اک زندہ حقیقت مرے سینے میں ہے مستور 
+کیا سمجھے گا وہ جس کی رگوں میں ہے لہو سرد
+      </Text>
+      <Text Language="Urdu">
+        مستور: چھپی ہوئی۔
+      </Text>
+      <Text Language="English">
+        PROTECTION OF THE WEAKER VESSEL
+A fact alive is in my breast concealed, he can behold whose blood is not congealed.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        نے پردہ، نہ تعلیم، نئی ہو کہ پرانی 
+نسوانیت زن کا نگہباں ہے فقط مرد
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        To wear a veil and learn new lore or old can't guard fair sex except a person bold.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        جس قوم نے اس زندہ حقیقت کو نہ پایا 
+اس قوم کا خورشید بہت جلد ہوا زرد
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        A nation which can't see this truth divine, pale grows its son and soon begins decline.
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

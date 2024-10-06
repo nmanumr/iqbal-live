@@ -1,0 +1,39 @@
+<Poem ID="04" Name="خوشامد" BookID="03" BookName="ضربِ کلیم" SectionID="05" SectionName="سیاست مشرق و مغرب">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        میں کار جہاں سے نہیں آگاہ، ولیکن 
+ارباب نظر سے نہیں پوشیدہ کوئی راز
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        FLATTERY
+The world and its affairs to me are quite unknown; these secrets are not bid from those who insight own.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        کر تو بھی حکومت کے وزیروں کی خوشامد 
+دستور نیا، اور نئے دور کا آغاز
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        Hang on the Ministers, if you desire high ranks; new rules have been now framed for this age by the Franks.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        معلوم نہیں، ہے یہ خوشامد کہ حقیقت 
+کہہ دے کوئی الو کو اگر 'رات کا شہباز
+      </Text>
+      <Text Language="Urdu">
+      </Text>
+      <Text Language="English">
+        If a man calls the owl, ‘The kingly hawk of night’; too hard to find this fact wh'r he tells wrong or right. 
+(Translated by Syed Akbar Ali Shah)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

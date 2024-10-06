@@ -1,0 +1,53 @@
+<Poem ID="44" Name="" BookID="08" BookName="زبورِعجم" SectionID="01" SectionName="حصہ اول">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بدہ آندل کہ مستی ہای او از بادۂ خویش است
+بگیر آندل کہ از خود رفتہ و بیگانہ اندیش است
+      </Text>
+      <Text Language="Urdu">
+        مجھے ایسا دل عطا فرمائیے جو اپنی شراب سے مست ہو؛ یہ دل لے لیجیے جو از خود رفتہ ہے اور دوسروں کے افکار رکھتا ہے۔
+      </Text>
+      <Text Language="English">
+        Give me the heart whose rapture fine flames from a draught of its own wine, and take the heart that, self-effaced, by alien fancy is embraced.
+      </Text>
+    </Verse>
+    <Verse ID="03">
+      <Text Language="Original">
+        بدہ آندل بدہ آن دل کہ گیتی را فراگیرد
+بگیر این دل بگیر این دل کہ در بند کم و بیش است
+      </Text>
+      <Text Language="Urdu">
+        مجھے ایسا دل عطا فرمائیے جو زمانے کو اپنے اندر سمو لے؛ یہ دل لے لیجیے جو نفع نقصان کے چکر میں پڑا رہتا ہے۔
+      </Text>
+      <Text Language="English">
+        Give me the heart, give me the heart that of the world will have no part; I yield the heart right gladly o’er that is a slave to less and more.
+      </Text>
+    </Verse>
+    <Verse ID="05">
+      <Text Language="Original">
+        مرا اے صید گیر از ترکش تقدیر بیرون کش
+جگر دوزی چہ می آید از آن تیری کہ در کیش است
+      </Text>
+      <Text Language="Urdu">
+        اے میرے مالک ! مجھے تقدیر کے ترکش باہر نکالیے ؛ جو تیر ترکش کے اندر ہو وہ کیسے جا کر جگر پر لگ سکتا ہے۔
+      </Text>
+      <Text Language="English">
+        O draw me forth, Thou huntsman bold, out of fate’s quiver Thou dost hold; except the shaft be put to bow, how shall it lay the quarry low?
+      </Text>
+    </Verse>
+    <Verse ID="07">
+      <Text Language="Original">
+        نگردد زندگانی خستہ از کار جہان گیری
+جہانی در گرہ بستم جہانی دیگری پیش است
+      </Text>
+      <Text Language="Urdu">
+        جہانگیری سے زندگی میں کمزور ی واقعہ نہیں ہوتی؛ (دیکھیئے ) ایک جہان میں نے گرہ میں باندھ رکھا ہے اور دوسرا میرے سامنے ہے۔
+      </Text>
+      <Text Language="English">
+        This life is ne’er a weary thing while there be worlds for conquering: behold, one world lies bound and tied – into another world I ride.
+(Translated by A.J. Arberry)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

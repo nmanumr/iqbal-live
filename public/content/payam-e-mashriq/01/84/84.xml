@@ -1,0 +1,21 @@
+<Poem ID="84" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        نہ افغانیم و نے ترک و تتاریم
+چمن زادیم و از یک شاخساریم
+تمیز رنگ و بو بر ما حرام است
+کہ ما پروردۂ یک نو بھاریم
+      </Text>
+      <Text Language="Urdu">
+        نہ ہم افغان ہیں، نہ ترک، نہ تاتاری؛ ہم چمن زاد ہیں اور ایک ہی شاخ سے ہیں۔
+ہم پر رنگ و بو کی تمیز حرام ہے؛ کیونکہ ہماری پرورش ایک نوبہار (اسلام) سے ہوئی۔
+      </Text>
+      <Text Language="English">
+        We are not Afghans, Turks or Tartars: Offspring of the garden, we grew from the same bough. 
+Distinctions of colour and scent are forbidden to us, for we are products of a new spring. 
+(Translated by M. Hadi Husain)
+      </Text>
+    </Verse>
+  </Para>
+</Poem>

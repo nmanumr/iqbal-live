@@ -1,0 +1,21 @@
+<Poem ID="92" Name="" BookID="07" BookName="پیامِ مشرق" SectionID="01" SectionName="لالۂ طور">
+  <Para Name="">
+    <Verse ID="01">
+      <Text Language="Original">
+        بیا اے عشق اے رمز دل ما
+بیا اے کشت ما اے حاصل ما
+کہن گشتند این خاکی نہادان
+دگر آدم بنا کن از گل ما
+      </Text>
+      <Text Language="Urdu">
+        اے عشق، اے ہمارے دل کے راز آ! اے ہماری کھیتی ، اے ہمارے حاصل آ۔
+یہ آدم خاکی پرانا ہو چکا ہے، ہماری مٹی سے نیا آدم بنا۔
+      </Text>
+      <Text Language="English">
+        Come, O Love, guarded secret of our hearts, come, O our sowing and our harvesting.
+These men, clay idols, have grown far too old. Another Adam now needs fashioning.
+[Translated by M Hadi Hussain]
+      </Text>
+    </Verse>
+  </Para>
+</Poem>
