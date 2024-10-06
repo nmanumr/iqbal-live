@@ -18,9 +18,9 @@ export default function Poem() {
         <div className="text-4xl mt-4 leading-[2]">{poem?.getAttribute("Name")}</div>
       </div>
 
-      {/*<SizeProvider>*/}
-      {poem && <Verses poem={poem}/>}
-      {/*</SizeProvider>*/}
+      <SizeProvider>
+        {poem && <Verses poem={poem}/>}
+      </SizeProvider>
     </div>
   );
 }
@@ -44,7 +44,7 @@ function Verses({poem}: { poem: Element }) {
             const verses = originalText?.split("\n");
 
             return (
-              <SizeProvider>
+              <>
                 {verses
                   ?.map((v) => v.trim())
                   ?.filter(Boolean)
@@ -53,7 +53,8 @@ function Verses({poem}: { poem: Element }) {
                       <Verse content={ver}/>
                     </div>
                   ))}
-              </SizeProvider>);
+              </>
+            );
           })}
         </div>
         // </SizeProvider>
