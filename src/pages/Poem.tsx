@@ -7,7 +7,7 @@ export default function Poem() {
 
   return (
     <div
-      className="text-center font-nastaliq leading-[2] py-10"
+      className="text-center font-nastaliq leading-[2] py-10 px-4 sm:px-6 md:max-w-2xl md:px-4 lg:max-w-4xl lg:px-12"
       dir="rtl"
     >
       <div dir="rtl" className="text-center leading-[2] font-nastaliq mb-10">
@@ -35,24 +35,27 @@ function Verses({poem}: { poem: Element }) {
     <div className="flex flex-col items-center justify-center @container">
       {Array.from(poem?.children ?? []).map((para) => (
         // <SizeProvider>
-          <div className="leading-[2.2] text-xl font-nastaliq para @5xl:grid py-4 gap-x-10" dir="rtl">
-            {Array.from(para?.children ?? []).map((verse) => {
-              const originalTextNode = Array.from(verse.children ?? []).find(
-                (node) => node.getAttribute("Language") === "Original"
-              );
-              const originalText = originalTextNode?.textContent;
-              const verses = originalText?.split("\n");
+        <div className="leading-[2.2] text-xl font-nastaliq para @5xl:grid py-4 gap-x-10" dir="rtl">
+          {Array.from(para?.children ?? []).map((verse) => {
+            const originalTextNode = Array.from(verse.children ?? []).find(
+              (node) => node.getAttribute("Language") === "Original"
+            );
+            const originalText = originalTextNode?.textContent;
+            const verses = originalText?.split("\n");
 
-              return verses
-                ?.map((v) => v.trim())
-                ?.filter(Boolean)
-                ?.map((ver) => (
-                  <div className="even:mb-4 flex justify-center">
-                    <Verse content={ver}/>
-                  </div>
-                ));
-            })}
-          </div>
+            return (
+              <SizeProvider>
+                {verses
+                  ?.map((v) => v.trim())
+                  ?.filter(Boolean)
+                  ?.map((ver) => (
+                    <div className="even:mb-4 flex justify-center">
+                      <Verse content={ver}/>
+                    </div>
+                  ))}
+              </SizeProvider>);
+          })}
+        </div>
         // </SizeProvider>
       ))}
     </div>
@@ -83,7 +86,7 @@ function Verse({content}: { content: string }) {
           .split(" ")
           .filter(Boolean)
           .map((word) => (
-            <div className="inline-block px-1">
+            <div className="inline-block">
               {word}&nbsp;
             </div>
           ))

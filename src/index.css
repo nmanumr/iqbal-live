@@ -8,6 +8,12 @@
   font-weight: normal;
 }
 
+@font-face {
+  font-family: MehrNastaliqRegular;
+  src: url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.ttf) format("truetype"),url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.woff2) format("woff2"),url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.woff) format("woff");
+  font-display: swap
+}
+
 .para:has(> :last-child:nth-child(6)) {
   grid-template: "a c" auto
                 "b d" auto
