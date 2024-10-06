@@ -18,9 +18,15 @@ export default function Poem() {
         <div className="text-4xl mt-4 leading-[2]">{poem?.getAttribute("Name")}</div>
       </div>
 
-      <SizeProvider>
-        {poem && <Verses poem={poem}/>}
-      </SizeProvider>
+      {poem && (
+        <SizeProvider>
+          <div className="flex flex-col items-center justify-center @container leading-[2.2] text-xl font-nastaliq">
+            {Array.from(poem?.children ?? []).map((para) => (
+              <Stanza para={para}/>
+            ))}
+          </div>
+        </SizeProvider>
+      )}
     </div>
   );
 }
@@ -30,41 +36,42 @@ const SizeContext = createContext<{
   maxSize: number | undefined
 } | null>(null)
 
-function Verses({poem}: { poem: Element }) {
+function Stanza({para}: { para: Element }) {
+  const stanzaTitle = para.getAttribute('Name');
+
   return (
-    <div className="flex flex-col items-center justify-center @container">
-      {Array.from(poem?.children ?? []).map((para) => (
-        // <SizeProvider>
-        <div className="leading-[2.2] text-xl font-nastaliq para @3xl:grid py-4 gap-x-10" dir="rtl">
-          {para.getAttribute('Name') && <div className="text-2xl mb-4 text-start">{para.getAttribute('Name')}</div>}
+    <>
+      {stanzaTitle && <div className="text-2xl my-4 text-start">{stanzaTitle}</div>}
 
-          <div>
-            {Array.from(para?.children ?? []).map((verse) => {
-              const originalTextNode = Array.from(verse.children ?? []).find(
-                (node) => node.getAttribute("Language") === "Original"
-              );
-              const originalText = originalTextNode?.textContent;
-              const verses = originalText?.split("\n");
+      {Array.from(para?.children ?? []).map((couplet) => {
+        const originalText = Array.from(couplet.children ?? []).find(
+          (node) => node.getAttribute("Language") === 'Original'
+        )?.textContent?.split('\n').map((v) => v?.trim()).filter(Boolean);
 
-              return (
-                <>
-                  {verses
-                    ?.map((v) => v.trim())
-                    ?.filter(Boolean)
-                    ?.map((ver) => (
-                      <div className="even:mb-2 flex justify-center">
-                        <Verse content={ver}/>
-                      </div>
-                    ))}
-                </>
-              );
-            })}
+        const urduText = Array.from(couplet.children ?? []).find(
+          (node) => node.getAttribute("Language") === 'Urdu'
+        )?.textContent;
+        const englishText = Array.from(couplet.children ?? []).find(
+          (node) => node.getAttribute("Language") === 'English'
+        )?.textContent
+
+        return (
+          <div className="py-10 space-y-4 px-4 w-[42rem] border-b border-black/10" key={couplet.getAttribute('ID')}>
+            <div className="">
+              {originalText?.map((verse) => (
+                <div className="flex justify-center">
+                  <Verse content={verse}/>
+                </div>
+              ))}
+            </div>
+
+            <div className="leading-[2] font-nastaliq text-base text-start max-w-2xl" dir="rtl">{urduText}</div>
+            <div className="font-nastaliq text-start text-sm max-w-2xl" dir="ltr">{englishText}</div>
           </div>
-        </div>
-        // </SizeProvider>
-      ))}
-    </div>
-  )
+        );
+      })}
+    </>
+  );
 }
 
 function Verse({content}: { content: string }) {
