@@ -2,6 +2,8 @@
   {
     "id": "bang-e-dara",
     "name": "بانگِ درا",
+    "year": "",
+    "language": "",
     "sections": [
       {
         "id": "1a",
@@ -173,6 +175,8 @@
   {
     "id": "bal-e-jibreel",
     "name": "بالِ جبریل",
+    "year": "",
+    "language": "",
     "sections": [
       { "id": "01", "name": "حصہ اول", "poems": [] },
       { "id": "02", "name": "حصہ دوم", "poems": [] },
@@ -255,6 +259,8 @@
   {
     "id": "zarb-e-kaleem",
     "name": "ضربِ کلیم",
+    "year": "",
+    "language": "",
     "sections": [
       {
         "id": "00",
@@ -486,6 +492,8 @@
   {
     "id": "armaghan-e-hijaz",
     "name": "ارمغانِ حجاز",
+    "year": "",
+    "language": "",
     "sections": [
       {
         "id": "01",
@@ -521,6 +529,8 @@
   {
     "id": "asrar-e-khudi",
     "name": "اسرارِ خودی",
+    "year": "",
+    "language": "",
     "sections": [
       {
         "id": "01",
@@ -552,6 +562,8 @@
   {
     "id": "ramooz-e-bekhudi",
     "name": "رموزِ بیخودی",
+    "year": "",
+    "language": "",
     "sections": [
       {
         "id": "01",
@@ -619,6 +631,8 @@
   {
     "id": "payam-e-mashriq",
     "name": "پیامِ مشرق",
+    "year": "",
+    "language": "",
     "sections": [
       {
         "id": "01",
@@ -719,6 +733,8 @@
   {
     "id": "zaboor-e-ajam",
     "name": "زبورِعجم",
+    "year": "",
+    "language": "",
     "sections": [
       {
         "id": "01",
@@ -762,6 +778,8 @@
   {
     "id": "javed-nama",
     "name": "جاوید نامہ",
+    "year": "",
+    "language": "",
     "sections": [
       {
         "id": "01",
@@ -893,6 +911,8 @@
   {
     "id": "pas-che-bayad-kard",
     "name": "پس چہ بائد کرد",
+    "year": "",
+    "language": "",
     "sections": [
       {
         "id": "01",
@@ -929,6 +949,8 @@
   {
     "id": "armaghan-e-hijaz-2",
     "name": "ارمغانِ حجاز",
+    "year": "",
+    "language": "",
     "sections": [
       { "id": "01", "name": "حضور حق", "poems": [] },
       {

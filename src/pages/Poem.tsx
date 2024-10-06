@@ -18,9 +18,9 @@ export default function Poem() {
         <div className="text-4xl mt-4 leading-[2]">{poem?.getAttribute("Name")}</div>
       </div>
 
-      <SizeProvider>
-        {poem && <Verses poem={poem}/>}
-      </SizeProvider>
+      {/*<SizeProvider>*/}
+      {poem && <Verses poem={poem}/>}
+      {/*</SizeProvider>*/}
     </div>
   );
 }
@@ -34,7 +34,7 @@ function Verses({poem}: { poem: Element }) {
   return (
     <div className="flex flex-col items-center justify-center @container">
       {Array.from(poem?.children ?? []).map((para) => (
-        <SizeProvider>
+        // <SizeProvider>
           <div className="leading-[2.2] text-xl font-nastaliq para @5xl:grid py-4 gap-x-10" dir="rtl">
             {Array.from(para?.children ?? []).map((verse) => {
               const originalTextNode = Array.from(verse.children ?? []).find(
@@ -53,7 +53,7 @@ function Verses({poem}: { poem: Element }) {
                 ));
             })}
           </div>
-        </SizeProvider>
+        // </SizeProvider>
       ))}
     </div>
   )
