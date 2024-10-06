@@ -7,7 +7,7 @@ export default function Poem() {
 
   return (
     <div
-      className="text-center font-nastaliq leading-[2] py-10 px-4 sm:px-6 md:max-w-2xl md:px-4 lg:max-w-4xl lg:px-12"
+      className="text-center font-nastaliq leading-[2] py-10 px-4 sm:px-6 md:px-4 lg:px-12"
       dir="rtl"
     >
       <div dir="rtl" className="text-center leading-[2] font-nastaliq mb-10">
@@ -49,7 +49,7 @@ function Verses({poem}: { poem: Element }) {
                   ?.map((v) => v.trim())
                   ?.filter(Boolean)
                   ?.map((ver) => (
-                    <div className="even:mb-4 flex justify-center">
+                    <div className="even:mb-2 flex justify-center">
                       <Verse content={ver}/>
                     </div>
                   ))}
@@ -86,7 +86,7 @@ function Verse({content}: { content: string }) {
           .split(" ")
           .filter(Boolean)
           .map((word) => (
-            <div className="inline-block">
+            <div className="inline-block px-0.5">
               {word}&nbsp;
             </div>
           ))
