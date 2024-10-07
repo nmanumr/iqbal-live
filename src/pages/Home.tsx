@@ -96,14 +96,14 @@ function flattenIndex(index: any[]) {
     year: book.year,
   }));
 
-  const sectionsWithBookName = index.flatMap((book) => book.sections.map((s) => ({
+  const sectionsWithBookName = index.flatMap((book) => book.sections.map((s: any) => ({
     ...s,
     bookId: book.id,
     bookName: book.name,
     bookNameEn: book['name-en'],
   })));
 
-  const poemsWithSectionName = sectionsWithBookName.flatMap((section) => section.poems.map((p) => ({
+  const poemsWithSectionName = sectionsWithBookName.flatMap((section) => section.poems.map((p: any) => ({
     ...p,
     bookName: section.bookName,
     bookNameEn: section.bookNameEn,
