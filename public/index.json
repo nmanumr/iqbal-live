@@ -9,6 +9,7 @@
       {
         "id": "1a",
         "name": "حصہ اول",
+        "name-en": "Hissa Awwal",
         "poems": [
           { "id": "01", "name": "ہمالہ", "name-en": "Himalaya" },
           { "id": "02", "name": "گل رنگیں", "name-en": "Gul-e-Rangeen" },
@@ -64,6 +65,7 @@
       {
         "id": "1b",
         "name": "غزلیات 1",
+        "name-en": "Ghazaliyat 1",
         "poems": [
           { "id": "01", "name": "01", "name-en": "01" },
           { "id": "02", "name": "02", "name-en": "02" },
@@ -83,6 +85,7 @@
       {
         "id": "2a",
         "name": "حصہ دوم",
+        "name-en": "Hissa Doem",
         "poems": [
           { "id": "01", "name": "محبت", "name-en": "Mohabbat" },
           { "id": "02", "name": "حقیقت حسن", "name-en": "Haqeeqat-e-Husn" },
@@ -113,6 +116,7 @@
       {
         "id": "2b",
         "name": "غزلیات 2",
+        "name-en": "Ghazaliyat 2",
         "poems": [
           { "id": "01", "name": "01", "name-en": "01" },
           { "id": "02", "name": "02", "name-en": "02" },
@@ -126,6 +130,7 @@
       {
         "id": "3a",
         "name": "حصہ سوم",
+        "name-en": "Hissa Soem",
         "poems": [
           { "id": "01", "name": "بلاد اسلامیہ", "name-en": "Bilad-e-Islamia" },
           { "id": "02", "name": "ستارہ", "name-en": "Sitara" },
@@ -202,6 +207,7 @@
       {
         "id": "3b",
         "name": "غزلیات 3",
+        "name-en": "Ghazaliyat 3",
         "poems": [
           { "id": "01", "name": "01", "name-en": "01" },
           { "id": "02", "name": "02", "name-en": "02" },
@@ -261,6 +267,7 @@
       {
         "id": "01",
         "name": "حصہ اول",
+        "name-en": "Hissa Awwal",
         "poems": [
           { "id": "01", "name": "01", "name-en": "01" },
           { "id": "02", "name": "02", "name-en": "02" },
@@ -283,6 +290,7 @@
       {
         "id": "02",
         "name": "حصہ دوم",
+        "name-en": "Hissa Doem",
         "poems": [
           { "id": "01", "name": "01", "name-en": "01" },
           { "id": "02", "name": "02", "name-en": "02" },
@@ -702,7 +710,7 @@
       {
         "id": "06",
         "name": "محراب گل افغان کے افکار",
-        "name-enn": "Mihrab Gul Afghan Ke Afkar",
+        "name-en": "Mihrab Gul Afghan Ke Afkar",
         "poems": [
           { "id": "01", "name": "01", "name-en": "01" },
           { "id": "02", "name": "02", "name-en": "02" },
