@@ -53,10 +53,21 @@ function Stanza({para}: { para: Element }) {
         )?.textContent;
         const englishText = Array.from(couplet.children ?? []).find(
           (node) => node.getAttribute("Language") === 'English'
-        )?.textContent
+        )?.textContent;
+
+        const id = couplet.getAttribute('ID');
 
         return (
-          <div className="py-10 space-y-4 px-4 max-w-2xl w-full border-b border-black/10" key={couplet.getAttribute('ID')}>
+          <div
+            className="relative py-10 space-y-4 px-4 max-w-2xl w-full border-b border-black/10"
+            id={`cplt${id}`}
+            key={id}
+          >
+            {id && (
+              <a href={`#cplt${id}`} className="font-black font-sans text-xl text-gray-200 absolute start-0 hover:text-gray-400 transition">
+                {id}
+              </a>
+            )}
             <div className="">
               {originalText?.map((verse) => (
                 <div className="flex justify-center">

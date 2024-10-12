@@ -2,16 +2,22 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-  font-family: "Mehr_Nastaliq_Web";
-  src: url("/fonts/Mehr_Nastaliq_Web v.2.0.woff") format("woff");
-  font-weight: normal;
-}
+@layer base {
+  @font-face {
+    font-family: "Mehr_Nastaliq_Web";
+    src: url("/fonts/Mehr_Nastaliq_Web v.2.0.woff") format("woff");
+    font-weight: normal;
+  }
 
-@font-face {
-  font-family: MehrNastaliqRegular;
-  src: url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.ttf) format("truetype"),url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.woff2) format("woff2"),url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.woff) format("woff");
-  font-display: swap
+  @font-face {
+    font-family: MehrNastaliqRegular;
+    src: url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.ttf) format("truetype"),url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.woff2) format("woff2"),url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.woff) format("woff");
+    font-display: swap
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
 }
 
 .para:has(> :last-child:nth-child(6)) {
