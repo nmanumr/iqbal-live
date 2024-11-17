@@ -19,13 +19,13 @@ export default function Poem() {
       </div>
 
       {poem && (
-        <SizeProvider>
-          <div className="flex flex-col items-center justify-center @container leading-[2.2] text-2xl font-nastaliq">
-            {Array.from(poem?.children ?? []).map((para) => (
+        <div className="flex flex-col items-center justify-center @container leading-[2.2] text-2xl font-nastaliq">
+          {Array.from(poem?.children ?? []).map((para) => (
+            <SizeProvider>
               <Stanza para={para}/>
-            ))}
-          </div>
-        </SizeProvider>
+            </SizeProvider>
+          ))}
+        </div>
       )}
     </div>
   );
@@ -58,30 +58,32 @@ function Stanza({para}: { para: Element }) {
         const id = couplet.getAttribute('ID');
 
         return (
-          <div
-            className="relative py-8 space-y-4 px-4 max-w-5xl w-full border-b border-black/10 lg:grid grid-cols-2 gap-x-10"
-            id={`cplt${id}`}
-            key={id}
-          >
-            {id && (
-              <a href={`#cplt${id}`}
-                 className="font-black font-sans text-xl text-gray-200 absolute start-0 top-14 hover:text-gray-400 transition">
-                {id}
-              </a>
-            )}
-            <div className="ps-8">
-              {originalText?.map((verse) => (
-                <div className="flex justify-center">
-                  <Verse content={verse}/>
-                </div>
-              ))}
-            </div>
+          <SizeProvider>
+            <div
+              className="relative py-2 space-y-4 px-4 max-w-5xl w-full border-b border-black/10 lg:grid grid-cols-2 gap-x-10"
+              id={`cplt${id}`}
+              key={id}
+            >
+              {id && (
+                <a href={`#cplt${id}`}
+                   className="font-black font-sans text-xl text-gray-200 absolute start-0 inset-y-0 flex items-center hover:text-gray-400 transition">
+                  {id}
+                </a>
+              )}
+              <div className="ps-8">
+                {originalText?.map((verse) => (
+                  <div className="flex justify-center">
+                    <Verse content={verse}/>
+                  </div>
+                ))}
+              </div>
 
-            <div className="lg:block space-y-4 text-center">
-              <div className="leading-[2] font-nastaliq text-lg text-center" dir="rtl">{urduText}</div>
-              <div className="font-nastaliq text-center text-sm" dir="ltr">{englishText}</div>
+              <div className="lg:block space-y-4 text-center">
+                <div className="leading-[2] font-nastaliq text-lg text-center" dir="rtl">{urduText}</div>
+                <div className="font-nastaliq text-center text-sm" dir="ltr">{englishText}</div>
+              </div>
             </div>
-          </div>
+          </SizeProvider>
         );
       })}
     </>
@@ -103,7 +105,7 @@ function Verse({content}: { content: string }) {
       ref={verseRef}
       style={{minWidth: sizeContext?.maxSize ? `${sizeContext?.maxSize}px` : undefined}}
       className={clsx(
-        "py-1 inline-block w-fit",
+        "inline-block w-fit leading-[1.8]",
         sizeContext?.maxSize && "flex justify-between"
       )}
     >
