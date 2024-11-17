@@ -2,14 +2,35 @@ import {useLoaderData} from "react-router-dom";
 import {createContext, PropsWithChildren, useContext, useEffect, useRef, useState} from "react";
 import clsx from "clsx";
 
+
 export default function Poem() {
   const poem = useLoaderData() as Element;
+  const [urTrans, setUrTrans] = useState(true);
+  const [enTrans, setEnTrans] = useState(true);
 
   return (
     <div
       className="text-center font-nastaliq leading-[2] py-10 px-4 sm:px-6 md:px-4 lg:px-12"
       dir="rtl"
     >
+      <div dir="ltr" className="flex items-center gap-x-4 max-w-fit">
+        <div>
+          <div>Translation:</div>
+        </div>
+        <div className="flex items-center gap-x-2">
+          <input className="relative -top-0.5" onChange={() => setEnTrans((v) => !v)} checked={enTrans}
+                 type="checkbox"
+                 id="show-en-translation"/>
+          <label htmlFor="show-en-translation">English</label>
+        </div>
+        <div className="flex items-center gap-x-2">
+          <input className="relative -top-0.5" onChange={() => setUrTrans((v) => !v)} checked={urTrans}
+                 type="checkbox"
+                 id="show-ur-translation"/>
+          <label htmlFor="show-ur-translation">Urdu</label>
+        </div>
+      </div>
+
       <div dir="rtl" className="text-center leading-[2] font-nastaliq mb-10">
         <div dir="rtl">
           {poem?.getAttribute("BookName")} &gt;{" "}
@@ -22,7 +43,7 @@ export default function Poem() {
         <div className="flex flex-col items-center justify-center @container leading-[2.2] text-2xl font-nastaliq">
           {Array.from(poem?.children ?? []).map((para) => (
             <SizeProvider>
-              <Stanza para={para}/>
+              <Stanza urTrans={urTrans} enTrans={enTrans} para={para}/>
             </SizeProvider>
           ))}
         </div>
@@ -36,7 +57,7 @@ const SizeContext = createContext<{
   maxSize: number | undefined
 } | null>(null)
 
-function Stanza({para}: { para: Element }) {
+function Stanza({para, urTrans, enTrans}: { para: Element, urTrans: boolean, enTrans: boolean }) {
   const stanzaTitle = para.getAttribute('Name');
 
   return (
@@ -60,17 +81,20 @@ function Stanza({para}: { para: Element }) {
         return (
           <SizeProvider>
             <div
-              className="relative py-2 space-y-4 px-4 max-w-5xl w-full border-b border-black/10 lg:grid grid-cols-2 gap-x-10"
+              className={clsx(
+                "relative py-2 px-4 max-w-6xl w-full border-b border-black/10",
+                (urTrans || enTrans) && 'lg:grid grid-cols-5 lg:gap-x-10',
+              )}
               id={`cplt${id}`}
               key={id}
             >
-              {id && (
-                <a href={`#cplt${id}`}
-                   className="font-black font-sans text-xl text-gray-200 absolute start-0 inset-y-0 flex items-center hover:text-gray-400 transition">
-                  {id}
-                </a>
-              )}
-              <div className="ps-8">
+              <div className="ps-8 relative col-span-2 flex flex-col justify-center">
+                {id && (
+                  <a href={`#cplt${id}`}
+                     className="font-black font-sans text-xl text-gray-200 absolute start-0 inset-y-0 flex items-center hover:text-gray-400 transition">
+                    {id}
+                  </a>
+                )}
                 {originalText?.map((verse) => (
                   <div className="flex justify-center">
                     <Verse content={verse}/>
@@ -78,10 +102,11 @@ function Stanza({para}: { para: Element }) {
                 ))}
               </div>
 
-              <div className="lg:block space-y-4 text-center">
-                <div className="leading-[2] font-nastaliq text-lg text-center" dir="rtl">{urduText}</div>
-                <div className="font-nastaliq text-center text-sm" dir="ltr">{englishText}</div>
-              </div>
+              {(urTrans || enTrans) && <div className="lg:flex gap-y-0.5 text-center mt-4 lg:mt-0 col-span-3 flex-col justify-center">
+                {urTrans && (
+                  <div className="leading-[2] font-nastaliq text-xl text-center" dir="rtl">{urduText}</div>)}
+                {enTrans && (<div className="font-nastaliq text-center text-sm" dir="ltr">{englishText}</div>)}
+							</div>}
             </div>
           </SizeProvider>
         );
