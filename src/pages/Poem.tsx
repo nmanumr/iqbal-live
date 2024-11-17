@@ -20,7 +20,7 @@ export default function Poem() {
 
       {poem && (
         <SizeProvider>
-          <div className="flex flex-col items-center justify-center @container leading-[2.2] text-xl font-nastaliq">
+          <div className="flex flex-col items-center justify-center @container leading-[2.2] text-2xl font-nastaliq">
             {Array.from(poem?.children ?? []).map((para) => (
               <Stanza para={para}/>
             ))}
@@ -59,16 +59,17 @@ function Stanza({para}: { para: Element }) {
 
         return (
           <div
-            className="relative py-10 space-y-4 px-4 max-w-2xl w-full border-b border-black/10"
+            className="relative py-8 space-y-4 px-4 max-w-5xl w-full border-b border-black/10 lg:grid grid-cols-2 gap-x-10"
             id={`cplt${id}`}
             key={id}
           >
             {id && (
-              <a href={`#cplt${id}`} className="font-black font-sans text-xl text-gray-200 absolute start-0 hover:text-gray-400 transition">
+              <a href={`#cplt${id}`}
+                 className="font-black font-sans text-xl text-gray-200 absolute start-0 top-14 hover:text-gray-400 transition">
                 {id}
               </a>
             )}
-            <div className="">
+            <div className="ps-8">
               {originalText?.map((verse) => (
                 <div className="flex justify-center">
                   <Verse content={verse}/>
@@ -76,8 +77,10 @@ function Stanza({para}: { para: Element }) {
               ))}
             </div>
 
-            <div className="leading-[2] font-nastaliq text-base text-start max-w-2xl" dir="rtl">{urduText}</div>
-            <div className="font-nastaliq text-start text-sm max-w-2xl" dir="ltr">{englishText}</div>
+            <div className="lg:block space-y-4 text-center">
+              <div className="leading-[2] font-nastaliq text-lg text-center" dir="rtl">{urduText}</div>
+              <div className="font-nastaliq text-center text-sm" dir="ltr">{englishText}</div>
+            </div>
           </div>
         );
       })}
