@@ -1,25 +1,24 @@
-import {useRef, useState} from "react";
-import {Link, useLoaderData} from "react-router-dom";
+import { useRef, useState } from "react";
+import { Link } from "react-router";
 
-import {ChevronLeftIcon} from '@heroicons/react/24/outline'
+import { ChevronLeftIcon } from "@heroicons/react/24/outline";
 import Fuse from "fuse.js";
 
-import IndexType from '../../public/index.json';
+export async function loader() {
+  return import ("../assets/index.json").then((m) => m.default);
+}
 
-
-export default function Home() {
-  const indexItems = useLoaderData() as typeof IndexType;
-
+export default function Home({ loaderData: indexItems }: { loaderData: Awaited<ReturnType<typeof loader>> }) {
   const fuseRef = useRef(new Fuse(flattenIndex(indexItems), {
     threshold: 0.4,
     keys: [
-      'name',
-      'nameEn',
-      'year'
+      "name",
+      "nameEn",
+      "year"
     ]
   }));
 
-  const [searchValue, setSearchValue] = useState('');
+  const [searchValue, setSearchValue] = useState("");
   const searchResults = searchValue ? fuseRef.current.search(searchValue).slice(0, 20) : [];
 
   return (
@@ -44,14 +43,14 @@ export default function Home() {
           const to = [
             searchResult.item.bookId,
             searchResult.item.sectionId,
-            searchResult.item.id,
+            searchResult.item.id
           ]
             .filter(Boolean)
-            .join('/');
+            .join("/");
 
           return (
             <Link
-              to={'/' + to}
+              to={"/" + to}
               className="py-6 px-4 block text-xl leading-[2] hover:bg-gray-50 transition"
               key={to}
             >
@@ -60,7 +59,7 @@ export default function Home() {
                   <span>{bookName}</span>
                   {sectionName && (
                     <>
-                      <ChevronLeftIcon className="size-3" strokeWidth={3}/>
+                      <ChevronLeftIcon className="size-3" strokeWidth={3} />
                       <span>{sectionName}</span>
                     </>
                   )}
@@ -84,23 +83,23 @@ export default function Home() {
         </Link>
       ))}
     </div>
-  )
+  );
 }
 
 function flattenIndex(index: any[]) {
   const books = index.map((book) => ({
-    type: 'book',
+    type: "book",
     id: book.id,
     name: book.name,
-    nameEn: book['name-en'],
-    year: book.year,
+    nameEn: book["name-en"],
+    year: book.year
   }));
 
   const sectionsWithBookName = index.flatMap((book) => book.sections.map((s: any) => ({
     ...s,
     bookId: book.id,
     bookName: book.name,
-    bookNameEn: book['name-en'],
+    bookNameEn: book["name-en"]
   })));
 
   const poemsWithSectionName = sectionsWithBookName.flatMap((section) => section.poems.map((p: any) => ({
@@ -110,42 +109,42 @@ function flattenIndex(index: any[]) {
     sectionId: section.id,
     bookId: section.bookId,
     sectionName: section.name,
-    sectionNameEn: section['name-en'],
-  })))
+    sectionNameEn: section["name-en"]
+  })));
 
   const sections = sectionsWithBookName
-    .filter((e) => !!e['name-en'])
+    .filter((e) => !!e["name-en"])
     .map((section) => ({
       id: section.id,
-      type: 'section',
+      type: "section",
       name: section.name,
-      nameEn: section['name-en'],
+      nameEn: section["name-en"],
       bookId: section.bookId,
       bookName: section.bookName,
-      bookNameEn: section.bookNameEn,
+      bookNameEn: section.bookNameEn
     }));
 
   const poems = poemsWithSectionName
-    .filter((e) => !!e['name-en'])
+    .filter((e) => !!e["name-en"])
     .map((poem) => ({
       id: poem.id,
-      type: 'poem',
+      type: "poem",
       name: poem.name,
-      nameEn: poem['name-en'],
+      nameEn: poem["name-en"],
       bookId: poem.bookId,
       bookName: poem.bookName,
       bookNameEn: poem.bookNameEn,
       sectionId: poem.sectionId,
       sectionName: poem.sectionName,
-      sectionNameEn: poem.sectionNameEn,
+      sectionNameEn: poem.sectionNameEn
     }));
 
   return [
     ...books,
     ...sections,
-    ...poems,
+    ...poems
   ] as {
-    type: 'poem' | 'book' | 'section',
+    type: "poem" | "book" | "section",
     id: string,
     name: string,
     nameEn?: string,
@@ -155,5 +154,5 @@ function flattenIndex(index: any[]) {
     sectionId?: string,
     sectionName?: string,
     sectionNameEn?: string,
-  }[]
+  }[];
 }
